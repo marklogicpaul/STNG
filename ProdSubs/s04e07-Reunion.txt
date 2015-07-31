@@ -1,0 +1,556 @@
+		1		00:00:03		695		-->		00:00:07		324		Captain's Log, stardate <stardate>44246</stardate>.3. 
+		2		00:00:07		366		-->		00:00:09		698		We're investigating radiation anomalies reported in the Gamma Arigulon system  by the Starship <i>LaSalle. </i> 
+		5		00:00:13		538		-->		00:00:16		166		Preliminary readings are inconclusive. 
+		6		00:00:16		208		-->		00:00:17		505		Mr. Data? 
+		7		00:00:17		542		-->		00:00:19		373		No changes, Commander. 
+		8		00:00:19		411		-->		00:00:22		847		I can detect no abnormalities in the star's radiant energy. 
+		9		00:00:22		881		-->		00:00:25		179		Prepare two class-1 probes. 
+		10		00:00:25		284		-->		00:00:27		809		Probes ready, Captain. 
+		11		00:00:27		853		-->		00:00:29		218		Initiate launch sequence. 
+		12		00:00:31		123		-->		00:00:34		923		Captain, Klingon attack cruiser decloaking bearing 010 mark 237. 
+		14		00:00:36		295		-->		00:00:38		525		Belay that order, Mr. Data. 
+		15		00:00:38		563		-->		00:00:40		030		Did Starfleet mention any Klingon ships in this sector? 
+		17		00:00:42		501		-->		00:00:45		061		On screen. 
+		18		00:00:45		103		-->		00:00:46		832		We are being hailed. 
+		19		00:00:46		872		-->		00:00:48		863		All stop, Mr. Crusher. 
+		20		00:00:48		907		-->		00:00:51		535		Aye, sir. All stop. 
+		21		00:00:51		576		-->		00:00:53		840		Open a channel. 
+		22		00:00:54		446		-->		00:00:57		074		Hello, Captain Picard. 
+		23		00:00:57		115		-->		00:00:59		447		Ambassador K'Ehleyr. 
+		24		00:00:59		484		-->		00:01:03		079		This is an unexpected pleasure. 
+		25		00:01:03		121		-->		00:01:05		146		It's good to see you again, Captain. 
+		26		00:01:05		190		-->		00:01:06		817		Lieutenant Worf. 
+		27		00:01:06		858		-->		00:01:09		827		How may we be of assistance, Ambassador? 
+		28		00:01:09		861		-->		00:01:12		625		There is an urgent matter we must discuss, Captain. 
+		29		00:01:12		664		-->		00:01:14		097		Permission to come aboard? 
+		30		00:01:14		132		-->		00:01:15		121		Granted. 
+		31		00:01:16		101		-->		00:01:18		968		Lieutenant, please receive our guest. 
+		32		00:01:20		972		-->		00:01:23		167		Captain. 
+		33		00:01:23		208		-->		00:01:27		338		I must request permission to send another officer. 
+		34		00:01:27		379		-->		00:01:29		347		May I know your reason? 
+		35		00:01:29		381		-->		00:01:36		014		My dishonor among Klingons may offend Ambassador K'Ehleyr. 
+		36		00:01:36		054		-->		00:01:39		182		Lieutenant, you are a member of this crew and you will not go into hiding  whenever a Klingon vessel uncloaks. 
+		39		00:01:44		229		-->		00:01:47		721		I withdraw my request, sir. 
+		40		00:01:52		771		-->		00:01:54		966		I just received coordinates, sir. 
+		41		00:01:55		006		-->		00:01:58		100		Ready to transport two from the Klingon vessel. 
+		42		00:01:58		143		-->		00:01:59		440		Two? 
+		43		00:01:59		478		-->		00:02:01		605		Yes, sir. 
+		44		00:02:01		646		-->		00:02:03		238		Energize. 
+		45		00:02:47		826		-->		00:02:52		195		Space, the final frontier. 
+		46		00:02:52		264		-->		00:02:56		098		These are the voyages of the Starship <i>Enterprise. </i> 
+		47		00:02:56		134		-->		00:02:58		102		Its continuing mission... to explore strange new worlds  to seek out new life and new civilizations  to boldly go where no one has gone before. 
+		51		00:04:23		755		-->		00:04:25		723		I hope he'll be all right. 
+		52		00:04:25		757		-->		00:04:28		282		Alexander hasn't had much contact with other children. 
+		54		00:04:44		309		-->		00:04:48		075		Not even a bite on the cheek for old time's sake? 
+		55		00:04:50		215		-->		00:04:53		548		Perhaps you are not aware of my dishonor. 
+		56		00:04:53		585		-->		00:04:56		986		I have accepted... discommendation. 
+		57		00:04:57		022		-->		00:04:57		989		I've heard. 
+		58		00:04:58		023		-->		00:04:58		990		So now what? 
+		59		00:04:59		024		-->		00:05:01		185		I have to perform some ridiculous ritual to talk to you? 
+		61		00:05:04		563		-->		00:05:07		657		You may not respect our traditions... but I do. 
+		63		00:05:10		135		-->		00:05:12		103		Sorry. 
+		64		00:05:12		137		-->		00:05:14		571		I just thought you might want to talk. 
+		65		00:05:14		606		-->		00:05:15		595		A few minutes ago you looked like someone with a question to ask. 
+		67		00:05:21		179		-->		00:05:23		909		Must I ask the question? 
+		68		00:05:26		618		-->		00:05:29		382		Yes. You must. 
+		69		00:05:35		694		-->		00:05:37		389		What should I tell Alexander? 
+		70		00:05:37		429		-->		00:05:38		760		That he has no father? 
+		71		00:05:46		071		-->		00:05:49		268		The Klingon Empire is at a critical juncture. 
+		72		00:05:49		307		-->		00:05:51		298		We may be facing civil war. 
+		73		00:05:51		343		-->		00:05:52		640		War over what? 
+		74		00:05:52		677		-->		00:05:54		338		The usual excuses... tradition, duty, honor. 
+		76		00:05:58		083		-->		00:06:00		449		The word "excuses" implies ulterior motives for a conflict. 
+		78		00:06:02		320		-->		00:06:03		753		I won't bore you with the intricacies of Klingon politics. 
+		80		00:06:06		491		-->		00:06:09		722		Basically, two factions are trying to seize power. 
+		81		00:06:09		761		-->		00:06:10		750		Do you believe there is a threat to the Federation in this struggle? 
+		83		00:06:12		731		-->		00:06:15		222		Klingon wars seldom remain confined to the Empire. 
+		84		00:06:15		266		-->		00:06:18		394		Sooner or later, they'll drag in the neighboring star systems then the Tholians, the Ferengi. 
+		86		00:06:20		038		-->		00:06:22		905		The Federation won't be able to stay out of it for long. 
+		87		00:06:22		941		-->		00:06:26		638		This has been coming for some time. 
+		88		00:06:26		678		-->		00:06:28		373		Only K'mpec, the head of the Council has been able to maintain the peace. 
+		90		00:06:30		148		-->		00:06:32		116		Now something has changed that. 
+		91		00:06:32		150		-->		00:06:33		378		Correct. 
+		92		00:06:33		418		-->		00:06:35		716		K'mpec is dying. 
+		93		00:06:35		754		-->		00:06:38		655		He is aboard the cruiser. 
+		94		00:06:38		690		-->		00:06:41		250		He has come specifically to meet with you, Captain. 
+		95		00:06:41		292		-->		00:06:43		920		Alone. 
+		96		00:06:58		007		-->		00:07:01		465		It's about time you arrived, Picard. 
+		97		00:07:01		510		-->		00:07:04		479		Sit. 
+		98		00:07:29		805		-->		00:07:31		500		I need your help. 
+		99		00:07:31		540		-->		00:07:34		407		If the <i>Enterprise</i> medical facility can do anything to help... 
+		101		00:07:35		644		-->		00:07:36		941		Too late. 
+		102		00:07:36		979		-->		00:07:40		107		For some months, I have been poisoned with small doses of Veridium Six. 
+		104		00:07:45		587		-->		00:07:47		248		The wine. 
+		105		00:07:49		792		-->		00:07:52		124		There is no cure. 
+		106		00:07:55		831		-->		00:07:57		992		What do you want of me? 
+		107		00:07:58		033		-->		00:08:02		129		After I die, you will act in my name to arbitrate the struggle for power. 
+		109		00:08:07		142		-->		00:08:09		337		I will? 
+		110		00:08:09		378		-->		00:08:12		472		No one on the Council can be trusted and... I have my reasons for wanting an outsider. 
+		112		00:08:19		288		-->		00:08:23		315		K'mpec, you cannot possibly be serious. 
+		113		00:08:23		358		-->		00:08:26		088		A Federation officer has no business... 
+		114		00:08:26		161		-->		00:08:28		095		Nonsense. 
+		115		00:08:28		163		-->		00:08:32		259		You are an accomplished mediator. 
+		116		00:08:32		301		-->		00:08:37		933		This is no different than any other dispute requiring your services. 
+		118		00:08:39		575		-->		00:08:42		635		On the contrary, I think this is very different and I must respectfully decline. 
+		120		00:08:46		648		-->		00:08:54		487		If you refuse the dying request of the Klingon Supreme Commander it will be an insult  by the Federation to all Klingons. 
+		123		00:08:59		461		-->		00:09:03		921		Besides, I've already sent the order. 
+		124		00:09:03		966		-->		00:09:07		868		The leaders of the opposing two factions are on their way. 
+		125		00:09:07		903		-->		00:09:10		997		You had no right to involve me without my permission. 
+		126		00:09:11		039		-->		00:09:16		409		If I'd asked, you would have said no. 
+		127		00:09:20		182		-->		00:09:26		417		This is not just a case of simple mediation. 
+		128		00:09:26		455		-->		00:09:30		619		You are asking me to choose the next leader of the Klingon Empire. 
+		130		00:09:32		327		-->		00:09:34		454		No. 
+		131		00:09:34		496		-->		00:09:40		401		By tradition, the two strongest challengers fight for the right of succession. 
+		133		00:09:44		306		-->		00:09:49		539		As mediator, only you can designate those challengers. 
+		134		00:09:49		578		-->		00:09:53		674		But you have just said there are only two challengers arriving. 
+		135		00:09:53		715		-->		00:09:55		512		What is the point? 
+		136		00:09:55		551		-->		00:10:03		117		I want you to discover which one of them has killed me... 
+		137		00:10:03		158		-->		00:10:07		390		Gowron or Duras. 
+		138		00:10:07		429		-->		00:10:11		422		Yes, Duras. 
+		139		00:10:11		466		-->		00:10:16		199		I thought you would find that interesting. 
+		140		00:10:17		906		-->		00:10:20		466		Interesting. 
+		141		00:10:25		447		-->		00:10:30		146		You could say that, since he tried to have me killed and conspired to strip Worf of his good name. 
+		143		00:10:33		322		-->		00:10:39		386		And... I approved. 
+		144		00:10:39		428		-->		00:10:45		833		All for the glory of the Empire. 
+		145		00:10:45		867		-->		00:10:49		428		That should be my epitaph. 
+		146		00:10:52		341		-->		00:10:56		437		Find the assassin. 
+		147		00:10:56		478		-->		00:11:01		780		A Klingon who kills without showing his face has no honor. 
+		148		00:11:01		817		-->		00:11:05		253		He must not lead the Empire. 
+		149		00:11:05		287		-->		00:11:09		781		Such a man would be capable of anything even war with the Federation. 
+		151		00:11:19		034		-->		00:11:22		231		Very well. 
+		152		00:11:22		271		-->		00:11:24		432		I accept. 
+		153		00:11:38		854		-->		00:11:40		481		Captain's Log, supplemental. 
+		154		00:11:40		522		-->		00:11:42		581		K'mpec, who ruled the Klingon Empire longer than anyone in history, is dead. 
+		156		00:11:44		960		-->		00:11:47		258		We await the arrival of Duras and Gowron rivals for the leadership of the High Council. 
+		158		00:11:51		700		-->		00:11:53		691		Put it on there. 
+		159		00:11:57		572		-->		00:11:59		267		What did you do that for? 
+		160		00:11:59		308		-->		00:12:00		275		I know. 
+		161		00:12:00		309		-->		00:12:02		072		Now, we have to start all over. 
+		162		00:12:02		110		-->		00:12:04		010		Oh, man. 
+		163		00:12:04		046		-->		00:12:06		947		There is no honor in attacking the weak. 
+		164		00:12:06		982		-->		00:12:09		314		I would have won. 
+		165		00:12:09		351		-->		00:12:12		218		No, you must earn victory. 
+		166		00:12:17		559		-->		00:12:19		959		Where are the other Klingons? 
+		167		00:12:19		995		-->		00:12:21		622		There are no others on board. 
+		168		00:12:21		663		-->		00:12:22		789		Why? 
+		169		00:12:22		831		-->		00:12:24		856		The Federation and the Klingon Empire were enemies for many years. 
+		171		00:12:26		034		-->		00:12:29		526		No other Klingons have asked to serve in Starfleet. 
+		172		00:12:29		571		-->		00:12:30		697		Why? 
+		173		00:12:30		739		-->		00:12:33		606		A warrior does not ask so many questions. 
+		174		00:12:33		642		-->		00:12:36		577		I don't want to be a warrior. 
+		175		00:12:42		918		-->		00:12:44		886		Hello. 
+		176		00:12:44		920		-->		00:12:47		445		Well, you're back early. 
+		177		00:12:47		489		-->		00:12:49		889		He made me leave. 
+		178		00:12:49		925		-->		00:12:53		725		Maybe you should go to your room and play. 
+		179		00:12:57		699		-->		00:13:00		998		Is he under arrest? 
+		180		00:13:01		036		-->		00:13:03		664		He knows nothing of our ways. 
+		181		00:13:03		705		-->		00:13:05		002		Our ways? 
+		182		00:13:05		040		-->		00:13:07		201		You mean Klingon ways, don't you? 
+		183		00:13:07		242		-->		00:13:08		971		He is Klingon! 
+		184		00:13:09		010		-->		00:13:11		638		He is also my son, and I am half human. 
+		185		00:13:11		680		-->		00:13:13		511		He will find his own ways. 
+		186		00:13:13		548		-->		00:13:15		106		Why the sudden concern? 
+		187		00:13:15		217		-->		00:13:17		913		You won't even acknowledge that he's yours. 
+		188		00:13:17		953		-->		00:13:20		513		Why did you not tell me? 
+		189		00:13:20		555		-->		00:13:22		489		And what would you have done? 
+		190		00:13:23		525		-->		00:13:25		322		That's right. 
+		191		00:13:25		360		-->		00:13:28		329		You would have insisted that we take the oath just as tradition would demand. 
+		193		00:13:30		532		-->		00:13:34		628		You should not have kept this from me. 
+		194		00:13:34		669		-->		00:13:40		107		Well... now you know. 
+		195		00:13:45		580		-->		00:13:50		279		I cannot acknowledge my relationship to the boy. 
+		196		00:13:50		318		-->		00:13:51		785		It would only harm him. 
+		197		00:13:51		820		-->		00:13:53		617		Because you were dishonored? 
+		198		00:13:53		655		-->		00:13:56		920		As my son, he would also bear my disgrace. 
+		199		00:13:56		958		-->		00:13:58		983		As would his children. 
+		200		00:13:59		027		-->		00:14:01		723		But why did you accept discommendation from the High Council? 
+		202		00:14:03		331		-->		00:14:04		855		My father was accused of collaborating with the Romulans at Khitomer. 
+		204		00:14:07		969		-->		00:14:11		496		I know, and I also know that you challenged it. 
+		205		00:14:11		540		-->		00:14:12		598		Yes, at first. 
+		206		00:14:12		641		-->		00:14:14		836		Ultimately, I withdrew my challenge. 
+		207		00:14:14		876		-->		00:14:15		934		But why, Worf? 
+		208		00:14:15		977		-->		00:14:18		411		I can't believe you'd just give up. 
+		209		00:14:18		447		-->		00:14:19		914		What really happened? 
+		210		00:14:19		948		-->		00:14:22		678		Lieutenant Worf, Ambassador K'Ehleyr report to the Bridge. 
+		212		00:14:24		219		-->		00:14:25		880		On our way, Commander. 
+		213		00:14:38		867		-->		00:14:41		495		Klingon vessels <i>Vorn</i> and <i>Buruk</i> holding stations at 13 kilometers, sir. 
+		215		00:14:44		239		-->		00:14:45		866		Open a channel, Mr. Data. 
+		216		00:14:45		907		-->		00:14:47		238		Channel is open, sir. 
+		217		00:14:47		275		-->		00:14:49		300		<i>Vorn</i> responding to hail. 
+		218		00:14:49		344		-->		00:14:51		175		On screen. 
+		219		00:14:52		180		-->		00:14:54		740		Let's get this over with, Picard. 
+		220		00:14:56		852		-->		00:14:58		649		In good time, Duras. 
+		221		00:14:58		687		-->		00:15:02		350		Even in death, K'mpec makes foolish decisions. 
+		222		00:15:02		390		-->		00:15:04		824		You should not be involved in this, human. 
+		223		00:15:04		860		-->		00:15:07		988		The <i>Sonchi</i> ceremony will take place in one hour aboard K'mpec's vessel. 
+		225		00:15:09		698		-->		00:15:11		928		One hour! What is the delay? 
+		226		00:15:11		967		-->		00:15:13		832		There is no delay. 
+		227		00:15:13		869		-->		00:15:15		996		It is the time I have chosen. 
+		228		00:15:16		037		-->		00:15:19		495		Exactly one hour, Picard. 
+		229		00:15:19		541		-->		00:15:21		509		Do not be late. 
+		230		00:15:21		543		-->		00:15:25		502		Keep that <i>pahtk</i> away from the ceremony, Picard! 
+		231		00:15:25		547		-->		00:15:28		516		He has no place on a Klingon ship. 
+		232		00:15:28		550		-->		00:15:30		279		Picard out. 
+		233		00:15:31		887		-->		00:15:33		445		Contact Gowron's ship. 
+		234		00:15:33		488		-->		00:15:35		854		Tell him to meet us aboard K'mpec's vessel. 
+		235		00:15:35		891		-->		00:15:37		950		Ambassador, meet me in Transporter Room Six in one hour. 
+		237		00:15:40		328		-->		00:15:42		421		We will begin the ceremony a little late. 
+		238		00:15:42		464		-->		00:15:43		761		Mr. Worf. 
+		239		00:15:51		708		-->		00:15:55		235		Mr. Worf, the next few days will be difficult for you. 
+		240		00:15:55		278		-->		00:15:57		075		You have made it clear that I am to perform my regular duties, sir. 
+		242		00:16:00		150		-->		00:16:01		777		I want you to know that I am aware of your discomfort. 
+		244		00:16:04		988		-->		00:16:06		717		Thank you, sir. 
+		245		00:16:06		757		-->		00:16:08		725		Ambassador K'Ehleyr will be preparing me for my role in the Rite of Succession. 
+		247		00:16:12		496		-->		00:16:14		726		Permission to speak freely, sir. 
+		248		00:16:14		765		-->		00:16:17		290		Granted. 
+		249		00:16:17		334		-->		00:16:21		600		Duras must not be allowed to lead the Council. 
+		250		00:16:21		638		-->		00:16:24		072		He has a legal claim, Mr. Worf. 
+		251		00:16:24		141		-->		00:16:26		075		Your personal feelings towards him... 
+		252		00:16:26		176		-->		00:16:29		043		It is not personal, sir. 
+		253		00:16:29		079		-->		00:16:31		547		His father betrayed my people to the Romulans. 
+		254		00:16:31		581		-->		00:16:33		208		Duras is a traitor. 
+		255		00:16:35		318		-->		00:16:37		218		Klingon tradition may hold the son responsible for his father's sin. 
+		257		00:16:39		189		-->		00:16:40		656		I cannot. 
+		258		00:16:40		690		-->		00:16:43		488		Treason was his father's crime. 
+		259		00:16:43		527		-->		00:16:45		017		Duras' crime was to lay that blame on your father. 
+		261		00:16:48		031		-->		00:16:49		862		I will not forget that. 
+		262		00:16:49		900		-->		00:16:51		891		But you should not forget that you chose to accept the consequences of that lie. 
+		264		00:16:56		306		-->		00:16:59		673		To preserve the Empire. 
+		265		00:17:01		812		-->		00:17:06		875		The issue now is whether or not he killed K'mpec. 
+		266		00:17:06		917		-->		00:17:08		782		Sir? 
+		267		00:17:08		819		-->		00:17:10		753		He was murdered. 
+		268		00:17:10		787		-->		00:17:13		483		Poisoned. 
+		269		00:17:22		165		-->		00:17:26		363		A Klingon would not use poison. 
+		270		00:17:26		403		-->		00:17:30		669		His murder would have no honor. 
+		271		00:17:30		707		-->		00:17:34		700		K'mpec believed that it was either Duras or Gowron. 
+		272		00:17:37		113		-->		00:17:40		480		Well, I know little of Gowron, only that he is an outsider who has often challenged the Council. 
+		274		00:17:42		686		-->		00:17:47		851		But Duras... I know him. 
+		275		00:17:52		195		-->		00:17:54		959		His heart is not Klingon. 
+		276		00:18:08		211		-->		00:18:10		679		That's Gowron. 
+		277		00:18:13		350		-->		00:18:15		784		I hope this will be brief. 
+		278		00:18:15		819		-->		00:18:18		549		It will be just long enough to prove that K'mpec is dead. 
+		280		00:18:35		572		-->		00:18:38		405		<i>Qab jlH nagil. </i> 
+		281		00:18:47		350		-->		00:18:49		841		<i>Qab jlH nagil. </i> 
+		282		00:19:02		465		-->		00:19:05		696		<i>Qab jlH... nagil. </i> 
+		283		00:19:17		147		-->		00:19:19		479		<i>Sonchi. </i> 
+		284		00:19:24		154		-->		00:19:27		453		Now, complete the Rite of Succession. 
+		285		00:19:27		490		-->		00:19:30		653		It's obvious who the two challengers are. 
+		286		00:19:30		694		-->		00:19:33		060		We will proceed according to the traditions and the precedents set down in Klingon law. 
+		288		00:19:36		066		-->		00:19:39		467		What do you know of Klingon law... human? 
+		290		00:19:41		504		-->		00:19:44		439		We will reconvene on board the <i>Enterprise... </i> 
+		291		00:19:44		474		-->		00:19:46		305		No! Finish it here! 
+		292		00:19:46		343		-->		00:19:47		810		Now! 
+		293		00:20:05		862		-->		00:20:09		354		I have not received your report on the explosion. 
+		294		00:20:09		399		-->		00:20:13		699		Two Klingons killed, a few minor injuries. 
+		295		00:20:13		737		-->		00:20:16		570		Were you concerned about me? 
+		296		00:20:16		606		-->		00:20:21		703		As head of security, it is my duty to be concerned. 
+		297		00:20:21		745		-->		00:20:25		613		Is that it... just official concern for my well-being? 
+		298		00:20:25		649		-->		00:20:28		743		You know my feelings. 
+		299		00:20:30		487		-->		00:20:33		422		Maybe I've forgotten. 
+		300		00:20:35		158		-->		00:20:37		456		You were right. 
+		301		00:20:37		494		-->		00:20:40		952		I would have insisted we take the oath but not just because of tradition. 
+		303		00:20:44		734		-->		00:20:48		101		I thought about telling you. 
+		304		00:20:48		138		-->		00:20:50		265		Wanted to tell you. 
+		305		00:20:50		306		-->		00:20:52		536		But I wasn't ready. 
+		306		00:20:52		575		-->		00:20:54		770		When I left, you said that you'd never be complete without me. 
+		308		00:20:59		082		-->		00:21:01		880		It took some time, but... 
+		309		00:21:01		918		-->		00:21:07		185		I came to realize that... I need you, too. 
+		310		00:21:10		627		-->		00:21:13		187		You're a part of me, Worf. 
+		311		00:21:26		309		-->		00:21:28		539		<i>jlH dok. </i> 
+		312		00:21:31		147		-->		00:21:32		774		<i>maj dok. </i> 
+		313		00:21:44		027		-->		00:21:45		324		No. 
+		314		00:21:45		361		-->		00:21:47		659		I can't allow you to suffer my humiliation. 
+		315		00:21:47		697		-->		00:21:49		130		There would be no suffering. 
+		316		00:21:49		232		-->		00:21:51		723		I don't care what other Klingons think of you. 
+		317		00:21:51		768		-->		00:21:53		531		But what of the boy? 
+		318		00:21:53		570		-->		00:21:56		664		He may want to live in the Empire someday. 
+		319		00:21:56		706		-->		00:21:58		469		He would be an outcast... another traitor from a family of traitors. 
+		321		00:22:01		678		-->		00:22:03		305		Family of traitors. 
+		322		00:22:03		346		-->		00:22:05		837		I don't believe that for a minute. 
+		323		00:22:10		019		-->		00:22:13		682		Respect my wishes in this matter. 
+		324		00:22:13		723		-->		00:22:16		715		I cannot take the oath with you. 
+		325		00:22:19		629		-->		00:22:22		120		Nor can I claim your son. 
+		326		00:22:27		137		-->		00:22:30		698		If you cannot be his father at least be his friend. 
+		328		00:22:43		153		-->		00:22:45		485		We haven't completed our analysis of the bomb debris. 
+		329		00:22:45		522		-->		00:22:47		319		Dr. Crusher is still studying the remains of the men killed in the explosion. 
+		331		00:22:48		925		-->		00:22:50		119		We need more time. 
+		332		00:22:50		160		-->		00:22:52		390		Duras and Gowron will be here in a few minutes. 
+		333		00:22:52		428		-->		00:22:54		692		I don't think you can delay this meeting again. 
+		334		00:22:54		731		-->		00:22:56		323		Is there any way of stretching out the formalities once they arrive? 
+		336		00:22:58		001		-->		00:22:59		798		In the modern Rite of Succession only a brief proclamation  that two challengers have been chosen is necessary. 
+		339		00:23:04		307		-->		00:23:05		934		You said "modern Rite." 
+		340		00:23:05		975		-->		00:23:08		603		How was the ritual performed in the past? 
+		341		00:23:08		645		-->		00:23:10		272		The old forms dictated that the challengers perform the <i>ja'chuq. </i> 
+		343		00:23:13		283		-->		00:23:14		580		It's a long, involved ceremony in which the challengers list the battles they've won  the prizes they've taken...  the idea being to prove their worthiness  to lead the Council. 
+		348		00:23:22		959		-->		00:23:24		586		Can the old form still be used? 
+		349		00:23:24		627		-->		00:23:26		094		It's up to you. 
+		350		00:23:26		129		-->		00:23:28		927		You can use whatever form you want. 
+		351		00:23:28		965		-->		00:23:31		126		Thank you. 
+		352		00:23:35		972		-->		00:23:40		033		Captain, what do you know about Worf's discommendation? 
+		353		00:23:40		076		-->		00:23:41		907		My interest is personal. 
+		354		00:23:41		945		-->		00:23:44		880		I understand that you were there that you stood by him before the Council. 
+		356		00:23:47		016		-->		00:23:48		574		I'd like to know what happened. 
+		357		00:23:48		618		-->		00:23:51		212		I'm sorry, I can't discuss it. 
+		358		00:24:03		912		-->		00:24:06		710		The Council must have a leader now! 
+		359		00:24:06		748		-->		00:24:10		479		Complete the Rite, so I can kill this <i>Ha'DIBah. </i> 
+		360		00:24:10		518		-->		00:24:15		217		You will die slowly, Duras. 
+		361		00:24:15		256		-->		00:24:18		714		You have already proved you haven't the courage to face me. 
+		362		00:24:18		760		-->		00:24:21		354		Perhaps you should plant another bomb. 
+		363		00:24:23		131		-->		00:24:23		927		<i>mev yap! </i> 
+		364		00:24:25		667		-->		00:24:28		067		Sit down. 
+		365		00:24:43		117		-->		00:24:45		608		We will begin the <i>ja'chuq. </i> 
+		366		00:24:45		653		-->		00:24:47		018		What? 
+		367		00:24:47		055		-->		00:24:50		218		This woman has been giving you bad advice, Picard. 
+		368		00:24:50		258		-->		00:24:51		885		The <i>ja'chuq</i> is obsolete. 
+		369		00:24:51		926		-->		00:24:54		622		It is my choice to respect the ancient rituals. 
+		370		00:24:54		662		-->		00:24:57		790		Each of you will have to prove your worthiness to lead the High Council. 
+		372		00:24:59		634		-->		00:25:01		192		That will take hours. 
+		373		00:25:01		236		-->		00:25:04		967		Or days, depending on your cooperation. 
+		374		00:25:17		285		-->		00:25:19		048		What is this? 
+		375		00:25:19		153		-->		00:25:20		745		A <i>bat'leth. </i> 
+		376		00:25:20		788		-->		00:25:22		688		It belonged to my father. 
+		377		00:25:22		724		-->		00:25:26		353		It has been in our family for ten generations. 
+		378		00:25:26		394		-->		00:25:28		385		Let me hold it. 
+		379		00:25:39		974		-->		00:25:40		941		No. 
+		380		00:25:40		975		-->		00:25:42		340		No, no, no. 
+		381		00:25:42		377		-->		00:25:46		245		Do not think of it as a weapon. 
+		382		00:25:46		281		-->		00:25:49		876		Make it part of your hand part of your arm. 
+		384		00:25:53		888		-->		00:25:55		947		Make it part of you. 
+		385		00:26:03		731		-->		00:26:07		462		The next meeting is in three hours. 
+		386		00:26:07		502		-->		00:26:10		198		I would speak with you alone, Ambassador. 
+		387		00:26:10		238		-->		00:26:12		468		I'm honored. 
+		388		00:26:12		507		-->		00:26:14		873		Picard is prolonging the <i>ja'chuq. </i> 
+		389		00:26:14		909		-->		00:26:16		137		Why? 
+		390		00:26:16		177		-->		00:26:19		271		He has sufficient reason to proceed carefully. 
+		391		00:26:19		314		-->		00:26:20		838		He relies on you for his knowledge of Klingon law? 
+		393		00:26:23		451		-->		00:26:24		884		Yes. 
+		394		00:26:24		919		-->		00:26:27		911		Then he values your advice. 
+		395		00:26:27		955		-->		00:26:30		947		You could quicken the pace. 
+		396		00:26:30		992		-->		00:26:32		186		Possibly. 
+		397		00:26:32		226		-->		00:26:33		989		Why should I? 
+		398		00:26:34		028		-->		00:26:36		496		Your position is... unique. 
+		399		00:26:36		531		-->		00:26:38		499		Have you never wondered about serving the Klingon Empire? 
+		401		00:26:41		369		-->		00:26:43		997		I serve in my own way. 
+		402		00:26:44		038		-->		00:26:46		973		As a Federation ambassador. 
+		403		00:26:47		008		-->		00:26:48		976		A few rewards... but little glory. 
+		405		00:26:50		945		-->		00:26:53		277		What do you want? 
+		406		00:26:55		717		-->		00:26:57		378		What do you want? 
+		407		00:26:57		418		-->		00:26:59		215		Command of a ship? 
+		408		00:26:59		253		-->		00:27:02		347		A seat on the Council? 
+		409		00:27:02		390		-->		00:27:05		587		There are many opportunities for you in the Empire. 
+		410		00:27:05		626		-->		00:27:09		221		Opportunities that will present themselves only if you come to power. 
+		412		00:27:11		599		-->		00:27:13		760		You talk like a Ferengi. 
+		413		00:27:15		570		-->		00:27:17		435		K'mpec was also stubborn. 
+		414		00:27:17		472		-->		00:27:19		440		He, too, refused to listen. 
+		415		00:27:19		474		-->		00:27:21		203		Now... he is gone. 
+		417		00:27:25		513		-->		00:27:29		244		You need not make the same mistake. 
+		418		00:27:29		283		-->		00:27:32		844		K'mpec was old and weak. 
+		419		00:27:32		887		-->		00:27:35		151		I am not. 
+		420		00:27:46		434		-->		00:27:48		595		We've completed our analysis of the bomb debris, Commander. 
+		421		00:27:48		636		-->		00:27:50		433		The explosive was a triceron derivative. 
+		422		00:27:50		471		-->		00:27:53		804		And the entire device couldn't have been more than three cubic millimeters in size. 
+		424		00:27:55		543		-->		00:27:57		511		It could have been hidden anywhere in that room. 
+		425		00:27:57		545		-->		00:27:59		513		There's one more thing. 
+		426		00:27:59		547		-->		00:28:02		516		The bomb had a molecular-decay detonator. 
+		427		00:28:02		550		-->		00:28:04		950		Only one race uses that device, sir. 
+		428		00:28:07		054		-->		00:28:08		715		The Romulans. 
+		429		00:28:12		894		-->		00:28:15		021		How could the Romulans plant a bomb on board a Klingon attack cruiser? 
+		431		00:28:17		265		-->		00:28:19		392		It would be impossible. 
+		432		00:28:19		434		-->		00:28:23		268		Not if the Romulans had help from one of the Klingons. 
+		433		00:28:23		304		-->		00:28:25		238		Klingons and Romulans working together? 
+		434		00:28:25		273		-->		00:28:27		298		They've been blood enemies for 75 years. 
+		435		00:28:27		341		-->		00:28:28		535		Perhaps Duras or Gowron wishes to improve that relationship. 
+		437		00:28:30		945		-->		00:28:33		812		A new Klingon alliance with the Romulans? 
+		438		00:28:33		848		-->		00:28:35		509		If true, it would represent a fundamental shift of power in the quadrant. 
+		440		00:28:38		453		-->		00:28:40		250		Indeed. It would put the Federation in a very difficult position. 
+		442		00:28:41		856		-->		00:28:45		451		Duras or Gowron? 
+		443		00:28:45		493		-->		00:28:46		960		Gowron came to me alone. 
+		444		00:28:46		994		-->		00:28:48		985		Wanted me to speed up the <i>ja'chuq. </i> 
+		445		00:28:49		030		-->		00:28:52		022		Offered me a seat on the Council if I'd help him. 
+		446		00:28:52		066		-->		00:28:54		398		That doesn't suggest a Romulan connection. 
+		447		00:28:54		435		-->		00:28:57		404		He also implied I'd end up like K'mpec if I didn't cooperate. 
+		449		00:28:59		040		-->		00:29:00		667		Captain, I disagree. 
+		450		00:29:00		708		-->		00:29:02		335		It must be Duras. 
+		451		00:29:02		376		-->		00:29:04		344		Why? 
+		452		00:29:04		378		-->		00:29:07		211		We have had prior dealings with Duras that show him to be untrustworthy. 
+		454		00:29:09		951		-->		00:29:12		476		Can you be more specific? 
+		455		00:29:12		520		-->		00:29:14		147		No. 
+		456		00:29:14		188		-->		00:29:16		019		Mr. Worf we have a conspiracy on our hands  that could be a direct threat to the security  of the Federation. 
+		460		00:29:21		696		-->		00:29:22		993		Yes, sir. 
+		461		00:29:23		030		-->		00:29:24		122		As Chief Security Officer 
+		462		00:29:24		165		-->		00:29:26		429		I want you to accompany me to the next proceeding. 
+		463		00:29:28		102		-->		00:29:30		900		Captain, they will be incensed. 
+		464		00:29:30		938		-->		00:29:33		736		My presence will be disruptive. 
+		465		00:29:33		774		-->		00:29:38		677		Yes. It will. 
+		466		00:29:42		016		-->		00:29:46		043		Computer, list stardates of the last <i>Enterprise</i> mission to the Klingon home planet. 
+		468		00:29:48		122		-->		00:29:52		058		Stardates 43685 through 43689. 
+		469		00:29:52		093		-->		00:29:53		993		How many ship's logs during that period? 
+		470		00:29:54		028		-->		00:29:59		056		43 officer's logs, ten personal logs. 
+		471		00:29:59		100		-->		00:30:02		194		Is there a personal log for Lieutenant Worf? 
+		472		00:30:02		236		-->		00:30:03		533		Affirmative. 
+		473		00:30:03		571		-->		00:30:04		902		Access is restricted. 
+		474		00:30:06		107		-->		00:30:08		007		Eliminate all personal logs. 
+		475		00:30:08		042		-->		00:30:11		068		List the remaining 43 in chronological order. 
+		476		00:30:11		145		-->		00:30:13		511		We'll just take them one at a time. 
+		477		00:30:19		220		-->		00:30:22		781		<i>jlH DoQ... </i> 
+		478		00:30:25		126		-->		00:30:27		117		<i>batlh! </i> 
+		479		00:30:33		401		-->		00:30:34		868		Both your claims have been properly made and recorded. 
+		481		00:30:37		572		-->		00:30:41		099		We are ready for the final phase of the <i>ja'chuq. </i> 
+		482		00:30:41		208		-->		00:30:45		474		There will be a recess while I review your petitions. 
+		483		00:30:49		917		-->		00:30:51		942		I'm sure you're as concerned as I am about the explosion aboard K'mpec's vessel. 
+		485		00:30:54		488		-->		00:30:57		855		I assume that you are both continuing your investigations. 
+		486		00:30:57		892		-->		00:31:00		224		The investigations are complete. 
+		487		00:31:00		261		-->		00:31:03		162		They revealed nothing of any importance. 
+		488		00:31:03		197		-->		00:31:07		065		Now, that's very surprising. 
+		489		00:31:07		101		-->		00:31:10		366		Our analysis turned up some... startling results. 
+		491		00:31:16		544		-->		00:31:19		012		Will you join us, Lieutenant? 
+		492		00:31:20		448		-->		00:31:21		415		What is this! 
+		493		00:31:21		449		-->		00:31:23		349		He has no place here, Picard! 
+		494		00:31:23		384		-->		00:31:25		249		I will not sit at the same table with that. 
+		495		00:31:25		286		-->		00:31:27		880		It is my prerogative to investigate anything that may be relevant to the Rite of Succession. 
+		497		00:31:30		791		-->		00:31:33		282		Lieutenant Worf is my Chief Security Officer. 
+		498		00:31:33		327		-->		00:31:34		521		His presence is required. 
+		499		00:31:34		562		-->		00:31:36		189		We will not proceed. 
+		500		00:31:36		230		-->		00:31:39		722		If you wish to withdraw from the <i>ja'chuq... </i> that is your option. 
+		502		00:31:46		340		-->		00:31:48		103		Proceed, Mr. Worf. 
+		503		00:31:48		175		-->		00:31:53		772		What did your investigations reveal about the explosion? 
+		504		00:31:56		083		-->		00:31:58		108		It was a bomb. 
+		505		00:31:58		152		-->		00:32:01		610		And was your analysis just as... insightful? 
+		507		00:32:03		457		-->		00:32:06		517		It was a common explosive. 
+		508		00:32:06		560		-->		00:32:07		822		What type? 
+		509		00:32:07		862		-->		00:32:09		295		Triceron. 
+		510		00:32:09		330		-->		00:32:10		490		What about the detonator? 
+		511		00:32:10		531		-->		00:32:11		725		This is pointless! 
+		512		00:32:11		766		-->		00:32:13		529		The findings were inconclusive. 
+		513		00:32:16		203		-->		00:32:20		833		Fortunately, our investigation was more thorough. 
+		514		00:32:20		875		-->		00:32:24		038		The bomb used a molecular-decay detonator. 
+		515		00:32:24		078		-->		00:32:25		170		What? 
+		516		00:32:25		212		-->		00:32:27		612		A Romulan device. 
+		517		00:32:29		784		-->		00:32:34		084		I will return to my ship to confirm these... conclusions myself. 
+		519		00:32:36		090		-->		00:32:38		558		As will I. 
+		520		00:32:38		592		-->		00:32:40		082		Mr. Worf please be sure to send a complete record of our findings  to both vessels and to the High Council. 
+		523		00:32:46		434		-->		00:32:48		800		Aye, sir. 
+		524		00:32:48		836		-->		00:32:51		399		That will be all. 
+		525		00:32:51		532		-->		00:32:52		658		Computer, interlock with the Klingon lmperial information net. 
+		527		00:32:55		670		-->		00:32:56		967		Interlock established. 
+		528		00:32:57		004		-->		00:32:58		904		Federation Ambassador K'Ehleyr requesting diplomatic access to High Council record. 
+		530		00:33:02		210		-->		00:33:03		871		Security code <i>pah doQ cha. </i> 
+		531		00:33:03		911		-->		00:33:05		606		Proceed. 
+		532		00:33:05		646		-->		00:33:09		207		Computer, display summary of the most recent High Council inquiry regarding Khitomer massacre. 
+		534		00:33:11		118		-->		00:33:12		585		Access denied. 
+		535		00:33:12		620		-->		00:33:16		249		Restricted materials, <i>du-ko-cha</i> clearance only. 
+		536		00:33:16		290		-->		00:33:17		985		By whose order? 
+		537		00:33:18		025		-->		00:33:20		653		Council Member Duras. 
+		538		00:33:20		695		-->		00:33:22		663		Access biographical files. 
+		539		00:33:22		697		-->		00:33:25		894		Subject name: Councilor Duras. 
+		540		00:33:31		706		-->		00:33:35		005		Advise my counselors on the <i>Vorn</i> to convene. 
+		541		00:33:35		042		-->		00:33:37		374		There is much to discuss. 
+		542		00:33:37		411		-->		00:33:38		708		Look. 
+		543		00:33:38		746		-->		00:33:40		008		What is this? 
+		544		00:33:40		047		-->		00:33:42		447		Priority message to you from the home planet. 
+		545		00:33:42		483		-->		00:33:44		542		It seems Ambassador K'Ehleyr is looking into things she should not be. 
+		547		00:33:49		924		-->		00:33:51		949		Distract the guard for me. 
+		548		00:33:51		993		-->		00:33:53		654		Yes, sir. 
+		549		00:33:56		030		-->		00:33:57		657		Sir... Excuse me, sir. 
+		550		00:33:57		698		-->		00:34:00		189		You cannot leave your quarters without an escort. 
+		551		00:34:02		236		-->		00:34:03		965		Come. 
+		552		00:34:04		005		-->		00:34:06		599		I have been informed of your attempt to access restricted Council records. 
+		554		00:34:09		410		-->		00:34:12		038		I have been investigating what happened at Khitomer. 
+		555		00:34:12		113		-->		00:34:13		637		Not at all an easy task considering that most of the records are sealed. 
+		557		00:34:16		984		-->		00:34:18		815		Worf's father was a traitor. 
+		558		00:34:18		853		-->		00:34:22		516		No, the evidence was altered to make it appear that way. 
+		559		00:34:22		557		-->		00:34:24		491		I found it interesting to read that your father was also at Khitomer, and you are the one  who sealed the records. 
+		562		00:34:30		364		-->		00:34:32		889		You dare insult my father's name? 
+		563		00:34:32		934		-->		00:34:35		266		Don't play the wounded Klingon for me, Duras. 
+		564		00:34:35		303		-->		00:34:36		702		You don't do it very well. 
+		565		00:34:38		205		-->		00:34:40		765		What happened in that Council chamber? 
+		566		00:34:40		808		-->		00:34:44		005		How did you get Worf to take the blame for you? 
+		567		00:34:44		045		-->		00:34:46		775		Do not pursue this matter further. 
+		568		00:34:46		814		-->		00:34:49		282		The son betrays his people to the Romulans just as his father did... 
+		570		00:34:51		919		-->		00:34:53		580		Duras. 
+		571		00:34:59		694		-->		00:35:02		390		One of the Klingons who died in the explosion was with Duras, the other was with Gowron. 
+		573		00:35:05		032		-->		00:35:06		795		I've been examining the bodies trying to get a clue as to where the bomb was hidden. 
+		575		00:35:10		104		-->		00:35:11		594		There's always a pattern in the lacerations and tissue damage. 
+		577		00:35:13		908		-->		00:35:16		775		It would normally give a clear indication as to the direction distance, force of impact. 
+		579		00:35:18		112		-->		00:35:20		046		"Normally"? 
+		580		00:35:20		147		-->		00:35:21		546		In this case, the pattern was virtually impossible to detect. 
+		582		00:35:23		551		-->		00:35:27		009		I couldn't understand it until I looked at the dynoscans. 
+		583		00:35:27		054		-->		00:35:30		046		This wound is different from all of the others. 
+		584		00:35:30		124		-->		00:35:33		560		It was made from the inside out. 
+		585		00:35:33		594		-->		00:35:36		825		The bomb was implanted in one of their forearms. 
+		586		00:35:36		864		-->		00:35:40		925		It's considered a honorable way for a Klingon to die. 
+		587		00:35:40		968		-->		00:35:43		869		A suicide that takes an enemy with it. 
+		588		00:35:43		904		-->		00:35:46		065		Which one of them was it? 
+		589		00:35:46		107		-->		00:35:48		337		Duras' man. 
+		590		00:35:50		111		-->		00:35:51		476		When we have more time 
+		591		00:35:51		512		-->		00:35:55		448		I will take you to the holodeck and demonstrate in more detail. 
+		592		00:35:58		252		-->		00:35:59		879		Medical emergency! 
+		593		00:35:59		920		-->		00:36:02		252		Deck eight, room 142. 
+		594		00:36:11		232		-->		00:36:12		722		Gowron? 
+		595		00:36:13		734		-->		00:36:15		895		No. 
+		596		00:36:17		905		-->		00:36:19		395		Duras. 
+		597		00:36:20		408		-->		00:36:22		273		Alexander... 
+		598		00:36:41		529		-->		00:36:43		394		K'Ehleyr. 
+		599		00:36:43		431		-->		00:36:44		796		K'Ehleyr! 
+		600		00:37:22		737		-->		00:37:25		228		You have never seen death. 
+		601		00:37:28		075		-->		00:37:30		407		Then look. 
+		602		00:37:33		114		-->		00:37:35		275		And always remember. 
+		603		00:37:44		558		-->		00:37:46		992		Stay with the Doctor. 
+		604		00:37:47		027		-->		00:37:49		018		Worf, when did you...? 
+		605		00:38:17		958		-->		00:38:20		358		Multiple stab wounds to the chest and abdomen. 
+		606		00:38:20		394		-->		00:38:22		385		Too much trauma to the internal organs. 
+		607		00:38:22		429		-->		00:38:25		023		There wasn't time enough to take her into stasis. 
+		608		00:38:25		065		-->		00:38:26		896		Where's Worf? 
+		609		00:38:26		934		-->		00:38:27		901		I don't know. 
+		610		00:38:27		935		-->		00:38:29		368		He disappeared just after I arrived. 
+		611		00:38:29		403		-->		00:38:33		032		Riker to Lieutenant Worf. 
+		612		00:38:33		107		-->		00:38:36		235		Computer, locate Lieutenant Worf. 
+		613		00:38:36		277		-->		00:38:39		246		Lieutenant Worf is not aboard the <i>Enterprise. </i> 
+		614		00:38:39		280		-->		00:38:40		907		Where is he? 
+		615		00:38:40		948		-->		00:38:43		178		Lieutenant Worf transported to the Klingon ship <i>Vorn</i> at 1730 hours. 
+		617		00:38:46		554		-->		00:38:48		215		On my way. 
+		618		00:38:57		031		-->		00:38:59		226		Duras. 
+		619		00:39:04		505		-->		00:39:06		735		What is that doing here? 
+		620		00:39:06		774		-->		00:39:10		437		He has claimed the right of vengeance. 
+		621		00:39:10		477		-->		00:39:13		241		You have no rights here, traitor! 
+		622		00:39:23		457		-->		00:39:28		554		K'Ehleyr... was my mate. 
+		623		00:39:41		308		-->		00:39:43		572		If Lieutenant Worf resists, sir? 
+		624		00:39:43		611		-->		00:39:45		943		He's coming back with us, one way or another. 
+		625		00:39:45		980		-->		00:39:47		470		Set phasers on maximum stun. 
+		626		00:40:04		265		-->		00:40:05		630		I'm the only one, Worf. 
+		627		00:40:05		666		-->		00:40:08		066		The only one who can prove your innocence. 
+		628		00:40:08		168		-->		00:40:10		762		Kill me and you're a traitor forever. 
+		629		00:40:10		804		-->		00:40:12		795		Then that is how it shall be. 
+		630		00:40:21		015		-->		00:40:22		482		Worf! 
+		631		00:40:49		218		-->		00:40:53		177		Mr. Worf, your service aboard the <i>Enterprise</i> has been exemplary...  until now. 
+		634		00:40:59		128		-->		00:41:02		529		Sir, I have acted within the boundaries of Klingon law and tradition. 
+		636		00:41:04		867		-->		00:41:07		859		The High Council would seem to agree. 
+		637		00:41:07		903		-->		00:41:10		201		They consider the matter closed. 
+		638		00:41:10		239		-->		00:41:11		638		I don't. 
+		639		00:41:11		674		-->		00:41:14		905		Mr. Worf, the <i>Enterprise</i> crew currently includes representatives from 13 planets. 
+		641		00:41:19		848		-->		00:41:22		214		They each have their individual beliefs and values and I respect them all  but they have all chosen to serve Starfleet. 
+		644		00:41:30		893		-->		00:41:34		886		If anyone cannot perform his or her duty because of the demands of their society  they should resign. 
+		647		00:41:48		244		-->		00:41:50		212		Do you wish to resign? 
+		648		00:41:54		216		-->		00:41:55		877		No, sir. 
+		649		00:41:58		887		-->		00:42:02		345		I had hoped you would not throw away a promising career. 
+		651		00:42:07		863		-->		00:42:11		196		I understand your loss. 
+		652		00:42:11		233		-->		00:42:13		724		We all admired K'Ehleyr. 
+		653		00:42:17		239		-->		00:42:20		538		A reprimand will appear on your record. 
+		654		00:42:20		576		-->		00:42:22		066		Dismissed. 
+		655		00:42:23		345		-->		00:42:24		676		Mr. Worf? 
+		656		00:42:27		850		-->		00:42:29		943		Isn't it time for the truth about your father's innocence to be told? 
+		658		00:42:33		222		-->		00:42:36		191		After all, you only accepted this dishonor to protect the name of Duras and hold the Empire together. 
+		660		00:42:40		596		-->		00:42:42		826		Now that he has died in disgrace what is gained by further silence? 
+		662		00:42:45		334		-->		00:42:48		167		Each member of the Klingon High Council has shared in that lie. 
+		664		00:42:50		372		-->		00:42:54		604		They will not be so willing to admit their own dishonor. 
+		665		00:42:54		643		-->		00:42:57		510		But... the day will come when my brother and I will...  convince them to speak the truth. 
+		668		00:43:23		238		-->		00:43:24		705		My parents... my human parents will meet us at Starbase 73. 
+		670		00:43:30		312		-->		00:43:32		712		They will care for you. 
+		671		00:43:32		748		-->		00:43:35		774		Why can't I stay with you? 
+		672		00:43:37		886		-->		00:43:40		787		You deserve a home. 
+		673		00:43:40		823		-->		00:43:43		257		A family. 
+		674		00:43:43		292		-->		00:43:45		453		They can provide that. 
+		675		00:43:45		494		-->		00:43:47		485		I cannot. 
+		676		00:43:58		273		-->		00:44:00		935		I miss her, too. 
+		677		00:44:00		976		-->		00:44:04		912		Are you my father? 
+		678		00:44:09		218		-->		00:44:11		049		Yes. 
+		679		00:44:13		222		-->		00:44:16		123		I am your father. 

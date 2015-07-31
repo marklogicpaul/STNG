@@ -1,0 +1,500 @@
+		1		00:00:03		003		-->		00:00:07		633		Captain's log, stardate <stardate>42625</stardate>.4. 
+		2		00:00:07		799		-->		00:00:10		677		We are entering orbit around the eighth planet in this previously unmapped Theta 116 solar system. 
+		4		00:00:14		348		-->		00:00:17		935		We diverted from our course when a passing Klingon cruiser reported discovering pieces of a strange vessel  in the upper atmosphere of this planet. 
+		7		00:00:23		941		-->		00:00:26		068		We have come to investigate. 
+		8		00:00:26		235		-->		00:00:30		989		Nasty. Nitrogen, methane, liquid neon. 
+		9		00:00:31		156		-->		00:00:34		952		Surface temperature, minus 291 degrees Celsius. 
+		10		00:00:35		118		-->		00:00:38		664		Winds up to 312 meters per second. 
+		11		00:00:39		498		-->		00:00:41		708		Not exactly a vacation planet. 
+		12		00:00:42		417		-->		00:00:44		419		Unless you like ammonia tornadoes. 
+		13		00:00:45		420		-->		00:00:49		341		But I have found indications of debris in an elliptical orbit. 
+		14		00:00:49		508		-->		00:00:52		761		Keep me informed. The sooner we know what the Klingons saw, the sooner we can get out of here. 
+		16		00:00:55		013		-->		00:00:56		723		Sounds good to me. 
+		17		00:01:00		894		-->		00:01:02		271		Nasty! 
+		18		00:01:03		689		-->		00:01:05		065		Come. 
+		19		00:01:09		736		-->		00:01:12		990		Fermat's last theorem. You're familiar with it? 
+		20		00:01:13		156		-->		00:01:17		786		Vaguely. I spent too many math classes daydreaming about starships. 
+		21		00:01:18		912		-->		00:01:21		957		When Pierre de Fermat died, they found this equation scrawled in the margin of his notes. 
+		23		00:01:24		376		-->		00:01:27		087		X to the nth plus Y to the nth equals Z to the nth, where n is greater than two, which had no solution in whole numbers. 
+		25		00:01:31		508		-->		00:01:36		346		But... he also added this phrase. "Remarkable proof." 
+		26		00:01:36		513		-->		00:01:39		933		It's coming back to me. There was no proof included. 
+		27		00:01:40		100		-->		00:01:43		437		For 800 years, people have been trying to solve it. 
+		28		00:01:43		604		-->		00:01:46		190		- Including you. - I find it stimulating. 
+		29		00:01:46		857		-->		00:01:49		193		Also, it puts things in perspective. 
+		30		00:01:49		359		-->		00:01:52		404		In our arrogance, we feel we are so advanced, and yet we cannot unravel a simple knot  tied by a part-time French mathematician,  working alone, without a computer. 
+		34		00:02:03		207		-->		00:02:06		084		Captain, we've found some debris in a loose orbit. 
+		35		00:02:06		251		-->		00:02:07		836		- Can you identify it? - No. 
+		36		00:02:08		003		-->		00:02:10		672		We could beam a section aboard for analysis. 
+		37		00:02:10		839		-->		00:02:12		424		Make it so, Number One. 
+		38		00:02:22		935		-->		00:02:25		354		We've locked onto something with markings. 
+		39		00:02:25		521		-->		00:02:27		856		- Of what sort? - Uncertain. Energize. 
+		40		00:02:53		507		-->		00:02:55		968		We've got ourselves a puzzle, Number One. 
+		41		00:02:56		134		-->		00:02:58		095		Sir, I guess we have. 
+		42		00:03:25		664		-->		00:03:28		542		Space, the final frontier. 
+		43		00:03:30		127		-->		00:03:33		547		These are the voyages of the Starship Enterprise. 
+		44		00:03:33		714		-->		00:03:38		427		Its continuing mission, to explore strange new worlds,... 
+		45		00:03:39		845		-->		00:03:43		056		..to seek out new life and new civilizations,... 
+		46		00:03:44		391		-->		00:03:48		020		..to boldly go where no one has gone before. 
+		47		00:04:49		164		-->		00:04:53		335		Analysis shows that the object was terrestrial in origin, dated mid-21st century. 
+		49		00:04:55		462		-->		00:04:59		883		No, no Earth ship of that time could have travelled out this far. 
+		50		00:05:00		050		-->		00:05:02		135		That is what our tests indicate, and the markings are consistent with this hypothesis. 
+		52		00:05:05		973		-->		00:05:08		475		Any indication of what destroyed it, Data? 
+		53		00:05:09		226		-->		00:05:12		312		That is more significant than the object itself. 
+		54		00:05:12		479		-->		00:05:15		816		On several surfaces, the molecules have disintegrated. 
+		55		00:05:16		525		-->		00:05:17		818		Disintegrated? How? 
+		56		00:05:18		610		-->		00:05:21		572		Almost as if they were hit by a weapon from our time. 
+		57		00:05:22		489		-->		00:05:24		283		Curiouser and curiouser. 
+		58		00:05:24		992		-->		00:05:28		662		Captain, we've detected a large structure on the planet. 
+		59		00:05:32		791		-->		00:05:36		920		It's a building of some sort, stood on a plane of frozen methane, smack in the middle of a storm belt. 
+		61		00:05:40		424		-->		00:05:43		468		Incredible. It's surrounded by breathable air. 
+		62		00:05:43		635		-->		00:05:47		014		Is there any connection with that ship fragment we found? 
+		63		00:05:47		181		-->		00:05:50		684		- Unknown, sir. - Suggestions? 
+		64		00:05:50		851		-->		00:05:53		395		Just one. We could go down and have a look. 
+		65		00:05:53		562		-->		00:05:56		940		Breathable air. No life forms that might be dangerous. 
+		66		00:05:57		107		-->		00:06:00		527		I think we could risk a minimal away team, Number One. 
+		67		00:06:02		738		-->		00:06:06		617		Give me a moment, gents. This is an extremely narrow access point. 
+		68		00:06:08		911		-->		00:06:10		787		Phasers on stun. 
+		69		00:06:12		789		-->		00:06:14		166		Ready when you are. 
+		70		00:06:14		917		-->		00:06:18		420		We've got it. You have a green light, Commander. 
+		71		00:06:18		587		-->		00:06:19		546		Energize. 
+		72		00:06:37		564		-->		00:06:40		609		Those ammonia storms are less than a kilometer away, yet they do not penetrate this breathable zone. 
+		74		00:06:43		654		-->		00:06:47		908		- It's like the eye of a hurricane. - Commander, what is that? 
+		75		00:06:57		459		-->		00:06:58		961		A door. 
+		76		00:07:01		755		-->		00:07:05		634		The structure must be here, yet... we cannot see it. 
+		77		00:07:08		512		-->		00:07:11		223		Enterprise, this is Cmdr Riker. 
+		78		00:07:11		390		-->		00:07:14		476		As your read-out shows, this is an unusual place. 
+		79		00:07:14		643		-->		00:07:18		146		Completely calm, no sound, no movement, yet a few hundred meters away, a storm is raging. 
+		81		00:07:21		650		-->		00:07:23		902		Any information about the structure? 
+		82		00:07:24		069		-->		00:07:27		573		There is an antique revolving door. Could be an entrance. 
+		83		00:07:28		657		-->		00:07:33		161		A revolving door? Number One, proceed with caution. 
+		84		00:07:33		328		-->		00:07:34		204		Yes, sir. 
+		85		00:07:36		248		-->		00:07:40		460		Well, this is what we came here for. Captain, we're entering. 
+		86		00:08:20		876		-->		00:08:23		545		Enterprise to away team, come in. 
+		87		00:08:23		712		-->		00:08:26		757		We're receiving no signal at all from them, sir. 
+		88		00:08:28		091		-->		00:08:30		802		Transporter room, lock on to them. Beam them up. 
+		89		00:08:32		054		-->		00:08:34		056		We've nothing to lock on to, sir. 
+		90		00:08:35		265		-->		00:08:38		560		Riker to Enterprise, we've entered the structure. 
+		91		00:08:40		270		-->		00:08:42		356		Riker to Enterprise, come in. 
+		92		00:08:44		441		-->		00:08:45		943		Come in, Enterprise. 
+		93		00:08:47		569		-->		00:08:51		156		When they went through that door the signal disappeared, sir. 
+		94		00:08:53		408		-->		00:08:55		827		What's causing the interference? 
+		95		00:08:56		036		-->		00:08:58		830		- Unknown. - Are they receiving us? 
+		96		00:08:59		998		-->		00:09:04		419		No. We'll have to recalibrate all the frequencies to find one that works. 
+		97		00:09:04		586		-->		00:09:06		088		Then do it. 
+		98		00:09:12		386		-->		00:09:16		932		Sir, without communication we should beam up immediately. 
+		99		00:09:17		099		-->		00:09:20		769		We're here, there's no danger. We'll look around, then leave. 
+		100		00:09:20		936		-->		00:09:23		897		Checking in, gentlemen? Use the front desk. 
+		101		00:09:24		606		-->		00:09:26		817		Very good. We'll start with that. 
+		102		00:09:42		958		-->		00:09:44		543		Welcome, gentlemen. 
+		103		00:09:46		086		-->		00:09:47		921		Have a nice trip? 
+		104		00:09:51		383		-->		00:09:54		970		- Do you know us? - We've been expecting you. 
+		105		00:09:55		137		-->		00:09:57		973		A trio of foreign gentlemen. 
+		106		00:09:58		140		-->		00:10:00		726		We're from the United Federation of Planets. 
+		107		00:10:01		393		-->		00:10:05		105		Of course you are. Welcome to the Hotel Royale. 
+		108		00:10:08		817		-->		00:10:11		570		Excuse me. Did Rita call? 
+		109		00:10:11		737		-->		00:10:14		156		- I'm busy. - You're busy? 
+		110		00:10:14		323		-->		00:10:18		118		This is my life I'm talking about. Now did Rita call or not? 
+		111		00:10:20		078		-->		00:10:24		416		No. And for your own good you'd better quit thinking about Rita. 
+		112		00:10:24		583		-->		00:10:26		460		I'm not afraid of Mickey D. 
+		113		00:10:26		627		-->		00:10:30		756		Then you're a fool. Anybody with any sense is afraid of Mickey D. 
+		114		00:10:30		923		-->		00:10:33		217		If Rita calls, you let me know. 
+		115		00:10:43		018		-->		00:10:46		480		Kid's asking for trouble. Rita's too much for him to handle and Mickey D will plant his face in the pavement. 
+		117		00:10:51		151		-->		00:10:53		946		Now, here are your room keys. 
+		118		00:11:00		410		-->		00:11:03		247		And some complimentary casino chips. 
+		119		00:11:11		588		-->		00:11:13		465		Enjoy. 
+		120		00:11:16		051		-->		00:11:17		386		What is this place? 
+		121		00:11:18		053		-->		00:11:20		180		How did a being like you get here? 
+		122		00:11:20		347		-->		00:11:22		349		Why, this is the Royale, of course. 
+		123		00:11:22		516		-->		00:11:25		853		And my personal life is none of your business, thank you. 
+		124		00:11:26		019		-->		00:11:29		815		- He means what planet is this? - I beg your pardon? 
+		125		00:11:30		315		-->		00:11:32		150		This planet, what do you call it? 
+		126		00:11:33		068		-->		00:11:36		113		Earth. What do you call it? 
+		127		00:11:36		280		-->		00:11:38		323		We call it Theta VIII. 
+		128		00:11:39		533		-->		00:11:41		118		How charming. 
+		129		00:12:05		392		-->		00:12:07		394		- Commander. - Yes, Data? 
+		130		00:12:09		771		-->		00:12:12		482		None of these people are emitting life signs. 
+		131		00:12:12		649		-->		00:12:14		693		You mean they're not alive? 
+		132		00:12:16		320		-->		00:12:18		071		Then what are they? 
+		133		00:12:30		417		-->		00:12:33		253		These beings, ... are they machines? 
+		134		00:12:33		962		-->		00:12:36		632		Or mere illusions designed to deceive us? 
+		135		00:12:36		757		-->		00:12:39		927		Not illusion, Lieutenant. They do exist. 
+		136		00:12:40		093		-->		00:12:43		055		But they do not register as either man or machine. 
+		137		00:12:44		890		-->		00:12:47		017		Take this creature, for example. 
+		138		00:12:47		809		-->		00:12:50		562		He does not exhibit any DNA structure. 
+		139		00:12:51		563		-->		00:12:53		273		Excuse me, son. 
+		140		00:12:53		440		-->		00:12:55		275		Look who's talking. 
+		141		00:12:55		442		-->		00:12:57		861		Man, you sound just like my ex-wife. 
+		142		00:12:59		821		-->		00:13:03		075		Alright... Time to get down to business. 
+		143		00:13:05		244		-->		00:13:08		705		What sort of business do you suppose he is getting down to? 
+		144		00:13:19		842		-->		00:13:21		134		Status report. 
+		145		00:13:21		301		-->		00:13:24		263		We're trying alternate encoding schemes. 
+		146		00:13:24		429		-->		00:13:27		266		There could be hundreds of combinations. 
+		147		00:13:29		226		-->		00:13:32		479		Is there an intelligence causing this interference? 
+		148		00:13:34		106		-->		00:13:36		441		That's impossible to tell, Captain. 
+		149		00:13:48		704		-->		00:13:52		082		It's unlike Cmdr Riker not to follow procedure. 
+		150		00:13:53		625		-->		00:13:55		335		When he lost contact with us, he should have returned to the beam-down coordinates. 
+		152		00:13:58		922		-->		00:14:01		258		I don't feel he's in any danger. 
+		153		00:14:01		842		-->		00:14:05		220		In fact, if I could choose one word to assess his mood, it would be "amused". 
+		155		00:14:09		266		-->		00:14:10		642		Amused? 
+		156		00:14:17		065		-->		00:14:20		027		Put some chips there, mister. Yes, sirree! 
+		157		00:14:22		404		-->		00:14:24		823		- You're new here, aren't you? - Yes, sir. 
+		158		00:14:24		990		-->		00:14:28		368		Sit down. I'm gonna teach you how this game is played, boy. 
+		159		00:14:30		954		-->		00:14:32		331		Go ahead. Ante up. 
+		160		00:14:37		002		-->		00:14:39		004		He wants you to cut the cards. 
+		161		00:14:39		505		-->		00:14:41		715		- Is this poker? - No, blackjack. 
+		162		00:14:43		258		-->		00:14:45		469		Blackjack? Accessing. 
+		163		00:14:48		680		-->		00:14:52		518		Also known as 21, the number which defines the object of the game. 
+		164		00:14:53		143		-->		00:14:56		271		Picture cards are worth ten, aces one or eleven, all other cards face value. 
+		166		00:14:59		066		-->		00:15:00		526		Boy, you're right. 
+		167		00:15:07		199		-->		00:15:08		492		Pretty smooth. 
+		168		00:15:09		535		-->		00:15:12		621		Run 'em, boy. Make 'em nice. 
+		169		00:15:18		585		-->		00:15:21		547		- 21, 21 ... - Don't look at your hand, honey. 
+		170		00:15:21		713		-->		00:15:23		882		That gal has got to win. 
+		171		00:15:25		092		-->		00:15:29		221		Now honey, you got 15 and the dealer's showing ten. 
+		172		00:15:30		180		-->		00:15:32		391		Do I hit, Texas, or do I stand? 
+		173		00:15:32		558		-->		00:15:35		227		If you've gotta win, you've gotta hit. 
+		174		00:15:36		645		-->		00:15:37		396		Hit me. 
+		175		00:15:40		607		-->		00:15:41		441		Damn. 
+		176		00:15:41		608		-->		00:15:44		152		Shoot... Hit me. 
+		177		00:15:46		655		-->		00:15:50		033		21 . And a winner. Yes, sirree! 
+		178		00:15:50		826		-->		00:15:52		202		Hit me. 
+		179		00:15:53		537		-->		00:15:56		206		- Another. - Do you think you've had enough? 
+		180		00:15:57		207		-->		00:16:01		587		If the objective of the game is to approach a total of 21 points, 
+		181		00:16:01		753		-->		00:16:04		756		- I definitely need another card. - Yeah. 
+		182		00:16:04		923		-->		00:16:06		592		You have got the brass! 
+		183		00:16:06		758		-->		00:16:09		511		Do you know the odds on a five-card charlie? 
+		184		00:16:09		678		-->		00:16:12		431		Hell, you're just throwing your money away. 
+		185		00:16:13		557		-->		00:16:14		766		Hit me. 
+		186		00:16:16		894		-->		00:16:18		562		How'd you...? 
+		187		00:16:19		688		-->		00:16:20		898		Shut my mouth! 
+		188		00:16:23		859		-->		00:16:26		195		Are you one of them card-counting fellas? 
+		189		00:16:27		321		-->		00:16:29		698		The number of the cards and their values remain constant. Where is the purpose in counting them? 
+		191		00:16:34		828		-->		00:16:36		747		- Yeah. - Having fun, Data? 
+		192		00:16:38		373		-->		00:16:39		958		Fun, sir? 
+		193		00:16:40		125		-->		00:16:43		921		There is a certain amount of enjoyment but I'm researching... 
+		194		00:16:44		087		-->		00:16:46		423		- Save it. Let's get out of here. - Yes, sir. 
+		195		00:16:46		590		-->		00:16:49		259		- You're holding up the game. - Our apologies. 
+		196		00:16:50		052		-->		00:16:51		303		I'll watch your chips. 
+		197		00:16:52		262		-->		00:16:53		847		Thank you, sir. 
+		198		00:16:56		183		-->		00:16:57		893		The hat. 
+		199		00:17:00		020		-->		00:17:01		230		Sorry, sir. 
+		200		00:17:02		689		-->		00:17:03		649		Deal 'em up. 
+		201		00:17:09		655		-->		00:17:10		739		Progress? 
+		202		00:17:10		906		-->		00:17:13		575		We've accessed the range of alternates. 
+		203		00:17:13		700		-->		00:17:17		913		The problem is the frequency range. Interference is highly variable. 
+		204		00:17:18		080		-->		00:17:20		832		It may be due to the envelope over the structure, causing hydrogen-carbon helix patterns throughout. 
+		206		00:17:24		336		-->		00:17:27		506		So transmissions are scattered and refracted at random. 
+		207		00:17:27		673		-->		00:17:30		425		- No wonder you can't get through. - Exactly. 
+		208		00:17:32		719		-->		00:17:35		389		Those are fairly aggressive computations. 
+		209		00:17:35		556		-->		00:17:40		227		I'm comparing the molecular integrity of that bubble against our phasers. 
+		210		00:17:41		436		-->		00:17:45		232		- Is penetration possible? - I don't know. It may be an option. 
+		211		00:17:45		399		-->		00:17:47		234		I'd like to run this test. 
+		212		00:17:47		401		-->		00:17:48		777		Make it so. 
+		213		00:18:12		426		-->		00:18:14		011		Let's try that again. 
+		214		00:18:28		984		-->		00:18:31		195		Let's find another way out of here. 
+		215		00:18:37		242		-->		00:18:38		827		Excuse me... 
+		216		00:18:43		081		-->		00:18:48		003		Excuse me. Aside from the main door, is there another exit I might use? 
+		217		00:18:51		840		-->		00:18:53		425		Excuse...? 
+		218		00:18:57		137		-->		00:18:58		639		Excuse me... 
+		219		00:19:01		850		-->		00:19:04		520		Say, I was wondering if you could tell me... 
+		220		00:19:28		126		-->		00:19:31		171		There's a good deal of structural integrity, Worf. 
+		221		00:19:31		338		-->		00:19:33		882		- Permission to use phaser, sir. - Granted. 
+		222		00:19:58		866		-->		00:20:03		078		Sir, I can find no other exits. I believe we are trapped here. 
+		223		00:20:09		334		-->		00:20:11		336		Captain's log, supplemental. 
+		224		00:20:11		503		-->		00:20:13		922		We remain in orbit around Theta VIII, still out of contact with the away team. 
+		226		00:20:17		342		-->		00:20:21		638		We're almost there, Captain. We can attempt contact in a few minutes. 
+		227		00:20:24		308		-->		00:20:27		269		Captain, the situation down there has changed. 
+		228		00:20:28		395		-->		00:20:29		980		In what way? 
+		229		00:20:30		147		-->		00:20:33		317		Cmdr Riker... has become tense. 
+		230		00:20:34		318		-->		00:20:36		445		Closed in, he's feeling trapped. 
+		231		00:20:44		661		-->		00:20:47		206		Phasers are ineffective on all surfaces. 
+		232		00:20:47		372		-->		00:20:50		209		- Our options appear limited. - We don't have any. 
+		233		00:20:50		375		-->		00:20:53		045		We're going to have to get out on our own. 
+		234		00:20:53		212		-->		00:20:55		881		I want some answers from that desk clerk. 
+		235		00:21:04		056		-->		00:21:05		140		Are you crazy? 
+		236		00:21:05		307		-->		00:21:08		143		Wrong. I'm finally gettin' some smarts. 
+		237		00:21:08		310		-->		00:21:10		646		You won't scare Mickey D with that gun. 
+		238		00:21:10		812		-->		00:21:12		856		I'll make him leave Rita alone. 
+		239		00:21:13		023		-->		00:21:16		276		Kid, she's a big girl. And she's Mickey D's girl. 
+		240		00:21:16		777		-->		00:21:19		613		Not any more. Not after tonight. 
+		241		00:21:20		113		-->		00:21:24		618		Look, kid, I don't wanna see you get hurt, especially over some dame. 
+		242		00:21:24		785		-->		00:21:26		703		Don't call her that. 
+		243		00:21:26		870		-->		00:21:30		249		You'll see. You'll see how tough Mickey D is. 
+		244		00:21:30		415		-->		00:21:32		125		He's nothin'. 
+		245		00:21:37		840		-->		00:21:40		509		- I want some answers. - The concierge... 
+		246		00:21:40		634		-->		00:21:44		429		- I want to get out of here. - The exits are clearly marked. 
+		247		00:21:44		596		-->		00:21:46		223		That's not good enough. 
+		248		00:21:46		390		-->		00:21:51		103		If you have a complaint, you can always take it up with the manager. 
+		249		00:21:51		270		-->		00:21:53		146		Fine. I'd like to see him. Now. 
+		250		00:21:53		313		-->		00:21:55		899		I'm afraid the manager is very busy. 
+		251		00:22:03		156		-->		00:22:06		243		- Riker, can you read me? - Yes. 
+		252		00:22:06		410		-->		00:22:10		914		There's a good deal of interference, but you are getting through. 
+		253		00:22:12		040		-->		00:22:14		126		Why haven't you left that building? 
+		254		00:22:14		751		-->		00:22:18		338		We tried, sir. We're trapped. We're in no immediate danger but I am concerned. 
+		256		00:22:20		382		-->		00:22:25		095		Your location is interfering with communication. We are working on it. 
+		257		00:22:25		262		-->		00:22:26		763		Standing by, sir. 
+		258		00:22:26		930		-->		00:22:30		517		- These frequencies are unstable. - Then find others. 
+		259		00:22:34		563		-->		00:22:36		523		What is going on down there? 
+		260		00:22:43		739		-->		00:22:45		324		Commander. 
+		261		00:22:46		533		-->		00:22:50		871		I am picking up something unusual in another area of this structure. 
+		262		00:22:51		038		-->		00:22:53		707		- It appears to be human DNA. - Where? 
+		263		00:22:53		832		-->		00:22:57		002		31.9 meters above and to the right of us. 
+		264		00:22:58		629		-->		00:23:01		590		Perhaps those turbo lifts could take us there. 
+		265		00:23:08		222		-->		00:23:10		349		Seems to be malfunctioning. 
+		266		00:23:34		498		-->		00:23:37		876		The reading I received is from behind this door, sir. 
+		267		00:23:57		020		-->		00:23:59		147		My reading is intensifying, sir. 
+		268		00:24:00		566		-->		00:24:03		735		- Are you getting any life signs? - None, sir. 
+		269		00:24:20		586		-->		00:24:23		255		Definitely human. Male. 
+		270		00:24:23		380		-->		00:24:25		883		Looks like the poor devil died in his sleep. 
+		271		00:24:27		593		-->		00:24:29		595		What a terrible way to die. 
+		272		00:24:31		555		-->		00:24:34		600		He has been dead for 283 years, sir. 
+		273		00:24:34		766		-->		00:24:39		563		The lack of advanced decomposition is due to the sterile environment. 
+		274		00:24:39		730		-->		00:24:42		316		Why would anyone go to all this trouble? 
+		275		00:24:42		482		-->		00:24:44		943		It's just window-dressing for a dead man. 
+		276		00:24:45		110		-->		00:24:46		153		Commander. 
+		277		00:24:49		072		-->		00:24:50		866		Is this significant, sir? 
+		278		00:24:53		118		-->		00:24:53		911		American. 
+		279		00:24:55		662		-->		00:24:56		872		52 stars, sir. 
+		280		00:24:57		039		-->		00:25:01		084		Places it between 2033 and 2079 AD.. 
+		281		00:25:01		251		-->		00:25:03		795		It correlates with the debris we found. 
+		282		00:25:08		467		-->		00:25:10		260		Colonel S Richey. 
+		283		00:25:13		263		-->		00:25:15		265		Rest in peace, Colonel. 
+		284		00:25:18		268		-->		00:25:20		062		Picard to Riker. 
+		285		00:25:20		229		-->		00:25:22		439		Finally. Riker. Go ahead. 
+		286		00:25:22		606		-->		00:25:26		109		- Coming through clearly now. - What's your situation? 
+		287		00:25:26		276		-->		00:25:29		655		This structure was made to resemble 20th-century Earth. 
+		288		00:25:29		821		-->		00:25:31		740		All attempts to exit have failed. 
+		289		00:25:31		907		-->		00:25:34		368		We can't transport you back yet. 
+		290		00:25:34		535		-->		00:25:37		454		I assumed not. We have also found human remains. 
+		291		00:25:37		621		-->		00:25:42		960		Request identity scan. Col Richey, American, first initial S. 
+		292		00:25:43		126		-->		00:25:46		338		- Roughly the same time period. - Do it. 
+		293		00:25:47		965		-->		00:25:49		883		Commander. 
+		294		00:25:50		050		-->		00:25:51		760		Some curiosities. 
+		295		00:25:53		595		-->		00:25:55		722		Books. A novel. 
+		296		00:25:56		431		-->		00:25:59		476		Hotel Royale? Summarize, please. 
+		297		00:26:03		313		-->		00:26:05		732		Information retrieved, Captain. 
+		298		00:26:06		650		-->		00:26:08		652		- Number One? - Go ahead, Captain. 
+		299		00:26:08		819		-->		00:26:11		154		We have the information you requested. 
+		300		00:26:11		321		-->		00:26:15		868		Col Steven Richey was the CO of the explorer ship Charybdis, which had a terrestrial launch date of July 23, 2037. 
+		302		00:26:21		540		-->		00:26:26		378		It was the third manned attempt to travel beyond Earth's solar system. 
+		303		00:26:26		545		-->		00:26:30		132		Its telemetry failed. It was never heard from again. 
+		304		00:26:31		049		-->		00:26:34		928		Do you believe you've discovered the remains of Col Richey? 
+		305		00:26:35		095		-->		00:26:39		308		Yes. And we've found something else, a novel by Todd Matthews, 
+		306		00:26:39		474		-->		00:26:42		144		Hotel Royale, the name of this structure. 
+		307		00:26:42		311		-->		00:26:43		478		Data. 
+		308		00:26:43		645		-->		00:26:47		149		Captain, this is the story of a group of compulsive gamblers, caught up in crime, corruption and deceit. 
+		310		00:26:50		068		-->		00:26:53		071		It is told by nefarious lothario, Mickey D, who appears only at the climax,  to carry out the cold-blooded murder of the hotel bellboy. 
+		313		00:26:58		994		-->		00:27:03		081		There is a subplot about an older man conspiring with a young woman to murder her husband. She squanders her inheritance... 
+		315		00:27:06		710		-->		00:27:11		632		Everything that Data just described seems to be happening at this hotel. 
+		316		00:27:13		175		-->		00:27:14		343		Extraordinary. 
+		317		00:27:14		510		-->		00:27:17		179		There's also a diary with only one entry, obviously made by Colonel Richey. 
+		319		00:27:20		140		-->		00:27:22		476		- Can you read it? - Yes. 
+		320		00:27:22		643		-->		00:27:26		855		"I write this in the hope that it will some day be read by human eyes." 
+		321		00:27:27		022		-->		00:27:30		025		"I can only surmise that our exploratory shuttle was contaminated by an alien life form  which infected and killed all personnel except myself." 
+		324		00:27:36		240		-->		00:27:40		410		"I awakened to find myself here in the Royale Hotel, precisely as described in the novel in my room. " 
+		326		00:27:43		580		-->		00:27:45		958		"And for the last 38 years... 
+		327		00:27:46		124		-->		00:27:48		126		I have survived here." 
+		328		00:27:48		836		-->		00:27:50		420		"I have come to understand that the aliens created this place for me out of some sense of guilt,  presuming that the novel we had on the ship about the Hotel Royale  was in fact a guide to our preferred lifestyle and social habits." 
+		332		00:28:05		519		-->		00:28:08		647		"They thought this was the world from which I came." 
+		333		00:28:08		814		-->		00:28:10		899		"I hold no malice for my benefactors, who could not know the hell they put me through. " 
+		335		00:28:14		695		-->		00:28:17		030		"For it was such a badly written book, filled with endless clichÈ and shallow characters, 
+		337		00:28:21		869		-->		00:28:24		621		I shall welcome death when it comes." 
+		338		00:28:30		002		-->		00:28:31		920		I understand, Number One. 
+		339		00:28:32		713		-->		00:28:35		048		Now we know why all that is there. 
+		340		00:28:36		008		-->		00:28:38		177		Why can't you get out? 
+		341		00:28:46		602		-->		00:28:48		312		- Number One. - Yes, sir? 
+		342		00:28:48		478		-->		00:28:50		272		Lt La Forge has a thought. 
+		343		00:28:50		439		-->		00:28:54		860		He believes we can phaser a slice in the field around the structure. 
+		344		00:28:55		027		-->		00:28:57		988		Then the atmosphere of the planet would rush in. 
+		345		00:28:58		155		-->		00:29:01		491		Projected survival would be approximately 12 seconds. 
+		346		00:29:01		658		-->		00:29:05		704		Correct. The cryogenic process would be nearly instantaneous. 
+		347		00:29:05		871		-->		00:29:08		540		- I assume you could revive us? - Yes. 
+		348		00:29:08		665		-->		00:29:12		461		- In theory. - You must understand, Number One, we'll wait for months if necessary. We're just considering options. 
+		350		00:29:17		966		-->		00:29:22		095		If you're trying to motivate us to find a way out, you've succeeded. 
+		351		00:29:41		031		-->		00:29:42		407		Yes? 
+		352		00:29:46		537		-->		00:29:49		873		There is a female voice asking if we want room service. 
+		353		00:29:53		961		-->		00:29:56		922		I believe she is asking if we want the room cleaned. 
+		354		00:29:57		089		-->		00:29:58		090		Tell her no. 
+		355		00:29:59		174		-->		00:30:00		551		No. 
+		356		00:30:04		805		-->		00:30:06		598		What did she say? 
+		357		00:30:06		765		-->		00:30:10		644		She said the kitchen will be open 24 hours if we change our minds. 
+		358		00:30:12		187		-->		00:30:15		274		Let's explore the hotel. We'll keep a comm line open. 
+		359		00:30:15		440		-->		00:30:17		693		Check the lobby for anything we missed. 
+		360		00:30:17		860		-->		00:30:20		153		Talk to the guests, find out who they are. 
+		361		00:30:20		320		-->		00:30:22		447		I'll check the rest of the floors. 
+		362		00:30:38		463		-->		00:30:41		633		Computer, locate and display the text of the novel entitled Hotel Royale by Todd Matthews. 
+		364		00:30:46		305		-->		00:30:47		681		Accessing. 
+		365		00:30:48		807		-->		00:30:51		643		If the cause of the difficulties is in the novel, we may find the solution within its pages. 
+		367		00:30:57		566		-->		00:30:59		776		"It was a dark and stormy night." 
+		368		00:31:02		237		-->		00:31:04		573		It's not a promising beginning. 
+		369		00:31:04		740		-->		00:31:06		450		It may get better. 
+		370		00:31:17		794		-->		00:31:20		839		I suggest we separate and blend in with these beings. 
+		371		00:31:21		006		-->		00:31:25		219		Casual queries, offered inconspicuously, may prove fruitful. 
+		372		00:31:38		524		-->		00:31:40		526		I need a four. Gimme a four. 
+		373		00:31:40		943		-->		00:31:42		528		Damn... 
+		374		00:31:44		071		-->		00:31:45		864		How much do I have left here? 
+		375		00:31:46		031		-->		00:31:49		326		Honey, it's bad luck to count your chips at the table. 
+		376		00:31:49		493		-->		00:31:54		122		Excuse me, sir. Might I enquire, where are you from? 
+		377		00:31:54		289		-->		00:31:56		500		Lubbock, Texas. 
+		378		00:31:56		667		-->		00:31:59		336		And how did you get here? 
+		379		00:31:59		503		-->		00:32:04		424		Vegas? Drove my car. I got a '91 Caddy with only 85 miles on it. 
+		380		00:32:04		591		-->		00:32:07		761		- Where is your automobile now? - Out front, I suppose. 
+		381		00:32:07		928		-->		00:32:12		057		- What difference does it make? - Could you take me there? 
+		382		00:32:12		224		-->		00:32:13		475		Hit me! 
+		383		00:32:15		143		-->		00:32:16		562		I'm losing my shirt. 
+		384		00:32:17		938		-->		00:32:22		776		Son, why would I want to do that? I'm trying to help this little lady. 
+		385		00:32:24		319		-->		00:32:27		781		I believe you are trapped inside the Royale, just as I am. 
+		386		00:32:28		907		-->		00:32:31		326		Sure seems that way when you're losing. 
+		387		00:32:31		493		-->		00:32:35		831		We're tryin' to turn this lady's wagon around, win back some change. 
+		388		00:32:35		998		-->		00:32:39		626		Else she's in a desperate situation with nowhere to turn. 
+		389		00:32:40		377		-->		00:32:42		588		Well, almost nowhere. 
+		390		00:32:46		091		-->		00:32:48		010		I stay, right? 
+		391		00:32:48		177		-->		00:32:49		511		I wouldn't. 
+		392		00:32:51		013		-->		00:32:52		723		The odds favour standing pat. 
+		393		00:32:55		767		-->		00:32:57		102		What do I do? 
+		394		00:33:00		480		-->		00:33:02		065		Do you want a card or not? 
+		395		00:33:05		611		-->		00:33:06		945		Hit me. 
+		396		00:33:08		530		-->		00:33:09		656		Too many. 
+		397		00:33:12		284		-->		00:33:13		952		I've almost lost it all. 
+		398		00:33:14		661		-->		00:33:16		371		What am I gonna do? 
+		399		00:33:16		538		-->		00:33:18		457		There, there. 
+		400		00:33:30		219		-->		00:33:32		763		- What did you find? - Nothing. 
+		401		00:33:32		930		-->		00:33:35		349		- Rita just called. - What did she say? 
+		402		00:33:35		516		-->		00:33:37		643		It was hard to tell. She was crying. 
+		403		00:33:37		809		-->		00:33:42		231		Crying? Damn. Mickey D thinks he can treat people any way he wants. 
+		404		00:33:42		397		-->		00:33:44		107		Well, that's all over now. 
+		405		00:34:06		380		-->		00:34:08		215		You were told! 
+		406		00:34:08		382		-->		00:34:11		426		It's not for you to make the call. It's for Rita. 
+		407		00:34:12		469		-->		00:34:14		972		Well, she sent me to tell you. 
+		408		00:34:15		138		-->		00:34:17		891		OK, boys, look. We can't afford trouble in here. 
+		409		00:34:18		058		-->		00:34:20		519		Why don't you take this outside? 
+		410		00:34:20		686		-->		00:34:25		190		Yeah, I like that. Come on, baggage man. 
+		411		00:34:25		357		-->		00:34:28		110		Let's you and me take it outside. 
+		412		00:34:28		694		-->		00:34:31		238		When I was a kid, I looked up to you guys. 
+		413		00:34:31		405		-->		00:34:33		949		The suit, the fancy shoes. 
+		414		00:34:34		867		-->		00:34:37		828		I really thought that made you somebody, but you're a nobody. I wish I could make something... 
+		416		00:34:41		623		-->		00:34:45		836		I don't believe this dialogue. Did humans really talk like that? 
+		417		00:34:46		003		-->		00:34:49		798		Not in real life. Remember, everything going on down there is taken from what Col Richey calls a second-rate novel. 
+		419		00:34:56		138		-->		00:34:58		473		She could do something with her life... 
+		420		00:34:58		640		-->		00:35:00		642		With your permission, sir? 
+		421		00:35:00		809		-->		00:35:02		936		She's somebody. She's my girl. 
+		422		00:35:03		103		-->		00:35:07		524		The only reason she stays with you is because you feed her sickness. 
+		423		00:35:07		691		-->		00:35:09		860		You gotta let me help her! 
+		424		00:35:12		696		-->		00:35:15		407		Why don't we go outside and talk about it? 
+		425		00:35:17		201		-->		00:35:18		994		Just watch yourself. 
+		426		00:35:19		161		-->		00:35:20		871		Don't worry. 
+		427		00:35:27		419		-->		00:35:30		797		It's all part of the novel. Don't interfere. 
+		428		00:35:57		658		-->		00:36:00		202		You should've listened to me, kid. 
+		429		00:36:00		369		-->		00:36:02		704		No woman's worth dyin' for. 
+		430		00:36:03		705		-->		00:36:05		290		Killing for, ... 
+		431		00:36:06		291		-->		00:36:07		668		..not dyin' for. 
+		432		00:36:27		271		-->		00:36:30		440		- Riker to Enterprise. - Yes, Number One. 
+		433		00:36:30		607		-->		00:36:32		734		A bizarre incident just took place. 
+		434		00:36:32		901		-->		00:36:35		863		The shoot-out between the bellboy and Mickey D. 
+		435		00:36:36		530		-->		00:36:39		241		Yes. And Mickey D just walked out. How? 
+		436		00:36:42		494		-->		00:36:44		454		It's on page 244. 
+		437		00:36:45		414		-->		00:36:48		000		The novel, right. How does it end? 
+		438		00:36:49		376		-->		00:36:52		421		A bad love affair ends in a bloody shoot-out, the hotel gets bought out,  and life goes on, such as it is. 
+		441		00:36:58		051		-->		00:37:00		262		The hotel gets bought? By whom? 
+		442		00:37:04		391		-->		00:37:07		436		It's not specific. It refers to foreign investors. 
+		443		00:37:07		603		-->		00:37:11		523		Sale price, 12.5 million United States dollars. 
+		444		00:37:11		690		-->		00:37:15		569		They return home, leaving the assistant manager in charge. 
+		445		00:37:19		823		-->		00:37:21		408		Captain, ... 
+		446		00:37:23		243		-->		00:37:25		370		..that's how we're getting out. 
+		447		00:37:26		496		-->		00:37:28		290		We're buying this place. 
+		448		00:37:36		715		-->		00:37:38		717		It is a question of probability. 
+		449		00:37:38		884		-->		00:37:42		054		Quite simple, if one bets with sequential consistency. 
+		450		00:37:42		221		-->		00:37:43		514		Elaborate. 
+		451		00:37:43		680		-->		00:37:46		517		Combinations of seven or eleven have much value, if achieved on the primary attempt. 
+		453		00:37:48		894		-->		00:37:51		647		With eight variations to create those totals, 
+		454		00:37:51		813		-->		00:37:55		400		- the chance is not significant... - OK. 
+		455		00:37:55		567		-->		00:37:57		694		- Can you do it? - I believe so, sir. 
+		456		00:38:03		408		-->		00:38:07		621		Eight's the point. Eighter from Decatur. Do it. 
+		457		00:38:10		249		-->		00:38:11		500		Snake eyes. 
+		458		00:38:11		667		-->		00:38:15		212		Single digits on each cube are not at all desirable. 
+		459		00:38:15		379		-->		00:38:19		508		- You're almost broke. - Relax, honey. It's only money. 
+		460		00:38:19		675		-->		00:38:22		511		If you lose it, I might not have a place to sleep. 
+		461		00:38:22		678		-->		00:38:26		431		Don't worry your head, honey, I'd never let that happen. 
+		462		00:38:32		104		-->		00:38:34		773		Let's go, babe. Here they come. 
+		463		00:38:34		898		-->		00:38:36		275		Seven. 
+		464		00:38:38		819		-->		00:38:41		697		- Your turn, Slick. - Go to work. 
+		465		00:38:41		864		-->		00:38:44		616		Maybe this turkey will bring us some luck. 
+		466		00:38:55		961		-->		00:38:59		840		- Six is your number. - My blind grandma can make a six! 
+		467		00:39:00		007		-->		00:39:01		216		Come on, roll 'em! 
+		468		00:39:01		383		-->		00:39:03		594		I thought seven and eleven had value. 
+		469		00:39:03		760		-->		00:39:05		804		Actually, six is a valid point. 
+		470		00:39:05		971		-->		00:39:09		600		Now the objective is to roll a duplicate six, then a seven. 
+		471		00:39:09		766		-->		00:39:13		061		But the probability of a six is no greater than a seven. 
+		472		00:39:14		396		-->		00:39:17		149		There is a degree of random fortune involved. 
+		473		00:39:17		316		-->		00:39:19		318		That is why they call it gambling. 
+		474		00:39:20		152		-->		00:39:21		320		Yeah. 
+		475		00:39:26		074		-->		00:39:28		327		Seven. Seven away. Next shooter. 
+		476		00:39:28		493		-->		00:39:32		164		- So much for your new turkey. - Give Slick another shot. 
+		477		00:39:32		664		-->		00:39:34		666		I got a feeling about you, boy. 
+		478		00:39:38		712		-->		00:39:43		634		Commander, these cubes are improperly balanced. Their resting position... 
+		479		00:39:43		800		-->		00:39:47		471		- Can you repair them? - I believe so. 
+		480		00:39:50		057		-->		00:39:51		975		I will make another attempt. 
+		481		00:39:55		812		-->		00:39:57		814		Baby needs a new pair of shoes. 
+		482		00:40:00		234		-->		00:40:05		572		Eleven! Attaboy! Do that again, we're all gonna get well! 
+		483		00:40:09		368		-->		00:40:12		079		- Seven, a winner! - And another one! 
+		484		00:40:14		373		-->		00:40:16		500		Keep goin', boy. We got a hot one! 
+		485		00:40:16		667		-->		00:40:20		546		- Double 'em up. Here we go. - Keep 'em rollin', boy. 
+		486		00:40:22		089		-->		00:40:23		674		Seven, a winner. 
+		487		00:40:28		971		-->		00:40:30		347		Status, Number One. 
+		488		00:40:31		682		-->		00:40:33		684		Rather a nice run of luck, Captain. 
+		489		00:40:33		851		-->		00:40:36		311		- Don't get out of character. - Sir? 
+		490		00:40:36		478		-->		00:40:42		526		The foreign investors in the book are seen as "flamboyantly generous". 
+		491		00:40:44		361		-->		00:40:45		946		Yes, sir. I understand. 
+		492		00:40:52		953		-->		00:40:54		955		Seven! Look at that. 
+		493		00:40:55		122		-->		00:40:57		165		Tex, darlin', ... you're brilliant! 
+		495		00:40:59		168		-->		00:41:01		420		Yeah. And I'm good-lookin', too! 
+		496		00:41:03		172		-->		00:41:06		216		- Isn't that enough? - No. Don't want to come up short. 
+		497		00:41:06		383		-->		00:41:09		636		- You are keeping count? - Yes, sir. 12.3 million. 
+		498		00:41:09		803		-->		00:41:13		056		Perhaps I will bet... 700,000. 
+		499		00:41:14		016		-->		00:41:15		309		No, bet it all. 
+		500		00:41:15		976		-->		00:41:18		687		Sir, the price of this edifice is 12.5 million. 
+		501		00:41:18		854		-->		00:41:20		981		We need some spreading around money. 
+		502		00:41:21		148		-->		00:41:23		317		- Sir? - Bet it all. 
+		503		00:41:24		943		-->		00:41:26		862		Here, something for you, Ziggy. 
+		504		00:41:27		029		-->		00:41:31		575		For the cocktail waitresses. Run this out to the parking lot attendant. 
+		505		00:41:31		742		-->		00:41:35		704		- You're very kind, sir. - Here, a little something for you. 
+		506		00:41:35		871		-->		00:41:37		164		Thank you. 
+		507		00:41:37		331		-->		00:41:40		125		When the train comes in, everybody rides. 
+		508		00:41:40		292		-->		00:41:43		128		Yeah. And I'm getting off at this station. 
+		509		00:41:43		295		-->		00:41:47		299		After 18 passes, air gets a little thin for this country boy. 
+		510		00:41:48		425		-->		00:41:51		220		- I'm bettin' against you, fella. - Are you nuts? 
+		511		00:41:51		386		-->		00:41:53		597		That is not a prudent choice, sir. 
+		512		00:41:55		724		-->		00:41:58		310		That's what horse racing's about. Roll 'em. 
+		513		00:42:13		116		-->		00:42:14		618		Seven, a winner. 
+		514		00:42:17		454		-->		00:42:19		039		The man has the touch. 
+		515		00:42:21		458		-->		00:42:24		419		You knew you were going to throw that seven. 
+		516		00:42:24		586		-->		00:42:26		505		You let me go down the tube. 
+		517		00:42:27		631		-->		00:42:29		341		I tried to caution you, sir. 
+		518		00:42:30		133		-->		00:42:33		387		What was it? Was it personal, or what? 
+		519		00:42:33		971		-->		00:42:35		848		Because I didn't show you my car? 
+		520		00:42:37		432		-->		00:42:39		226		Now. 
+		521		00:42:39		393		-->		00:42:41		019		I wish to cash in, sir. 
+		522		00:42:41		603		-->		00:42:43		730		I'm afraid you've broken the bank. 
+		523		00:42:43		897		-->		00:42:48		777		Just take 12.5 million for this hotel. Spread the rest around. 
+		524		00:42:52		239		-->		00:42:54		157		You're the foreign investors. 
+		525		00:42:54		324		-->		00:42:56		326		That's right. 
+		526		00:42:56		493		-->		00:42:59		454		We just bought this place, lock, stock and barrel. 
+		527		00:42:59		621		-->		00:43:01		415		Consider it a done deal. 
+		528		00:43:01		582		-->		00:43:03		208		I like you fellas. 
+		529		00:43:03		375		-->		00:43:06		795		You got style. Let me buy you guys a drink. 
+		530		00:43:06		962		-->		00:43:10		716		Just enjoy the game. Don't let them change the dice on you. 
+		531		00:43:10		883		-->		00:43:12		384		You got it. 
+		532		00:43:30		402		-->		00:43:33		572		Enterprise, this is the away team. We're clear. 
+		533		00:43:33		739		-->		00:43:35		324		Three to beam up. 
+		534		00:43:35		490		-->		00:43:37		826		Time to come home now, Number One. 
+		535		00:43:37		993		-->		00:43:40		871		Transporter room, lock on the away team. Beam them up. 
+		536		00:43:52		508		-->		00:43:53		467		Come. 
+		537		00:43:56		470		-->		00:43:58		597		- Sir. - Welcome back, Number One. 
+		538		00:43:58		764		-->		00:44:01		183		Very strange experience. Puzzling. 
+		539		00:44:01		350		-->		00:44:05		145		I can't comprehend how Col Richey's vessel travelled so far. 
+		540		00:44:05		312		-->		00:44:07		439		Not on its own at any rate. 
+		541		00:44:08		023		-->		00:44:09		816		Perhaps they were brought here by whoever created that make-believe world. 
+		543		00:44:12		903		-->		00:44:17		908		It's possible they didn't know how fragile the humans aboard were. 
+		544		00:44:18		075		-->		00:44:20		160		Only one of them survived. 
+		545		00:44:21		411		-->		00:44:23		247		None of it makes any sense. 
+		546		00:44:24		289		-->		00:44:28		210		Like Fermat's theorem, it's a puzzle we may never solve. 

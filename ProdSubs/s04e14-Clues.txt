@@ -1,0 +1,717 @@
+		1		00:00:07		466		-->		00:00:12		563		Captain's Log, stardate <stardate>44502</stardate>.7. 
+		2		00:00:12		604		-->		00:00:16		734		Early completion of our mission at Harrakis V has allowed me to grant extra personal time for many of the crew. 
+		4		00:00:19		578		-->		00:00:21		512		This has come as something of a relief since our recent tight scheduling  has prevented the pursuit of the leisure activities  that are a normal part of life aboard the Enterprise. 
+		8		00:00:30		122		-->		00:00:33		683		I expect our journey past the Ngame Nebula to be uneventful and am personally using the time  to fulfill a promise to a colleague. 
+		11		00:00:42		934		-->		00:00:45		425		Dixon Hill around? 
+		12		00:00:45		470		-->		00:00:47		904		He's occupied at the present moment. 
+		13		00:00:47		939		-->		00:00:49		736		Tell him Gloria's here. 
+		14		00:00:49		775		-->		00:00:50		901		Can't do that. 
+		15		00:00:50		942		-->		00:00:53		035		He doesn't want to be disturbed. 
+		16		00:00:53		078		-->		00:00:57		674		Tell him it's Gloria from... Cleveland. 
+		17		00:00:57		716		-->		00:01:00		583		Doesn't matter if you're from the moon, hon. 
+		18		00:01:00		619		-->		00:01:02		519		Mr. Hill is incommuni... incommunica... ca... 
+		20		00:01:04		289		-->		00:01:05		688		...cado. 
+		21		00:01:05		724		-->		00:01:06		816		That's it. 
+		22		00:01:06		858		-->		00:01:08		883		Sorry, hon. 
+		23		00:01:12		731		-->		00:01:17		031		Look, hon, just tell him Gloria's here. 
+		24		00:01:17		069		-->		00:01:20		732		Look, when the boss doesn't want to be disturbed the boss doesn't want to be disturbed. 
+		26		00:01:23		208		-->		00:01:25		176		Don't take it personal-like. 
+		27		00:01:25		210		-->		00:01:29		544		I have an appointment with Mr. Hill at... 
+		28		00:01:29		581		-->		00:01:31		173		2:00. 
+		29		00:01:31		249		-->		00:01:33		114		It's 2:10. 
+		30		00:01:33		151		-->		00:01:34		379		So? 
+		31		00:01:34		419		-->		00:01:37		388		I had a little trouble getting into the dress. 
+		32		00:01:37		422		-->		00:01:41		188		It took me a little while to figure out just exactly what I was supposed to do with these. 
+		34		00:01:48		433		-->		00:01:49		730		Sorry, Dix. 
+		35		00:01:49		768		-->		00:01:52		464		There's a "lady" here to see you. 
+		36		00:01:52		504		-->		00:01:53		801		Says her name is... 
+		37		00:01:53		839		-->		00:01:55		898		- Gloria. - Gloria. 
+		38		00:01:55		941		-->		00:01:59		570		- From Cleveland. - From Cleveland. 
+		39		00:01:59		611		-->		00:02:01		511		Okay. 
+		40		00:02:01		546		-->		00:02:04		140		He never heard of you. 
+		41		00:02:04		249		-->		00:02:05		841		He's never heard of me? 
+		42		00:02:05		884		-->		00:02:06		851		That's right. 
+		43		00:02:06		885		-->		00:02:09		251		Oh, wait, I don't think you understand. 
+		44		00:02:09		287		-->		00:02:10		447		You see... this was all set up in advance, you see. 
+		46		00:02:11		656		-->		00:02:13		146		I'm supposed to be Gloria from Cleveland and I was supposed to be on Holodeck Number Four at 2:00... 
+		48		00:02:16		561		-->		00:02:18		495		And you don't have any idea what I'm talking about, do you? 
+		50		00:02:20		465		-->		00:02:22		433		Not to worry. 
+		51		00:02:26		671		-->		00:02:28		468		Hey, you can't go in there. 
+		52		00:02:28		507		-->		00:02:30		532		Get inside. Close the door. 
+		53		00:02:35		914		-->		00:02:37		541		Who's the doll? 
+		54		00:02:37		582		-->		00:02:39		174		She's, uh... 
+		55		00:02:39		251		-->		00:02:42		709		The doll's my cousin. 
+		56		00:02:42		754		-->		00:02:43		721		Yeah. 
+		57		00:02:43		755		-->		00:02:44		779		Gloria. 
+		58		00:02:44		823		-->		00:02:47		018		From Cleveland. 
+		59		00:02:47		058		-->		00:02:49		185		I'm sorry about this... Gloria. 
+		60		00:02:49		261		-->		00:02:52		196		I didn't actually mean you to get involved. 
+		61		00:02:52		264		-->		00:02:54		562		She knows nothin' about this, Johnny. 
+		62		00:02:56		668		-->		00:02:58		898		What does... what does that mean? 
+		63		00:02:58		937		-->		00:03:00		199		Oh, oh, I see. 
+		64		00:03:00		272		-->		00:03:02		001		Yeah, right. 
+		65		00:03:02		040		-->		00:03:03		564		What do I look like... a jamoke? 
+		66		00:03:03		608		-->		00:03:06		372		You ain't nobody's cousin and you ain't here on a visit. 
+		67		00:03:06		411		-->		00:03:08		140		Now, what do you know about my money? 
+		68		00:03:08		246		-->		00:03:09		804		Your money? 
+		69		00:03:09		848		-->		00:03:10		940		The money he stole! 
+		70		00:03:10		982		-->		00:03:12		677		You stole his money? 
+		71		00:03:12		717		-->		00:03:14		685		Don't listen to him, Gloria. 
+		72		00:03:14		719		-->		00:03:16		016		He's lyin'. 
+		73		00:03:16		054		-->		00:03:17		521		Oh... oh! 
+		74		00:03:17		556		-->		00:03:19		023		Oh, Johnny... Johnny talk to me, Johnny. 
+		76		00:03:20		725		-->		00:03:22		317		I'm a great listener. 
+		77		00:03:22		360		-->		00:03:24		157		I'm finished with talking, sweetheart. 
+		78		00:03:24		229		-->		00:03:26		163		Now I'm going to get some action or else! 
+		80		00:03:46		251		-->		00:03:49		186		And this is what you do for fun. 
+		81		00:03:49		254		-->		00:03:51		017		It's a mystery. 
+		82		00:03:51		056		-->		00:03:53		047		Who is this man? 
+		83		00:03:53		091		-->		00:03:54		718		Who killed him? 
+		84		00:03:54		759		-->		00:03:57		728		Where is the money he was talking about? 
+		85		00:03:57		762		-->		00:03:59		889		It's... it's a mystery. 
+		86		00:03:59		931		-->		00:04:03		332		Now we have to go search for clues. 
+		87		00:04:03		368		-->		00:04:05		336		Ah, and that's fun? 
+		88		00:04:05		370		-->		00:04:07		338		That's fun. 
+		89		00:04:13		178		-->		00:04:14		645		'48 Packard with whitewalls. 
+		90		00:04:14		679		-->		00:04:16		408		Dixon Hill, private investigations. 
+		91		00:04:16		448		-->		00:04:18		040		Damn it, I didn't get the license plate. 
+		92		00:04:18		083		-->		00:04:19		141		Captain Picard? 
+		93		00:04:19		184		-->		00:04:20		981		Sorry, there's no Captain Picard here. 
+		94		00:04:21		019		-->		00:04:22		884		Maybe you should try down at the docks. 
+		95		00:04:22		921		-->		00:04:25		515		There's ships coming in and out of there every day... 
+		96		00:04:25		557		-->		00:04:27		354		It's all right, Madeline. 
+		97		00:04:27		392		-->		00:04:29		019		I'll take it in here. 
+		98		00:04:29		060		-->		00:04:30		527		Yes, what is it? 
+		99		00:04:30		562		-->		00:04:32		723		Captain, Lieutenant Commander Data here. 
+		100		00:04:32		764		-->		00:04:34		789		Please excuse the unusual interruption but under the circumstances 
+		102		00:04:36		368		-->		00:04:38		393		I thought that patching communications through the holodeck program would be less intrusive. 
+		104		00:04:41		406		-->		00:04:43		374		I appreciate your concern, Commander Data. 
+		105		00:04:43		408		-->		00:04:45		171		What can I do for you? 
+		106		00:04:45		210		-->		00:04:48		179		Long-range sensors detect a T-tauri type star within a pocket of the Ngame cloud. 
+		108		00:04:50		582		-->		00:04:52		413		Well, there's nothing unusual about that. 
+		109		00:04:52		450		-->		00:04:53		417		No, sir. 
+		110		00:04:53		451		-->		00:04:55		180		However, the star's single planet falls within the M-Class range. 
+		112		00:04:57		022		-->		00:04:58		819		It is capable of supporting life. 
+		113		00:04:58		857		-->		00:05:00		552		Now, that is unusual. 
+		114		00:05:00		592		-->		00:05:01		820		Highly, sir. 
+		115		00:05:01		860		-->		00:05:03		259		Well, thank you, Mr. Data. 
+		116		00:05:03		295		-->		00:05:05		422		Procedure requires that we investigate. 
+		117		00:05:05		463		-->		00:05:07		795		Recall the Bridge crew and set in a course. 
+		118		00:05:07		832		-->		00:05:08		821		Aye, sir. 
+		119		00:05:10		201		-->		00:05:13		329		I'm, uh... I'm sorry, Gloria but there is a 24th century mystery I have to investigate. 
+		121		00:05:18		376		-->		00:05:23		006		You are very welcome to carry on if you like. 
+		122		00:05:23		048		-->		00:05:27		041		No, I've had enough fun for today. 
+		123		00:05:32		857		-->		00:05:35		655		Entering the T-tauri system now, Captain. 
+		124		00:05:35		694		-->		00:05:37		821		Sensors indicate an energy fluctuation directly in our path. 
+		126		00:05:39		130		-->		00:05:40		461		Source unknown. 
+		127		00:05:40		498		-->		00:05:45		367		Still picking up energy distortions, but fading. 
+		128		00:05:45		403		-->		00:05:46		836		It seems to be gone. 
+		129		00:05:46		871		-->		00:05:48		031		Wormhole. 
+		130		00:05:48		073		-->		00:05:49		370		Very likely. 
+		131		00:05:49		407		-->		00:05:51		568		Small and extremely unstable wormholes have been mapped near 39 T-tauri systems  in the last 100 years alone, sir. 
+		134		00:05:55		814		-->		00:05:58		078		Captain, I suggest we move to a safer location. 
+		135		00:05:58		116		-->		00:05:59		515		It could reappear at any moment. 
+		136		00:05:59		551		-->		00:06:01		041		Agreed, Number One. 
+		137		00:06:01		086		-->		00:06:02		314		Ensign, take us on a course... 
+		138		00:06:02		354		-->		00:06:03		514		Captain. 
+		139		00:06:41		153		-->		00:06:45		556		Space, the final frontier. 
+		140		00:06:45		590		-->		00:06:49		424		These are the voyages of the Starship Enterprise. 
+		141		00:06:49		461		-->		00:06:51		429		Its continuing mission... to explore strange new worlds  to seek out new life and new civilizations  to boldly go where no one has gone before. 
+		145		00:08:05		358		-->		00:08:07		826		Captain? 
+		146		00:08:07		861		-->		00:08:09		488		Data. 
+		147		00:08:09		529		-->		00:08:10		996		Careful, Captain. 
+		148		00:08:11		030		-->		00:08:13		555		The stun effect from the wormhole was relatively severe. 
+		150		00:08:15		368		-->		00:08:16		835		Apparently so. 
+		151		00:08:16		870		-->		00:08:18		997		For how long were we unconscious? 
+		152		00:08:19		038		-->		00:08:20		335		Approximately 30 seconds. 
+		153		00:08:20		373		-->		00:08:21		965		I have scanned the entire ship and detected no life-threatening injuries  among the crew. 
+		156		00:08:25		311		-->		00:08:26		471		You were not affected? 
+		157		00:08:26		512		-->		00:08:27		479		No, sir. 
+		158		00:08:27		513		-->		00:08:29		845		My positronic system is immune to the effect. 
+		159		00:08:29		883		-->		00:08:31		680		This is the third unstable wormhole 
+		160		00:08:31		718		-->		00:08:34		482		I have passed through during my time with Starfleet. 
+		161		00:08:34		520		-->		00:08:36		545		The first was aboard the USS Trieste... 
+		162		00:08:36		589		-->		00:08:38		056		Thank you, Mr. Data. 
+		163		00:08:40		593		-->		00:08:42		788		Well, where the hell are we? 
+		164		00:08:42		829		-->		00:08:45		491		.54 parsecs from our original position. 
+		165		00:08:45		531		-->		00:08:48		056		Almost a day's travel in 30 seconds? 
+		166		00:08:48		134		-->		00:08:50		193		Sir, I should realign the ship's clock with Starbase 410's sub-space signal  to adjust for the time distortion. 
+		169		00:08:54		874		-->		00:08:55		841		Proceed. 
+		170		00:08:55		875		-->		00:08:56		842		Yes, Captain. 
+		171		00:08:56		876		-->		00:08:58		309		Captain, this is Crusher in Sick Bay. 
+		172		00:08:58		344		-->		00:08:59		470		Go ahead, Doctor. 
+		173		00:08:59		512		-->		00:09:02		811		I'm getting scattered reports of minor injuries. 
+		174		00:09:02		849		-->		00:09:04		146		What's happened? 
+		175		00:09:04		183		-->		00:09:06		014		The Enterprise just jumped through a wormhole. 
+		176		00:09:06		085		-->		00:09:08		315		Apparently, we were all unconscious for about 30 seconds. 
+		178		00:09:09		689		-->		00:09:11		714		Is everybody all right there? 
+		179		00:09:11		758		-->		00:09:15		023		There's little or no damage on the Bridge, Doctor. 
+		180		00:09:15		094		-->		00:09:16		789		Acknowledged. Crusher out. 
+		181		00:09:16		829		-->		00:09:18		729		Ship's status? 
+		182		00:09:20		400		-->		00:09:21		594		Reports coming in now. 
+		183		00:09:21		634		-->		00:09:22		896		Nothing serious so far. 
+		184		00:09:22		936		-->		00:09:23		994		La Forge here, Captain. 
+		185		00:09:24		037		-->		00:09:26		665		I've checked impulse engines and warp drive, sir. 
+		186		00:09:26		706		-->		00:09:28		833		They appear to be unaffected. 
+		187		00:09:28		875		-->		00:09:32		276		Shields and weapon systems are fully functional. 
+		188		00:09:32		312		-->		00:09:34		678		Counselor, are you all right? 
+		189		00:09:34		714		-->		00:09:37		182		I think so. 
+		190		00:09:37		216		-->		00:09:40		515		I'm feeling a bit unfocused. 
+		191		00:09:40		553		-->		00:09:42		612		It'll pass. 
+		192		00:09:42		655		-->		00:09:47		058		Well, not too bad, all things considered. 
+		193		00:09:47		160		-->		00:09:49		685		We're lucky we didn't end up halfway across the galaxy into the middle of next week. 
+		195		00:09:51		130		-->		00:09:53		655		That was never actually a possibility. 
+		196		00:09:53		700		-->		00:09:57		295		The wormhole's small size and relatively short period would make this a local phenomenon. 
+		198		00:09:59		739		-->		00:10:02		333		There's still the anomalous M-Class planet we were going to investigate. 
+		200		00:10:04		243		-->		00:10:05		733		Do we go back? 
+		201		00:10:05		778		-->		00:10:07		268		The unpredictability of the wormhole would make an investigation a hazardous one. 
+		203		00:10:09		248		-->		00:10:11		011		A probe launched from our current position would be more advisable. 
+		205		00:10:13		119		-->		00:10:14		882		Make it so. 
+		206		00:10:20		994		-->		00:10:22		552		Nothing's broken, Chief but those ligaments around the elbow  have been twisted pretty severely. 
+		209		00:10:27		533		-->		00:10:29		865		What on earth were you doing when you fell? 
+		210		00:10:29		902		-->		00:10:31		733		Hanging a plant for Keiko. 
+		211		00:10:31		771		-->		00:10:35		400		It's part of a running project to give me a green thumb. 
+		212		00:10:35		441		-->		00:10:36		908		How's it working? 
+		213		00:10:36		943		-->		00:10:40		242		Everything I touch seems to turn brown and wither away. 
+		214		00:10:40		279		-->		00:10:42		247		Alyssa, would you get me...? 
+		215		00:10:42		281		-->		00:10:43		578		Oh, never mind. 
+		216		00:10:43		616		-->		00:10:44		742		I'll get it. 
+		217		00:10:44		784		-->		00:10:46		308		You... don't go away. 
+		218		00:10:59		065		-->		00:11:01		499		This isn't possible. 
+		219		00:11:13		246		-->		00:11:14		713		Alyssa? 
+		220		00:11:14		747		-->		00:11:16		715		Yes, Doctor? 
+		221		00:11:16		749		-->		00:11:19		877		Did you see anyone near the lab today? 
+		222		00:11:19		919		-->		00:11:21		511		No, I didn't. 
+		223		00:11:23		523		-->		00:11:25		354		You didn't by chance adjust the environments on the incubation containers? 
+		225		00:11:27		693		-->		00:11:29		957		I would never touch one of your experiments unless you asked me to, Doctor. 
+		227		00:11:31		697		-->		00:11:32		664		Of course not. 
+		228		00:11:32		698		-->		00:11:34		393		I'm sorry, Alyssa. Thank you. 
+		229		00:11:38		137		-->		00:11:40		799		Probe approaching the T-tauri system, Captain. 
+		230		00:11:41		941		-->		00:11:43		238		Readings, Data? 
+		231		00:11:43		276		-->		00:11:44		903		Coming in now, sir. 
+		232		00:11:44		944		-->		00:11:48		345		The probe is within visual range of the planet. 
+		233		00:11:48		381		-->		00:11:49		780		On screen. 
+		234		00:11:49		816		-->		00:11:54		014		Sensors indicate a hydrogen-helium composition with a frozen helium core. 
+		236		00:11:56		055		-->		00:11:57		488		Wait a minute. 
+		237		00:11:57		523		-->		00:12:00		686		Didn't your readings indicate a Class-M planet before we passed through the wormhole, Data? 
+		239		00:12:03		396		-->		00:12:06		365		It is possible that the sensors were affected by interference from the wormhole, Commander. 
+		241		00:12:08		734		-->		00:12:11		703		It is clearly not a Class-M planet. 
+		242		00:12:11		737		-->		00:12:14		934		Mr. Data, run a full diagnostic to make sure that the wormhole didn't permanently damage the sensors. 
+		244		00:12:16		976		-->		00:12:17		943		Aye, sir. 
+		245		00:12:17		977		-->		00:12:20		207		Ensign, take us back on our course... 
+		246		00:12:20		246		-->		00:12:21		213		Captain... 
+		247		00:12:21		247		-->		00:12:22		578		Problem, Number One? 
+		248		00:12:22		615		-->		00:12:25		049		It seems awfully strange that a malfunctioning sensor would give such a specific misreading of a planet. 
+		250		00:12:27		453		-->		00:12:29		819		I would have thought that a time/space disturbance would have caused a lot more confusion than that. 
+		252		00:12:32		291		-->		00:12:35		317		It is conceivable that the sensors picked up the afterimage of an actual planet on the other side of the wormhole. 
+		254		00:12:38		197		-->		00:12:40		791		We could survey the nearby stars for such a planet. 
+		255		00:12:40		833		-->		00:12:43		097		It would require approximately six days, sir. 
+		256		00:12:43		202		-->		00:12:44		999		No, no. We don't have time for that. 
+		257		00:12:45		037		-->		00:12:46		766		We've encountered a minor mystery. 
+		258		00:12:46		806		-->		00:12:49		070		One that has been solved to my satisfaction. 
+		259		00:12:49		108		-->		00:12:51		338		Number One, unless there's a major objection then Ensign McKnight should put us  back on course for Evadne IV. 
+		262		00:12:54		647		-->		00:12:55		614		No objection. 
+		263		00:12:55		648		-->		00:12:56		615		Ensign. 
+		264		00:12:56		649		-->		00:12:57		638		Aye, sir. 
+		265		00:13:06		893		-->		00:13:08		087		Come. 
+		266		00:13:10		363		-->		00:13:13		389		I have something of a minor mystery on my hands. 
+		267		00:13:13		432		-->		00:13:14		763		"A minor mystery..." that seems to be a recurring phrase these days. 
+		269		00:13:18		137		-->		00:13:21		197		Oh... 
+		270		00:13:21		240		-->		00:13:23		868		Diomedian scarlet moss. 
+		271		00:13:23		910		-->		00:13:27		971		I didn't know you were an ethnobotanist. 
+		272		00:13:28		014		-->		00:13:29		379		It's a hobby. 
+		273		00:13:29		415		-->		00:13:31		406		You've got a good crop here. 
+		274		00:13:31		450		-->		00:13:34		442		As I recall, it's not easy to cultivate. 
+		275		00:13:34		487		-->		00:13:35		784		That's just it. 
+		276		00:13:35		821		-->		00:13:37		379		I started these spores right before we were all knocked unconscious by the wormhole. 
+		278		00:13:41		561		-->		00:13:44		086		You said we were unconscious for 30 seconds? 
+		279		00:13:44		197		-->		00:13:45		926		Correct. 
+		280		00:13:45		965		-->		00:13:48		559		Then why do these show a full day's growth? 
+		281		00:13:51		637		-->		00:13:54		663		Perhaps you got some sort of fast-growth strain here. 
+		282		00:13:54		707		-->		00:13:57		232		Each of these incubators was set with spores from completely different sources in the Diomedian system. 
+		284		00:14:00		713		-->		00:14:03		045		I have a dozen more in the lab. 
+		285		00:14:03		149		-->		00:14:06		448		Perhaps something extraordinary happened to one of them but not to all of them. 
+		287		00:14:08		387		-->		00:14:11		515		Doctor, we were not unconscious for a whole day. 
+		288		00:14:11		557		-->		00:14:12		922		Everything on board indicates that we were out for 30 seconds...  the ship's chronometer, the computer  everything, Doctor, including Commander Data. 
+		292		00:14:19		999		-->		00:14:29		169		Jean-Luc, I'm telling you this is over 24 hours of growth. 
+		293		00:14:37		482		-->		00:14:39		780		Captain's Log, supplemental. 
+		294		00:14:39		818		-->		00:14:41		877		Commander Data continues to maintain that we were unconscious for only 30 seconds  despite Dr. Crusher's evidence to the contrary. 
+		297		00:14:47		960		-->		00:14:51		555		Captain, I have a hypothesis. 
+		298		00:14:51		597		-->		00:14:55		829		The 22nd century physicist Pell Underhill conjectured that a major disruption in time continuity  could be compensated for by trillions of counterreactions. 
+		301		00:15:02		975		-->		00:15:06		467		That effect may have allowed Dr. Crusher's moss to arrive at the other side of the wormhole  with the unanticipated growth. 
+		304		00:15:11		149		-->		00:15:13		310		Underhill was talking about energy. 
+		305		00:15:13		352		-->		00:15:14		319		True. 
+		306		00:15:14		353		-->		00:15:16		218		Nevertheless, it is possible that the phenomenon could occur in matter  at higher levels of organization  given the proper conditions. 
+		310		00:15:23		095		-->		00:15:25		029		Thank you, Data. 
+		311		00:15:25		097		-->		00:15:28		191		Intriguing hypothesis. 
+		312		00:15:28		233		-->		00:15:30		030		Well, perhaps we've got a tempest in a test tube, after all. 
+		314		00:15:32		471		-->		00:15:33		768		Captain... 
+		315		00:15:33		805		-->		00:15:35		796		Data, I promised Mr. Nelson that you would assist him with the sensor diagnostic. 
+		317		00:15:39		778		-->		00:15:42		713		You'll find him hard at work on deck 36. 
+		318		00:15:42		748		-->		00:15:44		739		As you wish, Captain. 
+		319		00:15:58		096		-->		00:15:59		256		Do you believe him? 
+		320		00:16:01		700		-->		00:16:03		998		I want a frank answer, Commander. 
+		321		00:16:04		102		-->		00:16:05		729		Not for a second. 
+		322		00:16:05		771		-->		00:16:08		433		I'm amazed he even proposed it. 
+		323		00:16:08		473		-->		00:16:10		805		What are you suggesting, Captain? 
+		324		00:16:10		842		-->		00:16:13		003		I'm not sure, Mr. Worf. 
+		325		00:16:13		111		-->		00:16:17		912		I have never known Data to tell a lie, and yet... 
+		326		00:16:17		950		-->		00:16:20		817		If we never went through that wormhole then what happened to us during that day? 
+		328		00:16:23		922		-->		00:16:27		585		If we were out for a whole day, then why didn't our beards grow? 
+		329		00:16:27		626		-->		00:16:29		821		Whatever it was, it seems it was something 
+		330		00:16:29		861		-->		00:16:31		556		Data didn't want to tell us about. 
+		331		00:16:31		596		-->		00:16:35		760		It could be that whatever caused this situation also affected Data  and it could be that he's telling the truth  and that this is all just a minor mystery. 
+		335		00:16:44		643		-->		00:16:46		702		We could always check the computer's chronometer. 
+		336		00:16:46		745		-->		00:16:48		508		See if there's any evidence of tampering. 
+		337		00:16:48		547		-->		00:16:51		641		A transporter trace analysis might give us another indication of how much time has actually passed. 
+		339		00:16:53		919		-->		00:16:55		887		Doctor, Commander, make it so. 
+		340		00:16:55		921		-->		00:16:58		719		Meanwhile, we will maintain our present course. 
+		341		00:16:58		757		-->		00:17:01		385		If there is something wrong with Data we don't want him to be aware of our suspicions. 
+		343		00:17:11		703		-->		00:17:14		297		Gentlemen, how goes the battle? 
+		344		00:17:14		339		-->		00:17:17		103		Long-range and infrared sensors apparently suffered no ill effects as a result of the wormhole. 
+		346		00:17:19		511		-->		00:17:21		342		We are presently checking neutrino and heavy particle detectors. 
+		348		00:17:22		981		-->		00:17:23		948		Great. 
+		349		00:17:23		982		-->		00:17:25		882		I'll take over now, Data. 
+		350		00:17:25		917		-->		00:17:28		385		Captain wants you back on the Bridge. 
+		351		00:17:28		420		-->		00:17:30		752		See you later in Ten-Forward? 
+		352		00:17:35		394		-->		00:17:39		296		Nelson, I need your help with the computer. 
+		353		00:17:42		067		-->		00:17:43		034		Hello, Chief. 
+		354		00:17:43		068		-->		00:17:44		035		How's the elbow? 
+		355		00:17:44		069		-->		00:17:45		195		Oh, much better, thanks. 
+		356		00:17:45		237		-->		00:17:46		864		This isn't a house call, is it? 
+		357		00:17:46		905		-->		00:17:48		031		No, it's not. 
+		358		00:17:48		106		-->		00:17:49		505		Tell me, do you remember the last person to use the transporter  before we went through the wormhole? 
+		361		00:17:53		879		-->		00:17:55		312		Well, let me check. 
+		362		00:17:57		916		-->		00:17:59		213		Ensign Locklin. 
+		363		00:17:59		251		-->		00:18:01		276		She's one of my technicians. 
+		364		00:18:01		319		-->		00:18:04		117		Tell her to report to Sick Bay immediately. 
+		365		00:18:04		156		-->		00:18:07		523		Electrolyte concentration? 
+		366		00:18:07		559		-->		00:18:09		891		12.5 deviation from previous. 
+		367		00:18:09		928		-->		00:18:11		225		Interesting. 
+		368		00:18:11		263		-->		00:18:13		231		Check the cellular membranes. 
+		369		00:18:13		265		-->		00:18:17		759		I'm willing to bet that the inner turgid pressure is off by almost the same amount. 
+		371		00:18:19		638		-->		00:18:21		629		11.3 deviation from the norm. 
+		372		00:18:21		673		-->		00:18:22		970		Terrific. 
+		373		00:18:23		008		-->		00:18:25		408		That's what I wanted to hear. 
+		374		00:18:25		444		-->		00:18:27		605		Thank you, Ensign Locklin. That'll be all for now. 
+		375		00:18:27		646		-->		00:18:29		841		Crusher to Captain Picard. 
+		376		00:18:29		881		-->		00:18:31		007		What is it, Doctor? 
+		377		00:18:31		049		-->		00:18:32		846		I need to see you immediately. 
+		378		00:18:32		884		-->		00:18:34		681		I'm on my way to Engineering. 
+		379		00:18:34		719		-->		00:18:35		708		Join me. 
+		380		00:18:39		391		-->		00:18:42		417		Physiologically, each of us is on a daily cycle. 
+		381		00:18:42		461		-->		00:18:46		522		Our cells have developed rhythms based on a 24-hour period. 
+		382		00:18:46		565		-->		00:18:47		793		The internal clock. 
+		383		00:18:47		833		-->		00:18:48		993		Exactly. 
+		384		00:18:49		034		-->		00:18:51		832		And I can measure that effect at the molecular level. 
+		385		00:18:51		870		-->		00:18:53		929		I took a trace from the last person to use the transporter before the incident  and compared her cell function levels at that time  to what they are right now. 
+		389		00:19:01		213		-->		00:19:03		841		If we were unconscious for only 30 seconds those cycles should be nearly synchronous. 
+		391		00:19:06		551		-->		00:19:08		212		And were they? 
+		392		00:19:08		253		-->		00:19:10		380		No. 
+		393		00:19:10		422		-->		00:19:14		119		We were out for longer than 30 seconds, Captain. 
+		394		00:19:14		159		-->		00:19:15		956		A lot longer. 
+		395		00:19:25		036		-->		00:19:26		970		I've got some good news and some bad news. 
+		396		00:19:27		005		-->		00:19:28		597		The good news is that we were right about the computer's chronometer. 
+		398		00:19:30		175		-->		00:19:32		370		There's a security program to prevent tampering but it looks now like it was disabled  and a new program put in its place. 
+		401		00:19:36		381		-->		00:19:38		941		Someone has reset the clock. 
+		402		00:19:38		984		-->		00:19:43		011		If that's the good news, what's the bad news? 
+		403		00:19:43		088		-->		00:19:44		680		That Data and I are the only ones aboard this ship capable of doing it. 
+		405		00:19:50		495		-->		00:19:53		157		It is a mystery, Captain. 
+		406		00:19:55		467		-->		00:19:58		231		That is an understatement, Data. 
+		407		00:19:58		270		-->		00:20:01		671		Is it possible that someone or something could have affected you without your knowing? 
+		409		00:20:05		610		-->		00:20:08		044		I am unable to answer that question, sir. 
+		410		00:20:08		146		-->		00:20:09		841		Data, would you consent to being examined by Commander La Forge? 
+		412		00:20:12		851		-->		00:20:14		478		As you wish, Captain. 
+		413		00:20:14		519		-->		00:20:17		317		Will you escort Commander Data to Engineering? 
+		414		00:20:17		355		-->		00:20:19		346		I know the way, sir. 
+		415		00:20:33		690		-->		00:20:35		180		Captain's Log, supplemental. 
+		416		00:20:35		225		-->		00:20:38		854		It has become clear that everyone aboard the Enterprise has lost an entire day. 
+		418		00:20:40		497		-->		00:20:42		727		As the mystery of what actually occurred during those missing hours continues to deepen  so do my doubts about Commander Data. 
+		421		00:20:48		639		-->		00:20:50		664		We'll start with the higher functions before we get down to basics, okay? 
+		423		00:20:52		676		-->		00:20:57		170		All right. Now, this won't hurt a bit. 
+		424		00:20:57		214		-->		00:21:00		479		Have you forgotten, Geordi, that my sensory inputs are not programmed to experience pain? 
+		426		00:21:03		020		-->		00:21:05		181		It's a figure of speech, Data... bedside manner. 
+		427		00:21:05		222		-->		00:21:08		123		You know, I'm just trying to make you feel comfortable. 
+		428		00:21:08		158		-->		00:21:10		683		I am perfectly comfortable. 
+		429		00:21:10		727		-->		00:21:13		992		Pattern recognition, syntactic algorithms heuristic functions all normal. 
+		431		00:21:16		400		-->		00:21:18		197		I have noticed, however that you appear a bit uncomfortable yourself. 
+		433		00:21:23		607		-->		00:21:24		699		Well, it just seems like you're not being completely honest with us, Data. 
+		435		00:21:28		045		-->		00:21:29		137		I'm your friend. 
+		436		00:21:29		179		-->		00:21:31		340		If there's something wrong, I want you to tell me. 
+		437		00:21:31		381		-->		00:21:33		076		Maybe I can help. 
+		438		00:21:35		218		-->		00:21:36		583		I cannot tell you anything beyond what I have already stated. 
+		440		00:21:40		490		-->		00:21:42		082		Okay. 
+		441		00:21:49		533		-->		00:21:50		693		Excuse us, Counselor? 
+		442		00:21:50		734		-->		00:21:51		826		Mm-hmm. 
+		443		00:21:51		868		-->		00:21:55		497		Captain, I've finished examining Data. 
+		444		00:21:55		539		-->		00:21:57		006		And? 
+		445		00:21:57		040		-->		00:21:59		474		Nothing's wrong with the technology that I can see. 
+		446		00:21:59		509		-->		00:22:01		977		He's in perfect condition. 
+		447		00:22:02		045		-->		00:22:04		138		I was almost hoping that you'd find a problem. 
+		448		00:22:04		181		-->		00:22:06		206		Well, he still could be malfunctioning beyond my ability to detect it. 
+		450		00:22:07		951		-->		00:22:09		418		This entire mystery started when our sensors detected that planet. 
+		452		00:22:11		555		-->		00:22:13		523		First, it was Class-M, now it isn't. 
+		453		00:22:13		557		-->		00:22:15		354		Our sensors were malfunctioning but our probe clearly established  the planet could not support life. 
+		456		00:22:19		429		-->		00:22:21		192		Data launched that probe. 
+		457		00:22:21		231		-->		00:22:23		256		If he rigged it, could you prove it? 
+		458		00:22:23		300		-->		00:22:25		530		I could try. 
+		459		00:22:25		569		-->		00:22:29		005		What happened to us during that missing day? 
+		460		00:22:29		072		-->		00:22:31		506		Surely, there must be some clues. 
+		461		00:22:31		541		-->		00:22:34		009		Each of us should try and think of what we were doing just before we blacked out. 
+		463		00:22:36		313		-->		00:22:37		371		Reenact it if... 
+		464		00:22:37		414		-->		00:22:38		745		Counselor? 
+		465		00:22:40		984		-->		00:22:42		611		Deanna, are you all right? 
+		466		00:22:42		652		-->		00:22:44		483		Just a moment. 
+		467		00:22:47		023		-->		00:22:48		012		Yes. 
+		468		00:22:49		025		-->		00:22:49		992		Yes, I'm fine. 
+		469		00:22:50		026		-->		00:22:50		993		What happened? 
+		470		00:22:51		027		-->		00:22:54		019		I suddenly became dizzy. 
+		471		00:22:54		131		-->		00:22:55		996		I think I'd better go to my quarters. 
+		472		00:22:56		032		-->		00:22:58		796		Perhaps the Sick Bay would be a better idea. 
+		473		00:22:58		835		-->		00:23:01		531		No, no, really, I'm all right. 
+		474		00:23:01		571		-->		00:23:04		335		Will you see the Counselor to her quarters? 
+		475		00:23:04		374		-->		00:23:05		363		Aye, sir. 
+		476		00:23:14		651		-->		00:23:17		381		Thank you for coming with me, Mr. Worf. 
+		477		00:23:17		420		-->		00:23:19		251		You are certain you are well? 
+		478		00:23:19		289		-->		00:23:21		280		I just need some rest. 
+		479		00:23:21		324		-->		00:23:22		313		Thanks. 
+		480		00:23:31		735		-->		00:23:33		532		Deanna! 
+		481		00:23:33		570		-->		00:23:37		370		Security, override the lock on Counselor Troi's quarters. 
+		482		00:23:37		407		-->		00:23:38		396		Now! 
+		483		00:23:43		580		-->		00:23:45		810		What's wrong? 
+		484		00:23:45		849		-->		00:23:47		111		The mirror. 
+		485		00:23:47		150		-->		00:23:48		845		I came in here. 
+		486		00:23:48		885		-->		00:23:51		820		I looked into the mirror. 
+		487		00:23:51		855		-->		00:23:54		016		It wasn't me, Worf. 
+		488		00:23:54		124		-->		00:23:55		648		It wasn't me! 
+		489		00:23:55		692		-->		00:23:58		593		It was my face, but it wasn't me inside. 
+		490		00:24:04		768		-->		00:24:06		326		Is she all right? 
+		491		00:24:06		369		-->		00:24:07		666		I feel fine... now. 
+		493		00:24:09		039		-->		00:24:10		506		Signs of stress. 
+		494		00:24:10		540		-->		00:24:13		839		Adrenaline by-products higher than baseline. 
+		495		00:24:13		877		-->		00:24:16		505		But that's a normal reaction after sudden fright. 
+		496		00:24:16		546		-->		00:24:18		411		All brain functions check out okay. 
+		497		00:24:18		448		-->		00:24:19		710		What happened, Deanna? 
+		498		00:24:19		749		-->		00:24:21		842		It wasn't what I saw. 
+		499		00:24:21		885		-->		00:24:24		615		It was... more what I felt. 
+		500		00:24:24		654		-->		00:24:28		283		I looked into the mirror and it seemed a stranger was staring back at me  from behind my own eyes...  as if my face was a mask. 
+		504		00:24:40		403		-->		00:24:42		462		La Forge to Captain Picard. 
+		505		00:24:42		505		-->		00:24:43		767		Go ahead, Geordi. 
+		506		00:24:43		807		-->		00:24:45		832		I've found something, sir. 
+		507		00:24:45		876		-->		00:24:46		934		I'm on my way. 
+		508		00:24:48		345		-->		00:24:50		313		Lieutenant Worf. 
+		509		00:24:50		347		-->		00:24:51		644		Doctor. 
+		510		00:24:51		681		-->		00:24:53		672		Can I help you? 
+		511		00:24:57		220		-->		00:24:58		482		Perhaps not. 
+		512		00:24:58		521		-->		00:25:02		457		Worf, you came in here for something. 
+		513		00:25:04		194		-->		00:25:08		130		A warrior does not complain about physical discomfort. 
+		514		00:25:09		666		-->		00:25:10		792		But the Captain ordered us to report anything out of the ordinary. 
+		516		00:25:12		636		-->		00:25:14		695		Are you in pain? 
+		517		00:25:18		375		-->		00:25:20		536		How did this happen? 
+		518		00:25:25		282		-->		00:25:29		150		Do you recognize this planet, Data? 
+		519		00:25:29		186		-->		00:25:30		813		Yes, sir. 
+		520		00:25:30		855		-->		00:25:35		121		It is the planet our probes detected in the T-tauri system. 
+		521		00:25:35		159		-->		00:25:37		957		No, it's not. 
+		522		00:25:38		028		-->		00:25:41		464		Actually, it's Tethys III. 
+		523		00:25:41		498		-->		00:25:44		126		I retrieved this image from the ship's library. 
+		524		00:25:44		168		-->		00:25:47		399		Its geophysical figures have been slightly altered but it's definitely Tethys III. 
+		526		00:25:49		506		-->		00:25:51		167		Strange that an obscure planet hundreds of light-years from here  should be picked up by the probe. 
+		529		00:25:58		082		-->		00:25:59		344		Data did you take this image from the ship's library  and program the probe to send it back to us? 
+		532		00:26:05		022		-->		00:26:08		219		I cannot verify that hypothesis. 
+		533		00:26:08		259		-->		00:26:10		921		But you don't deny it. 
+		534		00:26:10		995		-->		00:26:11		984		No, sir. 
+		535		00:26:13		964		-->		00:26:16		398		Mr. La Forge, will you send another probe to the T-tauri system? 
+		537		00:26:17		835		-->		00:26:19		666		Yes, sir. 
+		538		00:26:21		672		-->		00:26:23		663		I'm sorry, Data. 
+		539		00:26:28		979		-->		00:26:34		940		Counselor Troi has just had a very disturbing hallucination. 
+		540		00:26:36		654		-->		00:26:38		212		Is she all right, sir? 
+		541		00:26:38		255		-->		00:26:39		813		For the moment. 
+		542		00:26:39		857		-->		00:26:43		759		Can you tell me if Deanna's incident is related in any way to this missing time period? 
+		544		00:26:47		097		-->		00:26:49		622		No, sir, I cannot. 
+		545		00:26:49		667		-->		00:26:51		692		Data, you are the key to this entire mystery and you have done nothing  but block my every attempt to solve it. 
+		548		00:26:54		805		-->		00:26:56		102		Why are you fighting me? 
+		549		00:26:56		140		-->		00:26:58		267		It is not by choice. 
+		550		00:26:58		309		-->		00:27:00		709		What do you mean by that? 
+		551		00:27:00		744		-->		00:27:02		234		I cannot say. 
+		552		00:27:02		279		-->		00:27:05		578		Would you rather endanger Deanna, a friend and colleague than tell me what is going on? 
+		554		00:27:09		153		-->		00:27:11		121		Which would you place first... the welfare of a single individual  or that of the entire crew? 
+		557		00:27:17		628		-->		00:27:19		289		Are you saying that by not cooperating you are actually protecting us? 
+		559		00:27:21		732		-->		00:27:23		666		I am not saying that at all. 
+		560		00:27:23		701		-->		00:27:27		603		I merely state a possible alternative explanation. 
+		561		00:27:27		638		-->		00:27:34		009		Then, Mr. Data, I'm going to ask you again... and I order you to directly answer me. 
+		563		00:27:42		386		-->		00:27:44		877		What really happened to us? 
+		564		00:27:44		922		-->		00:27:47		618		I cannot answer that. 
+		565		00:27:50		661		-->		00:27:52		891		What would you have me do, Data? 
+		566		00:27:52		930		-->		00:27:57		060		How would you handle this if our positions were reversed? 
+		567		00:27:59		336		-->		00:28:01		031		I am apparently guilty of falsifying the Enterprise's records  of interfering with an investigation  of disobeying a direct order from my commanding officer. 
+		571		00:28:13		217		-->		00:28:15		447		Your duty seems clear, sir. 
+		572		00:28:16		954		-->		00:28:19		923		Do you know what a court-martial would mean? 
+		573		00:28:20		024		-->		00:28:23		016		Your career in Starfleet would be finished. 
+		574		00:28:23		060		-->		00:28:25		551		I realize that, sir. 
+		575		00:28:25		596		-->		00:28:26		858		Do you also realize that you would most likely be stripped down to your wires  to find out what the hell has gone wrong? 
+		578		00:28:32		102		-->		00:28:34		036		Yes, sir. 
+		579		00:28:34		071		-->		00:28:35		436		I do. 
+		580		00:28:43		947		-->		00:28:47		405		This wrist has been broken... broken and reset and treated with one of our own subcutaneous bone fusion units. 
+		582		00:28:50		788		-->		00:28:52		415		During the missing day? 
+		583		00:28:52		456		-->		00:28:54		924		That's the only possibility. 
+		584		00:28:54		958		-->		00:28:57		927		Are you suggesting he was conscious? 
+		585		00:28:57		961		-->		00:28:59		588		I'm suggesting that maybe we all were. 
+		586		00:28:59		630		-->		00:29:02		258		I certainly didn't repair a broken wrist while I was unconscious. 
+		588		00:29:04		201		-->		00:29:06		328		And our memories of that day? 
+		589		00:29:06		370		-->		00:29:07		997		Blocked. 
+		590		00:29:08		038		-->		00:29:09		665		Possibly erased. 
+		591		00:29:09		706		-->		00:29:11		037		By whom? 
+		592		00:29:11		075		-->		00:29:13		908		There are very few individuals on board who could have broken my wrist. 
+		594		00:29:16		313		-->		00:29:19		476		Commander Data is one of those individuals. 
+		595		00:29:19		516		-->		00:29:21		711		I can't accept that explanation. 
+		596		00:29:21		752		-->		00:29:24		312		Well, he does possess the speed and the strength. 
+		597		00:29:24		354		-->		00:29:25		582		Granted. 
+		598		00:29:25		622		-->		00:29:27		317		But I'm beginning to suspect that Commander Data is refusing to cooperate  because he believes that he is acting  in the best interests of the Enterprise. 
+		602		00:29:34		832		-->		00:29:36		459		La Forge to Captain Picard. 
+		603		00:29:36		500		-->		00:29:37		489		Go ahead, Geordi. 
+		604		00:29:37		534		-->		00:29:39		729		Our probe is approaching the planet, sir. 
+		605		00:29:39		770		-->		00:29:42		364		Acknowledged. Maybe now we'll get some answers. 
+		606		00:29:48		245		-->		00:29:49		644		What do you have, Mr. La Forge? 
+		607		00:29:49		680		-->		00:29:51		545		Visuals available now, Captain. 
+		608		00:29:51		582		-->		00:29:53		413		M-Class. Nickel-iron core. 
+		609		00:29:53		450		-->		00:29:56		283		Nitrogen-oxygen atmosphere. 
+		610		00:29:56		320		-->		00:29:59		084		The same planet our sensors picked up before the so-called wormhole. 
+		612		00:30:01		492		-->		00:30:02		584		Affirmative. 
+		613		00:30:02		626		-->		00:30:04		560		No indication of any space/time distortion whatsoever. 
+		615		00:30:05		662		-->		00:30:07		755		The probe should at least be detecting some residual effect, even if the wormhole is inactive. 
+		617		00:30:10		868		-->		00:30:13		666		That's because there is no wormhole. 
+		618		00:30:13		704		-->		00:30:15		501		There never was. 
+		619		00:30:15		539		-->		00:30:17		336		Sir? 
+		620		00:30:17		374		-->		00:30:20		866		It was a ruse designed to throw us off the track. 
+		621		00:30:20		911		-->		00:30:22		276		Look at the clues... 
+		622		00:30:22		312		-->		00:30:24		803		Dr. Crusher's incubation experiment the computer clock, the transporter trace...  all indicate the existence of a missing day. 
+		625		00:30:30		888		-->		00:30:34		847		Lieutenant Worf's broken wrist would seem to suggest that... we were awake and aware for that day. 
+		627		00:30:39		329		-->		00:30:42		423		Possibly in a struggle for our lives. 
+		628		00:30:42		466		-->		00:30:45		958		The fact that we're still alive suggests we might have won. 
+		629		00:30:46		003		-->		00:30:47		402		Not necessarily, Doctor. 
+		630		00:30:47		437		-->		00:30:50		429		Data's behavior would seem to suggest that we did not. 
+		631		00:30:50		474		-->		00:30:53		409		Why else would he be willing to sacrifice his career rather than tell the truth? 
+		633		00:30:55		012		-->		00:30:58		140		If we didn't win, and we didn't lose... 
+		634		00:30:58		182		-->		00:31:02		050		Then the only alternative would be a stalemate. 
+		635		00:31:02		085		-->		00:31:04		713		Maybe a compromise was reached. 
+		636		00:31:04		755		-->		00:31:08		156		A compromise that forced Data into this silence. 
+		637		00:31:08		192		-->		00:31:09		659		Then maybe by uncovering all this we'd run the risk of upsetting the stalemate. 
+		639		00:31:11		762		-->		00:31:13		593		Maybe we should leave well-enough alone. 
+		640		00:31:13		630		-->		00:31:14		722		Possibly, Number One. 
+		641		00:31:14		765		-->		00:31:17		131		And I would be prepared to live with a mystery but Data's role in this must be ascertained  or he'll never be trusted with Starfleet duty again. 
+		644		00:31:22		172		-->		00:31:25		335		Ensign, take us back to the scene of the crime... the T-tauri system. Warp two. 
+		646		00:31:32		547		-->		00:31:34		174		Within sensor range, Captain. 
+		647		00:31:34		215		-->		00:31:35		648		Drop to impulse, Ensign. 
+		648		00:31:35		683		-->		00:31:38		379		Mr. Worf, maximum shields. Ready all weapons. 
+		649		00:31:38		419		-->		00:31:40		046		Shields up. 
+		650		00:31:40		088		-->		00:31:42		648		Photon torpedoes armed, phasers standing by. 
+		651		00:31:43		791		-->		00:31:46		316		Captain, an energy field has appeared between our position and the planet. 
+		653		00:31:48		329		-->		00:31:50		024		On screen. 
+		654		00:31:54		102		-->		00:31:55		729		Hold position. 
+		655		00:31:55		770		-->		00:31:57		761		Let's see what it does. 
+		656		00:31:57		805		-->		00:31:59		705		The field has emitted an energy pulse approaching the Enterprise. 
+		658		00:32:01		242		-->		00:32:03		676		Too slow to be a photon torpedo. 
+		659		00:32:05		446		-->		00:32:07		914		It might be a probe. 
+		660		00:32:08		016		-->		00:32:11		144		Let's see what happens when it hits the shields. 
+		661		00:32:15		156		-->		00:32:16		919		Shields undamaged. 
+		662		00:32:16		991		-->		00:32:19		619		The energy pulse has dispersed. 
+		663		00:32:41		349		-->		00:32:43		146		Counselor Troi... what is it? 
+		665		00:32:44		786		-->		00:32:47		311		The plan has failed. 
+		666		00:32:49		624		-->		00:32:51		592		You have returned. 
+		667		00:32:51		626		-->		00:32:55		255		Your ship is again in our space. 
+		668		00:32:55		296		-->		00:32:57		594		I was unable to prevent it. 
+		669		00:32:57		632		-->		00:32:59		930		Nevertheless, you are here. 
+		670		00:32:59		968		-->		00:33:03		028		The Enterprise is not a threat to you. 
+		671		00:33:03		071		-->		00:33:04		038		Give me more time. 
+		672		00:33:04		072		-->		00:33:05		596		Our destruction would only... 
+		673		00:33:05		640		-->		00:33:09		599		Data, Captain wanted me to bring you to the Bridge. 
+		674		00:33:09		644		-->		00:33:11		441		Counselor? 
+		675		00:33:11		479		-->		00:33:13		811		One moment, if you would. 
+		676		00:33:18		319		-->		00:33:19		911		Do nothing. 
+		677		00:33:19		988		-->		00:33:23		549		It may yet be possible to salvage the situation. 
+		678		00:33:31		332		-->		00:33:33		323		Reporting as ordered, Captain. 
+		679		00:33:35		837		-->		00:33:40		501		Well, Data, as you can see, we're back where it all started. 
+		680		00:33:41		809		-->		00:33:43		674		We must leave immediately, sir. 
+		681		00:33:45		046		-->		00:33:46		104		Why? 
+		682		00:33:46		147		-->		00:33:49		310		Any further delay would put us all at grave risk. 
+		683		00:33:49		350		-->		00:33:51		147		Why? 
+		684		00:33:51		185		-->		00:33:54		450		What is the source of that risk? 
+		685		00:33:54		489		-->		00:33:55		786		The energy field? 
+		686		00:33:55		823		-->		00:33:58		656		I cannot say. 
+		687		00:33:58		693		-->		00:34:01		389		Data, you sound as if you're stuck in a... feedback loop. 
+		689		00:34:03		297		-->		00:34:04		889		You certainly can say. 
+		690		00:34:04		966		-->		00:34:06		399		You have free will. 
+		691		00:34:06		434		-->		00:34:07		799		You have a choice. 
+		692		00:34:07		835		-->		00:34:09		826		My silence is not by choice, sir. 
+		693		00:34:09		871		-->		00:34:11		338		Not by choice? 
+		694		00:34:11		372		-->		00:34:14		808		Are you somehow controlled by that force? 
+		695		00:34:14		842		-->		00:34:18		835		Did Geordi miss something when he examined you? 
+		696		00:34:18		880		-->		00:34:21		144		Geordi's examination was exemplary. 
+		697		00:34:21		182		-->		00:34:24		618		Then why are you compelled to disobey my orders? 
+		698		00:34:24		652		-->		00:34:25		812		How...? 
+		699		00:34:28		656		-->		00:34:32		251		During the missing day... were you contacted by Starfleet? 
+		701		00:34:35		430		-->		00:34:40		026		Did they order you to conceal the truth from us? 
+		702		00:34:40		068		-->		00:34:41		729		I cannot answer that. 
+		703		00:34:41		769		-->		00:34:43		066		We must leave, sir. 
+		704		00:34:43		104		-->		00:34:48		269		This ship isn't going anywhere, not until I get an answer. 
+		705		00:34:48		309		-->		00:34:50		903		Now, who gave you that order? 
+		706		00:35:03		124		-->		00:35:05		024		You did, sir. 
+		707		00:35:13		101		-->		00:35:16		332		I ordered you to lie? 
+		708		00:35:16		370		-->		00:35:19		203		Captain, the energy field is approaching. 
+		709		00:35:24		245		-->		00:35:26		179		Maintain shields at full intensity. 
+		710		00:35:26		214		-->		00:35:28		182		No, we must vary shield shape and strength as rapidly as possible. 
+		712		00:35:29		917		-->		00:35:32		477		Maximum shields will only speed the ship's takeover. 
+		713		00:35:32		520		-->		00:35:34		010		Contact imminent. 
+		714		00:35:34		055		-->		00:35:35		682		Do as Data says. At once. 
+		715		00:35:35		723		-->		00:35:37		156		Aye, sir. 
+		716		00:35:42		512		-->		00:35:45		481		The field is shifting amplitude, trying to match our shields. 
+		717		00:35:45		515		-->		00:35:48		575		The energy field will eventually penetrate our shields, sir. 
+		718		00:35:48		618		-->		00:35:51		178		There is no way to counter the Paxans' technology. 
+		719		00:35:51		221		-->		00:35:55		681		We can delay their takeover, but we cannot prevent it. 
+		720		00:35:55		725		-->		00:35:56		783		The Paxans? 
+		721		00:35:56		827		-->		00:35:58		226		Who are they? 
+		722		00:36:03		333		-->		00:36:05		733		You have invaded our system. 
+		723		00:36:05		769		-->		00:36:07		134		No. 
+		724		00:36:07		170		-->		00:36:08		159		Worf! 
+		725		00:36:08		205		-->		00:36:10		196		You will only harm Counselor Troi's body. 
+		726		00:36:10		240		-->		00:36:12		140		We are not invaders. 
+		727		00:36:12		175		-->		00:36:14		700		We are explorers. 
+		728		00:36:14		744		-->		00:36:18		805		Your knowledge of us is unacceptable. 
+		729		00:36:18		849		-->		00:36:22		307		They are xenophobes, sir... isolationists. 
+		730		00:36:22		352		-->		00:36:25		446		The Paxans terraformed a protoplanet in this system in order to better conceal their whereabouts. 
+		732		00:36:28		358		-->		00:36:30		622		The apparent wormhole we experienced is actually a trap to keep out invaders. 
+		734		00:36:33		230		-->		00:36:34		492		The energy field stuns everyone on board the invading vessel  and then places them in a state of biochemical stasis. 
+		737		00:36:40		070		-->		00:36:42		061		That explains why our beards didn't grow. 
+		738		00:36:42		105		-->		00:36:45		097		The Paxans then take the ship out of their territory. 
+		739		00:36:45		141		-->		00:36:47		507		So the crew wakes up and thinks they've been through a wormhole. 
+		740		00:36:47		544		-->		00:36:49		171		They count their blessings and keep going? 
+		741		00:36:49		212		-->		00:36:50		736		Precisely. 
+		742		00:36:50		780		-->		00:36:52		748		What went wrong this time? 
+		743		00:36:52		782		-->		00:36:54		443		My positronic brain is a technology unknown to the Paxans. 
+		745		00:36:57		320		-->		00:36:59		788		Our stun-field had no effect on him. 
+		746		00:36:59		823		-->		00:37:01		450		He remained conscious while we tried to take over the ship. 
+		748		00:37:04		160		-->		00:37:06		822		When I realized the crew was incapacitated 
+		749		00:37:06		863		-->		00:37:08		990		I initiated emergency procedures. 
+		750		00:37:13		169		-->		00:37:17		469		Computer, engage Emergency Plan Zed Zed Alpha. 
+		751		00:37:17		507		-->		00:37:21		204		Automatic defense procedures initiated. 
+		752		00:37:21		244		-->		00:37:24		304		Energy field strength increasing. 
+		753		00:37:27		517		-->		00:37:30		315		Computer, begin random fluctuation of shield frequency and modulation. 
+		755		00:37:32		689		-->		00:37:34		350		Executed. 
+		756		00:37:34		391		-->		00:37:37		986		With the Enterprise temporarily protected, I revived the crew. 
+		757		00:37:40		096		-->		00:37:44		499		Computer, release compound ADTH into the air flow system. 
+		758		00:37:44		534		-->		00:37:46		331		Five parts per million. 
+		759		00:37:46		369		-->		00:37:47		893		Acknowledged. 
+		760		00:37:47		971		-->		00:37:50		337		Initiating compound release now. 
+		761		00:37:59		649		-->		00:38:00		946		Status, Data? 
+		762		00:38:00		984		-->		00:38:03		782		The energy field is attempting to match the shield frequency, sir. 
+		764		00:38:05		655		-->		00:38:06		781		Options, Mr. Worf? 
+		765		00:38:06		823		-->		00:38:09		792		I do not recommend weapons at this range, Captain. 
+		766		00:38:09		826		-->		00:38:10		850		Can we go to warp? 
+		767		00:38:10		894		-->		00:38:12		623		Negative, sir. The field is also acting as a tractor beam. 
+		769		00:38:15		332		-->		00:38:18		426		Warning. Shields have been penetrated. 
+		770		00:38:18		468		-->		00:38:20		368		All systems are frozen, Captain. 
+		771		00:38:20		403		-->		00:38:23		304		The Paxans can manipulate energy structures on many levels. 
+		773		00:38:24		474		-->		00:38:26		874		They took control of Counselor Troi's body to communicate with us. 
+		775		00:38:31		848		-->		00:38:32		837		Captain! 
+		776		00:38:38		722		-->		00:38:40		713		No, stop, everyone. 
+		777		00:38:42		359		-->		00:38:43		849		Who are you? 
+		778		00:38:43		893		-->		00:38:46		885		You are aware of our existence. 
+		779		00:38:46		930		-->		00:38:50		764		Our attempt to place you in biochemical stasis has failed. 
+		780		00:38:50		800		-->		00:38:54		133		We have no choice but to destroy this ship. 
+		781		00:38:55		438		-->		00:38:56		996		If you destroy this ship then others will come in search of us. 
+		783		00:38:59		743		-->		00:39:01		506		You may not be able to stop them all. 
+		784		00:39:01		544		-->		00:39:03		011		Knowledge of your civilization will be spread across half the galaxy. 
+		786		00:39:04		948		-->		00:39:06		540		No. 
+		787		00:39:06		583		-->		00:39:09		518		Allow us safe passage and I will protect your right to privacy  to the best of my ability. 
+		790		00:39:14		290		-->		00:39:16		815		We will never tell anyone of your existence. 
+		791		00:39:16		860		-->		00:39:20		455		There are over 1,000 life-forms on this vessel. 
+		792		00:39:20		497		-->		00:39:23		193		How could you assure their silence? 
+		793		00:39:24		734		-->		00:39:27		862		This biochemical stasis... does it suppress synaptic function? 
+		795		00:39:30		674		-->		00:39:32		801		It does. 
+		796		00:39:32		842		-->		00:39:35		811		Then you have the capability of affecting memory. 
+		797		00:39:35		845		-->		00:39:37		870		Can you erase the short-term memory of everyone on this ship? 
+		799		00:39:39		549		-->		00:39:41		642		Remove all knowledge of this event? 
+		800		00:39:41		685		-->		00:39:44		552		Allow us to proceed as if it had never happened? 
+		801		00:39:44		587		-->		00:39:46		885		It would take time. 
+		802		00:39:46		956		-->		00:39:49		220		One of your days. 
+		803		00:39:51		261		-->		00:39:54		094		He is immune to our influence. 
+		804		00:39:56		599		-->		00:40:00		057		Data, I'm going to give you a most unusual order. 
+		805		00:40:00		103		-->		00:40:03		334		I'm not sure that you will be able to integrate it into your program. 
+		807		00:40:04		607		-->		00:40:05		801		As a Starfleet officer 
+		808		00:40:05		842		-->		00:40:08		709		I am required to follow all of your orders, Captain. 
+		809		00:40:08		745		-->		00:40:11		213		Good... because our survival depends on it. 
+		811		00:40:14		317		-->		00:40:17		582		I am ordering you never to reveal what has happened here today...  not to Starfleet, not to myself even. 
+		814		00:40:23		093		-->		00:40:27		462		You will conceal your knowledge of the Paxans for as long as you exist. 
+		816		00:40:30		200		-->		00:40:33		465		Do you fully understand, Data? 
+		817		00:40:33		503		-->		00:40:34		800		Completely, sir. 
+		818		00:40:37		107		-->		00:40:38		574		Satisfactory? 
+		819		00:40:38		608		-->		00:40:40		508		Agreed. 
+		820		00:40:40		543		-->		00:40:41		908		Good. 
+		821		00:40:41		945		-->		00:40:46		405		Now, our task is to eliminate from the ship's records any information that might lead to knowledge of this incident. 
+		823		00:40:51		821		-->		00:40:54		187		Let's get to work. 
+		824		00:40:54		224		-->		00:40:55		851		We proceeded to erase all evidence of our encounter with the Paxans. 
+		826		00:40:57		527		-->		00:40:59		222		I reset the computer's chronometer. 
+		827		00:40:59		262		-->		00:41:00		251		And again, the crew was stunned into unconsciousness  their short-term memories erased. 
+		830		00:41:03		700		-->		00:41:05		429		When they were revived a day later the computer adjustments made it appear that only 
+		832		00:41:08		071		-->		00:41:09		698		30 seconds had passed. 
+		833		00:41:09		739		-->		00:41:11		366		And here we are. 
+		834		00:41:11		407		-->		00:41:13		034		Here we are again. 
+		835		00:41:13		076		-->		00:41:14		737		Your plan has failed. 
+		836		00:41:14		778		-->		00:41:17		110		This ship must be destroyed. 
+		837		00:41:17		147		-->		00:41:18		546		No, wait! 
+		838		00:41:18		581		-->		00:41:22		039		The plan failed because clues were left behind that suggested a mystery, and to many humans  a mystery is irresistible. 
+		841		00:41:28		191		-->		00:41:29		385		It must be solved. 
+		842		00:41:29		425		-->		00:41:32		053		The Doctor's incubation experiment, Worf's wrist 
+		843		00:41:32		095		-->		00:41:33		824		Troi's hallucinations... little pieces of evidence that suggested even more clues. 
+		845		00:41:38		434		-->		00:41:42		165		The clock, the transporter trace 
+		846		00:41:42		205		-->		00:41:44		537		Data's odd behavior. 
+		847		00:41:44		574		-->		00:41:49		409		If we eliminate the clues and begin again... 
+		848		00:41:49		445		-->		00:41:50		412		Again? 
+		849		00:41:50		446		-->		00:41:51		470		Yes. 
+		850		00:41:51		514		-->		00:41:53		675		Consider the first time a run-through, a rehearsal, to shake out the flaws. 
+		852		00:41:58		221		-->		00:42:02		681		The second time will succeed if we leave no clues. 
+		853		00:42:02		725		-->		00:42:06		183		You are a most unusual species... worthy of a second chance. 
+		855		00:42:08		731		-->		00:42:10		062		Proceed. 
+		856		00:42:15		505		-->		00:42:17		166		Deanna? 
+		857		00:42:22		078		-->		00:42:24		638		Welcome back, Counselor. 
+		858		00:42:24		681		-->		00:42:27		309		Geordi, Data, reconfigure the computer and the records. 
+		859		00:42:27		350		-->		00:42:29		910		Number One, I want you to oversee the rest of the ship and this time... let's get it right. 
+		861		00:42:46		777		-->		00:42:47		869		What happened, Data? 
+		862		00:42:47		944		-->		00:42:50		811		The effect from the wormhole was rather intense, sir. 
+		863		00:42:50		847		-->		00:42:52		178		So it would seem. 
+		864		00:42:52		215		-->		00:42:54		683		Everyone but myself was rendered unconscious. 
+		865		00:42:54		718		-->		00:42:57		209		My positronic system is immune to the effect. 
+		866		00:42:57		254		-->		00:42:58		881		How long were we out? 
+		867		00:42:58		989		-->		00:43:00		115		30 seconds, sir. 
+		868		00:43:00		157		-->		00:43:01		715		Current position? 
+		869		00:43:01		758		-->		00:43:05		455		.54 parsecs from our previous position. 
+		870		00:43:05		495		-->		00:43:07		395		Bearing 285 mark 147. 
+		871		00:43:07		431		-->		00:43:08		796		It could be worse. 
+		872		00:43:08		832		-->		00:43:10		299		Yes, sir. 
+		873		00:43:10		333		-->		00:43:12		824		The wormhole appears to have been a local phenomenon. 
+		874		00:43:12		903		-->		00:43:14		302		Crusher to Bridge. 
+		875		00:43:14		337		-->		00:43:15		804		What happened, Captain? 
+		876		00:43:15		839		-->		00:43:18		239		The Enterprise went through a wormhole, Doctor. 
+		877		00:43:18		275		-->		00:43:19		503		It seems the entire crew was unconscious for approximately 30 seconds. 
+		879		00:43:21		878		-->		00:43:23		971		Is anyone on the Bridge hurt? 
+		880		00:43:24		014		-->		00:43:25		311		Apparently not. 
+		881		00:43:25		348		-->		00:43:26		713		I'll start checking the other decks. 
+		882		00:43:26		750		-->		00:43:27		717		Crusher out. 
+		883		00:43:27		751		-->		00:43:30		242		Status reports? 
+		884		00:43:30		287		-->		00:43:32		517		Shields and weapon systems unaffected. 
+		885		00:43:32		556		-->		00:43:34		319		No damage in Engineering. 
+		886		00:43:34		357		-->		00:43:35		324		Counselor? 
+		887		00:43:35		358		-->		00:43:36		518		There's a general feeling of disorientation on board  but nothing serious, as far as I can tell. 
+		890		00:43:39		896		-->		00:43:41		261		Very well. 
+		891		00:43:41		298		-->		00:43:44		290		There's still that anomalous Class-M planet we were going to investigate. 
+		893		00:43:46		470		-->		00:43:48		438		Ensign, replot a course to take us back... 
+		894		00:43:48		472		-->		00:43:51		407		Sir, it is likely the anomalous readings were the result of the wormhole's effect. 
+		896		00:43:53		510		-->		00:43:55		535		It was extremely unstable. 
+		897		00:43:55		579		-->		00:43:57		809		I would recommend against returning. 
+		898		00:43:57		848		-->		00:44:00		646		It might put the Enterprise at further risk. 
+		899		00:44:00		684		-->		00:44:02		413		We could launch a probe. 
+		900		00:44:02		452		-->		00:44:04		113		That would certainly be sufficient, sir. 
+		901		00:44:11		828		-->		00:44:13		022		Make it so and put out a hazard advisory to Starfleet. 
+		903		00:44:15		899		-->		00:44:17		992		Ensign, set a course for Evadne IV. 
+		904		00:44:18		034		-->		00:44:19		023		Aye, sir. 
+		905		00:44:20		670		-->		00:44:21		830		Engage. 

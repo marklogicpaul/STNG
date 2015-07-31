@@ -1,0 +1,507 @@
+		1		00:00:03		128		-->		00:00:07		007		Captain's log, stardate <stardate>42402</stardate>.7. 
+		2		00:00:07		174		-->		00:00:11		887		We're in the Omega Sagitta system traversing between the twin planets that form the Coalition of Madena. 
+		4		00:00:14		473		-->		00:00:17		226		Both worlds are populated by a humanoid race which colonised the planets two centuries ago. 
+		6		00:00:20		395		-->		00:00:24		525		They coexist under a precarious but successful treaty. 
+		7		00:00:25		526		-->		00:00:28		278		Unidentified vessel approaching. 
+		8		00:00:34		493		-->		00:00:37		329		Sensors show a small, class-9 vessel, probably an interplanetary cargo ship. 
+		10		00:00:41		250		-->		00:00:42		918		One life sign aboard, sir. 
+		11		00:00:43		377		-->		00:00:45		963		It appears to be humanoid. 
+		12		00:00:46		839		-->		00:00:49		299		- I have its call sign now. - Confirmed. 
+		13		00:00:50		133		-->		00:00:51		885		Armed with lasers only. 
+		14		00:00:52		386		-->		00:00:54		137		Its cargo holds are empty. 
+		15		00:00:54		304		-->		00:00:57		140		Its guidance system is malfunctioning. 
+		16		00:00:57		766		-->		00:01:00		811		The pilot is attempting to hold course manually. 
+		17		00:01:00		978		-->		00:01:05		274		We should set the Enterprise to intercept in case he needs help. 
+		18		00:01:05		440		-->		00:01:06		900		Make it so, Mr. Crusher. 
+		19		00:01:27		671		-->		00:01:29		882		We're in position now, Captain. 
+		20		00:01:30		048		-->		00:01:33		135		- Open hailing frequencies. - Frequencies open. 
+		21		00:01:33		510		-->		00:01:34		761		On viewer. 
+		22		00:01:35		053		-->		00:01:38		140		This is the USS Enterprise, Capt Jean-Luc Picard. 
+		23		00:01:38		307		-->		00:01:40		392		This is the cargo carrier Erstwhile. 
+		24		00:01:40		559		-->		00:01:43		145		Captain Okona at your service, sir. 
+		25		00:01:43		312		-->		00:01:48		859		No need for phasers. I'm harmless and not ready for a mercy killing. 
+		26		00:01:49		026		-->		00:01:51		278		You were never considered a danger. 
+		27		00:01:51		445		-->		00:01:55		866		That's a shame. I remember when I was at least considered a risk. 
+		28		00:01:57		993		-->		00:01:59		786		I'm owner of this craft. 
+		29		00:01:59		953		-->		00:02:03		999		Since you've already scanned it, you know I'm alone and empty, which is a rare occasion for a man of my charm and talent. 
+		31		00:02:09		713		-->		00:02:12		007		Mute main viewer. Counsellor? 
+		32		00:02:12		174		-->		00:02:15		761		His emotions suggest he is mischievous, irreverent and somewhat brazen. 
+		34		00:02:18		764		-->		00:02:22		768		The word that seems to best describe him is "rogue". 
+		35		00:02:23		894		-->		00:02:29		858		"Rogue"? Cad, knave, rake, rascal, villain, wild element... 
+		36		00:02:30		025		-->		00:02:34		071		Yes, Data, but there is no malevolence or ill will. 
+		37		00:02:35		864		-->		00:02:40		160		Audio on. You have a burnout in your guidance system. 
+		38		00:02:40		953		-->		00:02:44		498		If you can diagnose my problems, why not help fix them? 
+		39		00:02:45		249		-->		00:02:48		710		Captain, we can easily repair the system he uses. 
+		40		00:02:50		045		-->		00:02:53		090		- We can accommodate you. - First Officer here. 
+		41		00:02:53		257		-->		00:02:57		177		If you shut down your engines, we can beam you over. 
+		42		00:02:57		344		-->		00:03:00		597		Sir, recommend limited access to our ship. 
+		43		00:03:00		764		-->		00:03:02		724		- Agreed. - Data, lock on him. 
+		44		00:03:02		891		-->		00:03:06		812		- Prepare to beam him aboard. - Ready on your command. 
+		45		00:03:06		979		-->		00:03:11		024		Excuse me, Commander, is that a woman's voice I hear? 
+		46		00:03:14		027		-->		00:03:16		530		Yes. Follow Cmdr Riker's instructions 
+		47		00:03:16		697		-->		00:03:21		201		- so we can get back to our routine. - Whatever you say, Captain. 
+		48		00:03:21		368		-->		00:03:22		953		Something funny? 
+		49		00:03:23		120		-->		00:03:25		956		Well, the unexpected is our normal routine. 
+		50		00:03:46		977		-->		00:03:50		063		Space, the final frontier. 
+		51		00:03:51		815		-->		00:03:55		194		These are the voyages of the Starship Enterprise. 
+		52		00:03:55		861		-->		00:04:00		115		Its continuing mission to explore strange new worlds,... 
+		53		00:04:01		658		-->		00:04:04		995		..to seek out new life and new civilisations,... 
+		54		00:04:06		246		-->		00:04:09		875		..to boldly go where no one has gone before. 
+		55		00:05:11		270		-->		00:05:13		355		Hold it steady, Wesley. 
+		56		00:05:13		522		-->		00:05:15		607		Ready to link on my command. 
+		57		00:05:15		774		-->		00:05:16		775		Aye, sir. 
+		58		00:05:16		942		-->		00:05:18		652		Easy. 
+		59		00:05:25		576		-->		00:05:26		577		Engage. 
+		60		00:05:31		039		-->		00:05:34		001		- Captain, shut down your engines. - Understood. 
+		61		00:05:34		168		-->		00:05:36		962		Transporter room, prepare for beaming. 
+		62		00:05:37		129		-->		00:05:38		922		Wesley, Data, let's go. 
+		63		00:05:54		938		-->		00:05:56		690		Your weapons, please. 
+		64		00:05:58		025		-->		00:06:00		694		A Klingon security officer? 
+		65		00:06:00		819		-->		00:06:01		945		Yes. 
+		66		00:06:02		112		-->		00:06:04		114		No wars available? 
+		67		00:06:14		416		-->		00:06:18		253		It's more a piece of jewellery than a weapon. A remembrance. 
+		68		00:06:23		425		-->		00:06:25		594		Welcome aboard. I'm Cmdr Riker. 
+		69		00:06:26		094		-->		00:06:29		139		If you turn over the part, we'll begin repairs. 
+		70		00:06:29		640		-->		00:06:33		810		I'd be happy to do the work. I'm a hands-on type. 
+		71		00:06:34		269		-->		00:06:36		939		You'd find our tools rather unusual. 
+		72		00:06:37		064		-->		00:06:40		108		I can believe that. May I at least watch? 
+		73		00:06:40		901		-->		00:06:42		152		That can be arranged. 
+		74		00:06:42		319		-->		00:06:46		365		Good, then, Commander, I leave this in your capable hands. 
+		75		00:06:46		532		-->		00:06:49		910		Sir, this is Cmdr Data. I'm just an acting ensign. 
+		76		00:06:50		077		-->		00:06:52		579		Acting ensigns have names, don't they? 
+		77		00:06:53		747		-->		00:06:55		332		Wesley. Wesley Crusher. 
+		78		00:06:55		499		-->		00:06:58		585		Nice to meet you, Wesley Wesley Crusher. 
+		79		00:07:02		172		-->		00:07:05		133		And thank you for beaming me here and enabling me to see a truly beautiful woman. 
+		81		00:07:09		346		-->		00:07:12		140		You have a majestic carriage and loveliness that surely traces back to the noblest families. 
+		83		00:07:17		604		-->		00:07:22		860		I'm sure you've said that to many, and it was not true then either. 
+		84		00:07:23		026		-->		00:07:26		113		But it's how I say it that's really important. 
+		85		00:07:26		280		-->		00:07:30		659		The warmth, the attraction that I have for you. 
+		86		00:07:31		785		-->		00:07:34		621		The attraction that we share. 
+		87		00:07:39		501		-->		00:07:44		423		Mr. Okona appears to have excellent vision as well as a healthy libido. 
+		88		00:07:44		590		-->		00:07:46		216		It's 806. 
+		89		00:07:46		383		-->		00:07:50		470		Capt Okona, if you follow Cmdr Data, you can start right away. 
+		90		00:08:00		355		-->		00:08:02		357		Now, that's sex appeal. 
+		91		00:08:03		192		-->		00:08:07		404		Sexual attraction in this context is not part of my programming. 
+		92		00:08:07		571		-->		00:08:09		156		I am an android. 
+		93		00:08:11		200		-->		00:08:15		287		Well, have you seen any good-looking computers lately? 
+		94		00:08:18		624		-->		00:08:20		626		That's a joke. It's funny. 
+		95		00:08:22		628		-->		00:08:24		171		Of course it is. 
+		96		00:08:33		347		-->		00:08:37		851		- That'll do what the original did? - It sure will. And better. 
+		97		00:08:38		018		-->		00:08:39		394		Let me show you. 
+		98		00:08:39		561		-->		00:08:42		731		On your old one, the zelebium contacts wore down. 
+		99		00:08:42		898		-->		00:08:47		069		What I've done is replace them with tricellite. 
+		100		00:08:47		236		-->		00:08:50		656		Tricellite isn't available here. If I had to replace them... 
+		101		00:08:50		822		-->		00:08:53		867		No need. Your ship will never outlast this part. 
+		102		00:08:54		034		-->		00:08:57		204		Because of the part, or the way I fly? 
+		103		00:08:57		371		-->		00:09:02		793		This part, but you do tend to push your ship beyond its capabilities. 
+		104		00:09:04		419		-->		00:09:07		214		Blame the pattern of my life, Lieutenant. 
+		105		00:09:07		381		-->		00:09:12		427		It relegates me to cargo carrying, rather than your grand explorations, so I am forced to add some flamboyancy and zest  to the doldrums of my existence. 
+		108		00:09:24		815		-->		00:09:27		317		- Have you ever been cold? - No. 
+		109		00:09:28		110		-->		00:09:30		153		- Warm, then? - No. 
+		110		00:09:31		363		-->		00:09:35		909		- What about drunk? Ever do that? - That is not possible for me. 
+		111		00:09:36		076		-->		00:09:38		495		Pity. What about love? 
+		112		00:09:40		038		-->		00:09:43		500		- The act or the emotion? - They're both the same. 
+		113		00:09:44		001		-->		00:09:47		045		I believe that statement to be inaccurate, sir. 
+		114		00:09:48		380		-->		00:09:49		756		Maybe. 
+		115		00:09:50		340		-->		00:09:55		929		Life is like loading twice your cargo weight onto your spacecraft. 
+		116		00:09:56		096		-->		00:10:00		517		If it's canaries and you keep half of them flying all the time,... 
+		117		00:10:01		935		-->		00:10:03		687		..you're alright. 
+		118		00:10:03		854		-->		00:10:06		648		I doubt that statement is accurate either. 
+		119		00:10:06		815		-->		00:10:09		484		Accurate? That was a joke I just told. 
+		120		00:10:10		819		-->		00:10:13		906		- I do not understand. - You don't know what a joke is? 
+		121		00:10:14		072		-->		00:10:18		118		Of course. It is a witticism, a gag, a bon mot, words concluding with a trick ending. 
+		123		00:10:20		954		-->		00:10:24		291		That's the dictionary meaning. I mean humour, fun. 
+		124		00:10:24		458		-->		00:10:26		043		D'you know what funny is? 
+		125		00:10:30		005		-->		00:10:31		006		Where is 806? 
+		126		00:10:32		049		-->		00:10:34		593		Right over there, sir. Why? 
+		127		00:10:36		136		-->		00:10:39		640		You probably wouldn't understand that either. 
+		128		00:10:47		689		-->		00:10:48		941		Hello, there. 
+		129		00:11:10		963		-->		00:11:13		799		- Status on the repair? - Working on it. 
+		130		00:11:14		800		-->		00:11:17		553		Commander, what do you think of Capt Okona? 
+		131		00:11:17		719		-->		00:11:23		267		Well, Okona is an interesting man. We've seen how he handles his ship. 
+		132		00:11:23		433		-->		00:11:26		186		Apparently he can handle people as well. 
+		133		00:11:26		353		-->		00:11:30		482		- Then why does he work alone? - He lives by his own rules. 
+		134		00:11:30		649		-->		00:11:34		027		He does what he does by his choice. 
+		135		00:11:35		112		-->		00:11:36		905		Someday, you'll make yours. 
+		136		00:11:38		407		-->		00:11:39		741		I already have. 
+		137		00:11:47		457		-->		00:11:52		171		You agree with Okona that I am missing an important human factor? 
+		138		00:11:52		337		-->		00:11:56		633		I never said that. I simply said that I've never seen you laugh. 
+		139		00:11:57		259		-->		00:12:01		638		I am capable of that function when it is expected of me. 
+		140		00:12:03		307		-->		00:12:05		976		Data, do you even know what a joke is? 
+		141		00:12:06		643		-->		00:12:10		689		Of course. It is a witticism, a gag, a bon mot, a... 
+		142		00:12:10		856		-->		00:12:11		773		Stop. 
+		143		00:12:11		940		-->		00:12:14		401		Look, it's just you and I here. 
+		144		00:12:14		568		-->		00:12:17		446		We're having an intimate conversation. 
+		145		00:12:17		613		-->		00:12:21		742		Why? Because you're a 'droid and I'm a 'noid. 
+		146		00:12:22		159		-->		00:12:24		328		- Why? - Because that's what I am. 
+		147		00:12:25		537		-->		00:12:27		539		Have I offended you? 
+		148		00:12:27		706		-->		00:12:30		292		- No. - Then why are you annoyed? 
+		149		00:12:31		001		-->		00:12:37		674		Because you're a 'droid and I'm a 'noid. 
+		150		00:12:39		801		-->		00:12:40		928		- Humanoid. - Yes. 
+		151		00:12:41		094		-->		00:12:42		429		- You told a joke. - Yes. 
+		152		00:12:42		596		-->		00:12:44		806		- I am not laughing. - Yes. 
+		153		00:12:46		683		-->		00:12:51		438		- Perhaps the joke was not funny. - No, it was funny. It's you. 
+		154		00:12:52		940		-->		00:12:55		275		- Are you sure? - Yes. 
+		155		00:12:55		442		-->		00:12:57		986		I agree. What do I do? 
+		156		00:12:58		987		-->		00:13:02		658		Under normal circumstances, I'd say seek a higher power. 
+		157		00:13:02		824		-->		00:13:06		286		In your case, probably a smarter computer is in order. 
+		158		00:13:12		960		-->		00:13:16		296		Computer, I wish to know more about humour, why certain combinations of words and actions make humans laugh. 
+		160		00:13:21		885		-->		00:13:25		639		Source material is extensive. Please specify. 
+		161		00:13:26		390		-->		00:13:30		394		Animated presentation, humanoid. Interaction required. 
+		162		00:13:30		561		-->		00:13:33		939		Physical humour, cerebral, or general raconteur? 
+		163		00:13:35		190		-->		00:13:39		152		Of all performers available, who's considered funniest? 
+		164		00:13:39		319		-->		00:13:44		241		23rd-century Stan Orega specialised in jokes about quantum mathematics. 
+		165		00:13:45		075		-->		00:13:48		745		No. Too esoteric. More generic. 
+		166		00:13:48		912		-->		00:13:50		289		Accessing. 
+		167		00:13:55		335		-->		00:13:59		923		That one. RW96321, 20th century. 
+		168		00:14:00		090		-->		00:14:02		759		Program complete. You may enter. 
+		169		00:14:16		815		-->		00:14:19		943		Thanks, ladies and gentlemen, you've been great. 
+		170		00:14:20		110		-->		00:14:21		987		I'd like to take you home. 
+		171		00:14:22		154		-->		00:14:25		991		But I took the last audience home and there's no more room. 
+		172		00:14:26		158		-->		00:14:31		205		But thank you. And thank you for bringing me here. What's up? 
+		173		00:14:31		371		-->		00:14:34		166		Mr. Comic, I wish to know what is funny. 
+		174		00:14:35		459		-->		00:14:38		795		Funny? I don't know. It's a matter of opinion. 
+		175		00:14:38		962		-->		00:14:40		547		Tip O'Neill in a dress? 
+		176		00:14:41		131		-->		00:14:44		426		Some people say words that end with a K are funny. 
+		177		00:14:44		593		-->		00:14:47		804		A briefcase that looks like a fish. That's hysterical. 
+		178		00:14:48		847		-->		00:14:51		642		Tip O'Neill... Accessing. 
+		179		00:14:53		894		-->		00:14:58		857		20th-century male, politician, overweight, wearing female clothing, carrying a valise that looks like a fish. 
+		181		00:15:02		653		-->		00:15:09		117		So the juxtaposition of gender and an amphibian briefcase is funny. 
+		182		00:15:09		284		-->		00:15:12		538		Well, I think whatever makes you laugh is funny. 
+		183		00:15:16		708		-->		00:15:19		002		Nothing does. I wish to learn. 
+		184		00:15:19		962		-->		00:15:23		048		- How much time do we have here? - Unlimited. 
+		185		00:15:23		590		-->		00:15:27		177		We're gonna need it. You are a tough room. 
+		186		00:15:27		344		-->		00:15:30		013		"Tough room"? 
+		187		00:15:30		180		-->		00:15:34		601		A colloquialism meaning a severe, rigid, closed-minded audience. 
+		188		00:15:34		768		-->		00:15:38		355		I understand. I will attempt to be an easy room. 
+		189		00:15:38		522		-->		00:15:41		900		- Show me what is funny. - Alright, you're on. 
+		190		00:15:43		527		-->		00:15:45		487		Jerry Lewis. 
+		191		00:15:57		499		-->		00:16:00		043		- Mr. Robot, come up. - I'm an android. 
+		192		00:16:00		210		-->		00:16:05		549		I'm sorry. Mr. Android. Here, teeth. Put 'em in your mouth. 
+		193		00:16:05		674		-->		00:16:09		219		Where'd he go? Where did...? Mr. An... Here. 
+		194		00:16:09		386		-->		00:16:11		972		Here, try, if you would. You do... 
+		195		00:16:13		557		-->		00:16:14		516		No. 
+		196		00:16:19		688		-->		00:16:20		939		You go... 
+		197		00:16:24		902		-->		00:16:27		154		That is considered... 
+		198		00:16:28		363		-->		00:16:30		490		That is considered to be funny? 
+		199		00:16:30		657		-->		00:16:33		160		Brought the house down in Teaneck. 
+		200		00:16:33		327		-->		00:16:34		870		A word ending in K. 
+		201		00:16:35		037		-->		00:16:37		623		So if you put funny teeth in your mouth and jump around like an idiot, that is considered funny. 
+		203		00:16:42		753		-->		00:16:44		880		- I didn't get your name. - Data. 
+		204		00:16:45		047		-->		00:16:50		511		Data, did you consider juggling, weird bird calls, stuff like that? 
+		205		00:16:50		677		-->		00:16:55		307		That does not apply. I simply want to know what is funny. 
+		206		00:16:55		474		-->		00:16:58		894		I want to involve myself in other people's laughter. 
+		207		00:16:59		269		-->		00:17:00		938		I wish to join in. 
+		208		00:17:01		104		-->		00:17:04		900		I think that's nice. Let's put the physical stuff aside. 
+		209		00:17:05		067		-->		00:17:09		279		We'll do jokes. It's not my forte, but it might work for you. 
+		210		00:17:09		446		-->		00:17:13		450		If you would have a seat, and we'll try some jokes. 
+		211		00:17:13		617		-->		00:17:15		577		We'll start with the classics. 
+		212		00:17:16		203		-->		00:17:19		331		A salesman is driving along. His car breaks down. 
+		213		00:17:19		498		-->		00:17:20		707		Access faster. 
+		214		00:17:25		754		-->		00:17:28		173		Faster. Move to maximum speed. 
+		215		00:17:41		228		-->		00:17:45		148		A guy goes to his doctor. The doctor says, "You need an operation." 
+		216		00:17:45		315		-->		00:17:47		234		The guy wants a second opinion. 
+		217		00:17:47		401		-->		00:17:50		571		The doctor says, "OK, you're ugly too." 
+		218		00:17:53		031		-->		00:17:55		534		- Was that funny? - No. 
+		219		00:18:03		750		-->		00:18:08		964		Data, you spoiled the joke. It could have been your timing. 
+		220		00:18:09		506		-->		00:18:10		966		My timing is digital. 
+		221		00:18:13		218		-->		00:18:14		595		What? 
+		222		00:18:15		512		-->		00:18:17		931		- That's funny. - Why? 
+		223		00:18:19		141		-->		00:18:22		352		It would take too long to explain. Another joke? 
+		224		00:18:24		104		-->		00:18:27		065		A monk, a clone and a Ferengi go bowling... 
+		225		00:18:27		232		-->		00:18:30		027		Cmdr Data, report to the main bridge. 
+		226		00:18:31		528		-->		00:18:33		280		I will be back. 
+		227		00:18:35		782		-->		00:18:37		784		Bring new jokes. 
+		228		00:18:44		333		-->		00:18:47		002		An unidentified at 12, mark four. 
+		229		00:18:50		255		-->		00:18:52		299		No response to our inquiries. 
+		230		00:18:53		091		-->		00:18:55		844		Extend hailing frequencies, all languages. 
+		231		00:18:56		011		-->		00:18:56		887		Extending. 
+		232		00:18:57		054		-->		00:18:59		723		It is an interplanetary vessel. 
+		233		00:18:59		848		-->		00:19:04		686		- Class-7. Crew complement 26. - Still no response. 
+		234		00:19:26		667		-->		00:19:30		420		Captain, they are now locking lasers on us. 
+		235		00:19:31		463		-->		00:19:32		756		- Lasers? - Yes. 
+		236		00:19:32		923		-->		00:19:37		135		Lasers can't even penetrate our navigation shields. Don't they know? 
+		237		00:19:37		302		-->		00:19:40		013		Regulations do call for yellow alert. 
+		238		00:19:41		223		-->		00:19:43		100		Very old regulation. 
+		239		00:19:43		267		-->		00:19:46		645		Well, make it so, Number One, and reduce speed. 
+		240		00:19:47		104		-->		00:19:48		981		Drop main shields, too. 
+		241		00:19:50		023		-->		00:19:51		275		May I ask why? 
+		242		00:19:52		609		-->		00:19:54		903		In case we surrender to them. 
+		243		00:20:08		417		-->		00:20:10		669		Still no response to our hail. 
+		244		00:20:10		836		-->		00:20:13		922		It is slowing and holding its position, Captain. 
+		245		00:20:14		631		-->		00:20:17		593		Sir, we are now being hailed. 
+		246		00:20:17		759		-->		00:20:19		136		Viewer on. 
+		247		00:20:21		930		-->		00:20:25		601		Federation vessel, you have no rights in this solar system. 
+		248		00:20:25		767		-->		00:20:27		394		I am Debin of Atlec, ordering you to heave to and prepare to be boarded. 
+		250		00:20:32		149		-->		00:20:35		736		Shades of Gulliver's Travels. He actually meant it. 
+		251		00:20:35		903		-->		00:20:39		364		But he is right. We are in their solar system. 
+		252		00:20:41		116		-->		00:20:43		785		- Open a channel. - Open, sir. 
+		253		00:20:45		287		-->		00:20:48		957		I am Capt Jean-Luc Picard of the USS Enterprise. 
+		254		00:20:49		249		-->		00:20:51		919		Why have you locked weapons on us? 
+		255		00:20:52		085		-->		00:20:55		547		You are towing the spacecraft of a known criminal. 
+		256		00:20:58		008		-->		00:21:01		887		He needed emergency repairs. It was our obligation to assist. 
+		257		00:21:02		054		-->		00:21:06		683		You have a man aboard by the name of Okona. I want him. 
+		258		00:21:07		601		-->		00:21:08		894		On what authority? 
+		259		00:21:09		061		-->		00:21:11		813		He is guilty of crimes committed on Atlec. 
+		260		00:21:11		980		-->		00:21:15		859		I expect him to be turned over to my authority immediately. 
+		261		00:21:17		528		-->		00:21:20		614		Mute. What do you think, Counsellor? 
+		262		00:21:20		781		-->		00:21:24		117		He believes what he's saying. His anger is genuine. 
+		263		00:21:26		161		-->		00:21:27		538		Open. 
+		264		00:21:31		500		-->		00:21:32		918		What crimes are they? 
+		265		00:21:33		085		-->		00:21:37		464		Neither important nor necessary. I want Okona now! 
+		266		00:21:37		631		-->		00:21:41		176		Another class-7 armed spacecraft is approaching 
+		267		00:21:41		343		-->		00:21:44		680		- from the opposite sector. - Another ship from Atlec? 
+		268		00:21:44		847		-->		00:21:47		683		Similar in specifications and capabilities, but a variation in markings and hailing language. 
+		270		00:21:51		603		-->		00:21:54		022		Debin, hold this position. Viewer off. 
+		271		00:21:56		400		-->		00:21:57		860		Data, identify. 
+		272		00:21:58		026		-->		00:22:02		281		Sensors indicate a security vessel from the planet Straleb. 
+		273		00:22:03		490		-->		00:22:05		534		Another glob fly. 
+		274		00:22:06		785		-->		00:22:07		703		Glob fly? 
+		275		00:22:07		870		-->		00:22:12		082		A Klingon fly, half as big as an Earth mosquito with no sting, 
+		276		00:22:12		249		-->		00:22:17		087		- and a buzzing sound like this... - Viewer on. Hailing frequencies. 
+		277		00:22:17		254		-->		00:22:18		463		Open, sir. 
+		278		00:22:19		548		-->		00:22:21		049		I am Secretary Kushell, from the Legation of Unity of Straleb. 
+		280		00:22:24		303		-->		00:22:28		849		- I am Capt Jean-Luc Picard. - We know who you are. 
+		281		00:22:29		016		-->		00:22:31		935		We've been monitoring your communications. 
+		282		00:22:32		102		-->		00:22:35		606		And we know of the demands made by Debin of Atlec. 
+		283		00:22:36		440		-->		00:22:39		109		Then you know we have no hostile intention. 
+		284		00:22:39		776		-->		00:22:42		738		You only have to concede to one demand. 
+		285		00:22:44		156		-->		00:22:47		159		That word "demand" has a tone of finality. 
+		286		00:22:47		701		-->		00:22:50		037		It is a word I have chosen. 
+		287		00:22:50		829		-->		00:22:54		499		We demand that you turn Okona over to us immediately. 
+		288		00:22:57		377		-->		00:22:58		378		Mute. 
+		289		00:22:58		545		-->		00:23:01		215		Mr. Okona to the bridge immediately. 
+		290		00:23:02		049		-->		00:23:03		050		Open. 
+		291		00:23:05		010		-->		00:23:08		013		The same demand has been made by the Atlecs. 
+		292		00:23:08		597		-->		00:23:10		974		I have no interest in their request. 
+		293		00:23:11		141		-->		00:23:14		603		But we intend to back up our rights to Okona. 
+		294		00:23:15		312		-->		00:23:19		024		I would rather not escalate the situation any further. 
+		295		00:23:19		191		-->		00:23:21		735		Our honour and prestige are at stake. 
+		296		00:23:21		902		-->		00:23:26		532		We are ready to take Okona by force and die in the doing of it. 
+		297		00:23:26		698		-->		00:23:29		743		I trust that that can be avoided. 
+		298		00:23:31		286		-->		00:23:34		581		I will respond to your request shortly. Viewer off. 
+		299		00:23:36		917		-->		00:23:38		919		Capt Okona has not responded. 
+		300		00:23:39		086		-->		00:23:42		464		He's been reported in three different crew quarters. 
+		301		00:23:42		631		-->		00:23:45		467		- Find him. Get him up here. - Yes, sir. 
+		302		00:24:09		658		-->		00:24:12		327		Come with me to the main bridge. 
+		303		00:24:13		370		-->		00:24:15		914		I'm sure it can wait a few minutes. 
+		304		00:24:19		126		-->		00:24:20		294		Now! 
+		305		00:24:30		304		-->		00:24:32		514		I'd like that. 
+		306		00:24:36		059		-->		00:24:38		103		But I have my orders. 
+		307		00:24:39		438		-->		00:24:41		023		Some other time. 
+		308		00:24:45		652		-->		00:24:48		697		Remember what it took to drag me from you. 
+		309		00:25:07		841		-->		00:25:10		177		Am I going to meet Capt Picard? 
+		310		00:25:11		553		-->		00:25:14		765		- Definitely. - Did I say something funny? 
+		311		00:25:25		984		-->		00:25:31		114		Capt Picard, this is Thadium Okona. 
+		312		00:25:35		077		-->		00:25:39		289		Mr. Okona, you were welcomed aboard without undue investigation. 
+		313		00:25:39		456		-->		00:25:43		585		It was assumed that you did not come under false pretences. 
+		314		00:25:43		752		-->		00:25:46		463		But it seems that you may have done. 
+		315		00:25:46		630		-->		00:25:50		717		If you mean my socialising with the members of the crew... 
+		316		00:25:51		510		-->		00:25:56		181		Mr. Okona, you are free to socialise with the members of my crew. 
+		317		00:25:57		307		-->		00:25:59		643		I'm talking about a man named Debin. 
+		318		00:26:01		019		-->		00:26:03		772		From Atlec. I know some of his family. 
+		319		00:26:03		939		-->		00:26:07		526		Perhaps you can explain why he is threatening to attack us 
+		320		00:26:07		693		-->		00:26:11		446		- unless I give him custody of you. - I can't. 
+		321		00:26:12		573		-->		00:26:17		244		Then tell me why Kushell of Straleb is demanding the same thing. 
+		322		00:26:17		411		-->		00:26:21		915		- He's here also? - And quite adamant. 
+		323		00:26:23		125		-->		00:26:26		628		Mr. Okona, what crimes are you accused of? 
+		324		00:26:28		046		-->		00:26:31		842		- I am not a criminal. - Why do these men want you? 
+		325		00:26:34		511		-->		00:26:39		099		- I can't say. - They're threatening to attack. 
+		326		00:26:39		266		-->		00:26:42		519		- That's mad. They'd have no chance. - Right. 
+		327		00:26:45		647		-->		00:26:52		446		So you can offer no reason why they are set on this provocative course? 
+		328		00:26:55		866		-->		00:26:58		202		I can't think of one right now. 
+		329		00:26:58		827		-->		00:26:59		995		On viewer. 
+		330		00:27:00		871		-->		00:27:02		664		- Which ship? - What? 
+		331		00:27:03		749		-->		00:27:05		834		The first one. Capt Debin. 
+		332		00:27:07		336		-->		00:27:11		423		Captain, let me ask you again, what are Okona's crimes? 
+		333		00:27:12		132		-->		00:27:13		800		That is not your concern. 
+		334		00:27:13		967		-->		00:27:17		387		- It is if you wish him released. - Alright. 
+		335		00:27:18		263		-->		00:27:23		227		You want to know what he did, why I have chased him across this system? 
+		336		00:27:23		393		-->		00:27:24		895		This is his crime. 
+		337		00:27:29		274		-->		00:27:31		068		He dishonoured my daughter. 
+		338		00:27:31		235		-->		00:27:35		531		He took advantage of her, then left her carrying his bastard child. 
+		339		00:27:35		697		-->		00:27:38		075		He'll return and do the right thing, or I'll hunt him through the galaxy. 
+		341		00:27:46		542		-->		00:27:48		460		Captain's log, supplemental. 
+		342		00:27:48		627		-->		00:27:52		756		Some of the mystery surrounding this ancient morality play has been revealed. 
+		344		00:27:54		258		-->		00:27:57		636		One of Capt Okona's pursuers is an outraged father with a heartfelt, if arcane, sense of righteousness. 
+		346		00:28:01		557		-->		00:28:03		225		Your advice, Counsellor. 
+		347		00:28:04		268		-->		00:28:08		188		We are dealing with ancient codes involving procreation. 
+		348		00:28:08		355		-->		00:28:12		609		They are meaningless to us, but to Debin they represent honour. 
+		349		00:28:13		026		-->		00:28:14		111		He will fight, risking himself, his crew, his daughter and her unborn child. 
+		351		00:28:18		782		-->		00:28:21		577		Your Counsellor's right. He will fight. 
+		352		00:28:21		743		-->		00:28:24		413		The other Captain is demanding to be heard. 
+		353		00:28:25		080		-->		00:28:29		209		I don't suppose you have any idea why this man wants you? 
+		354		00:28:34		923		-->		00:28:36		633		Let's put all this together. 
+		355		00:28:36		800		-->		00:28:40		012		Lt Worf, multiple image, full conference mode. 
+		356		00:28:40		179		-->		00:28:43		140		- Let them all see each other. - Yes, sir. 
+		357		00:28:43		307		-->		00:28:48		187		Here you are, Debin, trying to save this criminal. 
+		358		00:28:48		353		-->		00:28:53		108		- My purpose is not your concern. - It is if it involves Okona. 
+		359		00:28:53		275		-->		00:28:56		862		Gentlemen, please, let's try and resolve this matter. 
+		360		00:28:57		029		-->		00:29:00		616		Capt Kushell, what crime has Okona allegedly committed? 
+		361		00:29:00		782		-->		00:29:06		371		He is a thief. He stole the Jewel of Thesia, a national heritage. 
+		362		00:29:06		538		-->		00:29:08		540		A thing. An item. 
+		363		00:29:08		707		-->		00:29:13		295		My case involves the victimisation of my daughter, and my honour. 
+		364		00:29:13		462		-->		00:29:16		548		- I'll have Okona now. - He is mine! 
+		365		00:29:16		715		-->		00:29:20		385		One at a time. Who accuses me of stealing? 
+		366		00:29:20		552		-->		00:29:23		805		- My son Benzan and I. - Father, please. 
+		367		00:29:23		972		-->		00:29:27		434		- He used you to become my friend. - He used my daughter. 
+		368		00:29:27		601		-->		00:29:30		812		He used my son to plunder a national treasure. 
+		369		00:29:30		979		-->		00:29:31		939		Mute. 
+		370		00:29:43		742		-->		00:29:47		704		Terminate communications. Come with me. 
+		371		00:29:53		961		-->		00:29:56		713		Captain, you can't be afraid of them. 
+		372		00:29:56		880		-->		00:30:00		676		No. They couldn't hurt the Enterprise. 
+		373		00:30:00		843		-->		00:30:02		469		My predicament is you. 
+		374		00:30:02		636		-->		00:30:07		683		I'm sorry my ship broke down. I'm sorry you're involved. 
+		375		00:30:07		850		-->		00:30:11		603		But you're right. Whatever happens, someone gets hurt. 
+		376		00:30:11		770		-->		00:30:16		984		- If I go to Kushell, Debin fights. - If you go to Debin, the same. 
+		377		00:30:17		609		-->		00:30:19		194		I wish I could... 
+		378		00:30:22		614		-->		00:30:26		702		- I wish I could make it easier. - I'm sure you do. 
+		379		00:30:29		413		-->		00:30:33		208		I won't apologise for the way I am or how I live my life. 
+		380		00:30:33		375		-->		00:30:37		254		But I did not steal the Jewel of Thesia. 
+		381		00:30:37		629		-->		00:30:39		798		I am not a criminal, Captain. 
+		382		00:30:39		965		-->		00:30:41		758		As to the other business, that's between me and Yanar, no one else. 
+		384		00:30:46		930		-->		00:30:50		517		In truth, I do not have authority in this matter. 
+		385		00:30:50		684		-->		00:30:55		189		I am not your judge, nor is it my duty to arbitrate. 
+		386		00:30:55		898		-->		00:30:59		276		But you are in my custody, which creates a dilemma. 
+		387		00:30:59		443		-->		00:31:06		074		How about this? Do what you said, fix my guidance system and let me go. 
+		388		00:31:07		576		-->		00:31:10		746		According to regulations, that is what I should do. 
+		389		00:31:10		913		-->		00:31:15		125		But their ships are faster than yours. I'm doing you no favour. 
+		390		00:31:15		292		-->		00:31:19		046		Captain, with all due respect, that's not your concern. 
+		391		00:31:19		213		-->		00:31:23		175		Besides, I can take care of myself. 
+		392		00:31:35		938		-->		00:31:39		483		You're quite a craftsman, Lt La Forge. How soon? 
+		393		00:31:39		650		-->		00:31:42		444		What's the rush? I thought you liked it here. 
+		394		00:31:42		611		-->		00:31:47		741		I did. It stopped liking me. Time to disappear. 
+		395		00:31:48		450		-->		00:31:50		994		- Where will you go? - What? 
+		396		00:31:51		161		-->		00:31:56		083		- I said, where will you go? - A new place, if I make it. 
+		397		00:31:57		000		-->		00:32:00		420		- Don't you ever stay anywhere? - Not for long. 
+		398		00:32:01		922		-->		00:32:03		465		I couldn't be like that. 
+		399		00:32:05		425		-->		00:32:07		511		I mean, always being alone. 
+		400		00:32:07		886		-->		00:32:11		223		Cmdr Riker says you choose to live this way. 
+		401		00:32:11		390		-->		00:32:12		808		Is that what he said? 
+		402		00:32:13		809		-->		00:32:19		231		Yeah. It would be difficult for me to be leaving all the time. 
+		403		00:32:19		940		-->		00:32:22		734		I'd miss my friends, the people I love. 
+		404		00:32:24		945		-->		00:32:27		739		I guess leaving's gotten easy for you. 
+		405		00:32:29		491		-->		00:32:34		872		- I seem to use up a place. - I wasn't talking about a place. 
+		406		00:32:36		707		-->		00:32:39		585		I know what you were talking about. 
+		407		00:32:39		751		-->		00:32:41		336		It's ready. 
+		408		00:32:43		422		-->		00:32:46		758		You should be able to install it in five minutes. 
+		409		00:32:50		470		-->		00:32:53		307		Like you said, Geordi, what's the rush? 
+		410		00:32:53		473		-->		00:32:58		270		I have some friends around here. I think it's time to make a stand. 
+		411		00:33:14		536		-->		00:33:15		913		Mr. Okona. 
+		412		00:33:19		374		-->		00:33:22		169		Captain, I've decided not to leave. 
+		413		00:33:23		337		-->		00:33:27		341		- But I'm not staying either. - What are your plans? 
+		414		00:33:27		508		-->		00:33:30		219		I've decided to surrender myself. 
+		415		00:33:30		385		-->		00:33:33		514		- To which one? - There's really only one option. 
+		416		00:33:36		683		-->		00:33:38		060		Viewer on. 
+		417		00:33:43		398		-->		00:33:47		152		Gentlemen, communicating like this is very distracting. 
+		418		00:33:47		319		-->		00:33:51		657		I suggest we beam you up, and we resolve this face to face. 
+		419		00:33:52		533		-->		00:33:55		077		- Excellent. - Agreed. 
+		420		00:33:55		244		-->		00:33:58		413		Leave your weapons behind. Keep this civilised. 
+		421		00:33:58		580		-->		00:34:00		249		Number One, take the bridge. 
+		422		00:34:00		415		-->		00:34:04		253		Counsellor, accompany me to deck 14 conference room. 
+		423		00:34:04		419		-->		00:34:07		464		- Worf, see to our guests. - Aye, sir. 
+		424		00:34:21		603		-->		00:34:23		856		They have no weapons. 
+		425		00:34:24		022		-->		00:34:25		399		This way. 
+		426		00:34:41		540		-->		00:34:43		876		Okona, you are without shame. 
+		427		00:34:44		042		-->		00:34:47		921		For once, I agree with Debin. You are without shame. 
+		428		00:34:48		088		-->		00:34:51		967		I trusted you. My son treated you like a brother. 
+		429		00:34:52		593		-->		00:34:56		597		And then to steal from us. I want him now. 
+		430		00:34:56		763		-->		00:34:58		807		No, he's coming with me. 
+		431		00:34:58		974		-->		00:35:01		185		My complaint was registered first. 
+		432		00:35:01		351		-->		00:35:03		937		Now, please, be calm. 
+		433		00:35:04		354		-->		00:35:05		939		Lieutenant, thank you. 
+		434		00:35:10		944		-->		00:35:13		906		Everyone is talking about me, not to me. 
+		435		00:35:16		783		-->		00:35:20		078		You all believe that I stole the jewel. 
+		436		00:35:20		245		-->		00:35:25		918		- And that I fathered the child. - You dare call my daughter a liar. 
+		437		00:35:26		460		-->		00:35:32		466		Now I'm offered these two choices, and given these two options,... 
+		438		00:35:33		467		-->		00:35:38		597		..condemnation as a thief, or marriage to the beautiful Yanar. 
+		439		00:35:39		389		-->		00:35:42		226		I will take the more pleasant sentence. 
+		440		00:35:44		228		-->		00:35:48		315		- I will take Yanar as my wife. - No, you can't. 
+		441		00:35:48		482		-->		00:35:52		194		- You can't escape that way. - I don't mean that. 
+		442		00:35:52		361		-->		00:35:55		072		It's not up to you, nor to Okona. 
+		443		00:35:55		239		-->		00:35:57		699		I've been dishonoured. I will decide. 
+		444		00:35:58		075		-->		00:36:03		580		Wait. Since all of you believe Okona is the father, then so be it. 
+		445		00:36:08		293		-->		00:36:12		130		- I'll marry you. - No, you can't. 
+		446		00:36:13		006		-->		00:36:14		132		Yes, I can. 
+		447		00:36:14		299		-->		00:36:18		178		- Okona is still a thief. - No, he's not. 
+		448		00:36:18		929		-->		00:36:20		472		Nothing has been stolen. 
+		449		00:36:22		224		-->		00:36:26		270		The jewel has been taken into custody by its rightful heir. 
+		450		00:36:26		436		-->		00:36:31		316		Me. I was to give it to Yanar as our pledge of marriage. 
+		451		00:36:32		317		-->		00:36:33		360		Marriage? 
+		452		00:36:35		988		-->		00:36:38		490		Yanar is carrying my child. 
+		453		00:36:40		492		-->		00:36:42		578		You said it was Okona's. 
+		454		00:36:44		454		-->		00:36:46		081		If I'd told you it was Benzan, you would have gone to war with his father. 
+		456		00:36:48		959		-->		00:36:53		130		- I let you think it was Okona. - See how I get a reputation? 
+		457		00:36:53		297		-->		00:36:57		134		If I had said I was giving the jewel to Yanar, 
+		458		00:36:57		301		-->		00:37:00		888		- you'd have disowned me. - Now we're hearing truth. 
+		459		00:37:01		054		-->		00:37:05		267		So you let me chase Okona when you knew he was innocent? 
+		460		00:37:05		434		-->		00:37:09		980		Yes. I didn't think for one moment that you could catch him. 
+		461		00:37:10		147		-->		00:37:11		940		He never would have. 
+		462		00:37:12		941		-->		00:37:16		945		Once Yanar accepted the jewel the marriage would have been made. 
+		463		00:37:17		112		-->		00:37:21		200		- Well, I never got it. - Then Okona does have the jewel. 
+		464		00:37:21		909		-->		00:37:25		329		I never had the chance to deliver it. 
+		465		00:37:25		871		-->		00:37:28		957		Anyway, it's too late. I won't marry Benzan. 
+		466		00:37:29		124		-->		00:37:33		629		- Then you'll marry Okona. - I won't marry anyone! 
+		467		00:37:38		509		-->		00:37:40		719		I have reinstated the same program. 
+		468		00:37:40		886		-->		00:37:42		971		With some new jokes, I hope. 
+		469		00:37:43		138		-->		00:37:45		682		Program complete. Enter when ready. 
+		470		00:37:57		778		-->		00:37:59		279		Comic, continue. 
+		471		00:37:59		863		-->		00:38:03		825		More freebies? No cover, no minimum, just "Comic, continue"? 
+		472		00:38:04		243		-->		00:38:06		245		What happened, Data? 
+		473		00:38:07		037		-->		00:38:08		539		- I told a joke. - And? 
+		474		00:38:08		705		-->		00:38:11		583		- No one laughed. - Nobody in the whole room? 
+		475		00:38:11		750		-->		00:38:13		335		I was the whole room. 
+		476		00:38:13		502		-->		00:38:17		631		- She said I spoiled the joke. - "Killed" is a better word. 
+		477		00:38:17		798		-->		00:38:22		094		You should always try out new material on an audience. 
+		478		00:38:22		261		-->		00:38:26		557		He could be right. Perhaps that's what you need. 
+		479		00:38:29		268		-->		00:38:33		772		Computer, program an audience appropriate to this venue. 
+		480		00:38:39		278		-->		00:38:40		445		Yanar. 
+		481		00:38:46		201		-->		00:38:49		329		You're angry at the embarrassment of all this. 
+		482		00:38:49		496		-->		00:38:53		709		Maybe the timing is not the most romantic, but... 
+		483		00:38:54		751		-->		00:38:59		339		I know you love Benzan. I don't want to see you throw that away just because your parents have been quarrelling for years  and don't know how to behave properly. 
+		486		00:39:09		391		-->		00:39:12		686		I've carried your messages for almost six months, smuggled you to see each other. 
+		488		00:39:14		980		-->		00:39:19		735		You feel for him the same way he feels for you. 
+		489		00:39:35		792		-->		00:39:37		794		I do love you. 
+		490		00:39:39		755		-->		00:39:43		342		It is your child. Our child. 
+		491		00:39:47		262		-->		00:39:50		849		- Marry me. - Yes. 
+		492		00:40:04		571		-->		00:40:07		407		We'll find a new planet to live on. 
+		493		00:40:07		574		-->		00:40:10		244		You'll live on Straleb. 
+		494		00:40:10		369		-->		00:40:13		830		No. You'll live on Atlec. 
+		495		00:40:13		997		-->		00:40:17		501		I will not have this man raising my grandson. 
+		496		00:40:17		668		-->		00:40:21		505		The rest of this is to be settled between yourselves. 
+		497		00:40:21		672		-->		00:40:25		050		- Excuse us. We have business. - Thank you, Captain. 
+		498		00:40:25		217		-->		00:40:27		928		- Your grandson? - My grandson. 
+		499		00:40:31		265		-->		00:40:33		058		Thank you. 
+		500		00:40:33		976		-->		00:40:36		103		Thanks for coming, folks. 
+		501		00:40:36		270		-->		00:40:39		940		We got a great show for you tonight. I'm so excited. 
+		502		00:40:40		107		-->		00:40:43		110		Tonight I have the funny man of the stars, the android of antics, that lieutenant commander of mirth. 
+		504		00:40:47		698		-->		00:40:51		577		Please give him a nice welcome, none other than... 
+		505		00:40:51		910		-->		00:40:53		912		He's just the best... Data! 
+		506		00:41:04		631		-->		00:41:06		466		Evening, ladies and germs. 
+		507		00:41:19		438		-->		00:41:23		942		I come from a town so small, we had a fraction for a zip code. 
+		508		00:41:25		903		-->		00:41:28		780		- You made a living doing this? - Yes. 
+		509		00:41:28		947		-->		00:41:33		994		It was so small, we didn't have a godfather of crime, we had a nephew. 
+		510		00:41:46		131		-->		00:41:50		135		I was so ugly, they hung a pork chop around my neck... 
+		511		00:41:55		307		-->		00:41:57		976		..so the dog would play with me. 
+		512		00:42:03		357		-->		00:42:05		859		Then there was the human cannonball, who was hired and fired in the same night. 
+		514		00:42:17		621		-->		00:42:20		290		Audience program off. 
+		515		00:42:31		176		-->		00:42:32		845		Discontinue comic. 
+		516		00:42:42		437		-->		00:42:46		942		It was a holodeck audience, programmed to laugh at everything. 
+		517		00:42:47		734		-->		00:42:52		155		I could reprogram the audience to display a more accurate response. 
+		518		00:42:52		322		-->		00:42:54		533		Data, let me give you one. 
+		519		00:42:55		868		-->		00:42:59		580		Being able to make people laugh, or being able to laugh, is not the be-all of being human. 
+		521		00:43:02		541		-->		00:43:07		671		No. But there is nothing more... uniquely human. 
+		522		00:43:23		520		-->		00:43:27		107		Hold your speed, Capt Okona. Disengage. 
+		523		00:43:28		609		-->		00:43:29		943		Separated. 
+		524		00:43:30		360		-->		00:43:33		197		I'm under my own power now. Thank you. 
+		525		00:43:33		363		-->		00:43:36		909		- Thank you, Capt Picard. - Goodbye, Capt Okona. 
+		526		00:43:37		826		-->		00:43:39		119		Bye, Capt Okona. 
+		527		00:43:42		080		-->		00:43:45		000		- Say goodbye, Data. - Goodbye, Data. 
+		528		00:43:48		295		-->		00:43:49		421		Was that funny? 
+		529		00:43:52		090		-->		00:43:53		467		Accessing. 
+		530		00:43:55		802		-->		00:43:59		806		Burns and Allen, Roxy Theater, New York City, 1932. 
+		531		00:43:59		973		-->		00:44:02		017		It still works. 
+		532		00:44:02		184		-->		00:44:06		396		Heard about the girl in the nudist colony that nothing looked good on? 
+		533		00:44:06		563		-->		00:44:08		440		We're ready to leave, sir. 
+		534		00:44:09		399		-->		00:44:11		360		Take my Worf. Please. 
+		535		00:44:11		527		-->		00:44:14		780		- Warp speed, sir? - Please. 

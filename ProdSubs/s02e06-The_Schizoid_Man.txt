@@ -1,0 +1,512 @@
+		1		00:00:04		671		-->		00:00:08		050		Medical log, stardate <stardate>42437</stardate>.5 
+		2		00:00:08		217		-->		00:00:12		721		Ira Graves is arguably the greatest human mind in the universe. 
+		3		00:00:12		888		-->		00:00:16		308		He lives in near isolation on a remote planet, devoting full time to his research. 
+		5		00:00:19		186		-->		00:00:24		107		Eight hours ago, his assistant urgently requested medical aid. 
+		6		00:00:24		274		-->		00:00:26		693		I only hope we can reach him in time. 
+		7		00:00:26		860		-->		00:00:28		904		Any response from Gravesworld? 
+		8		00:00:29		071		-->		00:00:31		865		Not since their initial communication. 
+		9		00:00:32		032		-->		00:00:34		952		They ask for help, then cut off transmission, so they can't tell if any help is on the way. 
+		11		00:00:38		330		-->		00:00:41		041		Ensign, what's our ETA at the planet? 
+		12		00:00:41		208		-->		00:00:43		335		36 minutes to orbit, sir. 
+		13		00:00:43		502		-->		00:00:47		840		Starfleet considers Graves's molecular-cybernetics work to be at a critical stage. They consider this a priority-one action. 
+		15		00:00:52		886		-->		00:00:55		931		A man is ill. Treating him is my priority one, regardless of who he is. 
+		17		00:00:58		100		-->		00:01:03		105		- Why does Data want to see us? - He mentioned his new image. 
+		18		00:01:03		272		-->		00:01:07		067		- He's been acting kinda strange. - How so? 
+		19		00:01:07		234		-->		00:01:12		322		If I didn't know better, I'd say he was showing signs of insecurity. 
+		20		00:01:12		489		-->		00:01:16		326		But you do know better. Androids don't feel such things. 
+		21		00:01:16		493		-->		00:01:21		832		Sometimes I think he's becoming more human than any of us realise. 
+		22		00:01:23		584		-->		00:01:25		377		Come in. 
+		23		00:01:28		046		-->		00:01:32		009		- Data? - Geordi? Is Counsellor Troi there? 
+		24		00:01:32		176		-->		00:01:35		345		Yes, Data. Geordi said you wanted to see us. 
+		25		00:01:35		512		-->		00:01:40		642		Indeed. Or, stated more correctly, I wanted you to see me. 
+		26		00:01:42		477		-->		00:01:45		397		- Can we come in? - Please. 
+		27		00:01:54		156		-->		00:01:56		825		Did you damage your face, Data? 
+		28		00:01:58		076		-->		00:02:03		332		It is a beard, Geordi. A fine, full, dignified beard. 
+		29		00:02:03		498		-->		00:02:05		417		One which commands respect and projects thoughtfulness and dignity. 
+		31		00:02:10		923		-->		00:02:12		674		Well? Opinions? 
+		32		00:02:13		759		-->		00:02:17		304		It's very... different. 
+		33		00:02:18		639		-->		00:02:21		892		When I stroke the beard thusly, do I not appear more intellectual? 
+		35		00:02:28		732		-->		00:02:31		485		I'm sorry. I have to go now. Goodbye. 
+		36		00:02:35		822		-->		00:02:37		533		Why was she laughing? 
+		37		00:02:38		492		-->		00:02:42		371		We are receiving a transmission from Gravesworld, sir. 
+		38		00:02:42		538		-->		00:02:45		624		It's unfocused, not directed specifically at us. 
+		39		00:02:45		791		-->		00:02:48		168		On viewer, Mr Worf. 
+		40		00:02:48		335		-->		00:02:53		173		If anyone can hear me, please send a doctor. Things are getting worse. 
+		41		00:02:56		134		-->		00:03:00		264		Try and raise her, Mr Crusher. Tell them we're only minutes away. 
+		42		00:03:00		430		-->		00:03:03		350		It's no good, sir. They're not receiving us. 
+		43		00:03:04		142		-->		00:03:07		604		She and Graves live on the planet alone, sir. 
+		44		00:03:07		771		-->		00:03:09		022		Then what scared her? 
+		45		00:03:33		839		-->		00:03:36		967		Space, the final frontier. 
+		46		00:03:38		635		-->		00:03:42		639		These are the voyages of the Starship Enterprise. 
+		47		00:03:42		806		-->		00:03:47		352		Its continuing mission, to explore strange new worlds,... 
+		48		00:03:48		437		-->		00:03:52		274		..to seek out new life and new civilizations,... 
+		49		00:03:53		108		-->		00:03:57		112		..to boldly go where no one has gone before. 
+		50		00:04:58		841		-->		00:05:02		636		Captain, I am picking up a signal, but not from the planet. 
+		51		00:05:02		803		-->		00:05:04		096		On screen, Mr Worf. 
+		52		00:05:04		263		-->		00:05:08		559		- The signal is weak. Audio only. - Pipe it through. 
+		53		00:05:08		725		-->		00:05:10		018		Mayday! 
+		54		00:05:10		185		-->		00:05:13		021		This is the USS... requesting assistance. 
+		55		00:05:13		188		-->		00:05:17		734		The outer hull breached, environmental systems compromised. 
+		56		00:05:17		901		-->		00:05:20		779		The Constantinople is in that vicinity. 
+		57		00:05:20		946		-->		00:05:23		657		She's a transport ship, used to ferry settlers. 
+		58		00:05:23		824		-->		00:05:28		203		I'm showing 2,012 colonists aboard. 
+		59		00:05:28		370		-->		00:05:31		915		Outer-hull breach. Must be an internal explosion. 
+		60		00:05:32		082		-->		00:05:35		460		If so, they'll all be prone to severe hypoxia. 
+		61		00:05:36		253		-->		00:05:39		339		Their lives are at risk. We've got to help them. 
+		62		00:05:39		506		-->		00:05:40		757		What about Graves? 
+		63		00:05:42		092		-->		00:05:43		760		He is one man. 
+		64		00:05:47		681		-->		00:05:51		143		Why not execute a long-range transport of an away team to assist Graves? 
+		66		00:05:53		687		-->		00:05:56		940		We'd be out of warp long enough to energize the beam. 
+		67		00:05:57		107		-->		00:05:59		359		A touch-and-go down-warping? 
+		68		00:06:00		861		-->		00:06:03		864		- Ensign, prepare to make it so. - Aye, sir. 
+		69		00:06:04		031		-->		00:06:08		869		Engineering. Mr La Forge? We'll execute a near-warp transport. 
+		70		00:06:09		036		-->		00:06:11		496		This may be tricky. I want you to do it. 
+		71		00:06:11		663		-->		00:06:13		665		Yes, Captain. I'm on my way. 
+		72		00:06:13		832		-->		00:06:17		711		Assemble an away team. Include whoever the Doctor needs. 
+		73		00:06:17		878		-->		00:06:23		258		Sir, hundreds on the Constantinople may need emergency attention. 
+		74		00:06:23		425		-->		00:06:27		054		- I should be there to supervise. - Who will replace you? 
+		75		00:06:27		221		-->		00:06:30		849		Lt Selar. She has my complete confidence. 
+		76		00:06:31		433		-->		00:06:33		227		Worf, let's go. 
+		77		00:06:40		734		-->		00:06:42		653		Phaser on stun, Mr Worf. 
+		78		00:06:42		819		-->		00:06:45		822		We don't know the situation. Don't take chances. 
+		79		00:06:45		989		-->		00:06:47		908		- Agreed, sir. - Now, remember. 
+		80		00:06:48		075		-->		00:06:51		662		In a near-warp transport, the effects may be unusual. 
+		81		00:06:51		828		-->		00:06:53		997		- What do you mean? - You'll see. 
+		82		00:07:02		673		-->		00:07:05		551		- Energize. - Wait. I don't understand. 
+		83		00:07:17		771		-->		00:07:19		523		You do now. 
+		84		00:07:19		690		-->		00:07:23		944		For a moment, I thought I was stuck in that wall. 
+		85		00:07:24		111		-->		00:07:26		113		For a moment, you were. 
+		86		00:07:26		822		-->		00:07:30		450		- Data to Enterprise. - I read you, Commander. Go ahead. 
+		87		00:07:30		617		-->		00:07:32		452		We are inside Graves's home. 
+		88		00:07:32		619		-->		00:07:36		248		All is quiet, but no one knew we were coming. 
+		89		00:07:36		415		-->		00:07:40		085		Use caution but protect Graves's health at all costs. 
+		90		00:07:40		252		-->		00:07:44		798		Understood, sir. I suggest we see if anyone is home. 
+		91		00:07:45		174		-->		00:07:47		176		No need, Commander. 
+		92		00:07:50		554		-->		00:07:53		432		You heard me. Thank God. 
+		93		00:07:53		599		-->		00:07:56		935		I'm Kareen Brianon, Dr Graves's assistant. 
+		94		00:07:57		102		-->		00:07:59		313		We're from the Enterprise. 
+		95		00:07:59		479		-->		00:08:03		358		We monitored your call but you never acknowledged us. 
+		96		00:08:03		525		-->		00:08:06		320		Sorry. I couldn't take the chance. 
+		97		00:08:06		486		-->		00:08:08		822		Chance? What chance? 
+		98		00:08:09		740		-->		00:08:12		659		The chance I might find out someone was coming. 
+		99		00:08:12		826		-->		00:08:16		371		Kareen knew I would not be pleased, to put it mildly. 
+		100		00:08:16		538		-->		00:08:21		084		I had no choice. I refuse to just watch you deteriorate. 
+		101		00:08:21		251		-->		00:08:25		547		- What symptoms have you noticed? - Pain. Shortness of breath. 
+		102		00:08:25		714		-->		00:08:27		883		- Irritability. - Ridiculous! 
+		103		00:08:30		385		-->		00:08:32		846		I'm as healthy as a Rigelian ox. 
+		104		00:08:33		013		-->		00:08:37		476		He's not himself, believe me. His temper is out of control. 
+		105		00:08:37		643		-->		00:08:39		269		- Nonsense! - Ira! 
+		106		00:08:39		436		-->		00:08:42		189		I am a doctor. Lt Selar. 
+		107		00:08:42		356		-->		00:08:45		484		No offence, but I don't want you touching me. 
+		108		00:08:45		651		-->		00:08:49		363		I don't like people much and I like doctors even less. 
+		109		00:08:49		530		-->		00:08:52		574		I thought most doctors were people. 
+		110		00:08:52		741		-->		00:08:55		661		You're wrong. Ask any patient. 
+		111		00:08:55		827		-->		00:09:00		082		Though, for a doctor, you're not a bad-looking woman. 
+		112		00:09:01		375		-->		00:09:06		505		What have we got here? Another lovely specimen of womanhood. 
+		113		00:09:06		672		-->		00:09:08		882		I thought you didn't like people. 
+		114		00:09:09		049		-->		00:09:13		011		Women aren't people. They're women. 
+		115		00:09:16		932		-->		00:09:20		435		I'm Deanna Troi. It's an honour to meet you. 
+		116		00:09:20		602		-->		00:09:24		815		Of course. This is one of the great moments of your life. 
+		117		00:09:24		982		-->		00:09:27		860		Excuse me, sir, are you a Romulan? 
+		118		00:09:30		195		-->		00:09:32		906		- Hardly. - He's a Klingon, Kareen. 
+		119		00:09:33		073		-->		00:09:36		994		Kareen's lived here since her father died when she was young. 
+		120		00:09:37		160		-->		00:09:40		080		I taught her all she knows of unhuman races. 
+		121		00:09:40		247		-->		00:09:43		959		Klingons and Romulans don't look much alike, Kareen, even though they act much alike. 
+		123		00:09:48		005		-->		00:09:50		591		Must I stand here and be insulted? 
+		124		00:09:50		757		-->		00:09:53		844		No insult intended, Mr Klingon. 
+		125		00:09:54		011		-->		00:09:57		472		You see, Doctor, there's nothing wrong with my hearing. 
+		126		00:10:01		101		-->		00:10:02		853		My...! 
+		127		00:10:04		354		-->		00:10:06		190		Lt Cmdr Data... 
+		128		00:10:08		859		-->		00:10:15		324		Absolutely no aesthetic value whatsoever. Looks like Soong's work. 
+		129		00:10:15		490		-->		00:10:17		492		Correct. Did you know Dr Soong? 
+		130		00:10:17		659		-->		00:10:20		787		Know him? I taught him everything he knows. 
+		131		00:10:20		954		-->		00:10:24		666		You could say that I was the father of his work. 
+		132		00:10:25		918		-->		00:10:29		338		Which kinda makes me your grandfather, sonny. 
+		133		00:10:30		672		-->		00:10:33		842		Damn doctors! Always sneaking up on one. 
+		134		00:10:34		009		-->		00:10:36		178		Attacking from the rear. 
+		135		00:10:40		766		-->		00:10:43		227		Go on, gorgeous. Spit it out. 
+		136		00:10:43		393		-->		00:10:45		854		Whatever it is, I can take it. 
+		137		00:10:46		438		-->		00:10:49		149		I've checked twice to make certain. 
+		138		00:10:49		316		-->		00:10:51		193		You have Darnay's disease. 
+		139		00:10:53		195		-->		00:10:56		448		I'm sorry, Dr Graves. It's in its final stage. 
+		140		00:10:57		032		-->		00:10:59		159		Can't you do something for him? 
+		141		00:11:00		494		-->		00:11:03		205		In all cases, Darnay's is terminal. 
+		142		00:11:14		007		-->		00:11:17		886		Captain's log, stardate <stardate>42437</stardate>.7. 
+		143		00:11:18		053		-->		00:11:21		682		We've repaired the stricken liner, Constantinople. 
+		144		00:11:21		849		-->		00:11:25		060		46 of her people suffered injuries, mostly minor. 
+		145		00:11:25		227		-->		00:11:28		647		They have been treated and supplied with medicines. 
+		146		00:11:28		814		-->		00:11:32		276		We are heading back to Gravesworld at speed. 
+		147		00:11:47		833		-->		00:11:50		752		- I have noticed, Doctor... - Call me Grandpa. 
+		148		00:11:52		379		-->		00:11:55		674		Seems more touching in my final hours. 
+		149		00:11:56		758		-->		00:11:58		260		I have noticed, Grandpa, that you keep repeating a musical phrase I am unfamiliar with. 
+		151		00:12:04		474		-->		00:12:11		064		It's an ancient little tune called If I Only Had A Heart. 
+		152		00:12:11		231		-->		00:12:13		901		A plaintive lament sung by a mechanical man who longs to be human. It's his only wish. 
+		154		00:12:19		698		-->		00:12:23		785		- What happens to him? - He finds out he's human after all. 
+		155		00:12:23		952		-->		00:12:27		956		Always was. Just worried so much, he never realized it. 
+		156		00:12:30		000		-->		00:12:33		295		A happy ending. The mechanical man gets his wish. 
+		157		00:12:33		879		-->		00:12:37		090		Stories often have happy endings. 
+		158		00:12:37		257		-->		00:12:39		927		It's life that throws you for a loop. 
+		159		00:12:41		053		-->		00:12:45		641		It must be so hard for you, to be so close to being human and yet never really knowing what it's like to know pain. 
+		161		00:12:51		647		-->		00:12:53		649		But... 
+		162		00:12:54		441		-->		00:12:57		152		..pain is unpleasant, is it not? 
+		163		00:12:57		319		-->		00:13:00		197		Pain. Lust. 
+		164		00:13:00		364		-->		00:13:02		032		Envy. 
+		165		00:13:02		199		-->		00:13:04		368		Pleasure. 
+		166		00:13:04		535		-->		00:13:06		245		Desire. 
+		167		00:13:07		037		-->		00:13:09		289		Do you know what desire is, Data? 
+		168		00:13:09		456		-->		00:13:14		086		Desire? To long for, to crave, a wish, a request. 
+		169		00:13:14		253		-->		00:13:18		632		Do you know what desire is? 
+		170		00:13:19		383		-->		00:13:24		012		No. I do not suppose I will ever really know. 
+		171		00:13:24		680		-->		00:13:27		266		I feel pity for you. 
+		172		00:13:28		058		-->		00:13:32		187		Your existence must be a kind of walking purgatory. 
+		173		00:13:32		771		-->		00:13:38		277		Neither dead nor alive. Never really feeling anything. 
+		174		00:13:38		443		-->		00:13:40		362		Just existing. 
+		175		00:13:48		287		-->		00:13:50		205		Listen to me. 
+		176		00:13:50		372		-->		00:13:57		087		A dying man takes the time to mourn a man who will never know death. 
+		177		00:13:59		631		-->		00:14:01		425		Funny, isn't it? 
+		178		00:14:03		594		-->		00:14:05		596		Funny. 
+		179		00:14:06		555		-->		00:14:10		726		I have had great difficulty determining what funny is. 
+		180		00:14:11		435		-->		00:14:14		438		I've had the same difficulty most of my life. 
+		181		00:14:16		398		-->		00:14:18		400		We're much alike. 
+		182		00:14:19		526		-->		00:14:22		321		I'd say he has a week. That's an estimate. 
+		183		00:14:22		487		-->		00:14:25		741		The disease attacks the brain and nervous system. 
+		184		00:14:25		908		-->		00:14:30		120		We can expect more erratic behaviour of the kind you've noticed. 
+		185		00:14:31		246		-->		00:14:34		875		His feelings towards you are very warm. 
+		186		00:14:35		042		-->		00:14:37		794		He is attracted to you in many ways. 
+		187		00:14:37		961		-->		00:14:39		796		Attracted? 
+		188		00:14:40		422		-->		00:14:45		761		I know I've felt certain feelings from him. And for him. 
+		189		00:14:46		178		-->		00:14:49		890		Had I been older, perhaps we could have been... 
+		190		00:14:51		141		-->		00:14:53		644		That's not the way it worked out. 
+		191		00:14:54		686		-->		00:14:57		981		And now it's like he's afraid to face me. 
+		192		00:14:58		148		-->		00:15:01		193		The only one he talks to is your friend, Data. 
+		193		00:15:01		360		-->		00:15:04		446		You mentioned your impending death, Grandpa. 
+		194		00:15:04		613		-->		00:15:07		866		You face it with remarkable courage and stoicism. 
+		195		00:15:08		033		-->		00:15:11		161		That is because I am an incredible man, possessing an iron will and nerves of steel. 
+		197		00:15:16		124		-->		00:15:20		045		Two traits that have helped me become the genius I am today and the lady-killer I was in days gone by. 
+		199		00:15:23		298		-->		00:15:25		092		You condone homicide, sir? 
+		200		00:15:25		634		-->		00:15:27		719		It's an expression, Data. 
+		201		00:15:27		886		-->		00:15:32		307		It means I was once as beautiful as I am smart. 
+		202		00:15:32		724		-->		00:15:35		936		- Really, Grandpa? - No, not really. 
+		203		00:15:36		103		-->		00:15:38		897		But, what the hell? I'm dying. 
+		204		00:15:39		523		-->		00:15:43		694		I can remember my life any way I want. 
+		205		00:15:44		486		-->		00:15:47		406		But I'll let you into a little secret, sonny. 
+		206		00:15:48		323		-->		00:15:52		286		I don't really believe I will be dying. 
+		207		00:15:52		452		-->		00:15:54		788		- But the Doctor... - I'll die. 
+		208		00:15:54		955		-->		00:15:57		833		But I won't really be dead. 
+		209		00:15:58		458		-->		00:16:02		504		You see, I believe I've learned to transfer the wealth of my knowledge into a computer. 
+		211		00:16:06		967		-->		00:16:13		599		Before I die, I plan to transfer my great intellect into this machine, thus cheating the Grim Reaper of his greatest prize. 
+		213		00:16:19		313		-->		00:16:22		733		But what would you know of death? 
+		214		00:16:23		317		-->		00:16:26		695		It is a subject forever alien to you. 
+		215		00:16:26		862		-->		00:16:31		658		That is not necessarily true. I do have an off button, if you will. 
+		216		00:16:32		201		-->		00:16:35		162		Its activation robs me of my consciousness, therefore rendering me dead. 
+		218		00:16:38		457		-->		00:16:40		792		I do not enjoy contemplating it. 
+		219		00:16:40		959		-->		00:16:42		961		I can understand that. 
+		220		00:16:44		379		-->		00:16:51		178		Just where would Soong position such a device? Don't tell me. 
+		221		00:16:51		678		-->		00:16:53		555		Let me guess. 
+		222		00:17:04		107		-->		00:17:07		486		Captain to away team. We're standing by. 
+		223		00:17:07		653		-->		00:17:10		572		I do not wish to interrupt Data and the Doctor. 
+		224		00:17:10		739		-->		00:17:14		076		They have a rapport. But the Enterprise is in orbit. 
+		225		00:17:14		243		-->		00:17:16		995		I'd like to transfer Graves to the ship. 
+		226		00:17:19		790		-->		00:17:23		460		That will not be necessary, Doctor. He is gone. 
+		227		00:17:23		627		-->		00:17:25		045		Gone? 
+		228		00:17:25		212		-->		00:17:28		924		It happened a few moments ago, in my arms. 
+		229		00:17:29		091		-->		00:17:31		927		Ira Graves... is dead. 
+		230		00:17:40		102		-->		00:17:42		020		Captain's log, supplemental. 
+		231		00:17:42		187		-->		00:17:44		857		I leave Gravesworld with the knowledge that our mission was unsuccessful. 
+		233		00:17:47		401		-->		00:17:51		238		Whatever scientific secrets Ira Graves was about to unlock have been lost for ever. 
+		235		00:17:53		031		-->		00:17:55		701		Our priority is to reach a star base so that Graves's assistant can get on with her life. 
+		237		00:18:02		249		-->		00:18:04		376		Why didn't you contact Dr Selar when you saw that he was beginning to go? 
+		239		00:18:08		046		-->		00:18:12		634		It would have been pointless. All things must pass. 
+		240		00:18:13		594		-->		00:18:17		598		- May I go now, sir? - Yes, of course. 
+		241		00:18:20		517		-->		00:18:23		395		We will try to honour him in the manner in which he specified? 
+		243		00:18:27		107		-->		00:18:28		692		I said we would, Data. 
+		244		00:18:29		276		-->		00:18:32		821		I am glad, sir. It was his dying wish. 
+		245		00:18:55		344		-->		00:18:58		805		Hello, Data. It's good to see you again. 
+		246		00:19:01		016		-->		00:19:05		020		The stars are so beautiful from space. 
+		247		00:19:05		604		-->		00:19:07		773		You always did love the sky. 
+		248		00:19:08		941		-->		00:19:12		152		A stargazer. That is what you are. 
+		249		00:19:13		237		-->		00:19:15		322		Did Ira tell you that? 
+		250		00:19:17		658		-->		00:19:19		743		I guess he's right. 
+		251		00:19:20		494		-->		00:19:24		790		I used to spend hours just lying on a hill, looking up. 
+		252		00:19:25		374		-->		00:19:28		710		Ira never told you how beautiful you were to him. 
+		253		00:19:29		670		-->		00:19:31		922		He never told you, did he? 
+		254		00:19:33		048		-->		00:19:37		177		He could not tell you. Do you understand? 
+		255		00:19:38		637		-->		00:19:42		224		Yes. I understand. 
+		256		00:19:44		059		-->		00:19:46		061		But he wanted to. 
+		257		00:19:46		854		-->		00:19:49		189		Every waking moment. 
+		258		00:19:50		023		-->		00:19:52		109		He wanted you to know that. 
+		259		00:19:57		531		-->		00:19:59		992		You were everything to him. 
+		260		00:20:17		634		-->		00:20:20		304		He was a fine man. 
+		261		00:20:21		013		-->		00:20:23		015		A man of rare gifts... 
+		262		00:20:24		266		-->		00:20:26		435		..and great accomplishments. 
+		263		00:20:27		561		-->		00:20:29		563		He will be sorely missed. 
+		264		00:20:32		065		-->		00:20:34		318		Anyone else have anything to say? 
+		265		00:20:34		484		-->		00:20:37		362		I have a few words to say, sir. 
+		266		00:20:45		412		-->		00:20:47		873		Just look at that face. 
+		267		00:20:48		540		-->		00:20:51		210		The face of a thinker. 
+		268		00:20:52		169		-->		00:20:54		338		A warrior. 
+		269		00:20:54		505		-->		00:20:56		507		A man... 
+		270		00:20:57		257		-->		00:20:59		551		..for all seasons. 
+		271		00:20:59		718		-->		00:21:05		432		Yes, Ira Graves was all that and more. 
+		272		00:21:05		599		-->		00:21:08		101		But he was not perfect. 
+		273		00:21:09		102		-->		00:21:14		608		Perhaps his greatest flaw was that he was too selfless. 
+		274		00:21:15		192		-->		00:21:19		071		He cared too much for his fellow man, with nary a thought for himself. 
+		276		00:21:23		325		-->		00:21:27		746		A man of limitless accomplishments... 
+		277		00:21:29		248		-->		00:21:31		792		..and unbridled modesty. 
+		278		00:21:32		960		-->		00:21:39		258		I can safely say that to know him was to love him. 
+		279		00:21:40		342		-->		00:21:42		344		And to love him... 
+		280		00:21:42		970		-->		00:21:44		972		..was to know him. 
+		281		00:21:46		265		-->		00:21:50		602		Those who knew him... loved him, ... 
+		282		00:21:51		770		-->		00:21:54		273		..while those who did not know him... 
+		283		00:21:56		316		-->		00:21:58		569		..loved him from afar. 
+		284		00:21:58		735		-->		00:22:01		405		- Data. - I'm almost finished, sir. 
+		285		00:22:01		530		-->		00:22:03		031		You are finished. 
+		286		00:22:34		021		-->		00:22:39		985		We now commit the body of Ira Graves to the timeless depths of space. 
+		287		00:23:05		928		-->		00:23:07		888		I am sorry, sir. 
+		288		00:23:08		805		-->		00:23:12		267		Perhaps my admiration for Grandpa got the best of me. 
+		289		00:23:12		434		-->		00:23:13		936		Grandpa? 
+		290		00:23:14		102		-->		00:23:20		067		That is how I think of him. My only living relative. No longer living. 
+		291		00:23:20		234		-->		00:23:21		735		Data... 
+		292		00:23:21		902		-->		00:23:25		781		I was only trying to carry out his wishes, sir. 
+		293		00:23:26		532		-->		00:23:29		451		I wanted to keep my promise to him. 
+		294		00:23:30		410		-->		00:23:34		998		I know that, Data. Look, I realise you've been studying the human equation with great alacrity,  but perhaps you've been working at it too much. 
+		297		00:23:41		004		-->		00:23:44		800		Don't try so hard to be human. Just be yourself. 
+		298		00:23:45		592		-->		00:23:47		219		Alright? 
+		299		00:23:47		386		-->		00:23:51		932		Yes, sir. I will work on staying within myself. 
+		300		00:23:52		474		-->		00:23:54		059		Grand. 
+		301		00:23:55		727		-->		00:23:57		729		You're dismissed, Mr Data. 
+		302		00:24:03		235		-->		00:24:04		653		Thank you, sir. 
+		303		00:24:27		176		-->		00:24:28		802		Captain's personal log. 
+		304		00:24:28		969		-->		00:24:33		765		Data has assured me that his odd behaviour will return to normal, but I think something went wrong on Gravesworld. 
+		306		00:24:39		271		-->		00:24:44		610		I'm still concerned, Captain. I've never seen him act like this. 
+		307		00:24:44		735		-->		00:24:49		281		Could it be the grandfather analogy that Graves planted in his head? 
+		308		00:24:49		448		-->		00:24:52		868		Data is an orphan, in a manner of speaking. 
+		309		00:24:54		745		-->		00:24:59		958		Is it possible that the loss of Graves might have affected him? 
+		310		00:25:01		001		-->		00:25:06		006		Touched him on some emotional level we didn't know he possessed? 
+		311		00:25:06		173		-->		00:25:08		175		I hope you're right. 
+		312		00:25:09		343		-->		00:25:11		803		I hope that's all it is. 
+		313		00:25:15		933		-->		00:25:18		393		That was a great speech, Data. 
+		314		00:25:18		560		-->		00:25:22		773		"To know him is to love him is to know him." 
+		315		00:25:22		940		-->		00:25:26		527		Verbal composition at its most sophisticated level. 
+		316		00:25:28		278		-->		00:25:33		116		Your childlike mind cannot appreciate the wisdom of my words. 
+		317		00:25:33		283		-->		00:25:35		285		Childlike mind? 
+		318		00:25:35		452		-->		00:25:39		039		When you get to be my age, you will understand. 
+		319		00:25:39		206		-->		00:25:40		707		Your age? 
+		320		00:25:40		874		-->		00:25:45		254		Data, chronologically, you're not much older than I am. 
+		321		00:25:46		672		-->		00:25:50		551		You are only as old as you feel. Try to remember that, boy. 
+		322		00:25:53		428		-->		00:25:55		889		Are you turning into a philosopher? 
+		323		00:25:56		056		-->		00:26:00		018		I am many things. Scholar, artist, philosopher, ... 
+		324		00:26:01		186		-->		00:26:03		856		..lover, genius. 
+		325		00:26:04		606		-->		00:26:06		650		Data, what's wrong with you? 
+		326		00:26:19		788		-->		00:26:21		498		How beautiful! 
+		327		00:26:21		665		-->		00:26:23		917		I thought you'd enjoy the bridge. 
+		328		00:26:24		501		-->		00:26:27		629		I'm aware of your interest in science. 
+		329		00:26:27		796		-->		00:26:30		257		I'm aware of your interest in her. 
+		330		00:26:31		383		-->		00:26:33		177		What was that, Commander? 
+		331		00:26:35		429		-->		00:26:38		098		Nothing, sir. Nothing at all. 
+		332		00:26:42		728		-->		00:26:45		230		These are the science stations. 
+		333		00:26:47		107		-->		00:26:51		069		From the command centre, we have control of the science stations... 
+		334		00:26:51		236		-->		00:26:53		572		Data, what are you doing? 
+		335		00:26:54		489		-->		00:26:59		244		I detest hypocrisy. I wish they would just admit it! 
+		336		00:27:00		704		-->		00:27:02		623		Admit what, Mr Data? 
+		337		00:27:03		665		-->		00:27:07		628		That your interest in Kareen is not purely professional. 
+		338		00:27:07		794		-->		00:27:11		590		Try as you will, you cannot win her heart. 
+		339		00:27:12		466		-->		00:27:15		135		She does not care for older men. 
+		340		00:27:16		470		-->		00:27:19		139		Or men of limited intellect. 
+		341		00:27:22		559		-->		00:27:26		480		Mr Data, you will come with me now. Do you understand me? 
+		342		00:27:28		065		-->		00:27:31		735		I understand. I understand all too well. 
+		343		00:27:31		902		-->		00:27:35		739		Removing the competition will not help you, Picard. 
+		344		00:27:42		079		-->		00:27:44		081		Excuse me. 
+		345		00:27:47		793		-->		00:27:51		129		- Do you know what that was about? - Jealousy. 
+		346		00:27:51		296		-->		00:27:54		091		Intense, burning jealousy. 
+		347		00:27:55		425		-->		00:27:58		595		A human emotion and it was coming from Data. 
+		348		00:28:04		393		-->		00:28:07		563		If you wish to apologize, I am prepared to listen. 
+		349		00:28:10		440		-->		00:28:13		277		You expect me to apologize to you? 
+		350		00:28:13		443		-->		00:28:15		445		You were a bit rude to me. 
+		351		00:28:15		612		-->		00:28:19		157		Might make you feel better if you said you were sorry. 
+		352		00:28:19		324		-->		00:28:22		369		Data, something is wrong with your circuitry. 
+		353		00:28:22		536		-->		00:28:25		622		Ridiculous. I'm as healthy as a Rigelian ox. 
+		354		00:28:25		789		-->		00:28:28		458		I wish I could believe that. 
+		355		00:28:28		625		-->		00:28:33		463		I would accompany you to sickbay but I doubt if that would help. 
+		356		00:28:33		630		-->		00:28:35		632		Sickbay? 
+		357		00:28:37		801		-->		00:28:41		513		- Are you ill, Captain? - I'm getting there. 
+		358		00:28:42		347		-->		00:28:46		226		I'll have Engineering run a full physical on you. 
+		359		00:28:46		393		-->		00:28:51		523		That will not be necessary. I can run a circuit check on myself. 
+		360		00:28:51		690		-->		00:28:54		860		It will immediately determine any abnormalities. 
+		361		00:28:55		027		-->		00:28:57		154		Do it. That's an order. 
+		362		00:29:00		949		-->		00:29:05		078		As I expected, I am fine. Could not be better. 
+		363		00:29:08		248		-->		00:29:12		794		For the first time since I've known you, I don't believe you. 
+		364		00:29:19		468		-->		00:29:22		387		Try and hold still, will you, Data? 
+		365		00:29:30		854		-->		00:29:33		357		Data, wait for me in the corridor. 
+		366		00:29:33		524		-->		00:29:37		444		Why should I? This concerns me more than you. 
+		367		00:29:38		779		-->		00:29:41		573		You will wait for me in the corridor. 
+		368		00:29:46		954		-->		00:29:50		582		His insubordination is growing by leaps and bounds. 
+		369		00:29:51		625		-->		00:29:55		921		I could use discipline, but I'd rather try and help him. 
+		370		00:29:56		088		-->		00:30:00		133		I wish I knew what to suggest. I can't find a thing wrong with him. 
+		371		00:30:00		300		-->		00:30:02		845		Perhaps we're looking in the wrong place. 
+		372		00:30:03		011		-->		00:30:06		390		- Meaning? - If his physical health is good, perhaps his mental health should be addressed. 
+		374		00:30:09		852		-->		00:30:12		437		Are you saying Data's losing his mind? 
+		375		00:30:12		604		-->		00:30:16		441		With your permission, Captain, there is a way to find out. 
+		376		00:30:19		361		-->		00:30:23		365		You remember the psychotronic-stability examination? 
+		377		00:30:23		532		-->		00:30:26		743		We all had to take it before graduating. 
+		378		00:30:26		910		-->		00:30:30		455		It was a waste of time then. It's a waste of time now. 
+		379		00:30:30		956		-->		00:30:35		169		It will gauge your reactions to the images it projects. 
+		380		00:30:36		420		-->		00:30:39		590		Watch the screen and let your mind go blank. 
+		381		00:30:39		756		-->		00:30:42		176		The device will do the rest. 
+		382		00:31:15		584		-->		00:31:19		838		It's safe to say that you're his best friend. 
+		383		00:31:21		131		-->		00:31:26		470		Is it possible to speculate about what's happening to him? 
+		384		00:31:27		971		-->		00:31:30		724		Well, sir, it's just a guess, but... 
+		385		00:31:31		558		-->		00:31:35		687		..sometimes he wants to be human so badly, he can taste it. 
+		386		00:31:35		854		-->		00:31:39		900		I think he gets confused when his human qualities surface. 
+		387		00:31:40		651		-->		00:31:42		444		Go on. 
+		388		00:31:42		611		-->		00:31:47		199		Witnessing Graves's death may have been a catalyst for the... 
+		389		00:31:49		326		-->		00:31:53		872		I have the test results. I ran them several times to be sure. 
+		390		00:31:54		039		-->		00:31:55		666		To be sure of what? 
+		391		00:31:55		832		-->		00:32:00		379		There are two disparate personalities within Lt Cmdr Data. 
+		392		00:32:00		546		-->		00:32:04		132		Each distinctly different. A dominant and a recessive. 
+		393		00:32:04		299		-->		00:32:06		426		He's an android. Is that possible? 
+		394		00:32:06		593		-->		00:32:11		431		It must be. The dominant personality is unstable. 
+		395		00:32:11		598		-->		00:32:15		227		Brilliant but vain, sensitive yet paranoid. 
+		396		00:32:15		394		-->		00:32:18		647		I believe it is prone to irrationality. 
+		397		00:32:19		606		-->		00:32:20		899		Of course. 
+		398		00:32:21		066		-->		00:32:23		986		- Sir? - Nothing. Go on. 
+		399		00:32:24		945		-->		00:32:29		658		It seems to have an especially strong hatred of you, Captain, or to a lesser degree, any authority figure. 
+		401		00:32:33		287		-->		00:32:36		790		And the worst part is, it's growing. 
+		402		00:32:36		957		-->		00:32:38		375		How do you mean? 
+		403		00:32:38		542		-->		00:32:42		004		The alien persona is getting stronger and gobbling up what is left of the weaker ego, the Data we know. 
+		405		00:32:47		342		-->		00:32:51		096		If something isn't done to stop it immediately, ... 
+		406		00:32:51		889		-->		00:32:54		725		..we will lose our Data for ever. 
+		407		00:32:59		396		-->		00:33:02		566		Captain's personal log. We have arrived at Star base 6, where Miss Brianon will await transport back to Earth. 
+		409		00:33:06		028		-->		00:33:09		406		I am greatly troubled by Cmdr Data's behaviour and fear it is related to the experiments of Ira Graves. 
+		411		00:33:14		745		-->		00:33:17		623		- Where is Data? - He should be in his quarters. 
+		412		00:33:17		789		-->		00:33:20		083		You ordered him not to leave. 
+		413		00:33:22		294		-->		00:33:24		463		Tell me, where is Lt Cmdr Data? 
+		414		00:33:24		630		-->		00:33:26		840		Current location, ten-forward. 
+		415		00:33:28		634		-->		00:33:33		764		Lt Worf, will you go to ten-forward and keep an eye on Data? 
+		416		00:33:33		931		-->		00:33:37		768		Don't interfere with his actions unless you hear from me. 
+		417		00:33:37		935		-->		00:33:40		187		Worf here, sir. Acknowledged. 
+		418		00:33:41		688		-->		00:33:46		151		I want to know more about what happened on Gravesworld. 
+		419		00:33:47		236		-->		00:33:50		447		Lt Selar, report to the Captain's ready room. 
+		420		00:33:59		498		-->		00:34:04		461		Hello, Kareen. Don't you think it's time we stopped pretending? 
+		421		00:34:04		628		-->		00:34:06		630		You know who I am. 
+		422		00:34:08		757		-->		00:34:10		551		You're Data. 
+		423		00:34:15		848		-->		00:34:17		975		You do know who I am. 
+		424		00:34:21		228		-->		00:34:22		396		Ira? 
+		425		00:34:23		605		-->		00:34:26		441		It is me. I am here. 
+		426		00:34:26		608		-->		00:34:28		610		I am alive. 
+		427		00:34:29		945		-->		00:34:30		988		How? 
+		428		00:34:35		200		-->		00:34:39		997		I deactivated Data and transferred my mind into his frame. 
+		429		00:34:41		290		-->		00:34:46		461		I never imagined how much of myself I would retain. 
+		430		00:34:46		628		-->		00:34:49		214		My feelings, my dreams... 
+		431		00:34:49		381		-->		00:34:53		969		They won't let you get away with it. They'll try to stop you. 
+		432		00:34:54		970		-->		00:35:00		559		How can they? It is my body now. It is out of their hands. 
+		433		00:35:00		726		-->		00:35:03		687		How much time did Data spend with Graves? 
+		434		00:35:03		854		-->		00:35:06		648		Most of the time we were there. 
+		435		00:35:06		815		-->		00:35:09		693		- Always alone? - Yes. Always. 
+		436		00:35:10		027		-->		00:35:12		696		Doctor, what was your impression of Graves? 
+		437		00:35:12		863		-->		00:35:17		576		He seemed brilliant, egocentric, arrogant, chauvinistic. 
+		438		00:35:20		913		-->		00:35:22		623		Sound familiar? 
+		439		00:35:25		000		-->		00:35:27		586		Something wonderful has happened. 
+		440		00:35:29		004		-->		00:35:33		509		I can take a deep breath now without feeling stabbing pain. 
+		441		00:35:34		176		-->		00:35:37		554		I will never have to face death again. 
+		442		00:35:37		721		-->		00:35:41		850		Think what I will accomplish over the next 1,000 years! 
+		443		00:35:44		353		-->		00:35:45		479		What? 
+		444		00:35:49		149		-->		00:35:53		570		I know what you're thinking. There is no need to worry. 
+		445		00:35:54		238		-->		00:35:57		741		I will create an android body for you, too. 
+		446		00:35:57		908		-->		00:36:01		119		We can witness the end of time together. 
+		447		00:36:07		501		-->		00:36:12		381		Why are you crying, Kareen? I can love you now. 
+		448		00:36:12		548		-->		00:36:14		800		The way I always wanted to. 
+		449		00:36:17		553		-->		00:36:19		972		It was not right before. 
+		450		00:36:20		973		-->		00:36:24		184		I was too old for you, too weak. 
+		451		00:36:25		185		-->		00:36:28		772		Now I can be everything you want me to be. 
+		452		00:36:30		190		-->		00:36:35		737		I won't let you put me in a machine. I want to live my life. 
+		453		00:36:35		904		-->		00:36:39		408		I won't let you take it away from me. 
+		454		00:36:40		742		-->		00:36:42		786		Ira, you're hurting me! 
+		455		00:36:57		426		-->		00:36:58		969		Worf to Capt Picard. 
+		456		00:36:59		136		-->		00:37:00		846		Data has left ten-forward. 
+		457		00:37:01		013		-->		00:37:04		516		- Should I follow? - Negative. I'll handle this. 
+		458		00:37:06		643		-->		00:37:08		854		He was an expert in cybernetics? 
+		459		00:37:09		563		-->		00:37:10		647		Yes. 
+		460		00:37:11		607		-->		00:37:14		818		Our memorial service may have been premature. 
+		461		00:37:14		985		-->		00:37:16		987		What an achievement. 
+		462		00:37:17		946		-->		00:37:21		325		"So long as men can breathe or eyes can see, 
+		463		00:37:21		491		-->		00:37:23		702		So long lives this... 
+		464		00:37:24		578		-->		00:37:27		164		..and this gives life to thee." 
+		465		00:37:28		415		-->		00:37:32		836		He was working on bridging the gap between man and machine. 
+		466		00:37:33		003		-->		00:37:38		800		It seems he built that bridge. I may be forced to tear it down. 
+		467		00:37:54		608		-->		00:37:57		402		I can hear you coming, Captain. 
+		468		00:37:57		569		-->		00:38:01		782		My ears are better than the average dog's, you know. 
+		469		00:38:06		286		-->		00:38:09		248		I know who you are and what you've done. 
+		470		00:38:11		291		-->		00:38:13		085		Of course you do. 
+		471		00:38:13		252		-->		00:38:15		379		I came here to talk to Data. 
+		472		00:38:18		340		-->		00:38:20		425		I cannot allow that. 
+		473		00:38:23		554		-->		00:38:25		889		I understand your desperation. 
+		474		00:38:26		056		-->		00:38:28		809		The shock of learning you were dying. 
+		475		00:38:28		976		-->		00:38:31		728		But you had no right to do what you have done. 
+		476		00:38:31		895		-->		00:38:37		067		I had every right, Captain. I am man, he is machine. 
+		477		00:38:37		234		-->		00:38:41		113		There is no question who must live and what must die. 
+		478		00:38:41		280		-->		00:38:43		240		What of Data? 
+		479		00:38:45		909		-->		00:38:47		494		Data? 
+		480		00:38:49		663		-->		00:38:51		707		Before me, he was nothing. 
+		481		00:38:51		874		-->		00:38:56		086		Just a walking tin can with circuits for intestines. 
+		482		00:38:56		253		-->		00:39:01		842		Pathetic. Without heart, a man is meaningless. 
+		483		00:39:08		015		-->		00:39:13		478		I would not come up if I were you, Captain. I might not like it. 
+		484		00:39:26		074		-->		00:39:29		244		You are most fortunate, my dear Captain, that I am not a violent man. 
+		486		00:39:43		300		-->		00:39:45		010		Not a violent man? 
+		487		00:39:47		554		-->		00:39:49		765		This is not my fault. 
+		488		00:39:49		932		-->		00:39:53		977		They told me I should not be here. They should not have done that. 
+		489		00:39:54		144		-->		00:39:55		479		Graves, listen to me. 
+		490		00:39:55		646		-->		00:40:00		984		No one denies the significance of your transformation. 
+		491		00:40:02		611		-->		00:40:05		531		But I don't believe this was part of your plan. 
+		492		00:40:05		697		-->		00:40:09		034		Encountering Data was mere coincidence. 
+		493		00:40:09		201		-->		00:40:12		746		One that offered you more than you could have dreamed. 
+		494		00:40:13		539		-->		00:40:16		500		But something has gone wrong. Look here. 
+		495		00:40:21		588		-->		00:40:25		592		This experiment must be terminated. 
+		496		00:40:26		635		-->		00:40:28		637		This is idiotic! 
+		497		00:40:29		680		-->		00:40:32		099		- Picard to sickbay. - Yes, Captain? 
+		498		00:40:32		266		-->		00:40:33		976		How is Miss Brianon? 
+		499		00:40:34		142		-->		00:40:38		313		Her left hand is fractured in two places. We've begun treatment. 
+		500		00:40:38		480		-->		00:40:41		859		I'm afraid there are two more injuries in Engineering. 
+		501		00:40:42		025		-->		00:40:44		027		I'm on my way. 
+		502		00:40:45		529		-->		00:40:46		947		Who's next? 
+		503		00:40:48		532		-->		00:40:51		410		These were all accidents. I did not intend... 
+		504		00:40:51		577		-->		00:40:56		623		How many more accidents? You must leave this body. 
+		505		00:40:56		790		-->		00:40:59		459		No. I live here now. 
+		506		00:41:04		214		-->		00:41:08		427		Every man has his time. Every man, without exception. 
+		507		00:41:09		094		-->		00:41:10		512		But you've cheated. 
+		508		00:41:11		096		-->		00:41:15		267		You have extended your life at the expense of another. 
+		509		00:41:16		310		-->		00:41:18		770		Graves, give Data back. Give him back. 
+		510		00:41:18		937		-->		00:41:21		231		- Data is dead. - No. 
+		511		00:41:21		398		-->		00:41:26		653		He must not be lost. He's not simply an android. 
+		512		00:41:27		362		-->		00:41:30		073		He's a life form, entirely unique. 
+		513		00:41:30		240		-->		00:41:32		367		Data is not human! He is... 
+		514		00:41:32		534		-->		00:41:34		203		He is different, yes. 
+		515		00:41:34		369		-->		00:41:38		916		That does not make him expendable, or any less significant. 
+		516		00:41:39		082		-->		00:41:40		792		No being is so important that he can usurp another's rights. Set him free! 
+		518		00:41:45		214		-->		00:41:46		173		No! 
+		519		00:42:00		604		-->		00:42:02		105		How many... 
+		520		00:42:03		357		-->		00:42:05		400		How many more accidents? 
+		521		00:42:17		829		-->		00:42:20		666		- Data, where is he? - Just take it easy. 
+		522		00:42:20		832		-->		00:42:23		502		I can't afford to take it easy, Doctor. 
+		523		00:42:28		757		-->		00:42:30		926		Tell me, where is Lt Cmdr Data? 
+		524		00:42:46		608		-->		00:42:48		318		Data, can you hear me? 
+		525		00:42:53		156		-->		00:42:56		159		- Geordi. - Yeah. 
+		526		00:42:57		244		-->		00:43:01		498		- May I ask a question? - I think you just did. 
+		527		00:43:01		665		-->		00:43:05		294		Correct. Then may I ask another question after this one? 
+		528		00:43:05		460		-->		00:43:08		255		You can ask me anything you want. 
+		529		00:43:08		422		-->		00:43:11		758		Why am I on the floor in an undignified position with you four standing over me, with expressions of... 
+		531		00:43:15		596		-->		00:43:18		807		I've heard more than enough. You're you again. 
+		532		00:43:21		435		-->		00:43:24		229		Captain, look at this. 
+		533		00:43:31		820		-->		00:43:37		242		He's in there. Ira put himself in the computer. 
+		534		00:43:47		252		-->		00:43:51		006		Captain's log, supplemental. We said goodbye to Kareen, hoping that her future will be bright. 
+		536		00:43:54		134		-->		00:43:58		096		The intellect of Ira Graves is now in our computer. 
+		537		00:43:58		263		-->		00:44:01		141		There is knowledge but no consciousness. 
+		538		00:44:01		308		-->		00:44:03		685		The human equation has been lost. 
+		539		00:44:03		852		-->		00:44:07		022		- You don't remember anything? - Not a thing. 
+		540		00:44:07		189		-->		00:44:11		068		"To know him is to love him is to know him." 
+		541		00:44:12		319		-->		00:44:15		656		Perhaps it is best that I do not remember. 
+		542		00:44:15		822		-->		00:44:19		952		I trust I did nothing unbecoming to a Starfleet officer? 
+		543		00:44:20		118		-->		00:44:23		372		Does wrestling with a Klingon targ ring a bell? 
+		544		00:44:23		539		-->		00:44:25		958		Mr Crusher, take us out of orbit. 
+		545		00:44:26		124		-->		00:44:28		043		Aye, sir. 
+		546		00:44:28		210		-->		00:44:30		295		Did I win? 

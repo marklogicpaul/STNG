@@ -1,0 +1,543 @@
+		1		00:00:02		436		-->		00:00:06		315		Captain's log, stardate <stardate>41601</stardate>.3. 
+		2		00:00:06		524		-->		00:00:09		235		We are crossing through the Zed Lapis sector to rendezvous with shuttlecraft 13 carrying Deanna Troi  who is returning from a conference. 
+		5		00:00:15		366		-->		00:00:19		078		Because Engineering is working on our dilithium crystals, we are traveling on impulse power. 
+		7		00:00:21		956		-->		00:00:26		418		Deep sensor probes show no obstacles or vessels within three light years. 
+		8		00:00:26		585		-->		00:00:27		586		Confirm. 
+		9		00:00:28		671		-->		00:00:31		423		The martial-arts competition is in three days. 
+		10		00:00:31		590		-->		00:00:32		800		Are you prepared? 
+		11		00:00:32		967		-->		00:00:35		845		I will be if you come to the holodeck later. 
+		12		00:00:36		011		-->		00:00:38		973		I need help with the Mishiama wristlock and break. 
+		13		00:00:39		140		-->		00:00:41		892		If it works on you, I can use it on anyone. 
+		14		00:00:42		059		-->		00:00:45		229		A valid assumption. Who is your first competitor? 
+		15		00:00:45		396		-->		00:00:50		025		- Science Officer Swenson. - You will defeat him easily. 
+		16		00:00:50		234		-->		00:00:54		363		I'm more concerned with Lt Minnerly's kick boxing. 
+		17		00:00:54		530		-->		00:00:57		032		You are favored in the ship's pool. 
+		18		00:00:58		576		-->		00:01:01		495		- You bet on me? - A sure thing. 
+		19		00:01:12		798		-->		00:01:13		883		Captain. 
+		20		00:01:14		049		-->		00:01:17		303		Rendezvous with the shuttle in one hour and ten minutes. 
+		21		00:01:17		470		-->		00:01:19		638		- Thank you, Lieutenant. - Aye, sir. 
+		22		00:01:19		805		-->		00:01:24		185		It'll be good to have Counselor Troi back, won't it, Number One? 
+		23		00:01:24		351		-->		00:01:25		728		It certainly will. 
+		24		00:01:25		895		-->		00:01:29		815		Sir. I'm receiving an emergency transmission from the shuttle. 
+		25		00:01:29		982		-->		00:01:31		650		On main viewer. 
+		26		00:01:31		817		-->		00:01:34		487		I can't. We're receiving audio only. 
+		27		00:01:34		653		-->		00:01:36		197		Open the frequency. 
+		28		00:01:36		363		-->		00:01:37		698		What a jolt! 
+		29		00:01:37		865		-->		00:01:39		116		Position report. 
+		30		00:01:39		283		-->		00:01:41		452		Sir, on-board systems failure. 
+		31		00:01:41		619		-->		00:01:47		958		- Tell me where I am. - Coordinates at 370.236. Confirm. 
+		32		00:01:48		125		-->		00:01:51		128		I can't confirm. My instruments are haywire. 
+		33		00:01:51		295		-->		00:01:54		173		Lt Prieto, is Counselor Troi alright? 
+		34		00:01:54		340		-->		00:01:58		594		Yes, sir. Just a little shaken. We're being buffeted a bit. 
+		35		00:01:59		428		-->		00:02:03		307		Losing more power! My flight-control computer's fried. 
+		36		00:02:03		474		-->		00:02:04		850		Main Engineering. 
+		37		00:02:05		017		-->		00:02:07		728		Lt Cmdr Leland T Lynch, here, sir. 
+		38		00:02:08		604		-->		00:02:11		273		How long before we return to warp power? 
+		39		00:02:11		440		-->		00:02:14		485		I'm realigning the dilithium crystals. 
+		40		00:02:14		652		-->		00:02:17		822		There is an emergency. We need warp drive. How long? 
+		41		00:02:18		030		-->		00:02:20		908		- 20 minutes or more. - We don't have it. 
+		42		00:02:21		075		-->		00:02:23		911		- I'll align it by hand. - Whatever it takes. 
+		43		00:02:24		411		-->		00:02:29		625		Shuttle, this is the Enterprise. Your coordinates now read 237.101. 
+		44		00:02:29		792		-->		00:02:32		336		Ben, you're dangerously close to a planet. 
+		45		00:02:32		503		-->		00:02:33		629		I can see it! 
+		46		00:02:33		796		-->		00:02:37		383		The planet is Vagra II. Zed Lapis sector. Uninhabited. 
+		47		00:02:37		550		-->		00:02:39		301		Lieutenant, report. 
+		48		00:02:39		510		-->		00:02:42		429		This is Counselor Troi. I'll relay, sir. 
+		49		00:02:42		596		-->		00:02:46		851		The pilot is busy. We've lost most of our impulse power. 
+		50		00:02:47		017		-->		00:02:48		727		Engineering, status report. 
+		51		00:02:48		894		-->		00:02:51		564		Working on it. Three minutes. 
+		52		00:02:51		730		-->		00:02:53		649		But there are no guarantees. 
+		53		00:02:53		816		-->		00:02:58		487		We're out of control. We're caught in planet's gravity. 
+		54		00:03:20		784		-->		00:03:23		871		Space, the final frontier. 
+		55		00:03:25		622		-->		00:03:29		543		These are the voyages of the Starship Enterprise. 
+		56		00:03:29		710		-->		00:03:33		797		Its continuing mission, to explore strange new worlds... 
+		57		00:03:35		632		-->		00:03:39		303		...to seek out new life and new civilizations... 
+		58		00:03:40		220		-->		00:03:43		891		...to boldly go where no one has gone before. 
+		59		00:04:47		279		-->		00:04:49		240		Captain's log, supplemental. 
+		60		00:04:49		448		-->		00:04:52		451		We've lost contact with shuttlecraft 13. 
+		61		00:04:52		618		-->		00:04:55		997		We can only assume they've crash-landed on Vagra II. 
+		62		00:04:56		163		-->		00:05:00		084		Meanwhile, Engineering is trying to return us to warp power. 
+		63		00:05:00		251		-->		00:05:02		420		Forget the final check. 
+		64		00:05:07		675		-->		00:05:09		593		Initiate start-up sequence. 
+		65		00:05:09		760		-->		00:05:12		013		- Beginning checklist. - Override. 
+		66		00:05:12		221		-->		00:05:14		098		Go directly to start-up. 
+		67		00:05:14		265		-->		00:05:17		852		- That is not recommended. - Understood. Now! 
+		68		00:05:18		019		-->		00:05:20		813		Prime matter/antimatter injectors. 
+		69		00:05:20		980		-->		00:05:23		274		Set ratio at 25 to one. 
+		70		00:05:23		441		-->		00:05:24		567		Ratio set. 
+		71		00:05:24		734		-->		00:05:27		528		Power engine core. Inject reactants. 
+		72		00:05:30		489		-->		00:05:34		118		Leland T Lynch here. We now have minimum warp drive. 
+		73		00:05:34		327		-->		00:05:37		622		- Course set for Vagra II, sir. - Warp eight. 
+		74		00:05:37		788		-->		00:05:39		832		I said "minimum" warp drive. 
+		75		00:05:39		999		-->		00:05:44		045		- You heard the order. Make it so. - Yes, sir. 
+		76		00:05:51		135		-->		00:05:52		720		Approaching Vagra II. 
+		77		00:05:52		887		-->		00:05:57		099		Strange, sir. There's no emergency signal from the shuttle yet. 
+		78		00:05:57		850		-->		00:05:59		477		What is this place? 
+		79		00:05:59		644		-->		00:06:04		231		There is little information on file, beyond the fact of its existence. 
+		80		00:06:04		398		-->		00:06:08		819		Our sensors show no signs of life forms. Virtually no vegetation. 
+		81		00:06:09		403		-->		00:06:12		448		- Atmosphere? - Minimum for our needs, sir. 
+		82		00:06:12		615		-->		00:06:14		575		- Standard orbit. - Aye, sir. 
+		83		00:06:24		001		-->		00:06:25		795		I've located the shuttle. 
+		84		00:06:25		962		-->		00:06:29		882		- Life signs? - Not yet, sir. Still probing. 
+		85		00:06:31		050		-->		00:06:34		470		It appears to be buried under a lot of debris. 
+		86		00:06:38		182		-->		00:06:40		017		I may have something, sir. 
+		87		00:06:40		726		-->		00:06:42		937		Faint life signs. 
+		88		00:06:43		104		-->		00:06:45		147		- Very faint. - How many? 
+		89		00:06:45		314		-->		00:06:47		108		We can't tell from here. 
+		90		00:06:47		692		-->		00:06:49		527		Can we beam up the injured? 
+		91		00:06:49		694		-->		00:06:53		322		No, sir. Our sensors cannot penetrate this debris. 
+		92		00:06:54		532		-->		00:06:59		078		- It's very unusual. - Yes, sir. I cannot explain. 
+		93		00:07:04		542		-->		00:07:07		795		- Number One, prepare an away team. - Data. Yar. 
+		94		00:07:11		173		-->		00:07:13		759		Dr Crusher, have you been monitoring this? 
+		95		00:07:13		926		-->		00:07:17		221		Yes. I'll meet the away team in transporter room four. 
+		96		00:07:51		547		-->		00:07:53		883		Let's go. The life signs are weak. 
+		97		00:07:59		847		-->		00:08:01		098		What is this? 
+		98		00:08:01		265		-->		00:08:04		226		No idea. Go round, to be on the safe side. 
+		99		00:08:19		867		-->		00:08:21		661		Let's try the other way. 
+		100		00:08:34		882		-->		00:08:37		176		Enterprise, we've got a problem. 
+		101		00:08:37		343		-->		00:08:39		136		What kind of problem? 
+		102		00:08:39		303		-->		00:08:42		932		I'm not sure. A kind of slick is blocking our path. 
+		103		00:08:43		099		-->		00:08:44		517		Will keep you apprised. 
+		104		00:08:44		684		-->		00:08:47		186		- Maintain an open frequency. - Aye, sir. 
+		105		00:08:48		104		-->		00:08:51		399		- Analysis, Mr. Data. - Inconclusive, sir. 
+		106		00:08:51		607		-->		00:08:55		444		I cannot tell you what it is, but I can tell you what it is not. 
+		107		00:08:55		611		-->		00:08:56		862		Explain. 
+		108		00:08:57		029		-->		00:08:59		699		No evidence of neural or circulatory systems. 
+		109		00:08:59		865		-->		00:09:01		742		No internal organs. 
+		110		00:09:02		326		-->		00:09:04		245		Cellular structure unknown. 
+		111		00:09:04		412		-->		00:09:06		414		No proteins known to us. 
+		112		00:09:06		580		-->		00:09:09		417		It's narrow here. We can get over it. 
+		113		00:09:11		544		-->		00:09:15		047		- How is it moving? - I do not know, sir. 
+		114		00:09:15		214		-->		00:09:19		051		It does not have a skeletal framework or musculature. 
+		115		00:09:19		218		-->		00:09:21		429		Then what's causing it to move? 
+		116		00:09:21		971		-->		00:09:24		265		It appears to be following us, sir. 
+		117		00:09:24		432		-->		00:09:29		520		No sign of intelligence, no brain, yet evidence of thought? 
+		118		00:09:29		979		-->		00:09:32		189		Insufficient information, sir. 
+		119		00:09:32		732		-->		00:09:34		650		Is it a life form, Data? 
+		120		00:09:34		817		-->		00:09:37		528		Again, insufficient information, sir. 
+		121		00:09:37		695		-->		00:09:38		654		Theorize. 
+		122		00:09:40		072		-->		00:09:41		574		It is possible. 
+		123		00:09:44		535		-->		00:09:47		079		Very good, Tin Man! 
+		124		00:09:55		671		-->		00:09:57		506		What is it, Number One? 
+		125		00:09:57		673		-->		00:09:59		050		What are you seeing? 
+		126		00:10:03		679		-->		00:10:05		014		Trouble. 
+		127		00:10:12		154		-->		00:10:14		072		Captain's log, supplemental. 
+		128		00:10:14		239		-->		00:10:17		367		On a mission to rescue survivors from a shuttle crash, the away team has encountered a strange creature  which is able to assume different forms,  including one which resembles humanoid. 
+		132		00:10:26		293		-->		00:10:29		922		Easy. Let's find out what we're dealing with. 
+		133		00:10:30		088		-->		00:10:31		131		Agreed, Captain. 
+		134		00:10:31		298		-->		00:10:35		135		Number One, I don't believe the location of the crash and the proximity of the creature is a coincidence. 
+		136		00:10:50		317		-->		00:10:53		278		I am Cmdr William Riker of the USS Enterprise. 
+		137		00:10:53		737		-->		00:10:57		574		I am Armus. Why are you here? 
+		138		00:10:57		741		-->		00:11:01		578		We mean no harm. We have injured crewmen in the shuttlecraft. 
+		139		00:11:01		787		-->		00:11:04		289		We need to get to them. May we pass? 
+		140		00:11:04		456		-->		00:11:08		377		You haven't given me a good enough reason. 
+		141		00:11:08		544		-->		00:11:11		839		Preserving life. All life is very important to us. 
+		142		00:11:12		005		-->		00:11:13		423		Why? 
+		143		00:11:15		175		-->		00:11:18		262		We believe everything has a right to exist. 
+		144		00:11:18		428		-->		00:11:22		683		An interesting notion which I do not share! 
+		145		00:11:22		891		-->		00:11:25		102		You may leave now, if you wish. 
+		146		00:11:25		978		-->		00:11:28		188		We're not going without our crew. 
+		147		00:11:28		355		-->		00:11:30		482		- I warn you... - Enough! 
+		148		00:11:30		649		-->		00:11:32		317		Our people need attention. 
+		149		00:11:32		484		-->		00:11:35		404		We won't hurt you, but we must help them. 
+		150		00:11:48		208		-->		00:11:49		209		Number One! 
+		151		00:11:49		376		-->		00:11:52		087		The creature attacked us. Lt Yar is down. 
+		152		00:11:52		254		-->		00:11:55		841		- It seems to feed on our phaser. - We had no effect on it. 
+		153		00:12:07		519		-->		00:12:09		605		What's Lt Yar's condition? 
+		154		00:12:12		816		-->		00:12:16		403		- Dr Crusher, report! - She's dead. 
+		155		00:12:21		158		-->		00:12:23		660		Transporter room, get them up. Now! 
+		156		00:12:29		625		-->		00:12:31		376		I need her in sickbay now. 
+		157		00:12:31		543		-->		00:12:34		505		Go to yellow alert, Lt Worf. I'll be in sickbay. 
+		158		00:12:34		671		-->		00:12:35		839		Aye, sir. 
+		159		00:12:43		222		-->		00:12:45		682		- Status, Doctor? - Unchanged. 
+		160		00:12:46		808		-->		00:12:50		062		- Can you bring her back? - We'll see. Neural stimulator. 
+		161		00:12:53		482		-->		00:12:56		985		- Neural stimulator locked in. - Interlock current feeds. 
+		162		00:12:57		152		-->		00:13:00		989		- Set sensitivity factor to 4.4. - Affirmative. 
+		163		00:13:03		283		-->		00:13:07		204		Monitoring 2.3, 1.8. 
+		164		00:13:07		371		-->		00:13:10		791		- You did it! - No. She's on total support. 
+		165		00:13:10		999		-->		00:13:13		544		There is no independent brain function. 
+		166		00:13:14		837		-->		00:13:16		547		Current feeds operating. 
+		167		00:13:16		713		-->		00:13:19		758		No response. Her synaptic network is breaking down. 
+		168		00:13:19		925		-->		00:13:21		718		Inject norep. 
+		169		00:13:24		763		-->		00:13:27		516		Neurons are beginning to depolarize. 
+		170		00:13:29		059		-->		00:13:31		436		Direct reticular stimulation. 
+		171		00:13:31		603		-->		00:13:33		146		- Direct? - Do it! 
+		172		00:13:40		737		-->		00:13:42		990		Increase to 70 microvolts. 
+		173		00:13:47		286		-->		00:13:48		871		85 microvolts. 
+		174		00:13:52		541		-->		00:13:53		667		Again. 
+		175		00:13:59		339		-->		00:14:00		299		90! 
+		176		00:14:20		652		-->		00:14:21		862		She's gone. 
+		177		00:14:26		825		-->		00:14:27		826		Gone? 
+		178		00:14:33		081		-->		00:14:35		751		There was too much synaptic damage. 
+		179		00:14:35		876		-->		00:14:39		338		That thing sucked the life right out of her. 
+		180		00:14:39		546		-->		00:14:41		298		There's nothing I can do. 
+		181		00:15:20		003		-->		00:15:23		048		Your friends have deserted you. 
+		182		00:15:23		257		-->		00:15:25		467		They're not coming back. 
+		183		00:15:26		552		-->		00:15:27		970		You're wrong. 
+		184		00:15:28		804		-->		00:15:31		682		I killed one of them! 
+		185		00:15:32		766		-->		00:15:33		976		Yes. 
+		186		00:15:35		435		-->		00:15:36		770		I know. 
+		187		00:15:36		937		-->		00:15:40		399		How could you be in there and know that? 
+		188		00:15:40		566		-->		00:15:42		067		I felt her die. 
+		189		00:15:42		234		-->		00:15:45		904		Do you want to know why I killed her? 
+		190		00:15:47		823		-->		00:15:50		409		Your answer would be meaningless. 
+		191		00:15:51		201		-->		00:15:53		453		That act had no reason. 
+		192		00:15:54		538		-->		00:15:58		083		Exactly! It had no meaning. 
+		193		00:15:58		709		-->		00:16:03		922		I did it because I wanted to. It amused me. 
+		194		00:16:04		089		-->		00:16:09		178		No. You thought it would amuse you, but it didn't. 
+		195		00:16:10		679		-->		00:16:12		931		You felt no satisfaction. 
+		196		00:16:13		098		-->		00:16:14		057		No. 
+		197		00:16:14		850		-->		00:16:17		311		It was too easy. 
+		198		00:16:19		646		-->		00:16:21		773		You wanted her to suffer. 
+		199		00:16:24		359		-->		00:16:26		028		You have a great need. 
+		200		00:16:26		195		-->		00:16:29		031		- I need nothing. - Liar. 
+		201		00:16:31		825		-->		00:16:34		786		End this. Let us go. 
+		202		00:16:34		953		-->		00:16:36		538		Not yet. 
+		203		00:16:36		705		-->		00:16:39		082		They won't give you what you want. 
+		204		00:16:39		249		-->		00:16:41		210		And what is that? 
+		205		00:16:41		376		-->		00:16:43		212		To break their spirit. 
+		206		00:16:44		004		-->		00:16:46		798		Is that what I want? 
+		207		00:16:46		965		-->		00:16:52		930		If breaking their spirit will amuse me, then that's what I will have. 
+		208		00:16:54		264		-->		00:16:55		599		Never. 
+		209		00:17:01		939		-->		00:17:04		733		She didn't do anything. Her phaser was lowered. 
+		210		00:17:04		900		-->		00:17:07		486		She only wanted to get to Troi. 
+		211		00:17:07		653		-->		00:17:09		905		She was killed in a senseless act. 
+		212		00:17:12		783		-->		00:17:15		452		Lt Yar's death is very painful for all of us. 
+		213		00:17:15		577		-->		00:17:17		871		We must try to deal with it for now. 
+		214		00:17:18		038		-->		00:17:21		041		Until the shuttle crew is safely back aboard, our feelings will have to wait. Understood? 
+		216		00:17:28		632		-->		00:17:32		052		Lt Worf, you are now Acting Chief of Security. 
+		217		00:17:32		261		-->		00:17:34		179		I will do my best, sir. 
+		218		00:17:34		346		-->		00:17:36		557		Doctor, how are the shuttle crew? 
+		219		00:17:36		723		-->		00:17:40		686		We're receiving faint life signs, but the readings fluctuate. 
+		220		00:17:40		853		-->		00:17:42		479		They may not be accurate. 
+		221		00:17:42		646		-->		00:17:45		941		Armus is capable of creating undefined force fields. 
+		222		00:17:46		108		-->		00:17:50		195		We cannot communicate or use the transporter, unless it allows it. 
+		223		00:17:50		779		-->		00:17:54		116		A creature against whom we seem to have no defense. 
+		224		00:17:54		783		-->		00:17:58		203		- Number One? - It's on that planet waiting for us. 
+		225		00:17:58		370		-->		00:18:02		040		It killed Tasha, and it could've killed us, but it didn't. 
+		226		00:18:02		207		-->		00:18:04		877		Deanna and Ben are alive for a reason. 
+		227		00:18:05		043		-->		00:18:09		464		It knows that we won't leave while they're still alive. 
+		228		00:18:09		631		-->		00:18:13		218		You're saying its attack on Yar was part of some tactic? 
+		229		00:18:13		385		-->		00:18:15		679		To find out, we have to go back down. 
+		230		00:18:15		888		-->		00:18:19		391		I may see something in the creature that's helpful. 
+		231		00:18:19		558		-->		00:18:21		685		Agreed. Prepare an away team. 
+		232		00:18:32		696		-->		00:18:34		364		I will remain on the ship. 
+		233		00:18:35		449		-->		00:18:38		243		The object is not to engage it in battle. 
+		234		00:18:38		869		-->		00:18:43		040		The goal is the safe return of Counselor Troi and Lt Prieto. 
+		235		00:18:43		207		-->		00:18:47		419		I can best accomplish this at the tactical station. 
+		236		00:18:47		586		-->		00:18:49		338		Very good. Number One? 
+		237		00:19:13		403		-->		00:19:17		658		We're approaching the shuttlecraft. The creature is covering it. 
+		238		00:19:18		826		-->		00:19:22		830		I lied to you. They came back. 
+		239		00:19:23		914		-->		00:19:26		333		- Let me talk with them. - No! 
+		240		00:19:27		084		-->		00:19:32		548		Why? Does the thought of my having contact with them make you uneasy? 
+		241		00:19:32		714		-->		00:19:33		924		No. 
+		242		00:19:34		091		-->		00:19:39		471		Not being able to contact you, not knowing if you are alive, makes them uneasy. 
+		244		00:19:42		057		-->		00:19:44		601		Can't you feel how worried they are? 
+		245		00:19:44		810		-->		00:19:46		228		Yes. 
+		246		00:19:47		271		-->		00:19:48		939		They are worried. 
+		247		00:19:49		106		-->		00:19:53		944		They care for you. You must be very special. 
+		248		00:19:54		111		-->		00:19:58		073		We are members of a community. We all care for one another. 
+		249		00:19:58		240		-->		00:19:59		533		Equally? 
+		250		00:20:00		492		-->		00:20:03		078		You were really surprised they came back. 
+		251		00:20:03		245		-->		00:20:04		746		Yes. 
+		252		00:20:04		955		-->		00:20:09		126		Why? Because the others did not? 
+		253		00:20:10		002		-->		00:20:11		837		What others? 
+		254		00:20:12		921		-->		00:20:15		799		You can't hide the emptiness from me. 
+		255		00:20:16		967		-->		00:20:20		262		The others. The ones who hurt you. 
+		256		00:20:21		054		-->		00:20:23		265		Who left you alone, rejected. 
+		257		00:20:24		641		-->		00:20:27		352		The ones who make you so angry. 
+		258		00:20:28		645		-->		00:20:31		064		What do you know of them? 
+		259		00:20:31		231		-->		00:20:33		233		Only what you tell me. 
+		260		00:20:33		400		-->		00:20:35		319		I will tell you nothing. 
+		261		00:20:36		695		-->		00:20:38		363		Not now. 
+		262		00:20:39		406		-->		00:20:41		074		But soon. 
+		263		00:20:51		502		-->		00:20:53		587		Captain, look at this. 
+		264		00:20:55		005		-->		00:20:58		717		The energy field around the shuttle decreased for a few moments when the creature was draped over it. 
+		266		00:21:01		136		-->		00:21:03		680		- Low enough to beam them out? - Almost. 
+		267		00:21:03		847		-->		00:21:05		891		It's approaching the away team. 
+		268		00:21:06		058		-->		00:21:09		811		The energy field over the craft is back to full intensity. 
+		269		00:21:10		020		-->		00:21:12		981		- Chart it. Look for a pattern. - Aye, sir. 
+		270		00:21:23		242		-->		00:21:25		619		She said you'd be back. 
+		271		00:21:27		204		-->		00:21:30		332		- Then she is alive? - For now. 
+		272		00:21:30		499		-->		00:21:32		292		Why have you returned? 
+		273		00:21:32		501		-->		00:21:35		462		We've no choice. We must negotiate for our team. 
+		274		00:21:35		629		-->		00:21:38		799		- What do you want? - Maybe I want nothing. 
+		275		00:21:38		966		-->		00:21:42		761		- Then you would have killed us all. - I still might. 
+		276		00:21:42		928		-->		00:21:47		474		What do you want? Tell me. Maybe we can reach an accommodation. 
+		277		00:21:47		641		-->		00:21:50		435		If I tell you, will you give it to me? 
+		278		00:21:50		602		-->		00:21:52		104		I might. It depends. 
+		279		00:21:54		022		-->		00:21:58		485		I am a doctor. I need to treat our injured friends. 
+		280		00:21:58		652		-->		00:22:00		445		Say "please." 
+		281		00:22:03		949		-->		00:22:05		576		You asked nicely. 
+		282		00:22:05		742		-->		00:22:07		619		I will allow it. 
+		283		00:22:08		829		-->		00:22:10		038		Wait! 
+		284		00:22:10		205		-->		00:22:14		710		I've changed my mind. Talk to her from here. 
+		285		00:22:14		877		-->		00:22:16		170		How? 
+		286		00:22:18		213		-->		00:22:20		549		Troi, can you hear me? 
+		287		00:22:22		634		-->		00:22:24		386		Deanna, are you alright? 
+		288		00:22:27		848		-->		00:22:29		683		I can hear you. 
+		289		00:22:30		893		-->		00:22:32		603		Are you alright? 
+		290		00:22:33		854		-->		00:22:35		230		Yes. 
+		291		00:22:36		148		-->		00:22:38		859		We've encountered some difficulty. 
+		292		00:22:40		611		-->		00:22:41		862		I know. 
+		293		00:22:42		029		-->		00:22:43		530		She needs our help! 
+		294		00:22:43		697		-->		00:22:45		866		So what? 
+		295		00:22:46		575		-->		00:22:51		246		Our friends are suffering, meters away, yet you block our path. Why? 
+		296		00:22:51		413		-->		00:22:54		666		You are all... ungrateful! 
+		297		00:22:54		833		-->		00:22:56		210		What is he made of? 
+		298		00:22:56		376		-->		00:22:58		670		It did not register on the tricorder. 
+		299		00:22:58		879		-->		00:23:02		424		"It"? Does that mean I am not alive? 
+		300		00:23:03		008		-->		00:23:07		387		No. Clearly, you are some kind of intelligent form. 
+		301		00:23:07		554		-->		00:23:11		642		But you said I did not register on your instrument. 
+		302		00:23:11		808		-->		00:23:15		687		Perhaps your instruments are useless. 
+		303		00:23:24		821		-->		00:23:26		657		Don't help him. 
+		304		00:23:32		371		-->		00:23:34		373		Half-meter to the right. 
+		305		00:23:39		378		-->		00:23:43		799		Aren't you going to lead him to his sight again, robot? 
+		306		00:23:44		007		-->		00:23:46		510		No. You will just move it again. 
+		307		00:23:46		677		-->		00:23:50		889		- I will not help you hurt him. - Then give it to him. 
+		308		00:23:51		098		-->		00:23:54		226		I will find something else to amuse me. 
+		309		00:24:09		366		-->		00:24:13		954		You said they wouldn't amuse me. You were right. 
+		310		00:24:14		663		-->		00:24:16		748		And the emptiness remains. 
+		311		00:24:19		960		-->		00:24:22		045		You sound so alone. 
+		312		00:24:22		921		-->		00:24:25		048		I am alone. 
+		313		00:24:26		717		-->		00:24:28		260		Abandoned. 
+		314		00:24:30		304		-->		00:24:32		389		Who deserted you? 
+		315		00:24:32		556		-->		00:24:36		810		Creatures whose beauty now dazzles all who see them. 
+		316		00:24:36		977		-->		00:24:40		480		They would not exist without me. 
+		317		00:24:41		899		-->		00:24:43		609		You were together? 
+		318		00:24:43		775		-->		00:24:47		404		They perfected a means of bringing to the surface all that was evil and negative within. 
+		320		00:24:50		574		-->		00:24:53		660		Erupting, spreading, connecting... 
+		321		00:24:53		827		-->		00:24:58		957		In time, it formed a second skin, dank and vile. 
+		322		00:25:00		584		-->		00:25:03		253		- You. - Yes. 
+		323		00:25:06		006		-->		00:25:08		884		They discarded you and left. 
+		324		00:25:09		718		-->		00:25:11		762		And here I am. 
+		325		00:25:15		390		-->		00:25:17		059		You have my pity. 
+		326		00:25:23		815		-->		00:25:25		400		Your pity? 
+		327		00:25:25		901		-->		00:25:28		278		Save that for yourself! 
+		328		00:25:44		753		-->		00:25:46		672		Something's got me! 
+		329		00:25:46		839		-->		00:25:48		632		Touch him and he dies. 
+		330		00:25:48		799		-->		00:25:50		217		No, don't! 
+		331		00:26:02		938		-->		00:26:06		316		Armus has... enveloped Cmdr Riker. 
+		332		00:26:06		483		-->		00:26:07		776		I'm beaming you up. 
+		333		00:26:07		943		-->		00:26:11		572		If any of you leave now, he dies. 
+		334		00:26:11		738		-->		00:26:15		117		And so do the survivors of the crash. 
+		335		00:26:34		635		-->		00:26:36		470		Captain's log, supplemental. 
+		336		00:26:36		637		-->		00:26:39		307		There is grave danger to the crew on Vagra II. 
+		337		00:26:39		473		-->		00:26:41		184		My First Officer is missing, attacked by this entity known as Armus. 
+		339		00:26:44		896		-->		00:26:47		440		Captain, take a look at this. 
+		340		00:26:48		649		-->		00:26:51		569		The chart of the energy field around the shuttle. 
+		341		00:26:51		736		-->		00:26:55		114		- A lot of fluctuations. - Yes, but there is a pattern. 
+		342		00:26:56		073		-->		00:26:58		075		Here is where it killed Lt Yar. 
+		343		00:26:58		242		-->		00:27:00		912		Here is where it absorbed Cmdr Riker. 
+		344		00:27:01		120		-->		00:27:04		707		And here, here, where the energy is lowest? 
+		345		00:27:04		874		-->		00:27:07		585		Both times it had enveloped the shuttle. 
+		346		00:27:09		003		-->		00:27:11		506		It has something to do with Counselor Troi. 
+		347		00:27:12		465		-->		00:27:16		469		Somehow, when it's dealing with her, the energy field is affected. 
+		348		00:27:16		636		-->		00:27:19		055		I want to talk to her. I'll beam down. 
+		349		00:27:19		222		-->		00:27:20		973		Lt Worf, you have the conn. 
+		350		00:27:24		202		-->		00:27:25		370		Imzadi! 
+		351		00:27:25		536		-->		00:27:28		706		No! Please, stop hurting him! 
+		352		00:27:29		624		-->		00:27:31		125		He resists. 
+		353		00:27:31		292		-->		00:27:36		339		If he would give himself over, the pain would diminish. 
+		354		00:27:36		506		-->		00:27:41		344		He struggles. You should feel his strength. 
+		355		00:27:41		761		-->		00:27:43		221		I can. 
+		356		00:27:44		013		-->		00:27:45		723		Should I let him go? 
+		357		00:27:46		557		-->		00:27:48		643		You only ask to torment me! 
+		358		00:27:48		810		-->		00:27:50		269		Perhaps. 
+		359		00:27:50		436		-->		00:27:52		689		How should I answer? 
+		360		00:27:52		855		-->		00:27:55		441		What can I offer except myself? 
+		361		00:27:55		942		-->		00:28:01		364		And would you give yourself for him? Would you give that much? 
+		362		00:28:02		073		-->		00:28:04		742		Yes. Without hesitation. 
+		363		00:28:06		285		-->		00:28:07		912		Just for him? 
+		364		00:28:08		079		-->		00:28:10		248		No. Not just for him. 
+		365		00:28:10		415		-->		00:28:13		543		I would do the same for any of the others. 
+		366		00:28:15		128		-->		00:28:17		880		Armus, you have me. 
+		367		00:28:18		965		-->		00:28:21		968		- Let them go! - Perhaps. 
+		368		00:28:23		428		-->		00:28:25		596		Another has arrived. 
+		369		00:28:42		780		-->		00:28:45		491		You are the one in charge? 
+		370		00:28:47		535		-->		00:28:51		414		- Is Cmdr Riker alive? - Answer, Tin Man! 
+		371		00:28:51		622		-->		00:28:56		627		I would guess that death is no longer sufficient to alleviate its boredom. 
+		372		00:28:56		794		-->		00:28:58		796		Therefore, Cmdr Riker is alive. 
+		373		00:28:59		589		-->		00:29:01		174		Maybe. 
+		374		00:29:09		849		-->		00:29:13		186		Don't you want to ask me what I want? 
+		375		00:29:14		103		-->		00:29:15		480		No. 
+		376		00:29:15		646		-->		00:29:19		150		Not even to protect your own existence? 
+		377		00:29:24		655		-->		00:29:27		241		I want to see my people in the shuttle. 
+		378		00:29:27		950		-->		00:29:29		869		Entertain me. 
+		379		00:29:32		747		-->		00:29:35		124		Then I will do it myself. 
+		380		00:29:46		177		-->		00:29:47		720		You, Tin Man. 
+		381		00:29:52		642		-->		00:29:54		769		Tell me, how would you feel if you were the instrument of death for your leader? 
+		383		00:29:58		272		-->		00:29:59		357		Don't struggle. 
+		384		00:29:59		941		-->		00:30:02		443		I do not control the phaser. 
+		385		00:30:02		610		-->		00:30:05		863		Therefore, I would not be the instrument of his death. 
+		386		00:30:06		322		-->		00:30:10		076		Perhaps killing the Doctor would engender more feeling. 
+		387		00:30:11		828		-->		00:30:14		747		No. The control is still yours. 
+		388		00:30:15		707		-->		00:30:20		294		And what about you, Doctor? Are you ready to die? 
+		389		00:30:20		461		-->		00:30:23		047		Tell me you are not afraid. 
+		390		00:30:23		214		-->		00:30:24		757		I am afraid. 
+		391		00:30:24		924		-->		00:30:27		885		- Beg me to spare you. - No. 
+		392		00:30:28		761		-->		00:30:34		684		One of you is going to die. And you, Doctor, get to choose. 
+		393		00:30:34		851		-->		00:30:37		228		You don't like that, do you? 
+		394		00:30:37		437		-->		00:30:40		690		- Then I choose myself. - No. 
+		395		00:30:40		857		-->		00:30:43		401		You are going to live. 
+		396		00:30:43		468		-->		00:30:45		511		One of them dies. 
+		397		00:30:48		765		-->		00:30:50		808		Maybe this one. 
+		398		00:30:50		975		-->		00:30:55		355		Though I would not call it death, since he is only a device. 
+		399		00:30:55		521		-->		00:31:00		234		Tell me, Tin Man, how does it feel to face your own extinction? 
+		400		00:31:01		235		-->		00:31:02		487		Curious. 
+		401		00:31:07		700		-->		00:31:10		745		You are capable of great sadism and cruelty. 
+		402		00:31:11		704		-->		00:31:15		041		Interesting. No redeeming qualities. 
+		403		00:31:15		208		-->		00:31:17		460		So what do you think? 
+		404		00:31:17		627		-->		00:31:19		545		I think you should be destroyed. 
+		405		00:31:19		712		-->		00:31:22		590		A moral judgment from a machine. 
+		406		00:31:24		842		-->		00:31:27		512		Armus, we're finished dealing with you. 
+		407		00:31:27		637		-->		00:31:31		099		I have your man in here. And the others in the shuttle. 
+		408		00:31:31		266		-->		00:31:34		727		No matter. We will no longer be a source of amusement. 
+		409		00:31:34		894		-->		00:31:36		646		I can kill them. 
+		410		00:31:36		813		-->		00:31:41		234		Yes. But only I can command them. They follow my orders. 
+		411		00:31:41		401		-->		00:31:43		152		Have them amuse me. 
+		412		00:31:43		361		-->		00:31:46		781		Only if I see my people on the shuttle first. 
+		413		00:31:46		948		-->		00:31:48		575		Not possible! 
+		414		00:31:49		742		-->		00:31:51		953		Then our business is concluded. 
+		415		00:31:52		120		-->		00:31:55		456		And you claim you care about your comrades. 
+		416		00:31:55		623		-->		00:31:58		710		I care. Which is why I must see them. 
+		417		00:31:59		377		-->		00:32:02		088		You want to see your people? 
+		418		00:32:08		011		-->		00:32:09		387		Then, here. 
+		419		00:32:10		722		-->		00:32:12		307		Look... 
+		420		00:32:13		016		-->		00:32:15		101		...at this one! 
+		421		00:32:19		689		-->		00:32:21		524		He's alive. 
+		422		00:32:23		693		-->		00:32:25		570		Don't move. 
+		423		00:32:27		447		-->		00:32:28		948		Is he alright? 
+		424		00:32:29		115		-->		00:32:31		117		All signs show normal. 
+		425		00:32:32		035		-->		00:32:35		288		So much frustration. It had to get rid of me. 
+		426		00:32:40		919		-->		00:32:42		629		Now, let me see the others. 
+		427		00:32:43		588		-->		00:32:44		964		No. 
+		428		00:32:45		548		-->		00:32:48		509		My people will not entertain you until you do. 
+		429		00:32:48		718		-->		00:32:51		846		They are incapable of entertaining me. 
+		430		00:32:53		222		-->		00:32:57		435		I want you four out of here. Enterprise, beam up the away team. 
+		431		00:32:57		602		-->		00:32:58		603		Aye, sir. 
+		432		00:33:02		565		-->		00:33:05		652		They're no longer involved. This is between you and me. 
+		433		00:33:06		235		-->		00:33:08		071		They may leave. 
+		434		00:33:24		671		-->		00:33:28		967		- Now... - I want to leave this place. 
+		435		00:33:31		427		-->		00:33:34		222		You want me to give you transportation? 
+		436		00:33:34		973		-->		00:33:37		976		For which I will trade you lives. 
+		437		00:33:38		142		-->		00:33:40		520		I must see my people in the shuttle. 
+		438		00:33:40		687		-->		00:33:43		231		Will you give me what I want? 
+		439		00:33:44		983		-->		00:33:48		861		I have the means. But first, I must see my people. 
+		440		00:33:50		446		-->		00:33:52		407		If you must. 
+		441		00:34:00		456		-->		00:34:02		417		Troi, are you alright? 
+		442		00:34:02		584		-->		00:34:04		669		Yes. But Ben is not. 
+		443		00:34:10		091		-->		00:34:11		509		He's alive. 
+		444		00:34:13		720		-->		00:34:16		014		Were you able to help Tasha? 
+		445		00:34:20		226		-->		00:34:21		185		No. 
+		446		00:34:28		234		-->		00:34:30		403		Troi, we must talk. 
+		447		00:34:30		945		-->		00:34:35		450		I believe we can outmaneuver this creature, and beam you and Ben up. 
+		448		00:34:35		617		-->		00:34:38		745		We monitored the energy field around the shuttle. 
+		449		00:34:38		953		-->		00:34:42		957		When the creature is here, the field weakens. 
+		450		00:34:43		124		-->		00:34:47		545		- Do you know why? - The creature is filled with rage. 
+		451		00:34:47		712		-->		00:34:51		090		Undirected, unfocused rage. 
+		452		00:34:51		257		-->		00:34:53		968		When he confronts it, his guard goes down, because he's feeling it instead of suppressing it. 
+		454		00:34:57		639		-->		00:35:01		225		Acknowledging his needs makes him vulnerable. 
+		455		00:35:01		434		-->		00:35:05		229		- What caused the rage? - He was left here. 
+		456		00:35:05		939		-->		00:35:07		857		Abandoned. 
+		457		00:35:15		823		-->		00:35:20		286		The force field has to drop below 2.7 before we can beam them up. 
+		458		00:35:22		622		-->		00:35:25		375		- Satisfied? - Yes. 
+		459		00:35:26		459		-->		00:35:29		254		- Then can we leave? - To go where? 
+		460		00:35:29		420		-->		00:35:32		507		Do you want to find those who left you here? 
+		461		00:35:32		674		-->		00:35:34		509		She told you about them! 
+		462		00:35:42		058		-->		00:35:44		310		How long have you been here? 
+		463		00:35:44		477		-->		00:35:46		479		Since they left. 
+		464		00:35:46		646		-->		00:35:48		690		A very long time. 
+		465		00:35:48		856		-->		00:35:50		733		A long time to be alone. 
+		466		00:35:50		900		-->		00:35:54		028		Save your compassion. It's revolting. 
+		467		00:35:54		195		-->		00:35:58		241		You offer it like a prize when in fact it's an insult. 
+		468		00:35:58		408		-->		00:36:00		326		Because you feel unworthy. 
+		469		00:36:00		493		-->		00:36:06		499		You overrate your gift. You humans are puny, weak. 
+		470		00:36:06		708		-->		00:36:08		710		But our spirit is indomitable. 
+		471		00:36:08		876		-->		00:36:13		256		And still you die from a flake of my power. 
+		472		00:36:14		132		-->		00:36:16		342		A great poet once said, 
+		473		00:36:16		509		-->		00:36:19		887		"All spirits are enslaved that serve things evil." 
+		474		00:36:20		805		-->		00:36:22		849		You do not understand. 
+		475		00:36:23		016		-->		00:36:27		395		I do not serve things evil. I am evil! 
+		476		00:36:28		938		-->		00:36:31		482		No. You are not. 
+		477		00:36:31		649		-->		00:36:35		945		I am a skin of evil, left here by a race of Titans, who believed, if they rid themselves of me,  they would free the bonds of destructiveness. 
+		480		00:36:43		286		-->		00:36:47		916		Yes. So here you are. Feeding on your own loneliness. 
+		481		00:36:48		124		-->		00:36:51		294		Consumed by your own pain. Believing your own lies. 
+		482		00:36:51		461		-->		00:36:52		754		Set the computer. 
+		483		00:36:52		921		-->		00:36:57		967		When the energy level reaches 2.6.205, beam up Troi and Prieto. 
+		484		00:36:58		134		-->		00:37:00		845		We'll do a parallel transport on the Captain. 
+		485		00:37:02		513		-->		00:37:04		557		You say you are true evil? 
+		486		00:37:05		308		-->		00:37:08		227		Shall I tell you what true evil is? 
+		487		00:37:08		478		-->		00:37:10		605		It is to submit to you. 
+		488		00:37:10		772		-->		00:37:12		482		To surrender our freedom, our dignity, instead of defying you. 
+		490		00:37:15		068		-->		00:37:17		737		I will kill you and those in there. 
+		491		00:37:17		904		-->		00:37:20		114		But you will still be here. 
+		492		00:37:20		698		-->		00:37:22		659		In this place. 
+		493		00:37:22		825		-->		00:37:25		161		For ever. Alone. Immortal. 
+		494		00:37:28		957		-->		00:37:31		084		Stand by for parallel transport. 
+		495		00:37:31		292		-->		00:37:34		254		The energy level has dropped to 2.6.3. 
+		496		00:37:34		420		-->		00:37:36		214		That's your real fear. 
+		497		00:37:36		381		-->		00:37:38		132		Never to die! 
+		498		00:37:38		591		-->		00:37:41		636		Never again to be united with those who left you. 
+		499		00:37:43		888		-->		00:37:47		225		Energy field is 2.6. Computer beginning transport. 
+		500		00:37:55		316		-->		00:37:57		277		I'm not taking you anywhere. 
+		501		00:38:12		050		-->		00:38:15		512		Captain's log, stardate <stardate>41602</stardate>.1. 
+		502		00:38:16		054		-->		00:38:18		598		The shuttlecraft has been destroyed to prevent any possibility of Armus leaving the planet. 
+		504		00:38:22		352		-->		00:38:25		021		Vagra II will be declared offlimits. 
+		505		00:38:25		814		-->		00:38:28		191		But the damage has been done. 
+		506		00:38:28		983		-->		00:38:32		612		One of the saddest duties I have ever had to perform is now ahead of me. 
+		508		00:38:44		124		-->		00:38:49		170		We are here together to honor our friend and comrade, 
+		509		00:38:49		754		-->		00:38:52		298		Lt Natasha Yar. 
+		510		00:38:52		465		-->		00:38:55		301		Coming to terms with the loss of a colleague is perhaps the most difficult task we must face  in the work we have chosen to pursue. 
+		513		00:39:02		434		-->		00:39:07		689		We will all find time to grieve for her in the days ahead. 
+		514		00:39:07		856		-->		00:39:09		733		But for now... 
+		515		00:39:11		151		-->		00:39:14		863		...she has asked that we celebrate her life... 
+		516		00:39:15		947		-->		00:39:17		574		...with this. 
+		517		00:39:33		089		-->		00:39:35		091		Hello, my friends. 
+		518		00:39:35		759		-->		00:39:40		013		You are here watching this image of me because I have died. 
+		519		00:39:40		930		-->		00:39:44		559		It probably happened while I was on duty, and quickly, which is what I expected. 
+		521		00:39:47		771		-->		00:39:51		649		Never forget I died doing exactly what I chose to do. 
+		522		00:39:52		442		-->		00:39:55		695		I want you to know how much I loved my life, and those of you who shared it with me. 
+		524		00:39:59		407		-->		00:40:00		950		You are my family. 
+		525		00:40:01		993		-->		00:40:06		331		You all know where I came from and what my life was like before. 
+		526		00:40:06		539		-->		00:40:11		169		But Starfleet took that frightened angry girl and tempered her. 
+		527		00:40:11		336		-->		00:40:15		006		I have been blessed with your friendship and your love. 
+		528		00:40:17		258		-->		00:40:19		177		You are the best. 
+		529		00:40:20		512		-->		00:40:22		222		You trusted me, you encouraged me, and, most of all, you made me laugh. 
+		531		00:40:31		231		-->		00:40:34		692		You are capable of so much love. 
+		532		00:40:36		236		-->		00:40:39		614		You taught me without ever having to say a word. 
+		533		00:40:40		323		-->		00:40:44		369		I realized I could be feminine without losing anything. 
+		534		00:40:52		585		-->		00:40:56		297		We are so much alike, you and I. Both warriors. 
+		535		00:40:57		298		-->		00:41:00		218		Orphans who found ourselves this family. 
+		536		00:41:02		053		-->		00:41:05		557		I hope I met death with my eyes wide open. 
+		537		00:41:08		143		-->		00:41:10		687		Your fierce devotion comes from within. 
+		538		00:41:10		854		-->		00:41:12		355		It can't be diminished. 
+		539		00:41:12		522		-->		00:41:16		776		From you, I have learned to strive for excellence... 
+		540		00:41:17		902		-->		00:41:20		363		...no matter what the personal cost. 
+		541		00:41:23		700		-->		00:41:26		536		I'm sorry I won't be able to see you grow into the exceptional man you'll become. 
+		543		00:41:30		540		-->		00:41:33		752		But your kindness and innocence are ageless. 
+		544		00:41:40		300		-->		00:41:43		970		In those moments I felt the most despair, you took my hand and helped me to see things differently. 
+		546		00:41:48		266		-->		00:41:50		977		You taught me to look beyond the moment. 
+		547		00:41:51		770		-->		00:41:57		108		My friend, Data, you see things with the wonder of a child. 
+		548		00:41:58		109		-->		00:42:01		029		And that makes you more human than any of us. 
+		549		00:42:10		246		-->		00:42:14		167		I wish I could say you've been like a father to me. 
+		550		00:42:14		201		-->		00:42:18		038		But I've never had one, so I don't know what it feels like. 
+		551		00:42:19		331		-->		00:42:25		045		But if there was someone in this universe I could choose to be like, someone who I would want to make proud of me... 
+		553		00:42:31		927		-->		00:42:33		386		...it's you. 
+		554		00:42:35		055		-->		00:42:40		393		You who have the heart of an explorer and the soul of a poet. 
+		555		00:42:42		312		-->		00:42:44		773		So, you'll understand when I say... 
+		556		00:42:46		024		-->		00:42:52		155		...death is that state in which one exists only in the memory of others. 
+		557		00:42:53		323		-->		00:42:55		450		Which is why it is not an end. 
+		558		00:42:58		578		-->		00:43:00		122		No goodbyes. 
+		559		00:43:01		039		-->		00:43:02		958		Just good memories. 
+		560		00:43:06		002		-->		00:43:08		213		Hailing frequencies closed, sir. 
+		561		00:43:16		596		-->		00:43:18		390		Au revoir, Natasha. 
+		562		00:43:29		818		-->		00:43:32		070		The gathering is concluded. 
+		563		00:43:53		467		-->		00:43:54		843		Sir... 
+		564		00:43:55		594		-->		00:44:00		223		...the purpose of this gathering... confuses me. 
+		565		00:44:01		391		-->		00:44:02		976		How so? 
+		566		00:44:04		519		-->		00:44:07		230		My thoughts are not for Tasha... 
+		567		00:44:08		398		-->		00:44:10		108		...but for myself. 
+		568		00:44:11		193		-->		00:44:15		781		I keep thinking how empty it will be without her presence. 
+		569		00:44:17		657		-->		00:44:19		409		Did I miss the point? 
+		570		00:44:23		246		-->		00:44:25		832		No, you didn't. You got it. 

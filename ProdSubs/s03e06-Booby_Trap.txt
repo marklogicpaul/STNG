@@ -1,0 +1,531 @@
+		1		00:00:18		250		-->		00:00:20		180		Another Coco-no-no? 
+		2		00:00:20		350		-->		00:00:22		680		No, thanks, I think I've had enough. 
+		3		00:00:22		850		-->		00:00:25		420		Yeah. Me too. 
+		4		00:00:40		200		-->		00:00:42		070		I almost forgot. 
+		5		00:01:06		930		-->		00:01:09		760		I'm sorry. I think I'd better go back. 
+		6		00:01:09		900		-->		00:01:12		900		Too chilly? I can turn down the breeze. 
+		7		00:01:13		000		-->		00:01:14		800		It's been a lovely program. 
+		8		00:01:14		970		-->		00:01:17		840		- Yeah. - You're a terrific guy. 
+		9		00:01:18		010		-->		00:01:19		140		Yeah. 
+		10		00:01:21		910		-->		00:01:24		310		I just don't feel that way about you. 
+		11		00:01:26		480		-->		00:01:27		850		Yeah. 
+		12		00:01:32		150		-->		00:01:33		520		Knock it off. 
+		13		00:01:53		240		-->		00:01:55		740		This was the final battle, wasn't it? 
+		14		00:01:56		850		-->		00:02:00		520		Neither side expected Orelious IX to be the decisive conflict. 
+		15		00:02:02		550		-->		00:02:03		990		There's not much left. 
+		16		00:02:05		150		-->		00:02:08		520		The destruction is remarkable, considering the primitive period. 
+		17		00:02:16		900		-->		00:02:18		430		I beg your pardon? 
+		18		00:02:19		330		-->		00:02:21		740		Geordi had a big date with Christi tonight. 
+		19		00:02:21		900		-->		00:02:24		370		He spent days working up the perfect program. 
+		20		00:02:24		870		-->		00:02:26		780		Looks like it ended early. 
+		21		00:02:31		950		-->		00:02:35		350		- Cmdr Data to the bridge. - Acknowledged. 
+		22		00:02:39		850		-->		00:02:43		690		We're picking up a signal, coordinates 21 1 mark 61. 
+		23		00:02:43		860		-->		00:02:47		260		It would seem to be an ancient interplanetary code. 
+		24		00:02:51		030		-->		00:02:53		440		- Mr Data? - Confirmed, sir. 
+		25		00:02:55		100		-->		00:02:58		910		Survivors on Orelious IX, after all this time? Not possible. 
+		26		00:02:59		070		-->		00:03:01		140		Well, hardly possible, Number One. 
+		27		00:03:01		310		-->		00:03:03		780		Lay in a course for the source. 
+		28		00:03:18		290		-->		00:03:21		530		- Approaching source, Captain. - Put it on the viewer. 
+		29		00:03:30		610		-->		00:03:32		610		A Promellian battle cruiser? 
+		30		00:03:36		340		-->		00:03:39		010		With its Lang-cycle fusion engines intact. 
+		31		00:03:41		720		-->		00:03:44		220		Sensors indicate no life signs aboard, Captain. 
+		32		00:03:44		390		-->		00:03:48		220		I should hope not. That ship belongs in a museum. 
+		33		00:03:50		630		-->		00:03:52		690		I'm afraid we're a little late. 
+		34		00:03:53		960		-->		00:03:57		030		That call for help was probably initiated... 
+		35		00:03:57		900		-->		00:03:59		900		...over a thousand years ago. 
+		36		00:04:31		030		-->		00:04:34		240		Space, the final frontier. 
+		37		00:04:35		670		-->		00:04:39		240		These are the voyages of the Starship Enterprise. 
+		38		00:04:39		840		-->		00:04:43		750		Its continuing mission, to explore strange new worlds... 
+		39		00:04:45		280		-->		00:04:48		550		...to seek out new life and new civilisations... 
+		40		00:04:49		920		-->		00:04:53		360		...to boldly go where no one has gone before. 
+		41		00:05:52		950		-->		00:05:56		350		Captain's log, stardate <stardate>43205</stardate>.6. 
+		42		00:05:56		520		-->		00:05:59		620		We have arrived at Orelious IX to chart the battle in which the Menthars and Promellians fought to extinction. 
+		44		00:06:03		860		-->		00:06:07		360		Among the ruins, we found a Promellian battle cruiser that has withstood the centuries. 
+		46		00:06:09		500		-->		00:06:10		830		Indulge me. 
+		47		00:06:11		000		-->		00:06:14		840		I would prefer it if I could run a security sweep. 
+		48		00:06:15		000		-->		00:06:17		470		No. Captain's prerogative. This one's mine. 
+		49		00:06:17		640		-->		00:06:19		740		We have examined every conceivable risk. 
+		50		00:06:19		910		-->		00:06:24		150		The risks on a ship this old and fragile are inconceivable. 
+		51		00:06:24		680		-->		00:06:26		250		Ghosts, perhaps? 
+		52		00:06:27		480		-->		00:06:31		850		Number One, have you never dreamed... of climbing inside the bottle? 
+		54		00:06:35		620		-->		00:06:36		690		Sir? 
+		55		00:06:37		560		-->		00:06:39		360		The ship in the bottle. 
+		56		00:06:41		600		-->		00:06:43		130		Model airships. 
+		57		00:06:43		300		-->		00:06:46		370		I used to build them as a child. 
+		58		00:06:46		530		-->		00:06:49		570		I bet I had a Promellian battle cruiser. 
+		59		00:06:50		370		-->		00:06:52		940		- Ready to beam down? - Locked on, Captain. 
+		60		00:06:53		110		-->		00:06:54		980		Certain about the atmosphere? 
+		61		00:06:55		140		-->		00:06:57		710		There is adequate oxygen for life support. 
+		62		00:06:57		880		-->		00:07:01		720		It is exactly as they left it. In the bottle. 
+		63		00:07:05		220		-->		00:07:06		760		The ship... Good Lord, didn't anybody build ships in bottles as boys? 
+		65		00:07:10		460		-->		00:07:12		490		I did not play with toys. 
+		66		00:07:14		430		-->		00:07:16		130		I was never a boy. 
+		67		00:07:17		970		-->		00:07:19		830		I did, sir. 
+		68		00:07:20		740		-->		00:07:22		500		Thank you, Mr O'Brien. 
+		69		00:07:25		410		-->		00:07:26		810		Proceed. 
+		70		00:07:35		020		-->		00:07:37		590		I did. I really did. 
+		71		00:07:38		420		-->		00:07:40		420		Ships in bottles. Great fun. 
+		72		00:07:43		160		-->		00:07:47		000		- What's that? - The power bus may need adjusting. 
+		73		00:07:47		660		-->		00:07:49		460		Keep me posted. 
+		74		00:08:02		210		-->		00:08:03		810		Extraordinary! 
+		75		00:08:37		680		-->		00:08:39		050		Admirable. 
+		76		00:08:40		520		-->		00:08:42		450		They died at their posts. 
+		77		00:08:56		730		-->		00:08:59		970		You'd expect the bridge layout of this era to be clumsy, awkward. 
+		79		00:09:04		040		-->		00:09:06		070		But look at this. 
+		80		00:09:06		740		-->		00:09:08		540		It's a model of simplicity. 
+		81		00:09:09		240		-->		00:09:11		050		Elegant. Functional. 
+		82		00:09:13		420		-->		00:09:17		890		They built this craft for generations, and it worked. 
+		83		00:09:26		730		-->		00:09:29		000		Don't you have anything stronger, Guinan? 
+		84		00:09:29		160		-->		00:09:31		170		- Yes. - Would it help? 
+		85		00:09:31		670		-->		00:09:33		070		No. 
+		86		00:09:34		140		-->		00:09:36		570		Tell me something. You're a woman, right? 
+		87		00:09:38		310		-->		00:09:40		340		Yes, I'm a woman. 
+		88		00:09:40		980		-->		00:09:44		580		- What do you want in a man? - Personally? 
+		89		00:09:45		010		-->		00:09:48		680		As a woman, what's the first thing you look at? 
+		90		00:09:50		020		-->		00:09:52		890		- His head. - His mind. 
+		91		00:09:53		050		-->		00:09:56		160		- Of course. - No, his head. 
+		92		00:09:56		890		-->		00:09:59		030		I'm attracted to bald men. 
+		93		00:10:01		660		-->		00:10:03		670		- Seriously? - Seriously. 
+		94		00:10:04		670		-->		00:10:05		970		Why? 
+		95		00:10:06		130		-->		00:10:09		540		Maybe because a bald man was kind to me once when I was hurting, took care of me. 
+		97		00:10:14		180		-->		00:10:18		150		- I'd like to do that. - I take care of myself now. 
+		98		00:10:19		150		-->		00:10:21		380		I mean, take care of somebody. 
+		99		00:10:22		920		-->		00:10:27		160		I just don't get it. I can fieldstrip a fusion reactor. 
+		100		00:10:27		320		-->		00:10:29		320		I can realign power-transfer tunnels. 
+		101		00:10:29		420		-->		00:10:32		530		Why can't I make anything work with Christi? 
+		102		00:10:32		690		-->		00:10:36		000		It's like... I don't know what to say. 
+		103		00:10:36		600		-->		00:10:39		870		- You're doing fine with me. - You're different. 
+		104		00:10:40		000		-->		00:10:41		700		No, you're different. 
+		105		00:10:41		840		-->		00:10:45		510		- But I'm not trying now. - That's my point. 
+		106		00:10:56		220		-->		00:10:57		720		What is it? 
+		107		00:10:57		850		-->		00:11:00		560		The main power returner is acting weird. 
+		108		00:11:00		720		-->		00:11:02		620		Define weird. 
+		109		00:11:03		020		-->		00:11:05		530		I'm getting fluctuating waveguide readings. 
+		110		00:11:06		290		-->		00:11:08		760		- Run a maintenance sweep. - Right. 
+		111		00:11:10		730		-->		00:11:12		870		Activating power pack, Captain. 
+		112		00:11:21		410		-->		00:11:25		150		Mr Worf, get tricorder images of their tactical display. 
+		113		00:11:25		310		-->		00:11:26		580		Aye, sir. 
+		114		00:11:26		750		-->		00:11:30		990		The source of the distress signal is coming from up there. 
+		115		00:11:35		790		-->		00:11:38		460		Let's end their last cry for help. 
+		116		00:11:44		870		-->		00:11:46		170		Captain. 
+		117		00:11:47		700		-->		00:11:50		540		I believe this is an information storage device. 
+		118		00:11:50		710		-->		00:11:53		780		A crude analogue of our isolinear optical chip. 
+		119		00:11:53		940		-->		00:11:56		510		Crude by our standards today, Data. 
+		120		00:11:56		680		-->		00:12:01		680		But when this ship was built, humans were perfecting the mechanical clock. 
+		121		00:12:01		850		-->		00:12:04		220		Still using steel crossbows in battle. 
+		122		00:12:05		050		-->		00:12:08		890		- Any way to see what's on this? - Questionable. 
+		123		00:12:09		360		-->		00:12:12		990		I believe I can supply power to its playback unit. 
+		124		00:12:13		160		-->		00:12:15		160		Its components are quite old. 
+		125		00:12:16		500		-->		00:12:19		530		I will amplify the image with my tricorder. 
+		126		00:12:26		340		-->		00:12:27		980		I am Galek Sar, 
+		127		00:12:28		840		-->		00:12:31		910		Captain of the Promellian cruiser, Cleponji. 
+		128		00:12:32		480		-->		00:12:35		480		I wish anyone who finds this to know... my crew has behaved courageously. 
+		130		00:12:41		490		-->		00:12:44		160		I want it recorded for all time that I alone  am responsible for the fate that befell us. 
+		133		00:12:49		700		-->		00:12:52		600		I have failed as a captain... 
+		134		00:12:52		770		-->		00:12:57		410		...and as the man responsible for all the souls aboard my ship. 
+		135		00:13:03		240		-->		00:13:06		310		- Picard to Enterprise. - Go ahead, Captain. 
+		136		00:13:07		050		-->		00:13:10		150		I think we have seen all there is here. 
+		137		00:13:10		320		-->		00:13:13		890		At Mr O'Brien's leisure, we're ready to return. 
+		138		00:13:14		390		-->		00:13:15		760		Aye, sir. 
+		139		00:13:20		630		-->		00:13:21		830		Thrilling. 
+		140		00:13:23		160		-->		00:13:26		300		That was... absolutely thrilling. 
+		141		00:13:28		100		-->		00:13:32		440		And I was right. There were ghosts on board. One spoke to us. 
+		142		00:13:32		840		-->		00:13:36		110		- A friendly one, I hope? - My own counterpart. 
+		143		00:13:36		280		-->		00:13:39		510		The captain's final message, praising his crew. 
+		144		00:13:39		680		-->		00:13:41		950		I hope you'll be as thoughtful. 
+		145		00:13:42		820		-->		00:13:45		120		Mr Data, revise the annexe. 
+		146		00:13:45		290		-->		00:13:47		960		This should be catalogued and then retrieved. 
+		147		00:13:57		600		-->		00:14:02		440		I'm sorry, it's just a rare pleasure to see this side of your personality. 
+		148		00:14:04		940		-->		00:14:08		280		Mr Crusher, set course for the original coordinates. 
+		149		00:14:08		440		-->		00:14:12		350		Captain, we are experiencing a two percent drop in energy reserves. 
+		150		00:14:12		510		-->		00:14:13		650		Compensating. 
+		151		00:14:13		820		-->		00:14:15		450		We were having problems... 
+		152		00:14:17		850		-->		00:14:21		520		We are being bombarded with high-intensity radiation. 
+		153		00:14:21		690		-->		00:14:25		560		- Shields up! - Captain, energy loss increasing. 
+		154		00:14:26		660		-->		00:14:29		230		- Yellow alert. - Aye, sir. 
+		155		00:14:31		530		-->		00:14:33		200		Energy loss increasing. 
+		156		00:14:34		970		-->		00:14:36		810		Mr Crusher. 
+		157		00:14:36		970		-->		00:14:38		970		Reverse course. Full impulse power. 
+		158		00:14:41		180		-->		00:14:42		980		No response, sir. 
+		159		00:14:46		920		-->		00:14:51		120		- Increase speed to warp one. - Engines aren't responding. 
+		160		00:14:51		290		-->		00:14:53		390		Mr La Forge, warp power now! 
+		161		00:14:53		720		-->		00:14:56		460		Matter-antimatter mixture-ratio settings at optimum balance. 
+		163		00:14:58		390		-->		00:15:02		300		Reaction sequence corresponding to specified norms. 
+		164		00:15:02		460		-->		00:15:06		630		Magnetic-plasma transfer to warp-field generators as specified. 
+		165		00:15:06		800		-->		00:15:10		370		Commander, we should be going like a bat out of hell. 
+		166		00:15:10		770		-->		00:15:13		810		- Power loss now 1 2 percent. - Red alert. 
+		167		00:15:14		580		-->		00:15:16		440		Radiation intensity increasing. 
+		168		00:15:17		150		-->		00:15:20		650		We'd better slow these engines down before we burn out. 
+		169		00:15:20		820		-->		00:15:22		820		To idle, Geordi. 
+		170		00:15:24		150		-->		00:15:25		990		Is it possible... that we've fallen into the same snare that killed them? 
+		172		00:15:31		760		-->		00:15:34		000		A 1,000-year-old booby trap? 
+		173		00:15:49		440		-->		00:15:51		650		Even with the engines idling, our reserves will be depleted in three hours. 
+		175		00:15:54		820		-->		00:15:56		820		We won't hold our shields. 
+		176		00:15:56		990		-->		00:16:00		660		Mr Worf, have you identified the source of the radiation? 
+		177		00:16:00		820		-->		00:16:04		160		The radiation field is too strong for our sensors. 
+		178		00:16:04		330		-->		00:16:06		830		And no explanation for the energy loss? 
+		179		00:16:07		160		-->		00:16:08		130		No, sir. 
+		180		00:16:08		530		-->		00:16:11		670		Is there anything in the history books, Data? 
+		181		00:16:11		830		-->		00:16:14		500		Fascinating records of Menthar battle strategy. 
+		182		00:16:14		670		-->		00:16:16		670		They were exceptionally innovative. 
+		183		00:16:16		840		-->		00:16:20		380		They were first to use the Kavis Teke elusive maneuver, as well as strategy comparable to Napoleon's... 
+		185		00:16:23		380		-->		00:16:27		020		- Any situation like this? - No, sir. 
+		186		00:16:28		380		-->		00:16:30		590		I recommend I return with a team. 
+		187		00:16:30		750		-->		00:16:35		320		- They didn't have much success. - But they knew their enemy. 
+		188		00:16:35		490		-->		00:16:38		030		They may have known what caused this. 
+		189		00:16:38		190		-->		00:16:43		530		Agreed. The impact of lowering shields to get the away team out? 
+		190		00:16:43		670		-->		00:16:46		940		- Negligible. - And our energy conservation? 
+		191		00:16:47		870		-->		00:16:51		410		Cmdr La Forge, keep the Enterprise up and running. 
+		192		00:16:51		570		-->		00:16:55		110		Data, join the away team. Find out what happened on that ship. 
+		193		00:17:05		450		-->		00:17:07		460		So why can't we move? 
+		194		00:17:08		360		-->		00:17:09		790		Computer. 
+		195		00:17:09		960		-->		00:17:13		290		As we increased power, was there any counter-reaction? 
+		196		00:17:13		460		-->		00:17:14		730		Affirmative. 
+		197		00:17:14		900		-->		00:17:17		370		The opposing force grew in direct proportion to the power output of the Enterprise. 
+		199		00:17:20		940		-->		00:17:24		140		So, it kept us from forming a subspace field? 
+		200		00:17:24		310		-->		00:17:26		110		That is correct. 
+		201		00:17:40		760		-->		00:17:42		420		Computer... 
+		202		00:17:42		920		-->		00:17:45		590		Who is this... L Brahms? 
+		203		00:17:46		430		-->		00:17:48		730		Dr Leah Brahms, engineer. 
+		204		00:17:48		900		-->		00:17:52		330		Daystrom Institute Theoretical Propulsion Group. 
+		205		00:17:53		170		-->		00:17:57		340		Galaxy-class starships. Team seven, junior member. 
+		206		00:17:58		770		-->		00:18:00		480		Junior member? 
+		207		00:18:00		640		-->		00:18:03		480		Looks like she wrote the book on propulsion. 
+		208		00:18:04		110		-->		00:18:06		310		Call up subspace design logs. 
+		209		00:18:06		480		-->		00:18:11		150		Select menu. Visual records or L Brahms' voice entries. 
+		210		00:18:12		550		-->		00:18:14		160		Voice entries. 
+		211		00:18:15		360		-->		00:18:17		660		Theoretical propulsion logs, 
+		212		00:18:17		830		-->		00:18:21		700		Federation Starship Enterprise. Galaxy-class. 
+		213		00:18:21		860		-->		00:18:25		800		Heading, Subspace. Author, Leah Brahms. 
+		214		00:18:26		670		-->		00:18:29		170		Geordi La Forge. How are you doing? 
+		215		00:18:29		340		-->		00:18:32		370		- Specify program. - Yeah. Down to work. 
+		216		00:18:32		540		-->		00:18:34		340		You're absolutely right. 
+		217		00:18:39		550		-->		00:18:42		580		I recommend we evacuate all non-operational areas and group crew on the odd-numbered decks. 
+		219		00:18:45		590		-->		00:18:46		550		Proceed. 
+		220		00:18:46		720		-->		00:18:50		430		I'd like to set up an area for treating radiation symptoms. 
+		221		00:18:51		530		-->		00:18:55		000		After the shields fall, how long before fatal exposure? 
+		222		00:18:55		700		-->		00:18:59		900		30 minutes. After that, there is nothing that can be done. 
+		223		00:19:00		370		-->		00:19:03		740		Away team to Enterprise. Captain, we may have found something. 
+		224		00:19:04		270		-->		00:19:06		540		There's a file of memory coils here. 
+		225		00:19:06		710		-->		00:19:09		740		They are identical to the coil we found earlier. 
+		226		00:19:09		910		-->		00:19:12		780		- Captain's log? - That's what we were thinking. 
+		227		00:19:13		280		-->		00:19:16		350		- Mr Data, are they working? - I believe so. 
+		228		00:19:16		520		-->		00:19:19		550		We can enhance them through the image processor. 
+		229		00:19:19		890		-->		00:19:22		920		- Good. Return at once. - Aye, sir. 
+		230		00:19:23		560		-->		00:19:24		890		Computer. 
+		231		00:19:25		060		-->		00:19:28		260		Generate a cross-section of the dilithium-crystal chamber. 
+		232		00:19:33		270		-->		00:19:36		710		What about re-orienting the crystal? 
+		233		00:19:37		210		-->		00:19:39		970		It is possible to re-orient the crystal. 
+		234		00:19:40		110		-->		00:19:43		580		The key lies in adjusting the lattice-structure direction. 
+		235		00:19:43		750		-->		00:19:47		580		This modification will be integrated in the next-class starship. 
+		236		00:19:49		150		-->		00:19:50		750		Sorry, can't wait. 
+		237		00:19:50		920		-->		00:19:55		120		You and me, Leah, we've got two hours to figure this out. 
+		238		00:19:57		590		-->		00:20:00		260		You know what I need to do? 
+		239		00:20:00		430		-->		00:20:02		600		I need to get inside there. 
+		240		00:20:02		960		-->		00:20:06		670		I need to be able to turn it inside out. 
+		241		00:20:06		840		-->		00:20:11		270		Computer, is there a cross-section we can replicate on the holodeck? 
+		242		00:20:11		370		-->		00:20:15		680		Select menu. Design specifications or prototype schematic. 
+		243		00:20:15		810		-->		00:20:17		650		Prototype? Elaborate. 
+		244		00:20:19		350		-->		00:20:23		020		A development-stage prototype schematic at Utopia Planitia. 
+		245		00:20:23		650		-->		00:20:28		990		Drafting room five of the Mars station, stardate <stardate>40174</stardate>. 
+		246		00:20:29		120		-->		00:20:32		790		Perfect. Recreate it in holodeck three. Stay with me, doc. 
+		247		00:20:42		670		-->		00:20:44		340		Ready, Computer? 
+		248		00:20:44		670		-->		00:20:47		080		Holodeck three program is ready. 
+		249		00:20:56		220		-->		00:20:57		890		Damn! 
+		250		00:21:00		820		-->		00:21:03		590		Right back where it all started. 
+		251		00:21:17		440		-->		00:21:20		610		This is incredible! 
+		252		00:21:22		140		-->		00:21:25		050		Leah, did you design this? 
+		253		00:21:25		950		-->		00:21:30		620		The dilithium-crystal chamber was designed at Outpost Seran T-One... 
+		254		00:21:30		790		-->		00:21:33		460		...stardate <stardate>40052</stardate>. 
+		255		00:21:33		620		-->		00:21:35		890		Some of the Federation's best minds participated in its development. 
+		257		00:21:38		230		-->		00:21:41		900		That's the visiting-dignitary talk. What's the inside story? 
+		258		00:21:42		400		-->		00:21:43		900		Off the record. 
+		259		00:21:44		070		-->		00:21:47		000		Access denied. Personal logs are restricted. 
+		260		00:21:47		600		-->		00:21:51		470		Great! Another woman who won't get personal with me on the holodeck. 
+		261		00:21:53		070		-->		00:21:54		180		Leah. 
+		262		00:21:54		340		-->		00:21:56		850		I want to supplement the energy supply to the ship and the engines. 
+		264		00:21:59		610		-->		00:22:03		320		Could we alter the matter-antimatter paths? 
+		265		00:22:03		490		-->		00:22:05		020		Theoretically, yes. 
+		266		00:22:05		190		-->		00:22:07		260		The system should accept reactants at a faster rate of injection. 
+		268		00:22:10		290		-->		00:22:13		330		Well, this is your baby. Show me which ones. 
+		269		00:22:33		880		-->		00:22:36		650		Computer, did I ask for a simulation? 
+		270		00:22:36		820		-->		00:22:39		850		Affirmative. You asked Dr Brahms to show you which system could accept reactants at a faster rate. 
+		272		00:22:43		730		-->		00:22:45		530		By accessing available imagery, an adequate facsimile was possible. 
+		274		00:22:50		730		-->		00:22:53		000		I did do that, didn't I? 
+		275		00:22:53		340		-->		00:22:56		600		OK, well... It's good to see you, Leah. 
+		276		00:23:01		510		-->		00:23:03		510		Continue with your analysis. 
+		277		00:23:04		680		-->		00:23:09		280		Systems L-452 through L-575 will accept reactants, providing all other systems are calibrated to an equal factor. 
+		279		00:23:13		250		-->		00:23:17		460		Then, if we use multiple streams hitting more than one facet... 
+		280		00:23:18		090		-->		00:23:20		400		...we could do it, hold our own. 
+		281		00:23:20		560		-->		00:23:23		430		Leah, you're beautiful. La Forge to Picard. 
+		282		00:23:23		600		-->		00:23:24		730		Go ahead. 
+		283		00:23:24		900		-->		00:23:28		140		We found a way to extend the energy supplies. 
+		284		00:23:28		300		-->		00:23:31		470		- Well done. - Can you get us out of here? 
+		285		00:23:31		640		-->		00:23:35		710		Sorry, Commander, the first priority was to maintain the shields. 
+		286		00:23:35		880		-->		00:23:39		380		- Acknowledged. - We'll get to work on it. 
+		287		00:23:39		550		-->		00:23:41		550		Pass my congratulations to your team. 
+		288		00:23:41		750		-->		00:23:44		620		Thanks, Captain. We're all smiles down here. 
+		289		00:23:48		320		-->		00:23:51		460		Captain, we've been able to verify that these coils are the logs of the Promellian captain. 
+		291		00:23:55		300		-->		00:23:58		830		But most of them have decayed and cannot be repaired. 
+		292		00:24:00		240		-->		00:24:01		600		Any playback? 
+		293		00:24:01		770		-->		00:24:05		610		On most, there are brief sections which may yield information. 
+		294		00:24:05		770		-->		00:24:09		780		Do your best. Let's hope we can get the section we need. 
+		295		00:24:10		480		-->		00:24:14		080		The Promellian must have logged the cause of the death. 
+		296		00:24:14		950		-->		00:24:19		150		All in an open locker? He wasn't too concerned with security. 
+		297		00:24:23		830		-->		00:24:26		800		452 through system L-575. 
+		298		00:24:27		360		-->		00:24:30		530		Adjustments to dilithium-crystal chamber complete. 
+		299		00:24:30		700		-->		00:24:32		870		Impact analysis, Computer. 
+		300		00:24:33		030		-->		00:24:35		800		Warp energy has increased 1 4 percent. 
+		301		00:24:35		970		-->		00:24:38		410		Reactants per unit time remaining steady. 
+		302		00:24:39		070		-->		00:24:40		880		Yes! Alright! 
+		303		00:24:47		050		-->		00:24:48		650		Computer... 
+		304		00:24:49		080		-->		00:24:50		650		Do you have any... you know, personality on file for Dr Brahms? 
+		306		00:24:55		390		-->		00:25:00		430		Starfleet personality profile analysis, stardate <stardate>40056</stardate>. 
+		307		00:25:02		360		-->		00:25:06		370		Did she ever debate at the intergalactic caucuses on Chaya VII? 
+		308		00:25:07		170		-->		00:25:11		110		Dr Brahms attended the caucuses on the following stardates... 
+		309		00:25:11		270		-->		00:25:13		270		Never mind the dates. Computer... 
+		310		00:25:13		840		-->		00:25:17		280		If you add data from all these sources, could you synthesise a true representation of Dr Brahms? 
+		312		00:25:22		850		-->		00:25:26		420		There would be a 9.37 percent margin of error in the interactive responses from the facsimile. 
+		314		00:25:30		790		-->		00:25:32		790		I can live with that. 
+		315		00:25:33		260		-->		00:25:34		860		Do it. 
+		316		00:25:50		610		-->		00:25:54		220		- Dr Brahms? - Geordi, it's me, Leah. 
+		317		00:25:54		380		-->		00:25:57		890		Don't call me Dr Brahms, or I'll call you Commander. 
+		318		00:25:58		050		-->		00:26:00		390		- Right. - Now... 
+		319		00:26:00		560		-->		00:26:03		760		We've maintained energy but we can't leave it without burning out components. So we need to move. 
+		321		00:26:09		660		-->		00:26:12		430		- Are you with me? - Yeah. 
+		322		00:26:12		600		-->		00:26:14		200		Yeah! 
+		323		00:26:23		280		-->		00:26:25		710		We have been stripped of all propulsion and our weapons are useless. 
+		325		00:26:29		050		-->		00:26:30		850		We cannot move and we cannot fight. 
+		327		00:26:34		360		-->		00:26:37		330		The ship is being lashed with lethal radiation from the aceton assimilators concealed in the wreckage around... 
+		329		00:26:45		530		-->		00:26:49		740		- Aceton assimilators? - Primitive generators which drain power from distant sources. 
+		331		00:26:52		340		-->		00:26:53		910		Generators? 
+		332		00:26:54		080		-->		00:26:56		580		It would not be difficult to modify them to convert energy into radiation. 
+		334		00:26:59		980		-->		00:27:02		380		The Menthars hide them in debris. 
+		335		00:27:02		550		-->		00:27:04		590		An unsuspecting ship flies in. 
+		336		00:27:05		550		-->		00:27:07		090		Instant booby trap. 
+		337		00:27:07		260		-->		00:27:11		190		Now we're supplying the devices with the energy to kill us. 
+		338		00:27:13		600		-->		00:27:15		860		- No. - Listen to me! 
+		339		00:27:16		030		-->		00:27:18		000		You can't boost power that way. 
+		340		00:27:18		170		-->		00:27:21		570		You increase the speed of the subspace field processor... 
+		341		00:27:21		740		-->		00:27:26		070		I want enough power to barrel out of here, not blow us up. 
+		342		00:27:26		240		-->		00:27:28		680		This is my design we're talking about. 
+		343		00:27:28		840		-->		00:27:32		580		I don't care if you built it with your bare hands. 
+		344		00:27:32		750		-->		00:27:36		520		It's gonna go... And we'll go with it. 
+		345		00:27:36		690		-->		00:27:38		890		I am not used to being questioned. 
+		346		00:27:39		050		-->		00:27:41		090		And I'm not used to dying. 
+		347		00:27:43		460		-->		00:27:47		960		OK, look. You worked in a lab on a static model. 
+		348		00:27:48		130		-->		00:27:49		900		This is a working machine. 
+		349		00:27:50		070		-->		00:27:53		900		It's got tens of thousands of light years on it. 
+		350		00:27:55		600		-->		00:27:57		410		- True. - Damn right. 
+		351		00:28:03		410		-->		00:28:04		780		Listen. 
+		352		00:28:05		910		-->		00:28:09		650		We'd never be certain that the circuit paths are sealed. 
+		353		00:28:17		690		-->		00:28:19		290		You're good. 
+		354		00:28:20		300		-->		00:28:24		970		- Very good. - I know my ship. Inside and out. 
+		355		00:28:25		130		-->		00:28:27		500		Then you know me inside and out. 
+		356		00:28:28		200		-->		00:28:31		010		Cos a lot of me is in here. 
+		357		00:28:33		140		-->		00:28:36		610		I always wish a chief engineer was present when a ship is built. 
+		358		00:28:36		780		-->		00:28:40		180		Yeah. Designers never get out in space. 
+		359		00:28:41		520		-->		00:28:44		190		Well... you're there now. 
+		360		00:28:48		490		-->		00:28:53		130		- Cmdr La Forge to the bridge. - On my way, Commander. 
+		361		00:28:54		400		-->		00:28:56		400		Don't go away. 
+		362		00:28:57		630		-->		00:28:59		630		I mean... 
+		363		00:29:00		500		-->		00:29:02		500		Computer, save program. 
+		364		00:29:07		380		-->		00:29:09		880		How many devices are we dealing with, Data? 
+		365		00:29:10		050		-->		00:29:11		910		To create this radiation field would take several hundred thousand. 
+		367		00:29:14		250		-->		00:29:17		150		They've been out there a long time. Deterioration? 
+		368		00:29:17		320		-->		00:29:20		590		There is no way to calculate that. It is likely. 
+		369		00:29:20		760		-->		00:29:23		690		Is there any indication of weakness in the field? 
+		370		00:29:23		860		-->		00:29:26		460		- Nothing substantial. - Of any kind. 
+		371		00:29:27		460		-->		00:29:31		600		Well, there is a 0.1 percent dip in the radiation field at... 
+		372		00:29:32		230		-->		00:29:34		540		21 mark eight by 42 mark zero. 
+		373		00:29:34		970		-->		00:29:38		910		- I want that 0.1 percent. - Fire at those coordinates. 
+		374		00:29:39		070		-->		00:29:43		210		We won't maintain energy reserves. We might even lose a few circuits. 
+		375		00:29:43		810		-->		00:29:45		050		Critical losses? 
+		376		00:29:45		210		-->		00:29:48		980		Not enough to shut down but I don't know about the shields. 
+		377		00:29:49		550		-->		00:29:53		220		There is also the possibility that the phasers will supply what they need most. Energy. 
+		379		00:29:56		730		-->		00:30:00		330		I imagine a similar discussion taking place on our neighbor ship. 
+		380		00:30:00		500		-->		00:30:02		160		Over 1,000 years ago. 
+		381		00:30:02		330		-->		00:30:04		930		Let's hope our decisions are more successful. 
+		382		00:30:05		100		-->		00:30:09		270		Mr La Forge, return to Engineering and continue without delay. 
+		383		00:30:09		440		-->		00:30:11		010		Mr Worf. 
+		384		00:30:12		240		-->		00:30:14		240		Prepare the phasers. 
+		385		00:30:15		140		-->		00:30:17		150		Phasers locked on coordinates. 
+		386		00:30:17		750		-->		00:30:19		010		Fire. 
+		387		00:30:25		420		-->		00:30:26		860		Nothing. 
+		388		00:30:27		020		-->		00:30:29		190		Radiation levels increasing. 
+		389		00:30:29		360		-->		00:30:30		990		Eight percent. 
+		390		00:30:31		160		-->		00:30:32		660		Ten percent. 
+		391		00:30:32		830		-->		00:30:35		500		Energy reserves are dropping rapidly, sir. 
+		392		00:30:35		660		-->		00:30:37		170		Damn you. 
+		393		00:30:38		100		-->		00:30:41		940		Wouldn't that increase the output to gain a quicker response time? 
+		394		00:30:42		100		-->		00:30:44		440		The processors can handle the extra input. 
+		395		00:30:44		610		-->		00:30:46		610		But how do we reconfigure? 
+		396		00:30:47		140		-->		00:30:49		340		Energy reserves reaching critical. 
+		397		00:30:49		680		-->		00:30:53		450		Standard procedure requires termination of all simulations. 
+		398		00:30:53		620		-->		00:30:55		620		Override standard procedure. 
+		399		00:30:56		120		-->		00:30:58		690		- Override authority restricted. - What? 
+		400		00:31:00		060		-->		00:31:01		460		Computer! 
+		401		00:31:13		500		-->		00:31:15		540		The crystal lattice is breaking down. 
+		402		00:31:15		700		-->		00:31:18		010		We'll repair it at a starbase. 
+		403		00:31:18		170		-->		00:31:19		870		The optimist of the group. 
+		404		00:31:20		040		-->		00:31:23		680		How long do we have shields based on current calculations? 
+		405		00:31:23		850		-->		00:31:28		520		Under two hours. The radiation field has increased by 1 7 percent. 
+		406		00:31:29		080		-->		00:31:31		050		What impact on fatal exposure? 
+		407		00:31:31		520		-->		00:31:33		220		Down to 26 minutes. 
+		408		00:31:33		890		-->		00:31:38		030		If we resist, we die. If we don't resist, we die. 
+		409		00:31:39		790		-->		00:31:42		860		Mr La Forge, have we shut down non-essential energy? 
+		410		00:31:43		030		-->		00:31:47		040		Yes, sir. I need some back for a program on holodeck three. 
+		411		00:31:47		600		-->		00:31:50		070		- For what purpose? - Well... 
+		412		00:31:50		240		-->		00:31:53		880		I've gone back to the beginning, to the earliest entries. 
+		413		00:31:54		040		-->		00:31:57		880		I've created a propulsion design model to assist me. 
+		414		00:31:58		280		-->		00:32:00		280		I believe we're making progress. 
+		415		00:32:00		450		-->		00:32:03		120		Computer, reinstate holodeck three program. 
+		416		00:32:03		280		-->		00:32:05		490		Holodeck three program is reinstated. 
+		417		00:32:06		320		-->		00:32:10		230		Mr La Forge, your best suggestion in one hour. 
+		418		00:32:10		560		-->		00:32:11		930		Picard out. 
+		419		00:32:16		330		-->		00:32:18		330		Computer, holodeck three program. 
+		420		00:32:19		170		-->		00:32:20		740		Enter when ready. 
+		421		00:32:23		070		-->		00:32:24		840		There isn't much time left. 
+		422		00:32:25		010		-->		00:32:29		310		We have to get out of here. The booby trap eats energy. 
+		423		00:32:29		480		-->		00:32:33		110		How do we fool it, block it, shut it down? 
+		424		00:32:33		280		-->		00:32:36		920		OK, we know that for every move the Enterprise makes, there's a countermovement by the energy field. 
+		426		00:32:40		090		-->		00:32:42		490		Can we use that to our advantage? 
+		427		00:32:42		690		-->		00:32:44		990		Maybe. There must be a time differential between force and counterforce. 
+		429		00:32:47		030		-->		00:32:50		530		If we can adjust the link-ups before the counterforce reacts, we might just move this bucket. 
+		431		00:32:53		230		-->		00:32:54		300		Yeah. 
+		432		00:32:54		470		-->		00:32:55		570		Yes! 
+		433		00:32:56		970		-->		00:32:59		410		Leah, do you like Italian food? 
+		434		00:33:00		180		-->		00:33:03		810		Like it? Wait till I make you my fungilli. 
+		435		00:33:04		650		-->		00:33:09		380		OK. Fusion reactor uplink to navigation processor. 
+		436		00:33:22		200		-->		00:33:26		400		Then we have to adjust the vector processor and the drive coils. 
+		437		00:33:28		170		-->		00:33:29		940		This is impossible. 
+		438		00:33:35		610		-->		00:33:39		280		- Don't do that. - I thought it would feel good. 
+		439		00:33:39		450		-->		00:33:43		420		I don't want to feel that good right now. What time is it? 
+		440		00:33:43		590		-->		00:33:45		590		Coming up on 1600 hours. 
+		441		00:33:46		220		-->		00:33:49		590		God, what am I supposed to tell the Captain? 
+		442		00:33:49		760		-->		00:33:52		530		It's possible and yet it's not possible. 
+		443		00:33:52		690		-->		00:33:56		970		Everything says we can't adjust it but if we could, it might work. 
+		444		00:33:57		130		-->		00:33:58		630		I could do it. 
+		445		00:33:58		800		-->		00:34:03		200		Data couldn't even do it. It'll take a thousand adjustments a second. 
+		446		00:34:03		370		-->		00:34:05		810		How will you do it? It's humanly impossible. 
+		447		00:34:05		970		-->		00:34:07		780		I'm not human. 
+		448		00:34:10		480		-->		00:34:14		780		You... You mean the computer could do it? 
+		449		00:34:18		090		-->		00:34:19		650		Captain. 
+		450		00:34:20		420		-->		00:34:22		020		Captain, this is... 
+		451		00:34:23		260		-->		00:34:24		830		This is a simulation of the expert who designed the engines, Leah Brahms. 
+		453		00:34:30		870		-->		00:34:32		170		We... 
+		454		00:34:32		330		-->		00:34:35		800		I've been examining the force- counterforce response times, trying to create linkage at maximum power. 
+		456		00:34:38		940		-->		00:34:40		440		And? 
+		457		00:34:40		610		-->		00:34:41		980		There's a... 
+		458		00:34:42		680		-->		00:34:47		550		There's a chance we could if we turn the ship over to the computer. 
+		459		00:34:52		050		-->		00:34:54		390		- What chance? - I don't know. 
+		460		00:34:54		560		-->		00:34:57		660		We could program it and try it out. 
+		461		00:34:58		060		-->		00:35:02		060		- And this is the only way? - I think so, sir. 
+		462		00:35:17		750		-->		00:35:19		080		Come. 
+		463		00:35:21		420		-->		00:35:23		420		Any word from La Forge? 
+		464		00:35:24		050		-->		00:35:27		360		He has something that may give us a chance, if we stay out of it. 
+		466		00:35:31		060		-->		00:35:34		860		He proposes to turn the ship over to the computer because it is capable of quicker adjustments than a human being. 
+		468		00:35:40		940		-->		00:35:44		670		Computers always impress me with their ability to take orders. 
+		469		00:35:44		840		-->		00:35:48		280		I'm not as convinced of their ability to give them. 
+		470		00:35:51		580		-->		00:35:55		420		You know, Number One, you missed something not playing with models. 
+		471		00:35:56		850		-->		00:35:59		720		They were the source of imaginary voyages, each holding a treasure of adventures. 
+		473		00:36:02		890		-->		00:36:04		760		Manning the earliest spacecraft, flying an aeroplane with only one propeller to keep you in the sky. 
+		475		00:36:10		600		-->		00:36:12		430		Can you imagine that? 
+		476		00:36:14		570		-->		00:36:16		810		Now the machines are flying us. 
+		477		00:36:22		980		-->		00:36:25		250		End simulation. Fatal exposure. 
+		478		00:36:26		580		-->		00:36:29		950		Computer, reduce thrust levels another four percent. 
+		479		00:36:32		490		-->		00:36:34		690		Adjust trajectory angle to compensate. 
+		480		00:36:36		120		-->		00:36:37		830		Begin simulation again. 
+		481		00:36:43		160		-->		00:36:47		600		- There you go, we got out. - Repeat simulation, same levels. 
+		482		00:36:54		210		-->		00:36:56		210		End simulation. Fatal exposure. 
+		483		00:36:56		380		-->		00:36:59		950		Same variables, only the computer didn't quite make it. 
+		484		00:37:01		880		-->		00:37:05		620		Deflector shield failure. Lethal radiation levels. 
+		485		00:37:05		790		-->		00:37:08		120		Fatal exposure in 26 minutes. 
+		486		00:37:22		540		-->		00:37:24		240		- It might work. - It might not. 
+		487		00:37:24		410		-->		00:37:26		370		I can't turn the ship over to a computer. 
+		488		00:37:26		540		-->		00:37:28		010		It's all we've got. 
+		489		00:37:28		180		-->		00:37:31		010		- Picard to La Forge. - Captain. 
+		490		00:37:31		580		-->		00:37:33		820		Two minutes. Give me just two minutes. 
+		491		00:37:34		350		-->		00:37:37		850		There is another way, Captain. Two minutes, please! 
+		492		00:37:40		520		-->		00:37:43		530		Two minutes, Mr La Forge. Picard out. 
+		493		00:37:43		890		-->		00:37:46		930		- Geordi, there's no other way. - Listen. 
+		494		00:37:47		800		-->		00:37:51		870		Turn it around. Come at it from the opposite direction. 
+		495		00:37:52		030		-->		00:37:54		470		God, it's so simple it might work. 
+		496		00:37:54		640		-->		00:37:57		740		OK. Computer, new simulation. 
+		497		00:38:02		410		-->		00:38:05		580		We've only tried overpowering the trap. 
+		498		00:38:05		750		-->		00:38:07		820		More energy, faster adjustments. 
+		499		00:38:07		950		-->		00:38:11		390		That's what we can't do because we're supposed to do that. 
+		500		00:38:11		550		-->		00:38:13		150		That's the booby trap. 
+		501		00:38:13		320		-->		00:38:16		460		The answer lies in our own computer. The mind. 
+		502		00:38:16		620		-->		00:38:18		560		The best piece of engineering ever. 
+		503		00:38:19		390		-->		00:38:23		300		Didn't your research indicate we need a thousand adjustments per second? 
+		504		00:38:23		470		-->		00:38:26		130		Not if we shut everything off. 
+		505		00:38:27		140		-->		00:38:30		670		One blast of everything for a microsecond to beat the inertia and then we shut down, except for life-support and two thrusters. 
+		507		00:38:36		410		-->		00:38:38		610		No impulse engines. No computer. 
+		508		00:38:39		010		-->		00:38:40		420		One propeller? 
+		509		00:38:40		580		-->		00:38:43		690		Deflector shield failure. Lethal radiation levels. 
+		510		00:38:44		290		-->		00:38:46		290		Fatal exposure in 12 minutes. 
+		511		00:38:47		490		-->		00:38:49		120		Have you analyzed the risk? 
+		512		00:38:49		620		-->		00:38:51		190		The numbers say even. 
+		513		00:38:51		360		-->		00:38:54		360		It's no better than the computer, but no worse. 
+		514		00:38:54		530		-->		00:38:59		670		Forget the numbers. The computer can't compensate for human intuition. 
+		515		00:38:59		830		-->		00:39:03		170		- Experience. - And the wish to stay alive. 
+		516		00:39:16		250		-->		00:39:17		590		Make it so. 
+		517		00:39:17		750		-->		00:39:20		820		I've run the simulations. I'll take the con. 
+		518		00:39:20		920		-->		00:39:24		360		Thank you, Mr La Forge. You've done your job. 
+		519		00:39:24		530		-->		00:39:25		890		I relieve you, Mr Crusher. 
+		520		00:39:29		660		-->		00:39:31		230		Yes, sir. 
+		521		00:39:36		710		-->		00:39:41		210		All hands, we are about to engage engines for a short burst. 
+		522		00:39:41		340		-->		00:39:43		280		Inertia dampeners are on manual. 
+		523		00:39:43		410		-->		00:39:46		880		They may not compensate for the acceleration. Brace yourselves. 
+		524		00:39:47		780		-->		00:39:49		580		Deflector shield failure. 
+		525		00:39:49		750		-->		00:39:51		290		Lethal radiation levels. 
+		526		00:39:51		450		-->		00:39:54		920		Computer. Discontinue radiation warning until further notice. 
+		527		00:39:56		390		-->		00:39:59		430		- It's all yours, sir. - Thank you. 
+		528		00:40:06		700		-->		00:40:08		700		Firing impulse engines. 
+		529		00:40:18		610		-->		00:40:20		080		Impulse engines down. 
+		530		00:40:20		920		-->		00:40:22		720		Shutting down all systems. 
+		531		00:40:31		090		-->		00:40:34		160		Velocity is 135 meters per second. 
+		532		00:40:36		800		-->		00:40:39		770		We enter the debris field in eight seconds. 
+		533		00:40:52		510		-->		00:40:54		050		Starboard thruster. 
+		534		00:40:57		550		-->		00:40:59		950		Coming to. Heading three-four-zero. 
+		535		00:41:00		060		-->		00:41:01		490		Mark one-zero. 
+		536		00:41:04		230		-->		00:41:05		860		Thruster is off. 
+		537		00:41:08		130		-->		00:41:11		170		Captain, that large mass may contain an assimilator. 
+		538		00:41:11		870		-->		00:41:13		570		Port thrusters firing. 
+		539		00:41:19		640		-->		00:41:21		380		No reaction from the assimilator. 
+		540		00:41:24		310		-->		00:41:25		910		Over the first hurdle. 
+		541		00:41:29		080		-->		00:41:30		850		Sir, object to port! 
+		542		00:41:33		220		-->		00:41:34		920		Port thruster is firing. 
+		543		00:41:36		160		-->		00:41:38		930		Sir, the gravity of the various masses has reduced our velocity by eight percent. 
+		545		00:41:42		400		-->		00:41:46		400		By my calculations, we can no longer clear the debris field. 
+		546		00:41:46		570		-->		00:41:48		170		Thank you, Mr Data. 
+		547		00:41:53		710		-->		00:41:56		280		The asteroid's gravitation is drawing us closer. 
+		548		00:41:56		440		-->		00:41:58		350		Velocity is increasing. 
+		549		00:42:08		290		-->		00:42:12		760		Velocity is still increasing. Now at 219 meters per second. 
+		550		00:42:19		770		-->		00:42:21		370		Starboard aft thruster. 
+		551		00:42:34		250		-->		00:42:37		020		You used the asteroid's gravitation as a slingshot. 
+		552		00:42:38		820		-->		00:42:40		020		Excellent! 
+		553		00:42:44		860		-->		00:42:46		800		We're out. We got through. 
+		554		00:42:47		300		-->		00:42:49		330		You have the con, Mr Crusher. 
+		555		00:42:50		830		-->		00:42:52		170		Yes, sir. 
+		556		00:42:52		330		-->		00:42:54		370		Full restart. All systems back on line. 
+		557		00:42:54		540		-->		00:42:57		010		- With pleasure, sir. - Number One. 
+		558		00:42:57		610		-->		00:43:00		610		Make sure that booby trap doesn't bother anyone again. 
+		559		00:43:00		780		-->		00:43:03		180		Mr Worf, ready photon torpedoes. 
+		560		00:43:03		350		-->		00:43:06		510		Set to detonate on impact with the Promellian vessel. 
+		561		00:43:06		680		-->		00:43:08		050		Aye, sir. 
+		562		00:43:14		490		-->		00:43:18		130		I've always thought technology could solve almost any problem. 
+		563		00:43:19		190		-->		00:43:21		660		It enhances the quality of our lives. 
+		564		00:43:22		660		-->		00:43:26		670		Lets us travel across the galaxy. Even gave me my vision. 
+		565		00:43:27		740		-->		00:43:31		310		But sometimes you just have to turn it all off. 
+		566		00:43:31		840		-->		00:43:33		710		Even the gypsy violins. 
+		567		00:43:34		910		-->		00:43:36		080		Violins? 
+		568		00:43:37		680		-->		00:43:39		050		Different program. 
+		569		00:43:45		350		-->		00:43:46		860		We made a good team. 
+		570		00:43:48		860		-->		00:43:50		490		Maybe we can again. 
+		571		00:43:53		660		-->		00:43:55		700		I'm with you every day, Geordi. 
+		572		00:43:56		770		-->		00:43:59		230		Every time you look at this engine. 
+		573		00:44:00		500		-->		00:44:03		000		Every time you touch it, it's me. 
+		574		00:44:23		430		-->		00:44:26		460		Computer, exit holodeck. 
+		575		00:44:28		060		-->		00:44:29		500		End program.

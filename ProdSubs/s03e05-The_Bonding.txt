@@ -1,0 +1,456 @@
+		1		00:00:12		170		-->		00:00:15		580		Commander, away team reporting in. Lt Worf standing by. 
+		2		00:00:16		240		-->		00:00:18		680		This is Riker. Go ahead, Lieutenant. 
+		3		00:00:18		780		-->		00:00:22		380		The archaeologists have identified these markings. 
+		4		00:00:22		550		-->		00:00:27		120		This planet was once home to a race known as the Koinonians. 
+		5		00:00:27		290		-->		00:00:29		260		What do we know, Data? 
+		6		00:00:29		420		-->		00:00:31		430		The Koinonians were a culture which became embroiled in a war that lasted generations. 
+		8		00:00:35		000		-->		00:00:37		670		Our evidence indicates they destroyed themselves. 
+		9		00:00:37		830		-->		00:00:39		800		We have completed our survey and will proceed to the chamber. 
+		11		00:00:42		500		-->		00:00:44		340		Affirmative. Enterprise out. 
+		12		00:00:45		510		-->		00:00:47		740		Destroyed themselves, Data? 
+		13		00:00:47		910		-->		00:00:49		480		According to records, this will be the first opportunity... 
+		15		00:00:52		010		-->		00:00:54		580		Captain... Beam them up quickly! 
+		16		00:00:55		120		-->		00:00:59		120		Captain. Emergency beam-up. Enterprise. Severe injuries. 
+		17		00:00:59		290		-->		00:01:02		620		Transporter room. Beam them straight to sickbay! 
+		18		00:01:02		790		-->		00:01:04		590		Dr Crusher, incoming wounded! 
+		19		00:01:16		070		-->		00:01:18		470		Away team is on board, Captain. 
+		20		00:01:23		580		-->		00:01:25		550		One dead on arrival. 
+		21		00:01:53		710		-->		00:01:56		540		Space, the final frontier. 
+		22		00:01:58		210		-->		00:02:01		250		These are the voyages of the Starship Enterprise. 
+		23		00:02:02		280		-->		00:02:06		550		Its continuing mission, to explore strange new worlds... 
+		24		00:02:07		890		-->		00:02:11		430		...to seek out new life and new civilisations... 
+		25		00:02:12		330		-->		00:02:16		160		...to boldly go where no one has gone before. 
+		26		00:03:15		520		-->		00:03:19		360		Captain's log, stardate <stardate>43198</stardate>.7. The Enterprise remains in orbit while we investigate the tragedy which has struck the away team. 
+		28		00:03:25		870		-->		00:03:28		240		Lt Marla Aster, ship's archaeologist, has been killed on a routine mission. 
+		30		00:03:31		940		-->		00:03:33		640		Whatever the explanation, it will not bring back a valued officer. 
+		32		00:03:39		750		-->		00:03:42		320		Lieutenant? 
+		33		00:03:43		650		-->		00:03:47		290		We had completed our investigation of the third tunnel. 
+		34		00:03:47		460		-->		00:03:51		860		Our scans indicated no weapons or traps of any kind. 
+		35		00:03:52		030		-->		00:03:55		330		Lt Aster was three meters behind me. 
+		36		00:03:56		330		-->		00:03:58		200		An explosive device went off. 
+		37		00:04:01		040		-->		00:04:02		870		There was no warning. 
+		38		00:04:04		010		-->		00:04:07		510		Lt Aster bore the full brunt of the detonation. 
+		39		00:04:16		150		-->		00:04:19		850		Lt Aster is survived by a son, Jeremy. 
+		40		00:04:20		760		-->		00:04:22		390		12 years old. 
+		41		00:04:23		190		-->		00:04:25		030		He's aboard the Enterprise, sir. 
+		42		00:04:25		860		-->		00:04:28		730		- And his father? - He's also deceased. 
+		43		00:04:29		700		-->		00:04:33		770		His only living relatives are an aunt and uncle on Earth. 
+		44		00:04:40		210		-->		00:04:45		250		- Where is he now? - In class. The teacher expects us. 
+		45		00:04:48		780		-->		00:04:49		950		Captain. 
+		46		00:04:51		820		-->		00:04:55		260		I must accompany you. I commanded the away team. 
+		47		00:04:55		420		-->		00:04:59		490		I appreciate your offer, Lieutenant. This is my responsibility. 
+		48		00:05:07		340		-->		00:05:12		310		Picard to bridge. La Forge will lead another away team. 
+		49		00:05:12		470		-->		00:05:14		840		- I want to know what happened. - Yes, Captain. 
+		50		00:05:14		980		-->		00:05:18		810		I will be with Counselor Troi and young Jeremy Aster. 
+		51		00:05:18		980		-->		00:05:21		380		I understand. Riker out. 
+		52		00:05:32		830		-->		00:05:37		830		- He had to do this for me. - Do you know Jeremy well? 
+		53		00:05:39		070		-->		00:05:41		640		But I know what this will be like for him. 
+		54		00:05:42		340		-->		00:05:44		540		That's part of life in Starfleet. 
+		55		00:05:45		540		-->		00:05:50		110		I know. They prepare us for anything, but still... 
+		56		00:05:50		280		-->		00:05:52		010		I know. 
+		57		00:05:54		580		-->		00:05:57		720		How do you get used to it? Telling them. 
+		58		00:05:59		920		-->		00:06:01		390		You hope you never do. 
+		59		00:06:36		660		-->		00:06:40		800		I sense the weight of this duty on you, Captain. 
+		60		00:06:44		270		-->		00:06:46		000		I really wonder... 
+		61		00:06:48		770		-->		00:06:50		270		Halt. 
+		62		00:06:57		150		-->		00:07:01		180		I've always believed that carrying children on a starship... 
+		63		00:07:02		720		-->		00:07:05		420		...is a very questionable policy. 
+		64		00:07:08		720		-->		00:07:12		360		Serving on a starship means accepting certain risks... 
+		65		00:07:13		730		-->		00:07:15		230		...certain dangers. 
+		66		00:07:18		000		-->		00:07:20		500		Did Jeremy Aster make that choice? 
+		67		00:07:21		900		-->		00:07:25		540		Death and loss are an integral part of life everywhere. 
+		68		00:07:26		440		-->		00:07:29		340		Leaving him on Earth would not protect him. 
+		69		00:07:29		510		-->		00:07:33		720		But the Earth won't be ordered to the Neutral Zone. 
+		70		00:07:35		080		-->		00:07:37		920		My command sent his mother to her death. 
+		71		00:07:38		090		-->		00:07:40		790		She understood her mission and my duty. 
+		72		00:07:43		460		-->		00:07:44		890		Will he? 
+		73		00:07:45		060		-->		00:07:48		060		In time... and with help. 
+		74		00:07:50		470		-->		00:07:52		130		Wesley Crusher does. 
+		75		00:07:54		970		-->		00:07:56		400		He does. 
+		76		00:07:57		070		-->		00:07:59		070		And so will Jeremy. 
+		77		00:08:05		110		-->		00:08:06		780		Resume. 
+		78		00:08:17		330		-->		00:08:22		130		Jeremy, I have some bad news. There has been an accident. 
+		79		00:08:25		500		-->		00:08:28		200		Your mother... has died. 
+		80		00:08:37		080		-->		00:08:38		650		How, sir? 
+		81		00:08:38		810		-->		00:08:41		780		An explosive device at the mission site. 
+		82		00:08:42		880		-->		00:08:44		720		She died instantly. 
+		83		00:08:45		350		-->		00:08:47		120		I understand. 
+		84		00:08:48		290		-->		00:08:52		430		Jeremy, I know your mother loved you very much. 
+		85		00:08:56		600		-->		00:09:00		700		I am told... that your father is also dead. 
+		86		00:09:01		270		-->		00:09:03		200		Yes, sir. 
+		87		00:09:03		370		-->		00:09:06		880		He died five years ago from a Rushton infection. 
+		88		00:09:11		910		-->		00:09:13		920		I'm all alone now, sir. 
+		89		00:09:16		580		-->		00:09:21		590		Jeremy, on the Starship Enterprise, no one is alone. 
+		90		00:09:25		030		-->		00:09:26		760		No one. 
+		91		00:09:42		610		-->		00:09:45		280		Excuse me, sir. Am I intruding? 
+		92		00:09:46		610		-->		00:09:48		350		No, sit down. 
+		93		00:09:53		690		-->		00:09:56		160		How well did you know Lt Aster? 
+		94		00:09:57		890		-->		00:09:59		660		We spent some time together. 
+		95		00:10:02		030		-->		00:10:04		000		Not very well. 
+		96		00:10:06		530		-->		00:10:08		870		- How well did you know her? - Why do you ask? 
+		97		00:10:09		000		-->		00:10:13		540		- Well, you asked me. - But why ask the question? 
+		98		00:10:14		440		-->		00:10:17		610		Since her death, I have been asked several times how well I knew Lt Aster. 
+		100		00:10:20		450		-->		00:10:24		590		And I heard you ask Wesley how well he knew Jeremy. 
+		101		00:10:25		620		-->		00:10:27		920		Does the question of familiarity have some bearing on death? 
+		103		00:10:33		260		-->		00:10:35		630		Do you remember when Tasha died? 
+		104		00:10:38		900		-->		00:10:42		500		I do not sense the same feelings of absence as with Lt Yar. 
+		106		00:10:44		610		-->		00:10:46		910		Although I cannot say precisely why. 
+		107		00:10:47		840		-->		00:10:50		680		- Just human nature. - Human nature, sir? 
+		108		00:10:51		310		-->		00:10:55		150		We feel a loss more intensely when it's a friend. 
+		109		00:10:56		690		-->		00:10:59		620		But should not the feelings run as deep, regardless of who has died? 
+		111		00:11:04		660		-->		00:11:06		060		Maybe they should. 
+		112		00:11:06		230		-->		00:11:11		030		Maybe if we felt any loss as keenly as for one close to us, human history would be less bloody. 
+		114		00:11:15		340		-->		00:11:18		510		- La Forge to Riker. - You're back. 
+		115		00:11:18		670		-->		00:11:21		340		Yes, sir. We've brought back a souvenir. 
+		116		00:11:24		010		-->		00:11:28		480		There are five more, all identical to the one that killed Lt Aster. 
+		117		00:11:29		020		-->		00:11:31		420		They employ a subspace proximity detonator. 
+		118		00:11:31		590		-->		00:11:33		760		A tricorder would never detect it. 
+		119		00:11:33		920		-->		00:11:36		690		How long would they have been there? 
+		120		00:11:36		860		-->		00:11:39		860		It comes from the time of the Koinonian Wars, sir. 
+		121		00:11:40		030		-->		00:11:43		530		- Did you find them all, Geordi? - Yeah, but... 
+		122		00:11:44		370		-->		00:11:47		940		Well, it seemed like they were left to be found. 
+		123		00:11:48		100		-->		00:11:51		570		Left by whom? There are no indications of life. 
+		124		00:11:51		740		-->		00:11:53		640		I don't know, Captain. 
+		125		00:11:53		810		-->		00:11:57		650		But they were recently pulled out of the ground and defused. 
+		126		00:12:01		250		-->		00:12:03		320		I have made my report. 
+		127		00:12:04		490		-->		00:12:08		620		I'm more interested in how you feel about what happened. 
+		128		00:12:10		460		-->		00:12:12		460		I sense great anger. 
+		129		00:12:14		360		-->		00:12:17		030		I cannot seek revenge against an enemy who's turned to dust centuries ago. 
+		131		00:12:20		870		-->		00:12:23		100		Her death was senseless! 
+		132		00:12:23		670		-->		00:12:26		340		The last victim of a forgotten war! 
+		133		00:12:30		050		-->		00:12:31		710		Go on. 
+		134		00:12:33		450		-->		00:12:35		480		There's nothing more to be said. 
+		135		00:12:39		790		-->		00:12:43		860		A person died under your command. It may happen again. 
+		136		00:12:44		030		-->		00:12:48		600		If you can't learn to release the anger and guilt, to talk... 
+		137		00:12:48		760		-->		00:12:50		570		A leader must stand alone. 
+		138		00:12:51		370		-->		00:12:55		270		- As Capt Picard does. - Capt Picard talks to me. 
+		139		00:13:04		250		-->		00:13:05		580		Then... may I seek counsel on my plan to make R'uustai with the boy? 
+		141		00:13:11		290		-->		00:13:14		520		- The Bonding? - It is my right. 
+		142		00:13:15		790		-->		00:13:20		660		It's very generous, Worf, but... he's not a Klingon child. 
+		143		00:13:20		830		-->		00:13:23		100		He has different sensibilities. 
+		144		00:13:23		260		-->		00:13:27		740		He is an orphan. I am an orphan. He will understand. 
+		145		00:13:28		970		-->		00:13:32		170		Right now there isn't much he can understand. 
+		146		00:13:33		140		-->		00:13:35		610		He is holding all his feelings inside. 
+		147		00:13:37		910		-->		00:13:43		520		Children often feel they must be true to the memory of a lost parent. 
+		148		00:13:43		750		-->		00:13:45		820		If you offer affection too soon, they can feel guilty returning that affection,  as if they're betraying the love of the parent. 
+		151		00:13:52		860		-->		00:13:55		360		I only wish to honor his mother. 
+		152		00:13:55		560		-->		00:14:00		400		I know and I understand this means a great deal to you. 
+		153		00:14:02		140		-->		00:14:04		210		But you must be prepared. 
+		154		00:14:05		370		-->		00:14:10		080		He's very angry, too, but his anger is deep inside him. 
+		155		00:14:10		250		-->		00:14:13		310		When he touches it, it will strike out in many directions, including yours. 
+		157		00:14:16		150		-->		00:14:18		350		Be with him. 
+		158		00:14:18		520		-->		00:14:21		390		Talk to him, but don't rush this. 
+		159		00:14:23		090		-->		00:14:25		090		When he's ready, we'll know. 
+		160		00:14:35		140		-->		00:14:39		940		Capt Patches, an alien ship! What shall we do? 
+		161		00:14:40		110		-->		00:14:42		240		Oh, no! We've been hit! We're going down. 
+		162		00:14:43		950		-->		00:14:47		250		That was great! Get a shot of Mom. 
+		163		00:14:47		420		-->		00:14:51		220		What are you doing? I'll turn your lens to shards! 
+		164		00:14:51		390		-->		00:14:54		820		Go away! Go away! Over there! 
+		165		00:14:58		660		-->		00:15:00		000		Patches! 
+		166		00:15:01		300		-->		00:15:04		330		Capt Patches is landing on the sofa! 
+		167		00:15:04		500		-->		00:15:06		630		Oh, no! He's gonna crash! 
+		168		00:15:19		010		-->		00:15:23		850		Jeremy Aster? I'm Lt Worf. May I enter? 
+		169		00:15:25		820		-->		00:15:27		790		You were in command. 
+		170		00:15:29		320		-->		00:15:31		630		Yes. I was with Lt Aster... 
+		171		00:15:32		890		-->		00:15:34		900		...your mother, when she died. 
+		172		00:15:38		070		-->		00:15:41		740		- You're a Klingon, aren't you? - Yes. 
+		173		00:15:44		770		-->		00:15:47		040		We studied about Klingons in school. 
+		174		00:15:49		180		-->		00:15:54		250		- What did they teach you? - You used to be our enemies. 
+		175		00:15:54		780		-->		00:15:59		950		Did they teach you that we hope to die in the line of duty? 
+		176		00:16:05		130		-->		00:16:10		100		In my tradition, we do not grieve the loss of the body. 
+		177		00:16:11		270		-->		00:16:14		940		We celebrate the releasing of the spirit. 
+		178		00:16:15		470		-->		00:16:18		640		I understand death. They teach us all about it. 
+		179		00:16:19		470		-->		00:16:21		910		Jeremy Aster, we both understand. But we must bring meaning into your mother's death. 
+		181		00:16:32		820		-->		00:16:35		590		Perhaps we can do it together. 
+		182		00:16:44		200		-->		00:16:45		330		Come. 
+		183		00:16:47		640		-->		00:16:49		840		Counselor, how's the boy? 
+		184		00:16:50		010		-->		00:16:52		570		- He's being very brave. - Good. 
+		185		00:16:53		070		-->		00:16:56		240		No, he has to get past brave. 
+		186		00:16:56		410		-->		00:17:00		180		He's very angry and he has to express that anger before he can say goodbye to his mother. 
+		188		00:17:05		150		-->		00:17:07		020		How can we help? 
+		189		00:17:07		190		-->		00:17:10		090		Well, I've asked Beverly to get Wesley to talk to Jeremy about his father's death. 
+		191		00:17:14		400		-->		00:17:17		570		The one unusual element is Worf. 
+		192		00:17:19		270		-->		00:17:22		640		In many ways, he is suffering as badly as the boy. 
+		193		00:17:22		800		-->		00:17:25		940		He wishes to involve Jeremy in a Klingon ceremony called R'uustai, the Bonding. 
+		195		00:17:30		550		-->		00:17:33		920		I know of that. Perhaps it would help them. 
+		196		00:17:34		420		-->		00:17:38		790		I don't think Jeremy's ready for Worf now. Perhaps later. 
+		197		00:17:38		950		-->		00:17:41		560		It will have to be handled delicately. 
+		198		00:17:41		720		-->		00:17:46		900		As you always do. I break the unpleasant news and there my responsibility ends. But you... 
+		200		00:17:50		900		-->		00:17:54		740		You have to stay with them through the grieving process. 
+		201		00:17:55		770		-->		00:17:59		640		We deal with our pain in many different ways. 
+		202		00:18:00		540		-->		00:18:03		350		Over the years, I've discovered it's in joy that the uniqueness of each individual is revealed. 
+		204		00:18:07		280		-->		00:18:10		690		If I can help a person back to joy... 
+		205		00:18:11		490		-->		00:18:14		290		...well, my role has its rewards. 
+		206		00:18:15		160		-->		00:18:18		360		Captain, we're picking up energy on the planet's surface. 
+		207		00:18:25		300		-->		00:18:26		870		Location? 
+		208		00:18:27		640		-->		00:18:31		510		Two kilometers north of the away team's beam-down point. 
+		209		00:18:32		570		-->		00:18:34		110		Full scan. 
+		210		00:18:36		280		-->		00:18:38		080		- Inconclusive, Captain. - Sir, 
+		211		00:18:38		250		-->		00:18:41		750		I'm sensing a presence on the planet. 
+		212		00:18:41		920		-->		00:18:43		720		- Very vague. - Life form? 
+		213		00:18:43		850		-->		00:18:48		120		I can't be sure. The emotions of the crew are so strong now, it's difficult to filter them out. 
+		215		00:18:51		290		-->		00:18:53		560		Data, scan analysis on main viewer. 
+		216		00:19:04		070		-->		00:19:05		240		Hi. 
+		217		00:19:06		440		-->		00:19:07		510		Hi. 
+		218		00:19:09		180		-->		00:19:10		780		Troi stopped by. 
+		219		00:19:10		950		-->		00:19:14		250		She was wondering if you'd talk to Jeremy Aster. 
+		220		00:19:16		750		-->		00:19:17		690		Me? 
+		221		00:19:21		260		-->		00:19:23		930		- What for? - About your dad. 
+		222		00:19:26		930		-->		00:19:28		460		What will I tell him? 
+		223		00:19:28		630		-->		00:19:32		530		It would help to talk to someone who's been through this. 
+		224		00:19:34		840		-->		00:19:39		170		We had each other. He doesn't have anyone right now. 
+		225		00:19:39		670		-->		00:19:44		250		He might be more comfortable with someone who's not so much older. 
+		226		00:19:44		380		-->		00:19:47		150		OK, I'll think about it. 
+		227		00:19:48		980		-->		00:19:50		150		OK. 
+		228		00:20:08		740		-->		00:20:12		570		- Do you think about him, Mom? - Your father? 
+		229		00:20:15		280		-->		00:20:16		780		Sure I do. 
+		230		00:20:17		610		-->		00:20:19		210		Sometimes... 
+		231		00:20:19		810		-->		00:20:24		890		...I can't even remember what his face looks like. It scares me. 
+		232		00:20:28		620		-->		00:20:31		390		It happens to all of us, Wes. 
+		233		00:20:33		160		-->		00:20:34		930		Sometimes... 
+		234		00:20:35		600		-->		00:20:38		930		...I can't get his face out of my mind. 
+		235		00:20:40		640		-->		00:20:42		000		Today... 
+		236		00:20:42		170		-->		00:20:44		140		Today it's like 
+		237		00:20:44		310		-->		00:20:47		840		I can see it all as if it were yesterday. 
+		238		00:20:49		340		-->		00:20:53		980		I can remember the way Dad looked when he hugged me goodbye, 
+		239		00:20:54		150		-->		00:20:57		550		Capt Picard's eyes when he came to tell us... 
+		240		00:21:05		290		-->		00:21:07		530		Data, run comparison of known phenomena. 
+		241		00:21:09		200		-->		00:21:12		070		The pattern has no match in Federation records. 
+		242		00:21:12		230		-->		00:21:15		040		- Is it alive? - A possibility. 
+		243		00:21:15		170		-->		00:21:16		810		Captain. 
+		244		00:21:16		970		-->		00:21:21		010		I'm getting an unusual magnetic-flux reading from the pods. 
+		245		00:21:22		340		-->		00:21:23		980		My God... 
+		246		00:21:24		150		-->		00:21:25		750		Wait a minute. 
+		247		00:21:25		910		-->		00:21:28		950		You've got ten seconds more, Mom. No peeking. 
+		248		00:21:29		750		-->		00:21:34		590		Come on, Patches, in here. OK, Mom, we're ready! 
+		249		00:21:34		760		-->		00:21:37		960		Jeremy? I'm getting closer! 
+		250		00:21:39		130		-->		00:21:42		600		Jeremy? I'm gonna find you! 
+		251		00:21:43		300		-->		00:21:45		370		You must be in here somewhere. 
+		252		00:21:50		410		-->		00:21:51		710		Mom?! 
+		253		00:22:01		580		-->		00:22:03		790		All systems are functioning normally. 
+		254		00:22:03		950		-->		00:22:07		420		Still, there's this fluctuation in the containment field. 
+		255		00:22:07		590		-->		00:22:12		030		- Can't account for it. - Is this related to the planet? 
+		256		00:22:12		190		-->		00:22:15		430		There is a beam of particles emanating from it. 
+		257		00:22:15		930		-->		00:22:18		170		But I cannot pinpoint the location. 
+		258		00:22:18		330		-->		00:22:21		870		Captain, there's a presence on the Enterprise. 
+		259		00:22:23		770		-->		00:22:27		180		- An alien presence? - No intruder on the sensors. 
+		260		00:22:28		140		-->		00:22:30		010		There is a presence. 
+		261		00:22:32		850		-->		00:22:36		050		Security, all decks yellow alert. Possible intruder. 
+		262		00:22:49		200		-->		00:22:53		200		- They said you were dead. - There was a mistake. 
+		263		00:22:54		100		-->		00:22:55		500		It's OK. 
+		264		00:23:01		540		-->		00:23:04		410		But there was an explosion. You were hurt. 
+		265		00:23:05		010		-->		00:23:07		020		I'm fine. 
+		266		00:23:08		080		-->		00:23:10		550		You mustn't think any more about this. 
+		267		00:23:10		720		-->		00:23:14		420		The important thing is I'll never leave you again. 
+		268		00:23:19		160		-->		00:23:21		430		I think somebody needs a hug. 
+		269		00:23:42		480		-->		00:23:44		190		We have to go now. 
+		270		00:23:45		320		-->		00:23:47		990		- Where? - To the planet. 
+		271		00:23:51		060		-->		00:23:55		860		- That's where we're going to live. - Not on the Enterprise? 
+		272		00:23:56		030		-->		00:23:57		670		No. 
+		273		00:23:57		830		-->		00:24:01		670		We're gonna live in a home, just like on Earth. 
+		274		00:24:03		570		-->		00:24:07		980		You'll see. I promise. 
+		275		00:24:17		650		-->		00:24:19		190		Lt Worf! 
+		276		00:24:19		350		-->		00:24:22		520		It was a mistake. She didn't die. She's alive! 
+		277		00:24:22		690		-->		00:24:25		260		- Jeremy, come here! - Lt Worf. 
+		278		00:24:25		430		-->		00:24:28		400		It's alright. I'm here for the boy. 
+		279		00:24:30		570		-->		00:24:33		700		- Lt Worf to Capt Picard. - Go ahead. 
+		280		00:24:33		870		-->		00:24:36		600		Lt Aster is in her quarters. 
+		281		00:24:38		110		-->		00:24:41		080		- Repeat, Worf. - Lt Aster is here. 
+		282		00:24:42		240		-->		00:24:44		280		In her quarters with the boy. 
+		283		00:24:44		450		-->		00:24:48		650		Do not provoke her or interfere in any way. Picard out. 
+		284		00:24:50		450		-->		00:24:52		620		Number One, have Security move in that way but tell them to keep their distance. 
+		286		00:24:55		620		-->		00:24:57		330		You have the bridge. 
+		287		00:24:58		260		-->		00:24:59		830		Counselor. 
+		288		00:25:04		200		-->		00:25:09		170		Don't worry. I'm going to take care of Jeremy, make him happy. 
+		289		00:25:10		370		-->		00:25:13		310		- It's time to go. - Where are you taking the child? 
+		290		00:25:13		480		-->		00:25:16		810		- To the planet. - Come, Jeremy. 
+		291		00:25:25		720		-->		00:25:28		420		Worf to Picard. They're leaving their quarters. 
+		292		00:25:30		690		-->		00:25:33		730		Captain, we're headed for transporter room three. 
+		293		00:25:34		600		-->		00:25:36		400		We're on our way. 
+		294		00:25:42		070		-->		00:25:45		740		Chief O'Brien, Jeremy and I are going to the surface. 
+		295		00:25:55		920		-->		00:25:59		350		- Who are you? - I'm Marla Aster. 
+		296		00:25:59		790		-->		00:26:03		830		- It's my mother. She's alive. - What do you want? 
+		297		00:26:04		330		-->		00:26:09		330		- To take my child to the planet. - I cannot permit that. 
+		298		00:26:09		500		-->		00:26:12		270		I'm here to care for him. 
+		299		00:26:12		430		-->		00:26:15		740		He needs me. Why do you resist? 
+		300		00:26:15		900		-->		00:26:19		910		Because I don't know who or what you are. 
+		301		00:26:20		510		-->		00:26:22		280		Can't you see, Captain? 
+		302		00:26:22		780		-->		00:26:25		980		She appears to be your mother but she is not. 
+		303		00:26:28		680		-->		00:26:30		750		- What? - You're confusing him. 
+		304		00:26:31		320		-->		00:26:33		290		Hey! Wait! Stop! No! 
+		305		00:26:33		860		-->		00:26:36		290		No! Stop! Mom! 
+		306		00:26:37		160		-->		00:26:43		870		Mom? Wait a minute. Let go of me. She was right there. 
+		307		00:26:49		140		-->		00:26:54		240		- What did you do to her? - That was not your mother. 
+		308		00:26:54		980		-->		00:26:57		210		You saw her. She was here. 
+		309		00:26:58		180		-->		00:26:59		750		Your mother's dead. 
+		310		00:27:01		420		-->		00:27:04		090		But I touched her. She was real. 
+		311		00:27:05		420		-->		00:27:10		830		Why would your real mother take you to a planet of dust and rocks? 
+		312		00:27:28		140		-->		00:27:32		450		It's my house. It's my house on Earth. 
+		313		00:27:33		280		-->		00:27:37		050		Exactly the way it was. Remember, Jeremy? 
+		314		00:27:38		120		-->		00:27:42		660		- How did you do it? - Does it matter? 
+		315		00:27:42		820		-->		00:27:45		160		Yes, it matters. 
+		316		00:27:48		960		-->		00:27:52		030		I am trying to understand your resistance. 
+		317		00:27:52		870		-->		00:27:56		300		You spoke of rocks and dust on the planet. 
+		318		00:27:56		470		-->		00:27:59		310		I decided to show you what awaits us. 
+		319		00:27:59		770		-->		00:28:02		340		Why would you create this fantasy? 
+		320		00:28:04		180		-->		00:28:05		780		It's his home. 
+		321		00:28:07		120		-->		00:28:09		450		It makes you happy, doesn't it? 
+		322		00:28:09		620		-->		00:28:11		820		But it's not real. 
+		323		00:28:11		990		-->		00:28:13		520		Isn't it? 
+		324		00:28:14		720		-->		00:28:17		960		Jeremy, isn't that really Patches? 
+		325		00:28:30		110		-->		00:28:33		170		He knows me. It's him. 
+		326		00:28:35		940		-->		00:28:39		780		- It's real. It's all real. - No, it's not. 
+		327		00:28:40		680		-->		00:28:43		750		Could your real mother just make this appear? 
+		328		00:28:45		220		-->		00:28:49		020		You must not stay here. Come with me. 
+		329		00:29:01		800		-->		00:29:03		270		I can't. 
+		330		00:29:08		410		-->		00:29:10		150		Is the boy in danger? 
+		331		00:29:10		310		-->		00:29:14		520		I don't think so. She seems to want to help him. 
+		332		00:29:14		680		-->		00:29:16		420		By easing his pain. 
+		333		00:29:16		580		-->		00:29:19		420		She's very confused by our resistance, Captain. 
+		334		00:29:20		420		-->		00:29:23		960		Troi, would it be wise to remove Jeremy from his cabin? 
+		335		00:29:24		790		-->		00:29:28		630		He doesn't want to leave. I would not recommend using force. 
+		336		00:29:28		800		-->		00:29:32		730		She offers him everything. All we offer is his mother's death. 
+		337		00:29:32		900		-->		00:29:34		470		What would you choose? 
+		338		00:29:34		640		-->		00:29:38		570		If somebody offered to give you back your mother, father, husband, would any of us say no so easily? 
+		340		00:29:41		340		-->		00:29:44		080		Counselor, stay with them in Jeremy's quarters. 
+		341		00:29:44		580		-->		00:29:47		250		We'll try to end this from here. 
+		342		00:29:47		380		-->		00:29:48		680		Understood. 
+		343		00:29:51		490		-->		00:29:55		360		Data, can you determine that the energy source is powering this creation? 
+		345		00:29:58		660		-->		00:30:01		830		The beam from the planet is tapping into us. 
+		346		00:30:02		000		-->		00:30:04		530		I'd say they're running her off our energy. 
+		347		00:30:04		700		-->		00:30:07		040		So there are limits to her power. 
+		348		00:30:07		200		-->		00:30:09		970		She needs the transporter to get him back. 
+		349		00:30:10		140		-->		00:30:12		610		How do we cut the puppet's strings? 
+		350		00:30:12		770		-->		00:30:15		910		Match the shield's harmonics to our containment fields. 
+		351		00:30:16		080		-->		00:30:17		650		That should sever the beam. 
+		352		00:30:17		910		-->		00:30:20		420		- Proceed. - Deanna, stand by. 
+		353		00:30:20		980		-->		00:30:22		550		Standing by. 
+		354		00:30:25		220		-->		00:30:29		660		Jeremy, it's time for this to end. 
+		355		00:30:31		130		-->		00:30:34		000		It's not real, and it's over now. 
+		356		00:30:35		100		-->		00:30:38		330		Jeremy, I'm not going to leave you ever again. 
+		357		00:30:38		830		-->		00:30:41		540		I won't trick you or lie. 
+		358		00:30:42		940		-->		00:30:45		040		We'll be happy together... 
+		359		00:30:49		640		-->		00:30:50		680		No... 
+		360		00:31:12		330		-->		00:31:14		470		Antimatter pods reading nominal. 
+		361		00:31:14		970		-->		00:31:17		440		The shield has severed the beam, sir. 
+		362		00:31:20		340		-->		00:31:21		580		Captain. 
+		363		00:31:22		010		-->		00:31:23		410		The energy field... 
+		364		00:31:28		080		-->		00:31:30		420		Mr Crusher, take us out. 
+		365		00:31:42		730		-->		00:31:45		630		Alien intruder, transporter room three! Security alert! 
+		366		00:31:47		970		-->		00:31:52		310		- Security to transporter room three! - Cmdr La Forge, Mr Worf, with me. 
+		367		00:31:52		470		-->		00:31:54		110		Number One, you have the bridge. 
+		368		00:32:20		140		-->		00:32:22		370		Come, Jeremy. 
+		369		00:32:22		540		-->		00:32:25		840		We will not let them separate us again. 
+		370		00:32:26		410		-->		00:32:28		080		We're going home. 
+		371		00:32:40		690		-->		00:32:44		430		Captain, she's trying to take Jeremy off the ship. 
+		372		00:32:44		590		-->		00:32:46		160		Acknowledged. 
+		373		00:32:46		330		-->		00:32:49		360		Engineering, La Forge. Shut down power to transporters. 
+		374		00:32:49		530		-->		00:32:53		000		- I'm on my way. - Aye-aye, sir. 
+		375		00:32:53		170		-->		00:32:55		600		Lt Worf, to transporter room three. 
+		376		00:32:58		540		-->		00:33:01		910		Bridge, seal off deck eight, corridors A and B. 
+		377		00:33:02		540		-->		00:33:04		250		Engaging force fields, Captain. 
+		378		00:33:04		410		-->		00:33:05		980		Transporters down. 
+		379		00:33:22		060		-->		00:33:25		470		Energy force has left transporter room three. Security alert! 
+		380		00:33:26		670		-->		00:33:29		640		La Forge, it may try to reinstate transporters. 
+		381		00:33:29		800		-->		00:33:31		170		Understood. 
+		382		00:33:57		730		-->		00:34:01		500		Bridge, release security force field 8B. 
+		383		00:34:06		570		-->		00:34:08		180		Hello, Jeremy. 
+		384		00:34:10		910		-->		00:34:13		580		How are you? Are you frightened? 
+		385		00:34:14		580		-->		00:34:15		550		No. 
+		386		00:34:18		050		-->		00:34:21		060		- Well, a little, sir. - Of course. 
+		387		00:34:21		920		-->		00:34:24		760		These are frightening things that are happening. 
+		388		00:34:24		930		-->		00:34:27		360		But we won't let anyone harm you. 
+		389		00:34:28		400		-->		00:34:30		900		Counselor, take the boy to my quarters. 
+		390		00:34:31		730		-->		00:34:32		800		No! 
+		391		00:34:45		510		-->		00:34:48		980		It's looking over everything, Commander, going to school. 
+		392		00:34:52		250		-->		00:34:54		690		Let's hope it doesn't blow us up while figuring out how to blow us up. 
+		394		00:35:04		870		-->		00:35:06		970		Power's back in transporter room three. 
+		395		00:35:07		470		-->		00:35:11		010		Bypassing the manual override, shutting it down. 
+		396		00:35:12		840		-->		00:35:14		440		Transporter is down again. 
+		397		00:35:14		610		-->		00:35:17		780		- Keep it down. - Understood, Commander. 
+		398		00:35:24		690		-->		00:35:29		760		It is only a matter of time before we can power the transporters. 
+		399		00:35:30		330		-->		00:35:33		230		We? For whom else do you speak? 
+		400		00:35:40		240		-->		00:35:42		600		The accident on the surface was caused by a remnant of an ancient and tragic era. 
+		402		00:35:47		710		-->		00:35:50		380		Two species once shared this world. 
+		403		00:35:51		210		-->		00:35:54		450		One of energy and one of matter. 
+		404		00:35:55		920		-->		00:35:58		450		The physical beings you call Koinonians destroyed themselves in unending, bitter wars. 
+		406		00:36:02		590		-->		00:36:04		460		The surviving life forms will not tolerate any further suffering  as a result of that dishonorable past. 
+		409		00:36:10		800		-->		00:36:13		970		So... they have made this possible. 
+		410		00:36:14		600		-->		00:36:16		600		They have made me possible. 
+		411		00:36:17		470		-->		00:36:19		470		I appreciate your motives. 
+		412		00:36:21		140		-->		00:36:24		150		But... his mother is dead. 
+		413		00:36:24		980		-->		00:36:28		880		- He must live with that. - I will be every bit his mother! 
+		414		00:36:29		050		-->		00:36:30		790		But not his mother! 
+		415		00:36:37		130		-->		00:36:40		530		- Picard to Lt Worf. - Go ahead, Captain. 
+		416		00:36:41		330		-->		00:36:45		070		Will you escort Ensign Crusher to the Aster quarters? 
+		417		00:36:45		230		-->		00:36:47		200		- Yes, sir. - Picard out. 
+		418		00:36:47		370		-->		00:36:49		670		Your philosophy is curious, Captain. 
+		419		00:36:50		710		-->		00:36:53		210		What is so noble about sorrow? 
+		420		00:36:53		740		-->		00:36:58		810		I can provide him an existence where he will feel no anguish. 
+		421		00:37:00		420		-->		00:37:05		450		It is at the heart of our nature to feel pain... and joy. 
+		422		00:37:06		250		-->		00:37:11		090		It is an essential part of what makes us what we are. 
+		423		00:37:12		860		-->		00:37:16		700		He is alone now in your world. A child! 
+		424		00:37:17		530		-->		00:37:18		900		Alone. 
+		425		00:37:19		870		-->		00:37:22		940		How can you know he won't be happier with me? 
+		426		00:37:23		070		-->		00:37:26		610		For a brief moment in time, he surely would be. 
+		427		00:37:27		480		-->		00:37:29		610		Any of us in his place would be. 
+		428		00:37:31		150		-->		00:37:33		550		What would Jeremy do for friends? 
+		429		00:37:34		550		-->		00:37:36		580		He will have friends. 
+		430		00:37:37		090		-->		00:37:40		660		And will you provide for his education, his health, his growth,  a career, a wife? 
+		433		00:37:47		960		-->		00:37:51		330		Yes, it's quite an undertaking you're proposing, isn't it? 
+		434		00:37:53		270		-->		00:37:56		200		It is our duty to make him happy. 
+		435		00:37:56		370		-->		00:37:59		810		Do you honestly believe he would be happy in... 
+		436		00:38:00		340		-->		00:38:04		650		...this total fiction which you wish to create? 
+		437		00:38:05		680		-->		00:38:08		220		What reason would he have to live? 
+		438		00:38:08		380		-->		00:38:14		160		What you offer him is a memory, something to cherish, not to live in. 
+		439		00:38:15		020		-->		00:38:19		030		It is part of our life cycle that we accept the death of those we love. 
+		440		00:38:20		100		-->		00:38:24		530		Jeremy must come to terms with his grief, not cover it. 
+		441		00:38:25		170		-->		00:38:29		770		You see, we are mortal. Our time in this universe is finite. 
+		442		00:38:30		370		-->		00:38:34		580		That is one of the truths that all humans must learn. 
+		443		00:38:40		950		-->		00:38:43		420		Acting Ensign Crusher, reporting as ordered. 
+		444		00:38:43		590		-->		00:38:47		320		Come in, Wesley. Please stay, Lieutenant. 
+		445		00:38:54		000		-->		00:38:58		830		Wesley's father died on a Starfleet mission... 
+		446		00:39:00		140		-->		00:39:01		970		...when he was younger than you are. 
+		447		00:39:04		310		-->		00:39:06		240		Wes, your mother told me you were finding it difficult to talk to Jeremy. Why is that? 
+		449		00:39:12		080		-->		00:39:13		850		I don't know. 
+		450		00:39:15		450		-->		00:39:17		950		I don't want to think about it. 
+		451		00:39:18		120		-->		00:39:21		490		All this has reminded me so much of that day. 
+		452		00:39:22		060		-->		00:39:26		460		The day I told you your father had been killed. As I recall, you took it very well. 
+		454		00:39:29		560		-->		00:39:33		570		My parents had told me about Starfleet missions. 
+		455		00:39:33		740		-->		00:39:36		670		- I knew what could happen. - You were prepared? 
+		456		00:39:36		840		-->		00:39:39		310		No. I wasn't prepared at all. 
+		457		00:39:40		080		-->		00:39:45		010		How can anyone be prepared to hear that a parent is never coming home? 
+		458		00:39:46		210		-->		00:39:49		820		I tried to be what everyone expected of me. 
+		459		00:39:49		980		-->		00:39:51		990		Brave and mature. 
+		460		00:39:53		090		-->		00:39:56		520		Wesley, are you saying that you didn't want anybody to see what you were feeling? 
+		462		00:40:01		400		-->		00:40:02		960		What were you feeling? 
+		463		00:40:03		800		-->		00:40:06		800		Like... somebody had kicked me in the head. 
+		464		00:40:07		800		-->		00:40:09		800		Somebody? 
+		465		00:40:10		470		-->		00:40:14		910		Go on. You've wanted to tell him for a long time. 
+		466		00:40:16		950		-->		00:40:19		810		I was angry... at you! 
+		467		00:40:21		420		-->		00:40:24		120		Why were you angry at me, Wesley? 
+		468		00:40:25		920		-->		00:40:30		090		Were you angry because I told you your father was dead? 
+		469		00:40:30		730		-->		00:40:33		030		- No. - Then why? 
+		470		00:40:34		530		-->		00:40:37		030		Because you led the mission. 
+		471		00:40:37		700		-->		00:40:40		440		You came home and my father didn't. 
+		472		00:40:43		670		-->		00:40:48		710		- How long were you angry, Wes? - For a long time. 
+		473		00:40:49		880		-->		00:40:51		880		But not any more, sir. 
+		474		00:40:53		310		-->		00:40:55		220		Not even a little. 
+		475		00:40:57		820		-->		00:41:03		490		So, Jeremy, you must be very angry at Lieutenant Worf. 
+		476		00:41:04		690		-->		00:41:09		000		He was in charge of your mother's mission just like Capt Picard, when Wesley's father was killed. Isn't that right? 
+		478		00:41:14		770		-->		00:41:19		040		Worf came back. Your mother didn't. 
+		479		00:41:20		680		-->		00:41:26		010		Why? Why weren't you the one who died? Why did it have to be her? 
+		480		00:41:26		510		-->		00:41:30		190		He can't answer that. None of us can. 
+		481		00:41:31		790		-->		00:41:34		790		Lt Worf also lost his parents. 
+		482		00:41:35		390		-->		00:41:42		800		They were killed when I was six. When I was alone, humans helped me. 
+		483		00:41:44		500		-->		00:41:46		100		Let me help you. 
+		484		00:41:46		800		-->		00:41:51		010		The Marla Aster I knew and honored is not in this room. 
+		485		00:41:51		740		-->		00:41:54		240		Nor does she await you on the planet. 
+		486		00:41:54		980		-->		00:41:57		780		She now only lives here... 
+		487		00:41:58		980		-->		00:42:00		580		...and here. 
+		488		00:42:08		920		-->		00:42:11		690		Join me in the R'uustai, the Bonding. 
+		489		00:42:12		330		-->		00:42:15		860		You will become part of my family for all time. 
+		490		00:42:16		900		-->		00:42:18		630		We will be brothers. 
+		491		00:44:04		340		-->		00:44:06		110		What does that mean? 
+		492		00:44:08		510		-->		00:44:11		180		It honors the memory of our mothers. 
+		493		00:44:11		680		-->		00:44:15		350		We have bonded and our families are stronger.

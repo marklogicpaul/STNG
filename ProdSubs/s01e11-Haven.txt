@@ -1,0 +1,484 @@
+		1		00:00:03		120		-->		00:00:07		204		Captain's log, stardate <stardate>41294</stardate>.5. 
+		2		00:00:07		336		-->		00:00:12		679		Our destination, the Class-M Beta Cassius planet known as Haven. 
+		3		00:00:13		431		-->		00:00:16		138		It is so renowned for its peaceful beauty that some believe it to have mystical healing powers. 
+		5		00:00:20		026		-->		00:00:24		573		We will rest and relax... all too briefly, I fear. 
+		6		00:00:27		749		-->		00:00:29		790		Such a beautiful world. 
+		7		00:00:30		462		-->		00:00:35		342		Legends say it has been known to mend souls and heal broken hearts. 
+		8		00:00:35		472		-->		00:00:39		093		Legends which are totally unsupported by fact, Captain. 
+		9		00:00:39		229		-->		00:00:41		900		Such legends are the spice of the universe, because they have a way of sometimes coming true. 
+		11		00:01:00		310		-->		00:01:02		220		Lt Yar to Cmdr Riker, your presence is requested in transporter room one. 
+		13		00:01:13		250		-->		00:01:16		539		Sorry, ladies. Duty calls. 
+		14		00:01:22		017		-->		00:01:26		517		- You needed me? - An object's beaming in from Haven. 
+		15		00:01:26		650		-->		00:01:28		609		- What? - We're not sure. 
+		16		00:01:28		737		-->		00:01:31		028		Surface station approval's coming in. 
+		17		00:01:31		159		-->		00:01:33		200		Alright, let's bring it in. 
+		18		00:01:46		771		-->		00:01:47		851		Odd looking. 
+		19		00:01:53		617		-->		00:01:54		614		What's going on? 
+		20		00:01:56		831		-->		00:02:00		334		I hold a message for Deanna Troi. 
+		21		00:02:02		049		-->		00:02:07		296		Lwaxana Troi and the honorable Miller family will soon arrive. 
+		22		00:02:07		434		-->		00:02:11		934		The momentous day is close at hand. Rejoice. 
+		23		00:02:17		495		-->		00:02:18		907		No. 
+		24		00:02:21		210		-->		00:02:22		586		What's going on? 
+		25		00:02:24		716		-->		00:02:27		720		Jewels! Look at these jewels. 
+		26		00:02:30		018		-->		00:02:35		609		They're bonding gifts, what you would call wedding presents. 
+		27		00:02:36		196		-->		00:02:37		691		Who's getting married? 
+		28		00:02:40		871		-->		00:02:42		283		I am. 
+		29		00:03:04		039		-->		00:03:07		162		Space, the final frontier. 
+		30		00:03:08		840		-->		00:03:12		793		These are the voyages of the Starship Enterprise. 
+		31		00:03:12		931		-->		00:03:17		063		Its continuing mission, to explore strange new worlds... 
+		32		00:03:18		859		-->		00:03:22		562		...to seek out new life and new civilizations... 
+		33		00:03:23		450		-->		00:03:27		154		...to boldly go where no one has gone before. 
+		34		00:04:39		383		-->		00:04:42		340		I was certain it would never happen, Captain. 
+		35		00:04:43		224		-->		00:04:45		432		The years I'd spend on this mission, the distance it has taken me away from home. 
+		37		00:04:50		070		-->		00:04:55		234		As you must have heard, genetic bonding is a Betazoid tradition. 
+		38		00:04:55		705		-->		00:04:58		578		Steven Miller was my father's closest friend. 
+		39		00:04:58		711		-->		00:05:02		332		Your father was human, Deanna. The Millers are human. 
+		40		00:05:03		010		-->		00:05:06		216		Will you and your husband be staying with the ship? 
+		41		00:05:10		858		-->		00:05:12		318		No, sir. 
+		42		00:05:17		830		-->		00:05:19		029		Then... 
+		43		00:05:23		882		-->		00:05:28		215		...I will just say congratulations for now, Deanna. 
+		44		00:05:29		518		-->		00:05:31		144		You'll excuse me? 
+		45		00:05:39		411		-->		00:05:40		610		Bill... 
+		46		00:05:40		747		-->		00:05:45		294		...more than anything in the world, anything... 
+		47		00:05:46		216		-->		00:05:49		718		...you want to be a starship captain, true? 
+		48		00:05:50		599		-->		00:05:54		101		- That's not all I want, Deanna. - I can feel that. 
+		49		00:05:54		230		-->		00:05:58		066		I know you care, within those limits. 
+		50		00:05:59		782		-->		00:06:03		285		- Did you hear what I said? - Every word. 
+		51		00:06:05		000		-->		00:06:07		328		This whole thing is still bizarre. 
+		52		00:06:08		549		-->		00:06:09		629		I'm sorry. 
+		53		00:06:11		471		-->		00:06:13		512		Come dance at my wedding. 
+		54		00:06:16		480		-->		00:06:18		142		I'll try. 
+		55		00:06:30		256		-->		00:06:32		630		A message from planet Haven, Counselor. 
+		56		00:06:32		760		-->		00:06:36		013		They wish to beam the Miller wedding party aboard. 
+		57		00:06:49		709		-->		00:06:53		757		I'm Jean-Luc Picard, Captain of the Enterprise. Welcome aboard. 
+		58		00:06:54		968		-->		00:06:57		841		Quite some starship you have here, Captain. 
+		59		00:06:59		143		-->		00:07:00		971		Look forward to this visit. 
+		60		00:07:01		606		-->		00:07:03		018		You couldn't be... 
+		61		00:07:04		820		-->		00:07:06		019		I'm Deanna. 
+		62		00:07:09		036		-->		00:07:14		830		Deanna, darling. You probably don't even remember me. 
+		63		00:07:19		138		-->		00:07:23		685		Wyatt was absolutely right. She is a beauty. 
+		64		00:07:26		235		-->		00:07:27		647		I'm Wyatt. 
+		65		00:07:32		079		-->		00:07:34		453		Isn't this simply beautiful? 
+		66		00:07:34		792		-->		00:07:38		579		I knew romance was still alive, somewhere. 
+		67		00:07:38		716		-->		00:07:41		340		I'd like you to have this chameleon rose. 
+		68		00:07:41		471		-->		00:07:44		344		It changes color with the mood of its owner. 
+		69		00:07:44		978		-->		00:07:47		601		It's wonderful. Thank you. 
+		70		00:07:48		985		-->		00:07:50		814		When is my mother arriving? 
+		71		00:07:50		947		-->		00:07:53		440		Your mother is still on the planet. 
+		72		00:07:53		577		-->		00:07:55		322		Why? 
+		73		00:07:55		456		-->		00:07:58		459		Is there a place for my parents to rest, Captain? 
+		74		00:08:00		256		-->		00:08:03		759		Well, we're not really tired, son. 
+		75		00:08:04		305		-->		00:08:09		897		Besides... I'd like to see some of the ship. 
+		76		00:08:10		024		-->		00:08:12		233		Steven, you know full well 
+		77		00:08:12		362		-->		00:08:17		111		Lwaxana Troi isn't about to beam on board until we leave. 
+		78		00:08:17		998		-->		00:08:21		084		- So? - You can see your quarters now. 
+		79		00:08:21		212		-->		00:08:24		049		Show the Millers to their accommodations. 
+		80		00:08:24		176		-->		00:08:25		802		I shall join you later. 
+		81		00:08:32		900		-->		00:08:35		393		Two more are ready to beam in, sir. 
+		82		00:08:37		283		-->		00:08:38		909		So be it. 
+		83		00:08:41		458		-->		00:08:43		333		Wyatt seems a fine young man. 
+		84		00:08:43		461		-->		00:08:47		795		Yes, he does. But I'm not what he expected. 
+		85		00:08:48		471		-->		00:08:50		216		I don't understand. 
+		86		00:08:50		349		-->		00:08:55		015		Neither do I, but I'm definitely a surprise of some sort to him. 
+		87		00:08:58		072		-->		00:09:01		075		I should warn you, sir, my mother is a little... eccentric. 
+		89		00:09:12		474		-->		00:09:16		177		Where is everyone? I hate that. 
+		90		00:09:18		276		-->		00:09:19		522		Hello, Mother. 
+		91		00:09:19		654		-->		00:09:23		108		Don't say it. Think it. Use your mind, not your mouth. 
+		92		00:09:23		953		-->		00:09:25		497		Hello, Mother. 
+		93		00:09:25		623		-->		00:09:29		541		Deanna, shame. What has this life done to you? 
+		94		00:09:29		672		-->		00:09:33		424		No, don't tell me, you're the Captain. 
+		95		00:09:33		555		-->		00:09:36		558		Deanna explained your telepathic abilities. 
+		96		00:09:36		685		-->		00:09:39		261		That wasn't telepathy, just common sense. 
+		97		00:09:39		399		-->		00:09:41		892		Who else would they send but the Captain? 
+		98		00:09:42		029		-->		00:09:43		773		You may carry my luggage. 
+		99		00:09:43		907		-->		00:09:44		857		Mother! 
+		100		00:09:45		452		-->		00:09:47		197		No, that's quite alright. 
+		101		00:09:47		330		-->		00:09:51		248		I'm indebted to your mother for the fine counselor she... 
+		102		00:09:55		261		-->		00:09:56		461		This way. 
+		103		00:10:05		238		-->		00:10:06		864		It's inappropriate... 
+		104		00:10:06		992		-->		00:10:09		401		Yes, you seem to be struggling. 
+		105		00:10:09		538		-->		00:10:11		865		A man your age must keep in shape. 
+		106		00:10:12		001		-->		00:10:14		161		Mother, I won't go another step. 
+		107		00:10:14		297		-->		00:10:17		300		A starship has its customs, just as we do. 
+		108		00:10:19		097		-->		00:10:22		267		If you're my mother's valet, then please valet. 
+		109		00:10:22		395		-->		00:10:25		434		Don't let me keep you from your duty. 
+		110		00:10:25		568		-->		00:10:27		728		I apologize for her behavior. 
+		111		00:10:27		864		-->		00:10:30		618		- You've embarrassed your Captain. - No. 
+		112		00:10:30		744		-->		00:10:34		448		Anything to avoid a quarrel on this occasion. 
+		113		00:10:34		585		-->		00:10:38		538		It's amazing how your accent reminds me of your father. 
+		114		00:10:38		675		-->		00:10:41		964		Your last valet tried to rid me of it. 
+		115		00:10:42		098		-->		00:10:43		974		What happened to Mr. Xelo? 
+		116		00:10:44		102		-->		00:10:48		055		I had to terminate his employment. Xelo was attracted to me. 
+		117		00:10:48		193		-->		00:10:51		031		His thoughts became truly pornographic. 
+		118		00:10:53		161		-->		00:10:56		699		The thoughts of Wyatt's father were almost as vulgar. 
+		119		00:10:56		834		-->		00:11:00		206		- But he doesn't have... - Passenger accommodation. 
+		120		00:11:00		341		-->		00:11:03		048		He doesn't have Xelo's imagination. 
+		121		00:11:03		179		-->		00:11:07		892		Between him and that woman's inane chatter, it's a wonder I made it. 
+		122		00:11:08		022		-->		00:11:11		725		- How do you like the Millers? - Very pleasant... 
+		123		00:11:11		862		-->		00:11:16		861		It's shocking how they've changed since my husband and I knew them. 
+		124		00:11:16		997		-->		00:11:20		036		It's probably because I've grown beyond them. 
+		125		00:11:20		169		-->		00:11:24		716		You realize that with Betazoids, our ability to read thoughts does see us grow faster than the typical plodding human. 
+		127		00:11:28		309		-->		00:11:29		805		Mother, that's enough! 
+		128		00:11:30		397		-->		00:11:33		519		So, you're not totally out of practice. 
+		129		00:11:33		653		-->		00:11:35		647		Good. Very good. 
+		130		00:11:40		833		-->		00:11:42		993		We hope you find this comfortable. 
+		131		00:11:43		129		-->		00:11:49		468		Yes. The room is adequate. Small, but adequate. 
+		132		00:11:49		599		-->		00:11:53		137		You will adjust the temperature to a civilized level? 
+		133		00:11:54		191		-->		00:11:55		900		I'll see what I can do. 
+		134		00:11:56		027		-->		00:12:00		777		Now, if you will excuse me, I'm sure you have much to talk about. 
+		135		00:12:00		912		-->		00:12:03		619		Yes, Captain. You may go. 
+		136		00:12:10		262		-->		00:12:15		344		You've been slack, little one, allowed your mental powers to rust. 
+		137		00:12:15		898		-->		00:12:18		058		Only to avoid confusion, Mother. 
+		138		00:12:18		194		-->		00:12:21		612		Humans constantly think one thing and say another. 
+		139		00:12:22		159		-->		00:12:24		154		They do, don't they? Poor dears. 
+		140		00:12:24		288		-->		00:12:27		126		Our style of complete honesty frightens them. 
+		141		00:12:28		004		-->		00:12:30		378		On that subject, Mother, there is such a thing as too much honesty with humans. 
+		143		00:12:34		557		-->		00:12:38		606		If they'd only say what they think instead of hiding it. 
+		144		00:12:38		732		-->		00:12:43		694		A shipload of such inconsistency could drive one insane. 
+		145		00:12:45		160		-->		00:12:51		286		Darling, I'm terribly sorry about what happened here. Truly I am. 
+		146		00:12:51		422		-->		00:12:55		257		Steven Miller tracked me down and reminded me of our vows. 
+		147		00:12:55		388		-->		00:13:01		063		Mother, I'm having trouble believing in those vows as once I did. 
+		148		00:13:01		190		-->		00:13:02		734		Deanna. 
+		149		00:13:02		860		-->		00:13:08		072		But I'll honor them, of course. I'm a Betazoid. 
+		150		00:13:09		581		-->		00:13:12		787		You may find Wyatt an unusual person. 
+		151		00:13:12		920		-->		00:13:15		793		I've sensed remarkable depths in him. 
+		152		00:13:20		226		-->		00:13:22		469		Message coming in from Haven. 
+		153		00:13:22		605		-->		00:13:24		017		On screen. 
+		154		00:13:26		028		-->		00:13:30		741		I'm Valeda Innis, First Electorine of Haven. Capt Picard? 
+		155		00:13:31		371		-->		00:13:33		615		Greetings, Electorine. I'm Picard. 
+		156		00:13:35		003		-->		00:13:38		921		Your presence honors us, and your timing's fortuitous. 
+		157		00:13:39		052		-->		00:13:40		216		In what way? 
+		158		00:13:40		346		-->		00:13:45		012		An incoming vessel has bypassed our stargate, violating our law. 
+		159		00:13:45		147		-->		00:13:47		901		It has refused any attempt at communication. 
+		160		00:13:48		027		-->		00:13:53		406		- Do you believe it to be hostile? - Not communicating is hostile. 
+		161		00:13:53		537		-->		00:13:56		375		We have no defensive capabilities. 
+		162		00:13:56		501		-->		00:13:58		709		Our treaty with the Federation specifies your obligations in that matter. 
+		164		00:14:01		970		-->		00:14:06		636		Agreed. But let's hope it doesn't become a defense matter. 
+		165		00:14:06		770		-->		00:14:10		902		Of course, Captain, but I am very happy we have you here. 
+		166		00:14:17		332		-->		00:14:18		827		Come in. 
+		167		00:14:25		847		-->		00:14:29		385		I wanted to apologize for my mother's behavior. 
+		168		00:14:29		521		-->		00:14:32		441		Your mother's honest. I respect that. 
+		169		00:14:32		568		-->		00:14:35		572		Yes. She never lets up. 
+		170		00:14:36		826		-->		00:14:40		958		I'll admit, her honesty is a bit persistent. 
+		171		00:14:41		084		-->		00:14:46		676		I never heard it described better. But it is a Betazoid trait. 
+		172		00:14:49		475		-->		00:14:51		968		I'll try to be only half as annoying. 
+		173		00:14:52		105		-->		00:14:55		892		Let's see... What can I tell you about myself? 
+		174		00:14:56		028		-->		00:14:59		317		I'm a medical doctor, for what that's worth. 
+		175		00:14:59		744		-->		00:15:00		943		Doctor? 
+		176		00:15:01		163		-->		00:15:04		036		If you were sensing my thoughts, you'd know. 
+		177		00:15:04		169		-->		00:15:07		457		- You can do that, can't you? - Sometimes. 
+		178		00:15:09		136		-->		00:15:11		890		This must be what Mother felt about you. 
+		179		00:15:13		352		-->		00:15:15		892		We could read each other eventually. 
+		180		00:15:16		024		-->		00:15:19		728		- Can I take that as a compliment? - Absolutely. 
+		181		00:15:20		658		-->		00:15:22		699		I only ever felt this... 
+		182		00:15:24		623		-->		00:15:28		327		...well, with someone who's on this ship. 
+		183		00:15:30		593		-->		00:15:34		594		- Do I have competition? - No. 
+		184		00:15:35		435		-->		00:15:39		388		What he wants most is to captain a starship. 
+		185		00:15:40		695		-->		00:15:43		484		What I want is to cure people. 
+		186		00:15:44		034		-->		00:15:49		828		Well, I'm a practicing psychologist. Maybe we could work in concert. 
+		187		00:15:50		922		-->		00:15:53		213		We are going to be together a long time. 
+		188		00:15:54		888		-->		00:15:58		474		Yes. That is the point of marriage, I suppose. 
+		189		00:16:00		732		-->		00:16:04		234		I really thought you'd tell me you were an artist. 
+		190		00:16:06		367		-->		00:16:09		240		I just felt your mind very much on these. 
+		191		00:16:09		707		-->		00:16:11		748		They are your work, aren't they? 
+		192		00:16:12		629		-->		00:16:15		502		I can see that it'll be hard to keep secrets from you. 
+		193		00:16:18		891		-->		00:16:22		512		This is why you were surprised when you first saw me. 
+		194		00:16:22		648		-->		00:16:23		894		This woman. 
+		195		00:16:25		152		-->		00:16:27		728		You thought I would be this woman. 
+		196		00:16:30		579		-->		00:16:32		490		I have seen this face... 
+		197		00:16:33		585		-->		00:16:35		745		...ever since I was a boy. 
+		198		00:16:38		343		-->		00:16:43		888		When I closed my eyes at night, I could hear her whispering my name. 
+		199		00:16:46		233		-->		00:16:47		978		Knowing you were Betazoid, 
+		200		00:16:48		112		-->		00:16:51		649		I assumed it was you projecting yourself into my mind. 
+		201		00:16:55		125		-->		00:16:58		497		- I'm sorry I'm not what you wished. - No. 
+		202		00:17:01		052		-->		00:17:05		100		Please don't mistake a childish fantasy for disappointment. 
+		203		00:17:05		227		-->		00:17:08		729		You are so beautiful. I feel honored. 
+		204		00:17:18		167		-->		00:17:22		038		- You've no idea who she is? - It doesn't really matter now. 
+		205		00:17:31		526		-->		00:17:33		105		Captain's personal log. 
+		206		00:17:33		279		-->		00:17:36		817		I trust my concern over the problems of Counselor Troi are not based merely on losing a highly valuable crew member. 
+		208		00:17:40		835		-->		00:17:44		966		But I feel that she's trapped by a custom of her world which 24th-century life has made unwise and unworkable. 
+		210		00:17:50		102		-->		00:17:51		728		I wish I could intervene. 
+		211		00:17:54		360		-->		00:17:56		021		On the viewer, Captain. 
+		212		00:17:56		155		-->		00:18:01		746		Unidentified vessel traveling at subwarp speed, bearing 235.7. 
+		213		00:18:02		625		-->		00:18:05		165		Subwarp? It's several hours away, then. 
+		214		00:18:06		507		-->		00:18:09		214		Let's take a look. Enlarge to maximum. 
+		215		00:18:09		513		-->		00:18:11		554		Increasing magnification, sir. 
+		216		00:18:16		192		-->		00:18:18		899		Mr. Data, is that the trouble I believe it is? 
+		217		00:18:19		865		-->		00:18:24		662		If you mean a Tarellian vessel, sir... it is. 
+		218		00:18:27		296		-->		00:18:30		668		Aren't the Tarellians all dead? What are they doing here? 
+		219		00:18:30		802		-->		00:18:33		675		Picard to sickbay. Dr Crusher to bridge, urgent. 
+		220		00:18:37		064		-->		00:18:41		611		They must not be permitted to destroy us. Or the planet. 
+		221		00:18:45		495		-->		00:18:47		205		Captain's log supplemental. 
+		222		00:18:47		332		-->		00:18:50		455		It has been believed the Tarellian race was extinct, an assumption contradicted by one of their vessels approaching Haven. 
+		224		00:18:56		641		-->		00:18:59		894		Its present velocity suggests a possible answer. 
+		225		00:19:00		022		-->		00:19:02		480		A damaged vessel could explain it. 
+		226		00:19:02		611		-->		00:19:06		279		Without warp speed, it would take this long to get here. 
+		227		00:19:06		409		-->		00:19:08		534		Go on with your briefing, Mr. Data. 
+		228		00:19:08		663		-->		00:19:12		879		Tarella was Class-M, like Earth, with similar humanoid life forms. 
+		229		00:19:13		005		-->		00:19:17		088		Unfortunately, hatred overpowered intelligence. 
+		230		00:19:17		221		-->		00:19:18		930		There were hostilities? 
+		231		00:19:19		058		-->		00:19:21		729		Between the inhabitants of two land masses. 
+		232		00:19:21		855		-->		00:19:25		440		One group unleashed a deadly biological weapon on the other. 
+		233		00:19:25		570		-->		00:19:27		648		In the end, both became infected. 
+		234		00:19:27		824		-->		00:19:31		492		Makes one question the sanity of humanoid forms. 
+		235		00:19:31		623		-->		00:19:34		412		Can you identify the origin of the infection? 
+		236		00:19:34		545		-->		00:19:38		083		They had reached Earth's late 20th-century level of knowledge. 
+		237		00:19:38		218		-->		00:19:40		343		That's all you need if you're a fool. 
+		238		00:19:40		473		-->		00:19:45		103		A deadly, infectious virus which is not difficult to grow. 
+		239		00:19:45		231		-->		00:19:49		696		We learnt the story in training. Some Tarellians went to other worlds, but died along with the populations they infected. 
+		241		00:19:52		871		-->		00:19:55		114		It's well covered in Academy training. 
+		242		00:19:55		250		-->		00:19:58		004		Many tried to avoid civilized worlds, only to be hunted down and destroyed. 
+		244		00:20:01		428		-->		00:20:04		004		It was believed that the last Tarellian ship was destroyed eight years ago by the Alcyones. 
+		246		00:20:06		897		-->		00:20:07		763		Yes, sir. 
+		247		00:20:08		650		-->		00:20:10		478		Exactly when will they arrive? 
+		248		00:20:10		612		-->		00:20:13		865		Exactly 13 hours, 9 minutes, 22 seconds, 350... 
+		249		00:20:13		993		-->		00:20:15		405		Thank you. 
+		250		00:20:16		289		-->		00:20:18		865		Which creates a difficult problem for us. 
+		251		00:20:19		002		-->		00:20:21		578		Our treaty requires us to protect Haven, and Federation policy requires that we assist life forms in need,  which must include the Tarellians. 
+		254		00:20:31		317		-->		00:20:34		273		I shall want you to help find answers. Thank you. 
+		255		00:20:34		865		-->		00:20:39		080		However, there will be time for a second, voluntary assignment, the pre-joining announcement of Counselor Deanna Troi... 
+		257		00:20:49		851		-->		00:20:51		133		...and Wyatt Miller. 
+		258		00:21:03		460		-->		00:21:07		164		We've talked it over, and the ceremony will be tomorrow. 
+		259		00:21:07		300		-->		00:21:11		384		And Captain, would it be possible for you to perform the ceremony? 
+		260		00:21:11		517		-->		00:21:13		974		Of course, if all parties request it. 
+		261		00:21:14		105		-->		00:21:17		607		All parties do not request it. It's out of the question. 
+		262		00:21:17		737		-->		00:21:22		652		You are not practiced in the ways of Betazed joining. 
+		263		00:21:22		788		-->		00:21:26		539		- That's quite true. - So you are totally unqualified. 
+		264		00:21:26		670		-->		00:21:30		587		He is qualified to lead a traditional Earth ceremony, which is what this will be. 
+		266		00:21:33		892		-->		00:21:38		107		I thought you had no sense of humor. Earth wedding? Ridiculous! 
+		267		00:21:38		233		-->		00:21:40		358		We live on Earth now. 
+		268		00:21:40		487		-->		00:21:43		574		So that's why you want that backward ritual. 
+		269		00:21:43		701		-->		00:21:46		705		Terrible to see a woman go downhill like this. 
+		270		00:21:46		832		-->		00:21:48		827		- Mother! - Downhill? 
+		271		00:21:48		961		-->		00:21:53		508		The matter is settled. Mr. Homn will conduct the joining. 
+		272		00:21:54		346		-->		00:21:57		053		But... Homn can't even talk! 
+		273		00:21:57		560		-->		00:22:00		434		No matter, he is adept in sign language. 
+		274		00:22:00		566		-->		00:22:02		026		The matter is closed. 
+		275		00:22:02		152		-->		00:22:05		607		Who are you to tell us what we should do? 
+		276		00:22:06		535		-->		00:22:08		696		Your ignorance is astonishing. 
+		277		00:22:08		831		-->		00:22:11		585		I am Lwaxana Troi, daughter of the Fifth House, holder of the Sacred Chalice, heir to the Holy Rings of Betazed. 
+		279		00:22:15		719		-->		00:22:16		669		Who are you? 
+		280		00:22:17		180		-->		00:22:20		683		It is a Starfleet tradition that at social gatherings, disputes are not permitted. 
+		282		00:22:22		774		-->		00:22:26		906		I hereby declare therefore all disagreements resolved. 
+		283		00:22:40		140		-->		00:22:44		806		A toast. To the young couple, and their families. 
+		284		00:22:44		940		-->		00:22:45		937		And? 
+		285		00:22:46		652		-->		00:22:50		867		And may this union be a productive one. 
+		286		00:22:50		993		-->		00:22:52		157		Hear, hear. 
+		287		00:22:52		454		-->		00:22:54		080		Cheers. 
+		288		00:23:08		526		-->		00:23:11		779		Considering the rate at which you imbibe, sir, is your lineage at all mixed with human? 
+		290		00:23:22		010		-->		00:23:26		426		Is it true, Captain, that there's a Tarellian ship headed for Haven? 
+		291		00:23:31		402		-->		00:23:35		024		- Yes, it is true. - That's amazing. 
+		292		00:23:35		159		-->		00:23:37		320		I've read everything about them. 
+		293		00:23:37		455		-->		00:23:41		159		Virus analysis was my favorite subject at medical school. 
+		294		00:23:41		296		-->		00:23:44		252		Then I'd very much like to confer with you. 
+		295		00:23:44		385		-->		00:23:47		305		I'm pleased to have a medical colleague on board. 
+		296		00:23:48		893		-->		00:23:51		850		Yes, ma'am... Doctor. 
+		297		00:23:52		901		-->		00:23:55		857		Would it be possible to prepare medical needs geared toward the Tarellians' needs? 
+		299		00:23:58		327		-->		00:24:00		488		Then beam it over to avoid infection. 
+		300		00:24:00		916		-->		00:24:03		076		What do you think? 
+		301		00:24:03		211		-->		00:24:07		592		It's a very considerate idea. Our sickbay is at your disposal. 
+		302		00:24:07		970		-->		00:24:09		596		Thank you. 
+		303		00:24:13		647		-->		00:24:15		273		Mr. Data? 
+		304		00:24:16		778		-->		00:24:17		609		Sir? 
+		305		00:24:17		738		-->		00:24:20		611		You're circling the room like a buzzard. 
+		306		00:24:24		543		-->		00:24:28		924		Perhaps being human yourself, you do not find them as... 
+		307		00:24:29		051		-->		00:24:31		841		...intriguing as I. 
+		308		00:24:35		480		-->		00:24:37		854		Must he do that? 
+		309		00:24:37		984		-->		00:24:42		033		It is the Betazed way of giving thanks for our food. 
+		310		00:24:42		159		-->		00:24:45		780		You giving thanks? Besides, you never did this before. 
+		311		00:24:45		916		-->		00:24:50		831		I do it now. Unlike some people, I am in growth. 
+		312		00:25:02		196		-->		00:25:07		028		Victoria, I've forgotten whether you enjoy pets or not. 
+		313		00:25:07		831		-->		00:25:09		873		Love them, of course. 
+		314		00:25:11		463		-->		00:25:13		007		Good. 
+		315		00:25:22		859		-->		00:25:27		075		Gently. Poor baby, did she hurt you? 
+		316		00:25:31		834		-->		00:25:35		372		If you'll excuse me, I'd like to spend time considering... 
+		317		00:25:36		009		-->		00:25:37		920		...the Tarellian situation. 
+		318		00:25:38		513		-->		00:25:41		600		- Yes, of course. - Ladies and gentlemen. 
+		319		00:25:50		202		-->		00:25:55		283		Mrs. Troi, I'm very interested in the Betazed ceremony you mentioned. 
+		320		00:25:55		420		-->		00:25:58		839		- Could you tell us more? - I'd be delighted. 
+		321		00:25:58		968		-->		00:26:03		599		It's an ancient ceremony, regarded as the most beautiful in the universe. 
+		322		00:26:03		727		-->		00:26:06		399		After the couple remove their clothing... 
+		323		00:26:06		524		-->		00:26:10		311		- Bride and groom go naked? - All guests go unclothed. 
+		324		00:26:10		448		-->		00:26:13		368		It honors the act of love being celebrated. 
+		325		00:26:14		664		-->		00:26:17		620		Don't worry. Your body's not that bad. 
+		326		00:26:18		045		-->		00:26:23		044		Besides, your husband quite likes the idea of seeing me unclothed. 
+		327		00:26:23		180		-->		00:26:24		046		Steven! 
+		328		00:26:24		182		-->		00:26:27		019		You did know he's attracted to me? 
+		329		00:26:27		145		-->		00:26:29		021		Untrue. I don't... 
+		330		00:26:29		149		-->		00:26:33		102		Stop this petty bickering, all of you! Especially you, Mother! 
+		331		00:26:51		148		-->		00:26:53		855		Could you please continue the petty bickering? 
+		332		00:26:53		987		-->		00:26:55		898		I find it most intriguing. 
+		333		00:27:27		373		-->		00:27:29		414		May I join you? 
+		334		00:27:46		742		-->		00:27:48		653		I will miss you, Deanna. 
+		335		00:27:49		706		-->		00:27:51		997		I'm no longer Imzadi to you? 
+		336		00:27:52		127		-->		00:27:55		415		You taught me that word means "my beloved." 
+		337		00:27:55		550		-->		00:27:59		634		And the human heart is too small to permit that feeling now. 
+		338		00:27:59		766		-->		00:28:03		981		Have you discussed this with Wyatt? I think you should. 
+		339		00:28:04		108		-->		00:28:06		565		It's also damned unfair to me. 
+		340		00:28:07		447		-->		00:28:09		905		I understand. 
+		341		00:28:10		035		-->		00:28:12		077		I should've realized. 
+		342		00:28:12		206		-->		00:28:15		874		Humans, young human males particularly, have difficulty separating platonic love and physical love. 
+		344		00:28:21		640		-->		00:28:24		430		The problem is... 
+		345		00:28:24		562		-->		00:28:26		889		...Imzadi... 
+		346		00:28:27		276		-->		00:28:30		065		...I couldn't. Not now. 
+		347		00:28:30		198		-->		00:28:33		404		Call it an old... an old Earth tradition... 
+		348		00:28:34		998		-->		00:28:38		168		...habit of the beasts, whatever. 
+		349		00:28:38		964		-->		00:28:40		590		Hello, you two. 
+		350		00:28:41		469		-->		00:28:45		339		- We were just talking about you. - This is incredible! 
+		351		00:28:45		476		-->		00:28:49		347		- Yes. And in that discussion, I... - Actually... 
+		352		00:28:50		778		-->		00:28:54		066		Bill was concerned that you might be upset that I care deeply for him, too. 
+		354		00:28:57		958		-->		00:29:01		246		You're the one who wants to be a starship captain. 
+		355		00:29:01		381		-->		00:29:05		548		I've heard that bonding would complicate things in that case. 
+		356		00:29:06		724		-->		00:29:09		597		To each his own. Good luck with that ambition. 
+		357		00:29:10		063		-->		00:29:13		400		And I very much respected what you did tonight. 
+		358		00:29:14		238		-->		00:29:15		899		All I did was lose my temper. 
+		359		00:29:16		909		-->		00:29:18		951		- Excuse me. - Of course. 
+		360		00:29:19		372		-->		00:29:21		913		Running all this is a big job. 
+		361		00:29:28		640		-->		00:29:32		688		In fact... you shamed them into compromise. 
+		362		00:29:35		319		-->		00:29:40		032		So they've decided that the joining will be half Betazed, half Earth. 
+		363		00:29:40		161		-->		00:29:45		670		The Captain will do the ceremony and Mr. Homn will be my best man. 
+		364		00:29:45		796		-->		00:29:48		372		And we'll take half our clothes off? 
+		365		00:29:49		720		-->		00:29:52		130		Some of us still go naked. 
+		366		00:29:52		267		-->		00:29:59		403		You do, I do, your mother, my father, but not my mother or the guests. 
+		367		00:29:59		530		-->		00:30:04		077		Capt Picard will be very relieved. How did you manage it? 
+		368		00:30:04		665		-->		00:30:06		540		Your mother relented. 
+		369		00:30:08		923		-->		00:30:13		969		And I caught my father practicing naked in front of his mirror. 
+		370		00:30:28		543		-->		00:30:30		168		And so... 
+		371		00:30:31		256		-->		00:30:34		129		...a question I should've asked before. 
+		372		00:30:35		764		-->		00:30:40		514		Deanna, do you really want to go through with this? 
+		373		00:30:41		692		-->		00:30:45		610		Yes, I want to. 
+		374		00:30:48		121		-->		00:30:50		578		I'm a very lucky man. 
+		375		00:31:11		122		-->		00:31:12		582		Captain's log, supplemental. 
+		376		00:31:12		708		-->		00:31:16		246		All attempts at warning off the Tarellian ship have failed. 
+		377		00:31:16		381		-->		00:31:20		632		They still refuse to communicate, and I'm growing concerned. 
+		378		00:31:21		391		-->		00:31:23		681		How do you know they're receiving us? 
+		379		00:31:23		812		-->		00:31:28		811		Our sensors show a responder echo on the frequency they once used. 
+		380		00:31:28		946		-->		00:31:32		532		We have a message, sir, coming in from Haven. 
+		381		00:31:32		662		-->		00:31:34		288		On viewer. 
+		382		00:31:35		918		-->		00:31:39		835		Captain, the plague ship is approaching transporter range. 
+		383		00:31:39		967		-->		00:31:41		712		We are aware of that. 
+		384		00:31:42		346		-->		00:31:46		597		Do you realize they can turn our wonderful world into a graveyard? 
+		385		00:31:47		439		-->		00:31:51		357		Please, take action now before it's too late. 
+		386		00:31:51		488		-->		00:31:53		364		We recognize your situation. 
+		387		00:31:53		492		-->		00:31:57		624		- Please destroy them now. - We will not fire on them. 
+		388		00:31:58		084		-->		00:31:59		710		You must. 
+		389		00:32:02		050		-->		00:32:05		718		I'm certain I could disable their ship with a phaser burst. 
+		390		00:32:07		268		-->		00:32:09		309		And then, Lieutenant? 
+		391		00:32:13		529		-->		00:32:15		773		They're within transporter range. 
+		392		00:32:16		243		-->		00:32:21		122		Then we can't delay any longer. Ready the tractor beam, Lt Yar. 
+		393		00:32:22		087		-->		00:32:24		377		Target the ship. Activate on command. 
+		394		00:32:24		508		-->		00:32:27		714		- Tractor beam ready. - Engage. 
+		395		00:32:33		650		-->		00:32:35		311		Got them, sir. 
+		396		00:32:35		445		-->		00:32:38		864		Are they secure? Can they beam out to the planet? 
+		397		00:32:38		993		-->		00:32:41		831		Negative, sir. They can't leave that ship. 
+		398		00:32:41		957		-->		00:32:47		169		I know they can receive us. They can respond with lights if necessary. 
+		399		00:32:47		342		-->		00:32:51		593		Unless they've all died and the ship was brought in by automation. 
+		400		00:32:52		560		-->		00:32:54		055		Captain. 
+		401		00:33:19		902		-->		00:33:22		692		It's the woman in Wyatt's drawings. 
+		402		00:33:31		382		-->		00:33:34		588		Captain's log, stardate <stardate>41294</stardate>.6. 
+		403		00:33:34		722		-->		00:33:38		557		Orbiting Haven with a Tarellian vessel locked in our tractor beam. 
+		404		00:33:39		314		-->		00:33:42		816		Question. What strange combination of circumstances has caused a woman from someone's imagination to appear on the ship? 
+		406		00:33:47		454		-->		00:33:51		751		Enterprise to Tarellian vessel. Are you receiving us? 
+		407		00:33:57		890		-->		00:33:59		516		My name is Wrenn, and before I enquire why your tractor beam has trapped us here,  is there one aboard your vessel named Wyatt? 
+		410		00:34:09		787		-->		00:34:12		031		Captain, I don't understand. 
+		411		00:34:13		627		-->		00:34:15		669		It's astounding. 
+		412		00:34:15		798		-->		00:34:19		384		Ariana was right. He is here, daughter. 
+		413		00:34:19		513		-->		00:34:23		134		Wyatt, you've come, just as you promised. 
+		414		00:34:24		189		-->		00:34:26		479		How could I be so accurate? 
+		415		00:34:29		031		-->		00:34:31		702		Except for the dreams, I've never seen her. 
+		416		00:34:31		828		-->		00:34:36		790		Sir, our concern is with the threat your vessel poses to the planet. 
+		417		00:34:36		921		-->		00:34:40		506		If you still carry the infection that destroyed your world... 
+		418		00:34:40		636		-->		00:34:43		045		We still carry it, Captain. 
+		419		00:34:43		182		-->		00:34:46		221		My daughter, I, all eight of us. 
+		420		00:34:47		565		-->		00:34:50		355		- Eight? - All of us that are left. 
+		421		00:34:50		863		-->		00:34:54		650		The rest passed on during the years it took to reach Haven. 
+		422		00:34:55		914		-->		00:34:58		918		If you've come here because of the legend about planet Haven miraculously healing the sick... 
+		424		00:35:02		677		-->		00:35:05		633		We don't ask to make contact with those living below. 
+		425		00:35:06		559		-->		00:35:10		607		All we ask is to be... on the edge of some sea, an unpopulated island, a faraway peninsula. 
+		427		00:35:13		363		-->		00:35:16		236		This is not our planet, sir. 
+		428		00:35:16		369		-->		00:35:19		907		But I will present your needs to those who do govern here. 
+		429		00:35:20		334		-->		00:35:23		421		Present the fact that we intend to die here, Captain. 
+		430		00:35:26		095		-->		00:35:33		017		And if we die while caged by your tractor beam... so be it. 
+		431		00:35:46		717		-->		00:35:49		424		Wyatt, how do you like my new hairstyle? 
+		432		00:35:49		555		-->		00:35:52		263		It will look much better when I'm naked. 
+		433		00:35:52		394		-->		00:35:54		804		Can we talk about something serious? 
+		434		00:35:54		940		-->		00:35:58		728		I'm always serious. Only my pleasant nature makes it seem otherwise. 
+		435		00:35:58		864		-->		00:36:00		823		Please, Mrs. Troi. 
+		436		00:36:03		122		-->		00:36:05		200		Yes, that was puzzling. 
+		437		00:36:05		335		-->		00:36:08		754		A woman from another place who insists she knows you. 
+		438		00:36:08		883		-->		00:36:12		302		- And... - Who you've dreamed of for years. 
+		439		00:36:12		431		-->		00:36:14		057		I was hoping that you... 
+		440		00:36:14		184		-->		00:36:18		731		Fascinating, Wyatt, how easily your thoughts come through. 
+		441		00:36:26		082		-->		00:36:30		130		The answer to the puzzle of Ariana and you is so simple, 
+		442		00:36:30		256		-->		00:36:33		295		- it's too simple for most humans. - Too simple? 
+		443		00:36:33		637		-->		00:36:36		213		It's something they know instinctively, but try to reject or build complicated superstitions about. 
+		445		00:36:41		443		-->		00:36:45		777		All life, Wyatt, all consciousness is indissolubly bound together. 
+		446		00:36:45		910		-->		00:36:48		582		Indeed, it's all part of the same thing. 
+		447		00:36:49		792		-->		00:36:52		915		Yes, I have wondered if something like that... 
+		448		00:36:53		048		-->		00:36:55		720		That weren't so. 
+		449		00:36:59		602		-->		00:37:04		352		And no doubt so has Ariana, which helped you two to make contact. 
+		450		00:37:05		530		-->		00:37:09		234		Wyatt, tell me something seriously. 
+		451		00:37:10		957		-->		00:37:13		450		Which of these would look best on me naked? 
+		452		00:37:30		785		-->		00:37:32		411		Wyatt? 
+		453		00:37:34		542		-->		00:37:37		795		- Are you feeling alright? - Just wedding nerves. 
+		454		00:37:37		923		-->		00:37:40		796		I'll take the supplies to the transporter room. 
+		455		00:37:40		929		-->		00:37:43		339		I'll notify the Captain they're ready. 
+		456		00:38:05		808		-->		00:38:07		138		Look at your father. 
+		457		00:38:07		270		-->		00:38:11		353		He can't wait to strip off his clothes for that barbaric ceremony. 
+		458		00:38:13		155		-->		00:38:15		114		Please take care of each other. 
+		459		00:38:24		426		-->		00:38:26		504		You are beautiful. 
+		460		00:38:28		977		-->		00:38:32		680		But you looked the best of all in the desert on the holodeck when we did this. 
+		462		00:39:03		666		-->		00:39:05		910		You can put the supplies on the pad. 
+		463		00:39:07		005		-->		00:39:09		380		Dr Crusher had me set the coordinates. 
+		464		00:39:09		510		-->		00:39:11		754		All we need is the Captain's order. 
+		465		00:39:24		464		-->		00:39:28		299		Captain, someone's transporting over to the Tarellian ship. 
+		466		00:39:28		430		-->		00:39:31		552		- Override. - I can't, sir, it's too late. 
+		467		00:40:17		605		-->		00:40:19		017		Hello, Wyatt. 
+		468		00:40:22		572		-->		00:40:24		780		We always thought you were a dream. 
+		469		00:40:27		039		-->		00:40:28		867		You're not surprised? 
+		470		00:40:31		464		-->		00:40:33		173		Did you know I'd beam over? 
+		471		00:40:33		676		-->		00:40:37		297		Once we saw you were real... we knew. 
+		472		00:40:38		602		-->		00:40:39		883		You are a doctor? 
+		473		00:40:40		021		-->		00:40:44		105		Yes. I've brought medicines and supplies. 
+		474		00:40:45		031		-->		00:40:48		568		And I knew you would be this brave. 
+		475		00:41:00		058		-->		00:41:04		605		How could you let this happen? My son, surrounded by those lepers. 
+		476		00:41:04		734		-->		00:41:07		024		If I could've prevented it, I would. 
+		477		00:41:07		155		-->		00:41:10		741		- Beam him back. - He can never come back, Mrs. Miller. 
+		478		00:41:12		582		-->		00:41:15		585		You may turn off your tractor beam, Captain. 
+		479		00:41:15		713		-->		00:41:18		288		We will not be going to Haven. 
+		480		00:41:20		722		-->		00:41:24		094		We have... what we really came for. 
+		481		00:41:25		188		-->		00:41:27		764		- Wyatt? - Mother. 
+		482		00:41:28		653		-->		00:41:33		533		Mother... forgive me, but I must... 
+		483		00:41:33		996		-->		00:41:37		665		I'm going to try to continue the work to cure these people. 
+		484		00:41:38		672		-->		00:41:43		005		And Wyatt will do it. I've believed that all along. 
+		485		00:41:44		808		-->		00:41:47		931		I knew I was coming to Haven to meet my destiny. 
+		486		00:41:48		607		-->		00:41:51		100		I thought it was to be with you, Deanna. 
+		487		00:41:52		489		-->		00:41:56		157		It was Ariana who drew me here. 
+		488		00:41:57		331		-->		00:41:58		447		I'm sorry. 
+		489		00:41:58		584		-->		00:42:03		630		Wyatt... I'm happy for you, and for Ariana too. 
+		490		00:42:04		428		-->		00:42:07		135		You've done very well for a human, Wyatt. 
+		491		00:42:07		267		-->		00:42:08		893		Mother. 
+		492		00:42:11		274		-->		00:42:14		562		Captain... my respects. 
+		493		00:42:14		697		-->		00:42:16		358		And mine, sir. 
+		494		00:42:23		338		-->		00:42:24		964		Goodbye. 
+		495		00:42:35		861		-->		00:42:39		565		Keep the chest. You'll have use for it someday. 
+		496		00:42:54		020		-->		00:42:59		066		Shame to waste the trip. Perhaps I should stay and join with a new mate. 
+		497		00:42:59		196		-->		00:42:59		979		What? 
+		498		00:43:00		115		-->		00:43:05		458		Well, the Captain's highly attracted to me, but he's a little too old. 
+		499		00:43:05		583		-->		00:43:07		792		Perhaps I should choose... you. 
+		500		00:43:08		171		-->		00:43:10		581		He has other obligations, Mother. 
+		501		00:43:12		346		-->		00:43:14		506		Very well. It's his loss. 
+		502		00:43:20		027		-->		00:43:21		653		Mr. Homn. 
+		503		00:43:26		121		-->		00:43:28		579		Thank you for the drinks. 
+		504		00:43:37		434		-->		00:43:41		138		Try and remember your heritage, little one. 
+		505		00:43:49		122		-->		00:43:53		753		Captain... even Xelo never had such thoughts about me. 
+		506		00:43:54		382		-->		00:43:56		792		You may energize. 
+		507		00:44:01		437		-->		00:44:04		939		That was meant as a joke, Captain. 
+		508		00:44:06		029		-->		00:44:07		857		I was not amused. 
+		509		00:44:09		577		-->		00:44:14		042		- Take us out of here, Mr. Riker. - Aye, sir. Warp two, helm. 
+		510		00:44:14		169		-->		00:44:15		712		Heading 57. 
+		511		00:44:16		173		-->		00:44:18		297		Mark 319. 
+		512		00:44:20		180		-->		00:44:22		424		Our destiny is elsewhere. 
+		513		00:44:24		480		-->		00:44:27		519		But I'm happy that yours is with us, Counselor. 
+		514		00:44:27		652		-->		00:44:32		615		Warp two, sir. Heading 57, mark 319. 
+		515		00:44:33		747		-->		00:44:35		373		Engage. 

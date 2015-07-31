@@ -1,0 +1,551 @@
+		1		00:00:02		194		-->		00:00:06		130		Captain's Log, stardate <stardate>44631</stardate>.2. 
+		2		00:00:06		164		-->		00:00:08		029		We are proceeding through the rim of an uncharted binary star system  where we may have located the USS Brittain. 
+		5		00:00:12		771		-->		00:00:15		535		The missing science vessel failed to arrive at its destination and has not been heard from  since a distress call, 29 days ago. 
+		8		00:00:20		879		-->		00:00:21		868		On screen. 
+		9		00:00:21		913		-->		00:00:23		403		Magnify. 
+		10		00:00:24		683		-->		00:00:26		344		That's the Brittain,  all right. 
+		11		00:00:26		385		-->		00:00:27		613		The ship is intact, sir with no indication of structural damage. 
+		13		00:00:29		755		-->		00:00:30		722		Engines? 
+		14		00:00:30		756		-->		00:00:32		747		All propulsion systems are shut down. 
+		15		00:00:32		791		-->		00:00:34		691		The ship is drifting, sir. 
+		16		00:00:34		726		-->		00:00:36		455		Life-form readings? 
+		17		00:00:36		495		-->		00:00:38		156		Inconclusive. 
+		18		00:00:38		196		-->		00:00:40		027		Counselor? 
+		19		00:00:40		065		-->		00:00:42		761		There is life on board, but... 
+		20		00:00:44		403		-->		00:00:46		428		What is it? 
+		21		00:00:46		471		-->		00:00:48		939		I don't know. 
+		22		00:00:48		974		-->		00:00:51		067		Something... 
+		23		00:00:52		878		-->		00:00:54		641		Number One, assemble your team. 
+		24		00:00:54		680		-->		00:00:57		706		Dr. Crusher, report to Transporter Room Three. 
+		25		00:00:57		749		-->		00:00:59		478		Worf. Data. 
+		26		00:00:59		518		-->		00:01:00		951		Commander. 
+		27		00:01:02		688		-->		00:01:04		553		I need to come, too. 
+		28		00:01:28		980		-->		00:01:33		178		There is no malfunction in any of the main systems, sir. 
+		29		00:01:46		498		-->		00:01:48		466		Commander. 
+		30		00:01:49		601		-->		00:01:51		694		Here's another one. 
+		31		00:01:51		737		-->		00:01:55		366		This was done by a phaser on a setting of six or seven. 
+		32		00:01:59		177		-->		00:02:01		202		And more over here. 
+		33		00:02:03		515		-->		00:02:05		608		The entire Bridge crew. 
+		34		00:02:07		119		-->		00:02:09		144		Whoever did this could still be on the ship. 
+		35		00:02:09		254		-->		00:02:10		846		There is someone still alive but he didn't kill these people. 
+		37		00:02:13		792		-->		00:02:15		020		Here. 
+		38		00:02:22		801		-->		00:02:24		928		I think he's Betazoid. 
+		39		00:02:24		970		-->		00:02:26		096		It's all right. 
+		40		00:02:26		138		-->		00:02:27		833		We're going to help you. 
+		41		00:02:31		343		-->		00:02:33		174		Who did this? 
+		42		00:02:33		211		-->		00:02:35		202		Who did this to you? 
+		43		00:03:04		755		-->		00:03:09		124		Space, the final frontier. 
+		44		00:03:09		193		-->		00:03:13		027		These are the voyages of the Starship Enterprise. 
+		45		00:03:13		063		-->		00:03:15		031		Its continuing mission... to explore strange new worlds  to seek out new life and new civilizations  to boldly go where no one has gone before. 
+		49		00:04:31		974		-->		00:04:34		408		We've almost finished the autopsies, Captain. 
+		50		00:04:34		443		-->		00:04:36		377		How long will it take to compile the data? 
+		51		00:04:36		412		-->		00:04:37		811		It's complicated. 
+		52		00:04:37		846		-->		00:04:40		246		The dead were found all over the ship. 
+		53		00:04:40		282		-->		00:04:43		410		Some were found locked in their rooms, barricaded with weapons piled all around them. 
+		55		00:04:45		721		-->		00:04:47		382		Others were found in the corridors where they'd obviously had hand-to-hand combat. 
+		57		00:04:50		526		-->		00:04:52		118		It's going to take some time to analyze and sort through the details. 
+		59		00:04:54		630		-->		00:04:58		657		We've identified him as Andrus Hagen from Betazed. 
+		60		00:04:58		701		-->		00:05:00		293		Scientific advisor. 
+		61		00:05:00		336		-->		00:05:03		499		He's in a profound catatonic state. 
+		62		00:05:03		539		-->		00:05:05		871		I'm not getting much, Captain. 
+		63		00:05:05		908		-->		00:05:09		537		A few words, disconnected phrases. 
+		64		00:05:09		578		-->		00:05:11		546		I can feel his terror but I can't seem to get through to him. 
+		66		00:05:14		883		-->		00:05:17		078		Stay with him, Counselor. 
+		67		00:05:17		152		-->		00:05:20		053		We're examining the Brittain for clues but this is the only man left  who knows what happened there. 
+		70		00:05:25		894		-->		00:05:27		725		I'm here. 
+		71		00:05:27		763		-->		00:05:30		323		I'm right here. 
+		72		00:05:30		366		-->		00:05:33		267		Out there... voices... 
+		74		00:05:35		638		-->		00:05:37		367		Voices? 
+		75		00:05:37		406		-->		00:05:39		567		What do they say? 
+		76		00:05:39		608		-->		00:05:41		473		Both things... no... no... 
+		78		00:05:46		548		-->		00:05:48		516		Keep talking to me. 
+		79		00:05:48		550		-->		00:05:51		018		I'll try to understand. 
+		80		00:06:00		529		-->		00:06:02		656		All the engines check out perfectly, Commander. 
+		81		00:06:02		698		-->		00:06:04		256		Once we get them started the Brittain can get back to Starbase under her own power. 
+		83		00:06:06		869		-->		00:06:08		359		Let's give it a try. 
+		84		00:06:09		805		-->		00:06:11		966		Preheating injectors. 
+		85		00:06:12		007		-->		00:06:13		599		Data, fuel flow? 
+		86		00:06:13		642		-->		00:06:17		203		Matter valves are open and operating. 
+		87		00:06:17		246		-->		00:06:20		875		Magnetic containment of antimatter pods is constant. 
+		88		00:06:20		916		-->		00:06:22		781		Okay, open injectors. 
+		89		00:06:22		818		-->		00:06:24		649		Injectors open. 
+		90		00:06:31		427		-->		00:06:33		588		There is no engine activity at all, sir. 
+		91		00:06:33		629		-->		00:06:35		062		What's wrong? 
+		92		00:06:35		097		-->		00:06:36		894		Nothing's wrong. 
+		93		00:06:36		932		-->		00:06:39		264		I don't understand it. 
+		94		00:06:42		037		-->		00:06:44		028		Come. 
+		95		00:06:46		608		-->		00:06:49		475		I've been studying the autopsy reports. 
+		96		00:06:49		511		-->		00:06:51		604		The conclusion is appalling. 
+		97		00:06:51		647		-->		00:06:53		672		There was no outside source. 
+		98		00:06:53		716		-->		00:06:55		240		No alien presence. 
+		99		00:06:55		284		-->		00:06:59		653		All 34 of them appear to have killed each other. 
+		100		00:06:59		688		-->		00:07:01		622		What could have caused such an event? 
+		101		00:07:01		657		-->		00:07:02		783		Drugs? 
+		102		00:07:02		825		-->		00:07:04		622		A virus? Poison? 
+		103		00:07:04		660		-->		00:07:06		252		Toxicological tests showed no unusual substances in their systems  and they all appear to be in good health  but, for whatever reason  they seemed to turn against each other  using phasers and knives and bare hands. 
+		109		00:07:18		907		-->		00:07:21		933		I'd like you to see this, Captain. 
+		110		00:07:21		977		-->		00:07:24		468		It's from the logs of the Brittain. 
+		111		00:07:24		513		-->		00:07:26		913		Captain Zaheva's mental condition deteriorated steadily once they had become stranded. 
+		113		00:07:30		819		-->		00:07:33		686		She began talking of plots and mutinies. 
+		114		00:07:33		722		-->		00:07:36		190		This was the last entry in the log made after they had been adrift for over three weeks. 
+		116		00:07:39		628		-->		00:07:44		361		First Officer Brink and his men were behind it. 
+		117		00:07:44		400		-->		00:07:47		267		They got to the engines. 
+		118		00:07:47		302		-->		00:07:50		430		They don't work anymore. 
+		119		00:07:50		472		-->		00:07:53		407		Had to eliminate Brink. 
+		120		00:07:53		442		-->		00:07:55		706		The ship is out of... out of... 
+		122		00:07:57		479		-->		00:07:59		777		We're running out... 
+		123		00:07:59		815		-->		00:08:02		283		Too dangerous... 
+		124		00:08:02		317		-->		00:08:03		648		Out of Brink... and his men... 
+		126		00:08:20		302		-->		00:08:23		203		Eyes... in the dark... 
+		128		00:08:26		909		-->		00:08:30		345		One moon... 
+		129		00:08:33		115		-->		00:08:35		174		Where are you? 
+		130		00:08:39		755		-->		00:08:42		417		I'm coming. Where are you? 
+		131		00:08:46		428		-->		00:08:49		363		Eyes... in the dark... 
+		133		00:08:51		900		-->		00:08:54		460		One moon... 
+		134		00:08:56		505		-->		00:08:58		666		Eyes... in the dark... 
+		136		00:08:59		842		-->		00:09:01		434		One moon... circles... 
+		138		00:09:04		046		-->		00:09:05		741		See the eyes... in the dark... 
+		140		00:09:07		449		-->		00:09:08		848		One moon... 
+		141		00:09:08		884		-->		00:09:10		442		Where are you?! 
+		142		00:09:10		486		-->		00:09:13		284		... in the dark... 
+		143		00:09:13		322		-->		00:09:15		085		One moon... 
+		144		00:09:28		421		-->		00:09:32		221		Captain's Log, stardate <stardate>44635</stardate>.8. 
+		145		00:09:32		258		-->		00:09:33		316		Four days have passed but we have made little progress  in solving the mystery of the Brittain. 
+		148		00:09:37		430		-->		00:09:40		490		I have decided we should return to Starbase 220. 
+		149		00:09:40		533		-->		00:09:43		161		And to that end, Commander La Forge is rigging the Brittain for towing. 
+		151		00:09:44		671		-->		00:09:50		439		I'm going to try recalibrating the field generators. 
+		152		00:09:52		278		-->		00:09:53		438		I still don't see why we can't get the engines started. 
+		154		00:09:55		415		-->		00:09:59		249		It just doesn't make any sense. 
+		155		00:10:06		459		-->		00:10:07		653		Someone's still here. 
+		156		00:10:07		694		-->		00:10:09		093		What did you say, Ensign? 
+		157		00:10:09		162		-->		00:10:12		029		Can't you hear it? 
+		158		00:10:12		065		-->		00:10:15		262		There's someone still alive on the ship. 
+		159		00:10:21		174		-->		00:10:22		766		I heard... 
+		160		00:10:22		809		-->		00:10:24		470		I... 
+		161		00:10:24		510		-->		00:10:28		708		I mean, I thought I heard something. 
+		162		00:10:28		748		-->		00:10:30		773		The ship was searched thoroughly. 
+		163		00:10:30		817		-->		00:10:32		785		There's nobody left on board. 
+		164		00:10:32		819		-->		00:10:34		582		Sorry, sir. 
+		165		00:10:34		621		-->		00:10:36		384		My mistake. 
+		166		00:10:36		422		-->		00:10:38		049		Don't worry about it. 
+		167		00:10:38		091		-->		00:10:41		356		There were 34 people found dead on this ship. 
+		168		00:10:41		394		-->		00:10:44		124		That's enough to make anybody uneasy. 
+		169		00:10:44		163		-->		00:10:46		996		Thank you, sir. 
+		170		00:10:51		671		-->		00:10:53		798		I'm here. 
+		171		00:10:55		375		-->		00:10:57		434		Can you hear me? 
+		172		00:11:00		279		-->		00:11:04		841		Tell me about the voices you hear. 
+		173		00:11:04		884		-->		00:11:06		909		Bright... bright...  out there... 
+		176		00:11:12		659		-->		00:11:14		627		I don't understand. 
+		177		00:11:14		661		-->		00:11:16		652		Bright what? 
+		178		00:11:16		696		-->		00:11:18		960		Tell me more. 
+		179		00:11:30		777		-->		00:11:33		041		Boy, what a day this was. 
+		180		00:11:33		079		-->		00:11:36		708		I'm doing an isozyme study on some populations of Cardilia but they're turning out  to have these really weird polymorphisms. 
+		183		00:11:40		153		-->		00:11:42		121		What a headache. 
+		184		00:11:42		188		-->		00:11:44		122		Is that why you're late? 
+		185		00:11:44		223		-->		00:11:46		953		Oh, no, I had a conference with Dr. Balthus. 
+		186		00:11:46		993		-->		00:11:50		121		She wants to do a study on the laticifer ontogeny of the Kaladian thorn flower  but I don't have time to oversee another project. 
+		189		00:11:54		600		-->		00:11:56		124		Was Tom Corbin there? 
+		190		00:11:56		235		-->		00:11:57		395		What? 
+		191		00:11:57		437		-->		00:11:59		871		Tom Corbin... from the Science Lab. 
+		192		00:11:59		906		-->		00:12:01		100		Remember him? 
+		193		00:12:01		140		-->		00:12:02		903		Of course, I remember him, but... 
+		194		00:12:02		942		-->		00:12:05		240		You use any excuse you can to pay him a visit. 
+		195		00:12:05		278		-->		00:12:07		269		Miles, what are you saying? 
+		196		00:12:07		313		-->		00:12:09		713		I think you know exactly what I'm saying. 
+		197		00:12:12		118		-->		00:12:15		554		If I didn't know better, I'd say you were jealous. 
+		198		00:12:17		557		-->		00:12:19		616		You take me for a fool. 
+		199		00:12:29		135		-->		00:12:30		534		Hello, Chief. 
+		200		00:12:31		771		-->		00:12:33		261		Having coffee? 
+		201		00:12:33		306		-->		00:12:35		740		No, I'm drinking too much coffee. 
+		202		00:12:35		775		-->		00:12:37		766		Kind of a surprise to see you here at this hour. 
+		203		00:12:37		810		-->		00:12:39		107		Yeah? Why is that? 
+		204		00:12:39		145		-->		00:12:41		113		Not out of the honeymoon yet. 
+		205		00:12:41		180		-->		00:12:44		274		Usually, newlyweds can't keep their hands off each other. 
+		206		00:12:44		317		-->		00:12:45		716		She has work to do. 
+		207		00:12:45		752		-->		00:12:48		084		She heads up the plant biology lab, you know? 
+		208		00:12:48		121		-->		00:12:51		921		Any strange things going on down there? 
+		209		00:12:51		958		-->		00:12:53		892		Like what? 
+		210		00:12:55		328		-->		00:12:57		125		I've been hearing things. 
+		211		00:12:57		163		-->		00:12:58		721		Kenicki, in Engineering told me he saw a man in an old Starfleet uniform  riding the lift near the engine core. 
+		214		00:13:04		570		-->		00:13:08		199		When the lift got to the top, there was no one on it. 
+		215		00:13:08		241		-->		00:13:09		902		- Ghost stories. - There's more. 
+		216		00:13:09		942		-->		00:13:11		307		There's lots more. 
+		217		00:13:11		344		-->		00:13:14		074		There are strange things happening on this ship, O'Brien. 
+		218		00:13:14		113		-->		00:13:16		081		I'm surprised at you, Gillespie. 
+		219		00:13:16		115		-->		00:13:17		377		A Starfleet officer? 
+		220		00:13:17		416		-->		00:13:22		149		I have more things to worry about than shades and spirits. 
+		221		00:13:29		128		-->		00:13:30		459		Come. 
+		222		00:13:36		903		-->		00:13:39		098		Come! 
+		223		00:13:46		512		-->		00:13:48		480		Yes, yes. 
+		224		00:14:17		643		-->		00:14:19		270		Come. 
+		225		00:14:21		214		-->		00:14:22		943		What...? 
+		226		00:14:24		584		-->		00:14:26		984		Captain, do you have a moment? 
+		227		00:14:27		019		-->		00:14:28		077		We're concerned. 
+		228		00:14:28		154		-->		00:14:30		019		We're afraid whatever happened on the Brittain may be starting here. 
+		230		00:14:32		458		-->		00:14:33		789		Explain. 
+		231		00:14:33		826		-->		00:14:38		354		Well, Beverly and I have been getting unusual reports. 
+		232		00:14:38		397		-->		00:14:39		489		People behaving strangely. 
+		233		00:14:39		532		-->		00:14:42		592		Others hearing sounds that aren't there. 
+		234		00:14:42		635		-->		00:14:44		398		Are we talking about hallucinations? 
+		235		00:14:44		437		-->		00:14:45		563		In some cases. 
+		236		00:14:45		605		-->		00:14:47		402		In others, just erratic behavior. 
+		237		00:14:47		440		-->		00:14:48		668		We can't track down any element that might be responsible. 
+		239		00:14:51		244		-->		00:14:53		212		But everything started when we found the Brittain. 
+		240		00:14:53		246		-->		00:14:54		736		Yes. 
+		241		00:14:54		780		-->		00:14:57		977		Captain, we have to get the Enterprise away from here before it gets any worse. 
+		243		00:15:02		021		-->		00:15:03		921		We're preparing to take the Brittain in tow. 
+		244		00:15:03		956		-->		00:15:05		890		We'll be on our way within the hour. 
+		245		00:15:11		964		-->		00:15:15		456		Ensign, maneuver us into tractor beam range. 
+		246		00:15:15		501		-->		00:15:17		526		Aye, sir. 
+		247		00:15:23		109		-->		00:15:24		770		Is there a problem, Ensign? 
+		248		00:15:24		810		-->		00:15:26		869		I... can't seem to remember how to enter the coordinates, sir. 
+		250		00:15:29		615		-->		00:15:30		912		Ensign Lin. 
+		251		00:15:30		950		-->		00:15:32		417		Ready now, Captain. 
+		252		00:15:32		451		-->		00:15:35		784		Report to Sick Bay, Ensign Rager. 
+		253		00:15:35		821		-->		00:15:39		313		Ready tractor beam, Mr. Worf. 
+		254		00:15:39		358		-->		00:15:42		384		Captain, thrusters are losing power. 
+		255		00:15:42		428		-->		00:15:45		886		Impulse engines... ahead minimum power. 
+		256		00:15:45		932		-->		00:15:49		333		Impulse engines are not responding, sir. 
+		257		00:15:49		368		-->		00:15:51		268		Geordi, what's going on down there? 
+		258		00:15:51		304		-->		00:15:52		498		I don't know, sir. 
+		259		00:15:52		538		-->		00:15:53		664		Nothing's responding. 
+		260		00:15:53		706		-->		00:15:56		038		Go to warp engines, factor one. 
+		261		00:15:56		075		-->		00:15:57		201		Engage. 
+		262		00:15:57		243		-->		00:15:58		369		Captain we don't have warp drive, either. 
+		264		00:16:02		148		-->		00:16:04		378		We have no functional propulsion systems? 
+		265		00:16:04		417		-->		00:16:05		611		No, sir. 
+		266		00:16:05		651		-->		00:16:07		209		Apparently, we do not. 
+		267		00:16:07		253		-->		00:16:08		550		We're adrift. 
+		268		00:16:08		587		-->		00:16:10		748		Just like the Brittain. 
+		269		00:16:17		771		-->		00:16:21		571		Captain's Log, stardate <stardate>44639</stardate>.9. 
+		270		00:16:21		608		-->		00:16:25		237		The Enterprise has now been adrift for a total of ten days. 
+		271		00:16:25		278		-->		00:16:27		644		We have sent subspace distress calls but because of our distant location  we cannot expect a response for at least another two weeks. 
+		274		00:16:33		520		-->		00:16:35		681		After analyzing the sensor logs of the Brittain and the Enterprise  as well as the data from the last series of probes 
+		277		00:16:40		760		-->		00:16:42		785		I conclude that we have become trapped in a massive rupture in space  into which energy is absorbed. 
+		280		00:16:46		333		-->		00:16:48		733		You mean a Tyken's Rift? 
+		281		00:16:48		768		-->		00:16:49		928		A what? 
+		282		00:16:49		970		-->		00:16:52		404		A rare anomaly, named after Bela Tyken a Melthusian captain who first encountered it. 
+		284		00:16:55		742		-->		00:16:57		039		Tyken's Rift. 
+		285		00:16:57		077		-->		00:16:59		705		That would explain why we don't have engine power. 
+		286		00:16:59		746		-->		00:17:01		338		The ship's energy is being drained into the fissure before we can utilize it. 
+		288		00:17:08		822		-->		00:17:10		585		I was detained. 
+		289		00:17:10		624		-->		00:17:13		218		When Tyken was trapped in the rift his analysis determined that a massive energy release  might overload and dislocate the anomaly. 
+		292		00:17:20		634		-->		00:17:23		899		Fortunately, his cargo included anicium and yurium which he used to detonate the explosion. 
+		294		00:17:26		273		-->		00:17:29		606		He then escaped through the ruptured center of the rift. 
+		295		00:17:29		643		-->		00:17:30		905		But we aren't carrying anything that could produce that kind of an explosion. 
+		297		00:17:32		879		-->		00:17:34		813		Not even our photon torpedoes would be enough. 
+		298		00:17:34		848		-->		00:17:37		908		Couldn't we replicate the elements that Tyken used? 
+		299		00:17:37		951		-->		00:17:39		919		No, sir. We no longer have the power to reproduce complex elements in the replicator. 
+		301		00:17:42		656		-->		00:17:45		648		We must find a way to generate a violent energy release without using conventional means. 
+		303		00:17:47		827		-->		00:17:49		886		Data, in Tyken's experience did the crew exhibit behavioral changes? 
+		305		00:17:53		200		-->		00:17:56		692		No. There were no reports of unusual conduct among the crew. 
+		306		00:17:56		736		-->		00:17:58		067		What about nightmares? 
+		307		00:17:58		104		-->		00:17:59		366		There were no records of sleep disturbances of any kind, Counselor. 
+		309		00:18:01		641		-->		00:18:03		233		Then... what is it? 
+		311		00:18:05		445		-->		00:18:07		470		What's happening to us? 
+		312		00:18:10		750		-->		00:18:13		776		The only one who doesn't seem affected by all this is Data. 
+		313		00:18:17		724		-->		00:18:20		022		Bridge. 
+		314		00:18:20		060		-->		00:18:23		826		Number One, how...? 
+		315		00:18:23		863		-->		00:18:25		455		Sir? 
+		316		00:18:26		900		-->		00:18:28		959		Any hallucinations? 
+		317		00:18:29		002		-->		00:18:30		594		Nightmares? 
+		318		00:18:30		637		-->		00:18:32		571		No. 
+		319		00:18:32		606		-->		00:18:35		939		I'd be a liar if I said I felt like myself. 
+		320		00:18:35		976		-->		00:18:37		034		I've had to bite my tongue to keep from snapping at people. 
+		322		00:18:39		813		-->		00:18:43		271		Couple of times, I've gone to my quarters and felt as if there was someone else in there  waiting for me. 
+		325		00:18:49		489		-->		00:18:52		720		I've had similar feelings. 
+		326		00:18:52		759		-->		00:18:54		556		With everyone succumbing it's even more important that one of us attempt  to keep control of his faculties. 
+		329		00:19:01		101		-->		00:19:03		160		I want you to turn in, take a nap. 
+		330		00:19:03		203		-->		00:19:04		830		I'll be on the Bridge. 
+		331		00:19:04		871		-->		00:19:06		998		You can relieve me in four hours. 
+		332		00:19:07		107		-->		00:19:08		870		Yes, sir. 
+		333		00:19:08		908		-->		00:19:10		773		Deck eight. 
+		334		00:20:13		840		-->		00:20:17		503		No! 
+		335		00:20:20		680		-->		00:20:22		511		Sir? 
+		336		00:20:39		866		-->		00:20:41		857		As you were. 
+		337		00:20:49		576		-->		00:20:52		636		Mr. Data, will you join me in my ready room? 
+		338		00:21:40		827		-->		00:21:43		091		Commander La Forge and I have come up with a potential solution to our predicament. 
+		340		00:21:45		698		-->		00:21:48		360		Perhaps the modifications used to increase firepower against the Borg would be effective here. 
+		342		00:21:52		405		-->		00:21:54		396		Channeling power to the main... um... deflector dish. 
+		344		00:21:56		810		-->		00:21:57		936		Yes, sir. 
+		345		00:21:57		977		-->		00:21:59		945		I believe that within six hours we could generate a concentrated burst of energy  which might disrupt the Tyken's Rift. 
+		348		00:22:07		253		-->		00:22:09		585		Very well. Proceed. 
+		349		00:22:09		622		-->		00:22:11		715		Mr. Data. 
+		350		00:22:11		758		-->		00:22:13		988		Yes, sir? 
+		351		00:22:14		027		-->		00:22:17		053		It appears that I am not immune to the strange forces that are at work on this ship. 
+		353		00:22:21		167		-->		00:22:24		034		Yes, sir. 
+		354		00:22:24		070		-->		00:22:27		562		It's a terrifying prospect, to lose control of one's mind. 
+		355		00:22:30		343		-->		00:22:33		005		When I was young 
+		356		00:22:33		046		-->		00:22:37		312		I remember watching my grandfather deteriorate from a powerful, intelligent figure  to a frail wisp of a man  who could barely make his own way home. 
+		360		00:22:50		930		-->		00:22:53		763		Mr. Data, it is my responsibility... somehow... to see that this ship is guided to safety. 
+		362		00:22:59		873		-->		00:23:02		637		I will need to rely on you from now on. 
+		363		00:23:05		745		-->		00:23:08		771		We may need to count on you for our very survival. 
+		364		00:23:08		815		-->		00:23:11		306		I will do my best, sir. 
+		365		00:23:15		655		-->		00:23:17		350		I'd like to do more cross sections on the brain tissue of some of these bodies. 
+		367		00:23:19		659		-->		00:23:22		025		Set up the positron emission sensor in Sick Bay and I'll decide which ones I want to study. 
+		369		00:23:24		297		-->		00:23:25		821		Yes, Doctor. 
+		370		00:24:21		921		-->		00:24:24		981		Go away. 
+		371		00:24:37		692		-->		00:24:40		559		Captain, let me ask you this. 
+		372		00:24:40		595		-->		00:24:42		825		Since we located the Brittain can you remember any of your dreams? 
+		374		00:24:48		002		-->		00:24:49		799		I hardly ever recall dreams. 
+		375		00:24:49		837		-->		00:24:52		704		Most people don't, but think! 
+		376		00:24:52		740		-->		00:24:56		733		Have you even had a dream in the last ten days? 
+		377		00:24:58		346		-->		00:24:59		608		I don't recall. 
+		378		00:24:59		647		-->		00:25:02		275		I'm willing to bet you haven't. 
+		379		00:25:02		316		-->		00:25:05		843		What's more, neither has anyone else on board this ship except for Troi. 
+		381		00:25:08		456		-->		00:25:09		684		I began to realize that when she talked about having nightmares. 
+		383		00:25:15		863		-->		00:25:17		353		I've, uh... done some...  additional brain tissue scans on, uh, the bodies...  some of the bodies from the, uh...  the... 
+		388		00:25:27		108		-->		00:25:28		200		The Brittain,  Doctor. 
+		389		00:25:28		242		-->		00:25:29		368		Right, and uh... 
+		390		00:25:29		410		-->		00:25:30		877		I've also done some scans on a random cross section from our crew. 
+		392		00:25:33		381		-->		00:25:36		475		They both have the same results... a unique chemical imbalance. 
+		394		00:25:39		220		-->		00:25:41		017		Caused by? 
+		395		00:25:41		122		-->		00:25:43		113		Dream deprivation. 
+		396		00:25:44		959		-->		00:25:46		449		Every night when we...  we...  enter into...  sleep... 
+		401		00:25:56		871		-->		00:25:58		805		I believe what the Doctor means is that humans enter into what is known as REM sleep...  rapid eye movement. 
+		404		00:26:06		314		-->		00:26:07		975		It is the level of brain-wave activity at which one dreams. 
+		406		00:26:09		884		-->		00:26:13		217		We have to dream in order to survive. 
+		407		00:26:13		254		-->		00:26:17		554		If we don't reach REM sleep, we don't dream. 
+		408		00:26:17		592		-->		00:26:20		390		We-we begin to lose our cognitive abilities. 
+		409		00:26:20		428		-->		00:26:22		726		We find it hard to concentrate. 
+		410		00:26:22		763		-->		00:26:26		460		We forget how to do the most ordinary task. 
+		411		00:26:26		500		-->		00:26:29		833		Then we become irritable, paranoid. 
+		412		00:26:29		871		-->		00:26:33		136		Some people experience hallucinations. 
+		413		00:26:33		174		-->		00:26:36		769		You're describing the situation on this ship but Counselor Troi reported nightmares. 
+		415		00:26:40		348		-->		00:26:42		908		Maybe it's because she's Betazoid. 
+		416		00:26:42		950		-->		00:26:45		009		I don't know why. 
+		417		00:26:45		052		-->		00:26:47		919		All I know is that there's more going on here than being caught in a Tyken's Rift  and I don't know how or why it's happening. 
+		420		00:26:54		061		-->		00:26:56		723		But I do know this... there is an inevitable conclusion to this pattern  and if I can't find a way to stop it  we will all go insane. 
+		424		00:27:27		635		-->		00:27:29		569		Eyes... in the dark. 
+		426		00:27:30		804		-->		00:27:32		567		One moon circles. 
+		427		00:27:32		606		-->		00:27:35		097		Where are you? 
+		428		00:27:36		443		-->		00:27:39		344		Eyes... in the dark. 
+		429		00:27:39		380		-->		00:27:43		339		One moon circles. 
+		430		00:27:48		589		-->		00:27:50		580		I'm still here. 
+		431		00:27:50		624		-->		00:27:53		286		I haven't gone anywhere. 
+		432		00:27:55		462		-->		00:27:58		056		Do you remember anything more? 
+		433		00:28:00		367		-->		00:28:02		426		Double... double... 
+		435		00:28:04		805		-->		00:28:08		536		What does that mean? 
+		436		00:28:08		575		-->		00:28:11		510		Is something doubled? 
+		437		00:28:28		295		-->		00:28:31		458		Deanna, nothing's working. 
+		438		00:28:31		498		-->		00:28:33		329		I've tried somatic drugs. 
+		439		00:28:33		367		-->		00:28:36		359		I've tried inducing theta waves into the entorhinal cortex. 
+		440		00:28:36		403		-->		00:28:40		669		No matter what I do, no one can reach REM sleep. 
+		441		00:28:40		708		-->		00:28:45		577		No one can dream... except for you. 
+		442		00:28:49		216		-->		00:28:52		151		Except me... and all I have is nightmares. 
+		444		00:28:56		290		-->		00:28:59		521		I can hardly sleep at all anymore. 
+		445		00:29:01		362		-->		00:29:05		458		In the end, I'll be like him. 
+		446		00:29:05		499		-->		00:29:08		400		Just like him. 
+		447		00:29:10		404		-->		00:29:12		770		Well, I think it's some kind of experiment. 
+		448		00:29:12		806		-->		00:29:14		205		Oh, what do you know about...? 
+		449		00:29:14		241		-->		00:29:16		072		You see, Captain Picard is trying to see how long we'll take it, stuck here like rats. 
+		451		00:29:19		780		-->		00:29:21		680		Oh, you couldn't be more wrong. 
+		452		00:29:21		715		-->		00:29:24		411		It's like we're laboratory animals. 
+		453		00:29:24		451		-->		00:29:27		181		I don't want to sit here and wait for death to sneak up behind me. 
+		455		00:29:29		223		-->		00:29:30		747		What's that supposed to mean? 
+		456		00:29:30		791		-->		00:29:32		782		You heard about them on the Brittain... shut in their rooms, dying alone. 
+		458		00:29:34		595		-->		00:29:35		823		That's not for me. 
+		459		00:29:35		863		-->		00:29:36		955		Not for me, either. 
+		460		00:29:37		064		-->		00:29:39		259		I'd rather go out fighting. 
+		461		00:29:43		137		-->		00:29:46		231		Okay, all power has been channeled to the, um...  the... 
+		464		00:29:49		410		-->		00:29:51		571		The main deflector dish. 
+		465		00:29:51		612		-->		00:29:54		604		Yes, right, the deflector dish. 
+		466		00:29:54		648		-->		00:29:58		243		So, uh... what do we do now? 
+		468		00:30:00		754		-->		00:30:02		278		Data to Bridge. 
+		469		00:30:02		322		-->		00:30:04		620		Mr. Worf, activate the deflector. 
+		470		00:30:04		658		-->		00:30:05		955		Aye, sir. 
+		471		00:30:08		495		-->		00:30:11		464		Deflector power banks approaching maximum. 
+		472		00:30:11		498		-->		00:30:13		830		Discharge in 15 seconds. 
+		473		00:30:13		867		-->		00:30:16		461		Data, this detonation better work. 
+		474		00:30:16		503		-->		00:30:18		664		We're not going to last much longer. 
+		475		00:30:20		340		-->		00:30:22		399		Discharge in three seconds. 
+		476		00:30:22		443		-->		00:30:24		741		Two, one. 
+		477		00:30:28		782		-->		00:30:29		749		Nothing. 
+		478		00:30:29		783		-->		00:30:31		410		It just fizzled out. 
+		479		00:30:31		452		-->		00:30:33		716		Captain, it appears the energy output has been absorbed into the rift. 
+		481		00:30:35		422		-->		00:30:37		390		Data, can we try again? 
+		482		00:30:37		424		-->		00:30:38		482		No, sir. 
+		483		00:30:38		525		-->		00:30:39		685		If we draw more power we risk losing life-support systems. 
+		485		00:30:42		129		-->		00:30:43		323		Understood. 
+		486		00:30:43		363		-->		00:30:45		422		Keep me apprised, Commander. lujpu'...  jiH'e... 
+		489		00:31:28		308		-->		00:31:30		674		Alexandrijn. 
+		490		00:31:32		880		-->		00:31:35		144		Worf, no! 
+		491		00:31:35		182		-->		00:31:36		649		You will not stop me. 
+		492		00:31:36		683		-->		00:31:39		208		Security, Worf's quarters immediately. 
+		493		00:31:39		253		-->		00:31:40		948		No one can stop me. 
+		494		00:31:40		988		-->		00:31:42		012		Why? 
+		495		00:31:42		122		-->		00:31:43		316		What is it? 
+		496		00:31:49		997		-->		00:31:52		989		I am no longer a warrior. 
+		497		00:31:53		033		-->		00:31:56		469		I am no longer strong. 
+		498		00:31:58		305		-->		00:32:00		000		I... 
+		499		00:32:00		040		-->		00:32:02		338		I feel... 
+		500		00:32:02		376		-->		00:32:04		105		What? 
+		501		00:32:05		646		-->		00:32:07		614		What do you feel? 
+		502		00:32:10		684		-->		00:32:12		811		I feel fear. 
+		503		00:32:15		189		-->		00:32:19		888		To admit that you are afraid gives you strength. 
+		504		00:32:19		927		-->		00:32:23		226		Something is waiting for us. 
+		505		00:32:23		263		-->		00:32:26		130		I am not strong enough to fight it. 
+		506		00:32:26		166		-->		00:32:27		292		No, Worf. 
+		507		00:32:27		334		-->		00:32:30		098		It's just an illusion. 
+		508		00:32:30		137		-->		00:32:32		162		It's not real. 
+		509		00:32:35		175		-->		00:32:36		767		Please put down the knife. 
+		511		00:32:52		359		-->		00:32:53		553		Counselor? 
+		512		00:32:53		594		-->		00:32:55		186		It's all right. 
+		513		00:32:55		229		-->		00:32:57		493		Everything's fine. 
+		514		00:32:57		531		-->		00:32:59		192		Thank you. 
+		515		00:33:05		172		-->		00:33:07		470		Let me take you to Sick Bay. 
+		516		00:33:35		030		-->		00:33:38		864		Acting Captain's Log, stardate <stardate>44642</stardate>.1. 
+		517		00:33:38		901		-->		00:33:41		426		I have assumed command of the Enterprise at the request of Captain Picard. 
+		519		00:33:43		672		-->		00:33:45		936		Our situation is deteriorating. 
+		520		00:33:45		974		-->		00:33:48		204		Many of the crew are unable to function and our life-support systems are beginning to falter. 
+		522		00:33:52		514		-->		00:33:55		972		Once before, you said "double. " 
+		523		00:33:56		051		-->		00:33:58		542		What did you mean? 
+		524		00:33:58		587		-->		00:33:59		713		What is "double"? 
+		525		00:33:59		755		-->		00:34:01		723		Mates... too bright...  twin...  cannot leave the twin. 
+		529		00:34:08		297		-->		00:34:10		788		One moon circling... 
+		530		00:34:10		832		-->		00:34:12		925		What do you mean? 
+		531		00:34:13		035		-->		00:34:14		935		You can't leave? 
+		532		00:34:15		037		-->		00:34:16		937		No, no. 
+		533		00:34:17		039		-->		00:34:20		372		Please... can't. 
+		534		00:34:20		409		-->		00:34:22		070		You want to leave. 
+		535		00:34:22		110		-->		00:34:23		805		Why can't you? 
+		536		00:34:23		845		-->		00:34:25		472		Can't go. 
+		537		00:34:25		514		-->		00:34:27		209		Help. 
+		538		00:34:27		249		-->		00:34:30		548		One moon... circling. 
+		539		00:34:30		586		-->		00:34:32		247		Eyes... that's it. 
+		541		00:34:34		423		-->		00:34:36		391		Eyes... in the dark. 
+		543		00:34:43		899		-->		00:34:46		333		"Eyes in the dark." 
+		544		00:34:48		303		-->		00:34:50		965		That's what the voice said in my dream. 
+		545		00:34:51		073		-->		00:34:53		473		Is that where you heard it? 
+		546		00:34:53		508		-->		00:34:56		306		In a dream? Over and over? 
+		547		00:35:03		652		-->		00:35:05		882		Beverly, I know what it is. 
+		548		00:35:05		921		-->		00:35:07		445		I know what's happening. 
+		549		00:35:07		489		-->		00:35:09		116		What? 
+		550		00:35:09		157		-->		00:35:10		784		My nightmare. 
+		551		00:35:10		826		-->		00:35:12		157		It's not a dream. 
+		552		00:35:12		194		-->		00:35:14		754		It's not a dream at all. It's a message. 
+		553		00:35:14		796		-->		00:35:18		357		REM sleep occurs at a different frequency for Betazoids than for other humanoids. 
+		555		00:35:21		103		-->		00:35:25		802		I believe the beings are using that frequency to... communicate telepathically. 
+		557		00:35:28		577		-->		00:35:31		705		It is possible that this telepathic communication is creating interference  in the REM sleep of other species. 
+		560		00:35:34		683		-->		00:35:37		948		That would explain why the rest of our crew is not dreaming. 
+		561		00:35:37		986		-->		00:35:41		752		Counselor, what are these beings trying to tell us? 
+		562		00:35:41		790		-->		00:35:44		190		They're calling for help. 
+		563		00:35:44		226		-->		00:35:47		957		I think they're trapped, just like we are. 
+		564		00:35:48		063		-->		00:35:52		432		"Eyes in the dark" could mean this twin star system. 
+		565		00:35:52		467		-->		00:35:55		595		Your hypothesis is certainly plausible. 
+		566		00:35:58		040		-->		00:35:59		974		There may be another ship on the other side of the fissure  where we cannot detect it. 
+		569		00:36:03		245		-->		00:36:06		681		Is there a way we could block their signals? 
+		570		00:36:06		715		-->		00:36:08		342		There is no technology to block telepathic transmissions, Doctor. 
+		572		00:36:11		119		-->		00:36:13		246		Maybe communication through dreams can work both ways. 
+		574		00:36:16		725		-->		00:36:19		193		I could try and get them to stop. 
+		575		00:36:19		227		-->		00:36:22		890		Perhaps we could accomplish more than that. 
+		576		00:36:22		931		-->		00:36:25		729		If there is another ship, and we can reach them we might be able to coordinate our efforts to free ourselves. 
+		578		00:36:29		538		-->		00:36:31		335		It is conceivable. 
+		579		00:36:31		373		-->		00:36:35		366		When working with patients with debilitating nightmares 
+		580		00:36:35		410		-->		00:36:38		573		I've often used a therapeutic treatment called "directed dreaming." 
+		582		00:36:40		882		-->		00:36:44		443		Dreamers can learn to control their dreams retain a conscious memory, even while in REM sleep. 
+		584		00:36:49		124		-->		00:36:55		085		I could remember a short message and deliver it to them. 
+		585		00:36:55		130		-->		00:36:58		930		If it were possible, what would you say? 
+		586		00:37:02		204		-->		00:37:05		401		Working together with the aliens we must discover a means by which we can produce an explosion  more intense than either one of us could achieve alone. 
+		589		00:37:11		313		-->		00:37:13		372		What is it you're looking for? 
+		590		00:37:13		415		-->		00:37:15		883		These are the elements we have available. 
+		591		00:37:15		917		-->		00:37:17		248		Some of them could be used in the creation of an explosive reaction. 
+		593		00:37:19		454		-->		00:37:21		115		If we could communicate this inventory to the other ship, perhaps they would be able to... 
+		595		00:37:23		492		-->		00:37:24		789		No, Data, no. 
+		596		00:37:24		826		-->		00:37:26		919		This is too complex. 
+		597		00:37:26		962		-->		00:37:30		830		It has to be a simple, clear message. 
+		598		00:37:30		866		-->		00:37:32		891		I am uncertain if a simple transmission would be adequate. 
+		600		00:37:35		704		-->		00:37:37		729		Stop. 
+		601		00:37:37		773		-->		00:37:39		934		Go back. 
+		602		00:37:40		041		-->		00:37:41		770		Further back. 
+		603		00:37:41		810		-->		00:37:43		778		There. Stop. 
+		604		00:37:43		812		-->		00:37:46		406		"One moon circles." 
+		605		00:37:46		448		-->		00:37:48		075		Yes, Counselor. 
+		606		00:37:48		116		-->		00:37:50		414		One electron circles one proton. 
+		607		00:37:50		452		-->		00:37:52		420		This is a hydrogen atom. 
+		608		00:37:52		454		-->		00:37:54		081		"One moon circles." 
+		609		00:37:54		122		-->		00:37:57		922		That's what they've been telling me over and over. 
+		610		00:37:57		959		-->		00:38:01		019		Perhaps the aliens are thinking as we are... to collaborate in producing an explosion. 
+		612		00:38:03		698		-->		00:38:05		893		If hydrogen is combined with another element... calendenium, for example... it is extremely volatile. 
+		614		00:38:10		272		-->		00:38:13		571		But would the message mean that they have hydrogen or they want hydrogen? 
+		616		00:38:15		610		-->		00:38:19		068		Well, if it's a distress call, I think they'd be asking for what they need, not what they already have. 
+		618		00:38:22		117		-->		00:38:23		914		Then the proper course of action would be to release hydrogen into the rift  and hope they have a substance that would detonate it. 
+		621		00:38:31		026		-->		00:38:33		324		How do I tell them what to do? 
+		622		00:38:33		361		-->		00:38:34		794		If you are correct, Counselor 
+		623		00:38:34		830		-->		00:38:38		095		I believe they have already told us what to do and are waiting for us to do it. 
+		625		00:38:41		136		-->		00:38:43		832		When we are ready, the only message you should attempt to convey is "now." 
+		627		00:38:46		975		-->		00:38:50		934		I can help keep you in REM sleep for a while with this cortical scanner. 
+		629		00:38:54		416		-->		00:38:57		146		It will maintain electrical activity in your brain at the proper frequency. 
+		631		00:39:07		128		-->		00:39:09		096		Counselor you will have to communicate with the other ship  within two minutes of entering REM sleep. 
+		634		00:39:13		902		-->		00:39:15		529		Two minutes? 
+		635		00:39:15		570		-->		00:39:17		231		Is that all, Data? 
+		636		00:39:17		272		-->		00:39:18		899		Unfortunately, yes. 
+		637		00:39:18		940		-->		00:39:21		602		We have only enough power to emit a hydrogen stream for that amount of time. 
+		639		00:39:23		078		-->		00:39:24		306		They must understand that they will have to detonate it immediately. 
+		641		00:39:26		781		-->		00:39:29		249		Captain, we are ready to implement the plan. 
+		642		00:39:29		284		-->		00:39:30		911		Proceed. 
+		643		00:39:31		019		-->		00:39:35		251		We will have to draw power from the life-support systems in order to discharge the collectors. 
+		645		00:39:43		865		-->		00:39:45		162		This is Acting Captain Data. 
+		646		00:39:45		200		-->		00:39:48		761		All personnel will report to the designated shelter areas immediately. 
+		648		00:39:50		372		-->		00:39:52		135		Life-support systems will continue only in emergency shelter areas. 
+		650		00:39:55		510		-->		00:39:56		841		Hear that? 
+		651		00:39:56		878		-->		00:40:00		177		Get us jammed into shelter areas. 
+		652		00:40:00		215		-->		00:40:03		241		We sit and wait to die. 
+		653		00:40:03		285		-->		00:40:04		809		Nobody will ever find us. 
+		654		00:40:04		853		-->		00:40:06		548		Relax, Gillespie. 
+		655		00:40:06		588		-->		00:40:08		385		Everybody relax. 
+		656		00:40:08		423		-->		00:40:10		948		Ten-Forward is a designated shelter area. 
+		657		00:40:11		026		-->		00:40:12		584		Relax. 
+		658		00:40:14		496		-->		00:40:17		363		We want to die here like helpless children? 
+		659		00:40:17		399		-->		00:40:19		594		Security to Ten-Forward immediately. 
+		660		00:40:19		634		-->		00:40:21		124		We don't even know what we're dying for. 
+		661		00:40:21		169		-->		00:40:23		160		Sit down, Gillespie. You're not helping matters any. 
+		662		00:40:23		204		-->		00:40:26		173		What's wrong with standing up for ourselves? 
+		663		00:40:26		207		-->		00:40:27		174		Yeah. 
+		664		00:40:27		208		-->		00:40:28		266		Right! 
+		665		00:40:28		310		-->		00:40:29		971		Picard owes us some answers. 
+		666		00:40:35		584		-->		00:40:37		313		Ooh, Gillespie! 
+		667		00:40:44		993		-->		00:40:46		654		What is that? 
+		668		00:40:46		695		-->		00:40:50		358		This is a little souvenir I picked up from Magus III. 
+		669		00:40:50		398		-->		00:40:52		195		That was setting number one. 
+		670		00:40:52		233		-->		00:40:54		360		Anyone want to see setting number two? 
+		671		00:40:58		310		-->		00:41:01		074		PGO signals steady. 
+		672		00:41:01		113		-->		00:41:04		310		Visual cortex showing increased activity. 
+		673		00:41:04		349		-->		00:41:07		318		Rapid eye movements commencing. 
+		674		00:41:14		526		-->		00:41:16		153		Crusher to Bridge. 
+		675		00:41:16		194		-->		00:41:18		128		She's in REM sleep. 
+		676		00:41:18		163		-->		00:41:19		926		Thank you, Doctor. 
+		677		00:41:19		998		-->		00:41:22		558		Activating Bussard collectors. 
+		678		00:41:33		645		-->		00:41:35		476		Eyes... in the dark. 
+		680		00:41:37		015		-->		00:41:39		745		Where are you? 
+		681		00:41:42		788		-->		00:41:44		688		90 seconds remaining. 
+		682		00:41:44		723		-->		00:41:47		692		One moon... circles. 
+		684		00:41:49		127		-->		00:41:51		391		Where are you?! 
+		685		00:41:51		430		-->		00:41:52		397		Eyes... 
+		686		00:41:52		431		-->		00:41:53		625		I have to find you! 
+		687		00:41:53		665		-->		00:41:56		099		... in the dark. 
+		688		00:41:56		134		-->		00:41:58		796		I have to tell you. 
+		689		00:42:02		841		-->		00:42:04		934		45 seconds remaining. 
+		690		00:42:08		680		-->		00:42:10		307		One moon... 
+		691		00:42:10		349		-->		00:42:11		839		Please... 
+		692		00:42:11		883		-->		00:42:13		145		... circles... 
+		693		00:42:13		185		-->		00:42:15		915		I must find you... to tell you. 
+		695		00:42:19		257		-->		00:42:21		248		30 seconds remaining. 
+		696		00:42:23		362		-->		00:42:25		159		Eyes... in the dark... 
+		698		00:42:27		265		-->		00:42:29		324		One moon... 
+		699		00:42:35		841		-->		00:42:37		900		Ten seconds remaining. 
+		700		00:42:44		449		-->		00:42:46		246		Nothing. 
+		701		00:42:46		284		-->		00:42:48		047		No explosion. 
+		702		00:42:48		086		-->		00:42:50		418		The Counselor was unsuccessful. 
+		703		00:42:56		795		-->		00:42:58		956		Activate impulse engines. 
+		704		00:42:59		031		-->		00:43:00		965		Engines activated, sir. 
+		705		00:43:32		030		-->		00:43:34		089		We have cleared the rift, sir. 
+		706		00:43:34		132		-->		00:43:37		590		Warp engines are coming back on-line. 
+		707		00:43:37		636		-->		00:43:39		604		Set a course to... 
+		708		00:43:41		006		-->		00:43:44		066		Setting a course for Starbase 220. 
+		709		00:43:51		750		-->		00:43:56		744		Sir, as my final duty as Acting Captain 
+		710		00:43:56		788		-->		00:43:58		949		I order you to bed. 
+		711		00:43:58		990		-->		00:44:02		187		I shall do the same for all personnel. 
+		712		00:44:02		227		-->		00:44:04		559		Very well, Mr. Data. 
+		713		00:44:09		101		-->		00:44:11		695		And, Mr. Data... thank you. 
+		715		00:44:13		905		-->		00:44:15		964		Pleasant dreams, sir. 

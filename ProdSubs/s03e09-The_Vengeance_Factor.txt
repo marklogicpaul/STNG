@@ -1,0 +1,516 @@
+		1		00:00:31		198		-->		00:00:33		872		Someone sure stripped this place. 
+		2		00:00:44		503		-->		00:00:46		631		The reactor is gone. 
+		3		00:00:48		465		-->		00:00:51		469		No wonder they didn't answer our hail for two days. 
+		4		00:00:51		677		-->		00:00:53		304		Nothing here to answer with. 
+		5		00:00:53		512		-->		00:00:56		732		Commander, I'm detecting life signs from behind that door. 
+		6		00:01:00		686		-->		00:01:04		486		Commander, take a look at this. 
+		7		00:01:07		985		-->		00:01:09		578		Blood. 
+		8		00:01:10		404		-->		00:01:12		577		Yes, but not human. 
+		9		00:01:12		781		-->		00:01:14		954		I'm gonna have to do some analysis on it. 
+		10		00:01:20		330		-->		00:01:22		298		It's jammed. 
+		11		00:02:05		584		-->		00:02:09		805		<i>Space, the final frontier.</i> 
+		12		00:02:10		464		-->		00:02:14		389		<i>These are the voyages of the starship Enterprise.</i> 
+		13		00:02:14		593		-->		00:02:19		895		<i>To explore strange new worlds,</i> 
+		14		00:02:20		098		-->		00:02:24		103		<i>to seek out new life and new civilizations,</i> 
+		15		00:02:24		645		-->		00:02:28		821		<i>to boldly go where no one has gone before.</i> 
+		16		00:03:40		595		-->		00:03:43		724		The two scientists are suffering from phaser stuns. 
+		17		00:03:43		932		-->		00:03:46		230		I'd guess several hits each. 
+		18		00:03:46		435		-->		00:03:47		561		Several? 
+		19		00:03:47		769		-->		00:03:51		114		It'll take us a while to bring them around, but they will recover. 
+		20		00:03:51		314		-->		00:03:54		033		We found a sample of blood. 
+		21		00:03:54		776		-->		00:03:57		780		It's a rare iron-copper composite. 
+		22		00:03:57		988		-->		00:04:02		539		Unique to one humanoid species, the Acamarians. 
+		23		00:04:04		411		-->		00:04:06		709		Acamarians? 
+		24		00:04:07		456		-->		00:04:10		926		Then that would suggest the Gatherers. 
+		25		00:04:11		126		-->		00:04:13		049		It is a likely hypothesis. 
+		26		00:04:13		253		-->		00:04:16		348		The nomadic marauders who refer to themselves as Gatherers have raided other outposts in neighboring sectors. 
+		28		00:04:19		426		-->		00:04:21		144		They've never come out this far before. 
+		29		00:04:22		763		-->		00:04:25		812		Mr. Crusher, set course for the Acamar System. 
+		30		00:04:26		016		-->		00:04:27		643		Aye, sir. 
+		31		00:04:30		854		-->		00:04:34		575		<i>Captain's log, stardate <stardate>43421</stardate>.9.</i> 
+		32		00:04:34		775		-->		00:04:37		574		<i>In an effort to put an end to the Gatherer raids,</i> 
+		33		00:04:37		778		-->		00:04:39		451		<i>we have come to the Acamar System</i> 
+		34		00:04:39		654		-->		00:04:43		955		<i>to enlist the aid of Marouk, the Sovereign of Acamar III.</i> 
+		35		00:04:44		159		-->		00:04:46		287		Their raids have made this sector unsafe. 
+		36		00:04:46		495		-->		00:04:48		135		They've ransacked our research facilities, our trade routes have been disrupted. 
+		38		00:04:49		956		-->		00:04:51		924		The Gatherers are elusive. 
+		39		00:04:52		125		-->		00:04:56		175		We've only managed to capture a handful of them. 
+		40		00:04:56		379		-->		00:04:58		302		But with the Starfleet's help... 
+		41		00:04:58		507		-->		00:05:02		353		Hunting them down is not what I am proposing. 
+		42		00:05:02		552		-->		00:05:05		852		Reconciliation with the Gatherers is impossible. 
+		43		00:05:06		056		-->		00:05:08		104		It's been tried. 
+		44		00:05:08		558		-->		00:05:11		732		Every time we've offered amnesty, they've rejected it. 
+		45		00:05:11		937		-->		00:05:15		282		- When was the last attempt made? - Eighteen years ago. 
+		46		00:05:15		982		-->		00:05:17		154		Eighteen years? 
+		47		00:05:17		359		-->		00:05:20		488		For almost a century now, they've been parasites, 
+		48		00:05:20		695		-->		00:05:23		198		<i>moving from star system to star system,</i> living on what they could find or steal. 
+		50		00:05:26		076		-->		00:05:28		295		- They're still your people. - No. 
+		51		00:05:28		495		-->		00:05:33		592		Captain, you have to understand our history. 
+		52		00:05:33		792		-->		00:05:35		920		A hundred years ago, before the Gatherers split off from our culture,  we were a savage, violent race. 
+		55		00:05:42		175		-->		00:05:47		898		Clans battled clans, bloody, vengeful feuds that lasted for generations. 
+		56		00:05:48		098		-->		00:05:53		446		But we overcame those ways, all except for the Gatherers. 
+		57		00:05:53		645		-->		00:05:57		400		After a century of wandering, they may be ready to come home. 
+		58		00:05:57		607		-->		00:06:00		486		Despite your progress, you are a divided society, and so it will remain until the Gatherers return to Acamar. 
+		60		00:06:06		908		-->		00:06:08		751		The attempt may be futile. 
+		61		00:06:08		952		-->		00:06:14		550		But there is so much to gain, and there is so little to lose by the effort. 
+		62		00:06:14		749		-->		00:06:18		879		This problem affects us all. It cannot be ignored. 
+		63		00:06:25		010		-->		00:06:26		762		Sovereign Marouk, welcome to the Bridge. 
+		64		00:06:26		970		-->		00:06:29		223		Thank you, captain. 
+		65		00:06:29		598		-->		00:06:31		646		How soon will you be ready to leave Acamar? 
+		66		00:06:31		850		-->		00:06:33		022		I'm ready now, captain. 
+		67		00:06:33		226		-->		00:06:35		228		I need only bring aboard two more servants. 
+		68		00:06:35		437		-->		00:06:37		940		I'll see to that, and to your accommodations. 
+		69		00:06:38		148		-->		00:06:42		449		I have reason to believe there is a Gatherer encampment somewhere in the Hromi Cluster. 
+		71		00:06:49		075		-->		00:06:50		247		Mr. Data? 
+		72		00:06:50		452		-->		00:06:52		500		The Federation has charted but not explored several Class-M planets in that area. 
+		74		00:06:55		040		-->		00:06:58		294		Any one of these planets might serve well as a base. 
+		75		00:06:59		294		-->		00:07:02		594		Mr. Crusher, set course for the Hromi Cluster. 
+		76		00:07:02		797		-->		00:07:04		515		Aye, sir. 
+		77		00:07:21		107		-->		00:07:25		362		- A fine ship, commander. - We're all very proud of her. 
+		78		00:07:26		321		-->		00:07:30		622		Yuta, a light meal in 2O minutes. 
+		79		00:07:31		242		-->		00:07:33		995		May I be shown the kitchen, commander? 
+		80		00:07:34		204		-->		00:07:35		751		- You're the chef? - Yes. 
+		81		00:07:35		956		-->		00:07:38		254		I'll prepare all meals for the sovereign and her servants. 
+		82		00:07:38		458		-->		00:07:42		213		We can provide you with a kitchen, but it won't really be necessary. 
+		83		00:07:42		420		-->		00:07:47		142		These food dispensers can synthesize anything that you may need. 
+		84		00:07:47		342		-->		00:07:49		970		I'll show you. Sovereign, may I offer you a drink? 
+		85		00:07:50		178		-->		00:07:52		727		Yes, thank you. Cold water. 
+		86		00:07:52		931		-->		00:07:57		152		Computer, a glass of water, five degrees. 
+		87		00:08:04		109		-->		00:08:05		281		Please. 
+		88		00:08:10		448		-->		00:08:14		954		- You're also the food taster? - That's part of the cook's duties. 
+		89		00:08:24		879		-->		00:08:26		597		I'm sure the sovereign will wish to sample many of the cuisines your ship has to offer,  but there are some Acamarian dishes that she will insist upon. 
+		92		00:08:32		971		-->		00:08:34		143		I'll arrange for a technician to help program your recipes into the computer. 
+		94		00:08:36		391		-->		00:08:38		439		Of course, I'll have to try some of them. 
+		95		00:08:38		643		-->		00:08:41		442		- What's your specialty? - I have none. 
+		96		00:08:41		646		-->		00:08:43		364		Don't be modest. 
+		97		00:08:43		565		-->		00:08:47		786		You can't tell me that you haven't come up with a few culinary delights. 
+		98		00:08:49		612		-->		00:08:53		913		- There is a spiced parthus dish. - Parthus? 
+		99		00:08:54		117		-->		00:08:56		540		A green vegetable with fleshy roots. 
+		100		00:08:57		037		-->		00:08:59		131		Parthus é la Yuta. 
+		101		00:08:59		330		-->		00:09:01		958		I look forward to tasting it. Sovereign. 
+		102		00:09:03		376		-->		00:09:05		049		Chef. 
+		103		00:09:18		099		-->		00:09:20		727		Now entering standard orbit of Gamma Hromi ll, sir. 
+		104		00:09:20		935		-->		00:09:24		860		Captain, I am detecting life readings from the planet's surface as well as several small areas of thermal radiation  and carbon dioxide emissions indicative of combustion. 
+		107		00:09:32		197		-->		00:09:33		494		Campfires, Data. 
+		108		00:09:35		200		-->		00:09:36		702		Is that not what I said? 
+		109		00:09:37		827		-->		00:09:40		046		- It's worth a look. - Make it so. 
+		110		00:09:40		246		-->		00:09:43		170		Data. Worf. 
+		111		00:10:36		594		-->		00:10:39		143		Artonian lasers. 
+		112		00:10:44		519		-->		00:10:48		899		Tonkian homing beacons. Quite a collection. 
+		113		00:11:03		454		-->		00:11:07		254		Noranium alloys, sir. Its salvage value is quite low. 
+		114		00:11:07		458		-->		00:11:10		553		Looks like these Gatherers weren't too discriminating about what they steal. 
+		115		00:11:10		753		-->		00:11:12		221		Commander. 
+		116		00:11:20		305		-->		00:11:21		727		Ambush! 
+		117		00:11:31		524		-->		00:11:34		573		Rigellian phaser rifles, sir. Not particularly powerful. 
+		118		00:11:37		989		-->		00:11:39		912		Powerful enough. 
+		119		00:11:44		996		-->		00:11:47		090		We came to talk. 
+		120		00:11:54		380		-->		00:11:58		556		Your words are wasted, commander. They understand only this. 
+		121		00:11:58		760		-->		00:12:00		762		We're here to establish a dialogue, Worf. 
+		122		00:12:04		307		-->		00:12:05		729		Data, tell me about Noranium. 
+		123		00:12:05		934		-->		00:12:09		234		- It vaporizes at...? - 2314 degrees, sir. 
+		124		00:12:09		437		-->		00:12:11		735		- Of course, Noranium carbide... - Thank you, Data. 
+		125		00:12:11		940		-->		00:12:13		283		Setting seven ought to do it. 
+		126		00:12:16		778		-->		00:12:20		408		Three, two, one, now! 
+		127		00:12:26		537		-->		00:12:29		757		Enterprise, four to beam up. 
+		128		00:12:37		757		-->		00:12:39		600		Cowards! 
+		129		00:12:52		689		-->		00:12:56		068		Your ambushes would be more successful if you bathed more often. 
+		130		00:12:59		862		-->		00:13:02		035		We've brought the Sovereign of Acamar. 
+		131		00:13:02		240		-->		00:13:06		120		- Marouk? Here? - With an offer of amnesty. 
+		132		00:13:11		708		-->		00:13:14		461		Full dispensation will be extended to all Gatherers who are willing to return to Acamar Ill. 
+		134		00:13:17		338		-->		00:13:19		761		You don't trust me, Marouk. 
+		135		00:13:20		591		-->		00:13:23		595		- Should I? - But you expect me to trust you. 
+		136		00:13:23		803		-->		00:13:26		477		Maybe you just poisoned it yourself. 
+		137		00:13:28		725		-->		00:13:30		819		Taste this, Temarek. 
+		138		00:13:46		242		-->		00:13:50		338		- Barbarians. This is futile. - Sovereign. 
+		139		00:13:51		622		-->		00:13:53		420		Brull. 
+		140		00:13:53		624		-->		00:13:55		251		Go home, old woman. 
+		141		00:13:55		460		-->		00:13:58		964		You people haven't changed in a hundred years. 
+		142		00:13:59		172		-->		00:14:02		142		You should know. You were there. 
+		143		00:14:02		508		-->		00:14:03		555		Sit down! 
+		144		00:14:04		594		-->		00:14:06		141		Please. 
+		145		00:14:07		764		-->		00:14:08		856		Please. 
+		146		00:14:17		648		-->		00:14:18		865		Now, we're here to talk. 
+		147		00:14:19		067		-->		00:14:21		115		It's a waste of time, captain. 
+		148		00:14:21		319		-->		00:14:23		822		They don't care about how they live. 
+		149		00:14:24		030		-->		00:14:26		658		Am I supposed to believe that you care how we live? 
+		150		00:14:26		866		-->		00:14:28		413		Yes. 
+		151		00:14:29		077		-->		00:14:31		000		Brull, she's here, isn't she? 
+		152		00:14:31		496		-->		00:14:33		624		Maybe you forced her to come, Picard. 
+		153		00:14:35		875		-->		00:14:39		379		Nobody forces me anywhere, Brull. 
+		154		00:14:39		837		-->		00:14:42		681		What is there for us on Acamar Ill? 
+		155		00:14:43		800		-->		00:14:46		553		A life. A home. 
+		156		00:14:46		761		-->		00:14:50		732		You can end your wanderings, your miserable existence. 
+		157		00:14:52		225		-->		00:14:54		273		Do I look miserable to you? 
+		158		00:14:58		606		-->		00:15:01		906		The clan wars are over, Brull. 
+		159		00:15:02		110		-->		00:15:04		454		It is a past we're ashamed of. 
+		160		00:15:04		654		-->		00:15:07		533		It is why you had to leave. 
+		161		00:15:08		032		-->		00:15:12		708		Now it is time to come home. 
+		162		00:15:17		875		-->		00:15:22		130		I want to speak privately with Sovereign Marouk and Picard. 
+		163		00:15:22		338		-->		00:15:24		306		Everyone else, get out. 
+		164		00:15:37		812		-->		00:15:39		109		Any insights? 
+		165		00:15:39		313		-->		00:15:40		906		Brull's ready to negotiate. 
+		166		00:15:41		065		-->		00:15:43		409		He just wants privacy so that he won't appear weak in front of the other Gatherers. 
+		168		00:16:19		687		-->		00:16:22		907		You are the clan Lornack. 
+		169		00:16:23		357		-->		00:16:25		030		What of it? 
+		170		00:16:29		280		-->		00:16:32		454		- I've seen you before. - Yes. 
+		171		00:16:33		159		-->		00:16:37		084		But it's impossible. 
+		172		00:16:37		997		-->		00:16:40		466		No. Look closer. 
+		173		00:16:41		959		-->		00:16:45		179		I am Yuta of the clan Tralesta. 
+		174		00:16:57		600		-->		00:16:59		853		I am the last of my line. 
+		175		00:17:00		061		-->		00:17:03		691		But my clan will outlive yours. 
+		176		00:17:16		244		-->		00:17:18		042		Marouk's offer has value. 
+		177		00:17:19		413		-->		00:17:20		960		Commander. 
+		178		00:17:21		165		-->		00:17:25		215		But still, I don't know. 
+		179		00:17:25		878		-->		00:17:29		132		But you'll agree, it is enough to present to your leader. 
+		180		00:17:29		632		-->		00:17:32		602		Chorgan is a better judge of these matters. 
+		181		00:17:32		802		-->		00:17:35		806		I will take it to him. You'll hear from me in 20 days. 
+		182		00:17:36		013		-->		00:17:40		564		Brull, in 20 days I hope to be very far from here. 
+		183		00:17:40		768		-->		00:17:43		317		With all due respect, Brull, 
+		184		00:17:43		521		-->		00:17:48		493		I would like to make the offer to Chorgan myself. 
+		185		00:17:49		151		-->		00:17:51		119		We'll gladly take you with us on the Enterprise. 
+		186		00:17:51		320		-->		00:17:54		244		How many of your men do you want to accompany you? 
+		187		00:17:54		448		-->		00:17:56		416		I'll come alone. 
+		188		00:17:56		909		-->		00:18:00		083		- If this is a trap... - Oh, it isn't. 
+		189		00:18:03		332		-->		00:18:06		051		Mallon, you'll be in charge while I'm gone. 
+		190		00:18:06		252		-->		00:18:10		723		If I'm not back in 10 days... Brull! Brull! 
+		191		00:18:17		555		-->		00:18:19		228		Volnoth. 
+		192		00:18:20		933		-->		00:18:23		186		Away Team to Enterprise. Medical emergency. 
+		193		00:18:23		394		-->		00:18:26		819		Volnoth was an old man. There's nothing to be done. 
+		194		00:18:27		023		-->		00:18:30		072		There's a chance that our doctors can do something. 
+		195		00:18:33		195		-->		00:18:34		868		- You found him? - Yes. 
+		196		00:18:35		072		-->		00:18:37		112		There are no other members of the Lornack clan here. 
+		197		00:18:37		283		-->		00:18:40		207		- So I claim his possessions. - Granted. 
+		198		00:18:43		706		-->		00:18:45		424		Have you no respect for the dead? 
+		199		00:18:45		625		-->		00:18:48		094		What's there to respect about a corpse? 
+		200		00:19:03		309		-->		00:19:05		437		Temarek, no. Calm down. 
+		201		00:19:05		645		-->		00:19:08		740		- He's been dead too long. - How? 
+		202		00:19:08		939		-->		00:19:10		407		Cardiac arrest. 
+		203		00:19:11		901		-->		00:19:13		494		You don't sound convinced. 
+		204		00:19:13		694		-->		00:19:18		245		No, he died of a heart attack, all right, but I can't find the cause. 
+		205		00:19:18		449		-->		00:19:23		171		His cardiac muscle is strong and there's no sign of arterial occlusion. 
+		206		00:19:44		475		-->		00:19:48		605		Brull, will you show Mr. Crusher the course to set to the Hromi Cluster? 
+		207		00:19:48		813		-->		00:19:51		282		Heh, a child? 
+		208		00:19:53		192		-->		00:19:55		820		This doesn't inspire my confidence. 
+		209		00:20:14		046		-->		00:20:16		674		This is our present position. 
+		210		00:20:17		967		-->		00:20:21		267		Set a heading for 343-mark-72. 
+		211		00:20:23		305		-->		00:20:26		559		That's gonna take us through the center of an asteroid belt. 
+		212		00:20:26		767		-->		00:20:28		769		Hey, heh, what's the matter, kid? 
+		213		00:20:28		978		-->		00:20:31		231		Can't you fly yourself around a couple of rocks? 
+		214		00:20:33		274		-->		00:20:34		366		Sure I can. 
+		215		00:20:34		567		-->		00:20:40		074		But if we take this heading, we can avoid the belt completely, and only lose 12.1 minutes at warp 7. 
+		217		00:20:43		784		-->		00:20:45		912		Have it your way, kid. 
+		218		00:20:52		793		-->		00:20:56		093		For centuries, my planet was in chaos. 
+		219		00:20:56		714		-->		00:21:00		969		Loyalty to one's clan was absolute. 
+		220		00:21:01		302		-->		00:21:06		684		The slightest injury to one member demanded violent retaliation. 
+		221		00:21:06		891		-->		00:21:10		020		And these blood feuds could last for decades? 
+		222		00:21:10		227		-->		00:21:13		026		The obsession with vengeance would be passed from generation to generation. 
+		224		00:21:15		483		-->		00:21:20		535		And with each act of retribution, the violence would escalate. 
+		225		00:21:21		822		-->		00:21:27		044		It's not unlike much of the history of my own planet. 
+		226		00:21:28		913		-->		00:21:32		008		Your pardon, sovereign. May I be excused briefly? 
+		227		00:21:32		208		-->		00:21:34		961		Commander Riker requested that I prepare him an Acamarian dish. 
+		228		00:21:35		169		-->		00:21:37		422		Of course, Yuta. 
+		229		00:22:03		739		-->		00:22:05		867		- What are you doing? - Homework. 
+		230		00:22:06		075		-->		00:22:08		453		- Heh, what is this? - Math. 
+		231		00:22:08		661		-->		00:22:11		289		I can see that, but what does it mean? 
+		232		00:22:11		789		-->		00:22:13		962		This is the locally euclidean metrization of a K-fold contravariant Riemannian tensor field. 
+		234		00:22:18		254		-->		00:22:20		131		You any good at it? 
+		235		00:22:24		134		-->		00:22:25		477		You don't like me. 
+		236		00:22:26		262		-->		00:22:29		266		- I didn't say that. - No problem. 
+		237		00:22:29		473		-->		00:22:32		192		I have many friends that don't like me. 
+		238		00:22:32		393		-->		00:22:34		111		But what do you know about me? 
+		239		00:22:34		311		-->		00:22:35		437		You're a thief. 
+		240		00:22:35		646		-->		00:22:39		492		I steal to survive, not because I enjoy it. 
+		241		00:22:39		692		-->		00:22:41		535		We Gatherers value our freedom. 
+		242		00:22:41		735		-->		00:22:44		614		We do what we want and we answer to no creature. 
+		243		00:22:44		822		-->		00:22:47		496		Then why are you helping Sovereign Marouk to change all that? 
+		244		00:22:50		119		-->		00:22:52		463		Maybe because I want something better. 
+		245		00:22:52		663		-->		00:22:55		963		For me and for my children. 
+		246		00:22:56		876		-->		00:23:01		723		- You have children? - Yeah, two sons. 
+		247		00:23:01		922		-->		00:23:04		425		One's just about your age. 
+		248		00:23:07		011		-->		00:23:09		764		He's not any good at math. 
+		249		00:23:21		108		-->		00:23:22		826		Parthus é la Yuta? 
+		250		00:23:23		027		-->		00:23:26		452		With the help of one of your food stations. 
+		251		00:23:32		828		-->		00:23:34		330		It's wonderful. 
+		252		00:23:35		247		-->		00:23:37		295		- Truly excellent. - Thank you. 
+		253		00:23:37		499		-->		00:23:39		251		Would you care to join us? 
+		254		00:23:39		460		-->		00:23:41		178		I don't want to intrude. 
+		255		00:23:43		172		-->		00:23:44		594		You're not. 
+		256		00:23:45		799		-->		00:23:50		100		I was just leaving anyway. Please, sit down. 
+		257		00:23:58		604		-->		00:24:00		231		It really is delicious. 
+		258		00:24:00		439		-->		00:24:02		612		I am glad it pleases you, commander. 
+		259		00:24:02		816		-->		00:24:05		160		I'm not your commander. My name is William. 
+		260		00:24:05		361		-->		00:24:07		241		- I will call you William if you prefer. - I do. 
+		261		00:24:07		446		-->		00:24:12		202		When you say "commander," you say it like you say “sovereign" to Marouk. 
+		262		00:24:13		869		-->		00:24:15		621		As a servant. 
+		263		00:24:19		583		-->		00:24:23		508		You're an excellent commander, but you'd make a poor sovereign. 
+		264		00:24:23		963		-->		00:24:25		840		Why is that? Not that I disagree. 
+		265		00:24:26		048		-->		00:24:30		178		- You're not comfortable with servants. - No, I prefer the company of equals. 
+		266		00:24:30		719		-->		00:24:32		847		So you treat me as an equal. 
+		267		00:24:33		055		-->		00:24:34		648		And you're not comfortable with that? 
+		268		00:24:36		684		-->		00:24:40		939		I'm not used to it. I've always been a servant. 
+		269		00:24:41		897		-->		00:24:45		071		Not that I'm complaining. The sovereign treats me well. 
+		270		00:24:45		275		-->		00:24:47		369		I have all that I could want. 
+		271		00:24:47		569		-->		00:24:49		571		What about freedom? 
+		272		00:24:53		158		-->		00:24:54		876		I can never have that. 
+		273		00:24:55		869		-->		00:24:57		629		Because you're the property of the sovereign? 
+		274		00:24:57		830		-->		00:25:00		549		No, I'm not her slave. 
+		275		00:25:00		749		-->		00:25:02		797		I can leave whenever I wish. 
+		276		00:25:03		252		-->		00:25:07		428		- But you have no place to go? - Just the opposite. 
+		277		00:25:09		383		-->		00:25:11		636		My path is all too clear. 
+		278		00:25:12		928		-->		00:25:17		559		Yuta, you're an excellent chef, but you speak in riddles. 
+		279		00:25:20		019		-->		00:25:23		694		I've never been very good at conversation. 
+		280		00:25:27		860		-->		00:25:29		487		Yuta. 
+		281		00:25:34		199		-->		00:25:38		249		I believe the sovereign wants me to return. Enjoy the parthus. 
+		282		00:25:48		338		-->		00:25:49		931		<i>Sickba y to Riker.</i> 
+		283		00:25:50		132		-->		00:25:52		351		<i>We discovered something interesting, Wilt.</i> 
+		284		00:25:52		551		-->		00:25:54		269		On my Way- 
+		285		00:26:01		060		-->		00:26:02		528		You're scowling, doctor. 
+		286		00:26:02		728		-->		00:26:05		572		- Heh, I'm thinking. - And? 
+		287		00:26:07		274		-->		00:26:09		197		The old Gatherer on the planet? 
+		288		00:26:09		401		-->		00:26:12		029		I know what caused his heart attack. 
+		289		00:26:12		404		-->		00:26:17		535		The medical tricorder almost missed it, but there was a microvirus in his body blocking his autonomic nerve impulses. 
+		291		00:26:20		245		-->		00:26:21		588		And that stopped his heart? 
+		292		00:26:23		248		-->		00:26:25		967		But here's the really interesting part. 
+		293		00:26:28		420		-->		00:26:30		514		This microvirus will only attach itself to cells with a very specific DNA sequence. 
+		295		00:26:35		052		-->		00:26:36		099		How specific? 
+		296		00:26:37		221		-->		00:26:40		851		Without knowing more about their genetic makeup, I can't be sure. 
+		297		00:26:41		058		-->		00:26:47		862		But my guess is this virus would only kill one Acamarian in a million. 
+		298		00:26:48		065		-->		00:26:50		864		- Pretty single-minded bug. - Too single-minded. 
+		299		00:26:51		068		-->		00:26:54		743		I can't believe it's a naturally occurring virus. 
+		300		00:26:54		947		-->		00:26:56		699		Meaning someone engineered it? 
+		301		00:26:57		366		-->		00:26:59		835		Meaning Volnoth was murdered. 
+		302		00:27:17		302		-->		00:27:18		349		<i>Commander Riker,</i> 
+		303		00:27:18		554		-->		00:27:22		275		<i>Acamar ill has agreed to your request for access to their databases.</i> 
+		304		00:27:22		474		-->		00:27:25		694		<i>They are now being transmitted into our computer over subspace link.</i> 
+		305		00:27:25		894		-->		00:27:30		024		Good. Notify Dr. Crusher when Acamar's medical database is online. 
+		306		00:27:30		232		-->		00:27:32		075		Riker out. 
+		307		00:27:38		031		-->		00:27:39		624		Come in. 
+		308		00:27:40		576		-->		00:27:42		829		I'm disturbing you. 
+		309		00:27:44		037		-->		00:27:45		880		Not at all. 
+		310		00:27:48		208		-->		00:27:49		755		As... the sovereign has no further need for my services this evening,  she suggested I might spend some time with you. 
+		313		00:28:00		304		-->		00:28:02		227		What a charming suggestion. 
+		314		00:28:04		892		-->		00:28:10		740		She appreciates the affection you've shown me. 
+		315		00:28:11		231		-->		00:28:12		824		Was I that obvious? 
+		316		00:28:14		651		-->		00:28:16		244		Yes. 
+		317		00:28:16		695		-->		00:28:19		699		Well, I've already dined. 
+		318		00:28:19		907		-->		00:28:22		160		Maybe you know a good Acamarian dessert recipe. 
+		319		00:28:27		122		-->		00:28:29		625		Does that not please you? 
+		320		00:28:37		132		-->		00:28:41		137		Tell me what you want, William. I will do anything you wish. 
+		321		00:28:41		345		-->		00:28:43		097		Wait a minute. 
+		322		00:28:43		931		-->		00:28:45		899		I don't understand. 
+		323		00:28:46		308		-->		00:28:48		481		Don't you want me to give you pleasure? 
+		324		00:28:48		685		-->		00:28:50		358		Not as a servant. 
+		325		00:28:51		188		-->		00:28:53		156		I told you, I prefer equals. 
+		326		00:28:53		815		-->		00:28:55		738		Even in the matters of love? 
+		327		00:28:56		902		-->		00:28:58		996		Especially in matters of love. 
+		328		00:29:00		155		-->		00:29:02		249		I've offended you. 
+		329		00:29:02		991		-->		00:29:06		746		No, I only wanna make you as happy as you wanna make me. 
+		330		00:29:06		954		-->		00:29:09		423		You're entitled to that. 
+		331		00:29:10		249		-->		00:29:14		345		<i>- No, I'm not. - Yum.</i> 
+		332		00:29:16		088		-->		00:29:19		968		I do not feel pleasure or passion. 
+		333		00:29:20		467		-->		00:29:23		892		I haven't been able to for a long time. 
+		334		00:29:31		645		-->		00:29:34		194		I don't know who did this to you, or why,  but it can change. 
+		337		00:29:40		487		-->		00:29:42		615		I wish it could. 
+		338		00:29:43		323		-->		00:29:45		792		Tonight most of all. 
+		339		00:29:47		494		-->		00:29:48		871		I'm sorry. 
+		340		00:30:11		018		-->		00:30:12		736		Your people have prepared a warm welcome. 
+		341		00:30:12		936		-->		00:30:14		233		That's Chorgan's ship. 
+		342		00:30:19		443		-->		00:30:23		289		- Shields holding. - Mr. Worf, contact Chorgan. 
+		343		00:30:23		488		-->		00:30:25		991		Tell him Brull has brought us to talk. 
+		344		00:30:30		120		-->		00:30:31		793		Chorgan is not responding. 
+		345		00:30:34		041		-->		00:30:35		714		Mr. Worf, can we knock out their shields without seriously damaging their ship? 
+		347		00:30:41		173		-->		00:30:42		925		I believe we can, sir. 
+		348		00:30:43		133		-->		00:30:45		386		Prepare phasers and open a channel. 
+		349		00:30:45		594		-->		00:30:47		722		Phasers locked. Channel open. 
+		350		00:30:47		929		-->		00:30:52		776		Chorgan, this is Captain Jean-Luc Picard of the Enterpri... 
+		351		00:30:54		311		-->		00:30:56		313		All right. 
+		352		00:30:57		397		-->		00:31:00		196		Let's focus their attention. 
+		353		00:31:00		400		-->		00:31:03		404		Mr. Worf, fire phasers. 
+		354		00:31:09		910		-->		00:31:12		459		Their forward shields are inoperative. 
+		355		00:31:12		662		-->		00:31:14		664		Well done, lieutenant. 
+		356		00:31:16		666		-->		00:31:20		591		- We are being hailed, sir. - That's better. 
+		357		00:31:20		796		-->		00:31:22		264		On screen. 
+		358		00:31:23		715		-->		00:31:26		264		<i>Brull, you traitor!</i> 
+		359		00:31:26		468		-->		00:31:28		470		<i>You have led them here to destroy me!</i> 
+		360		00:31:28		678		-->		00:31:30		351		Chorgan, if I had wanted you destroyed, you would not be talking to me now. 
+		362		00:31:33		392		-->		00:31:35		440		Obviously I wanted something else. 
+		363		00:31:35		644		-->		00:31:37		271		<i>And what is that?</i> 
+		364		00:31:37		479		-->		00:31:39		823		I have on board Sovereign Marouk of Acamar Ill. 
+		365		00:31:40		023		-->		00:31:42		276		I want you to hear what she and Brull have to say. 
+		366		00:31:42		484		-->		00:31:43		656		She's worth listening to. 
+		367		00:31:43		860		-->		00:31:45		908		<i>I don't wish to listen to either of you.</i> 
+		368		00:31:46		113		-->		00:31:47		990		You have no choice. Prepare to receive us. 
+		369		00:31:48		198		-->		00:31:50		542		We are beaming on board. Picard out. 
+		370		00:31:52		035		-->		00:31:53		753		Cancel red alert. 
+		371		00:31:53		954		-->		00:31:56		332		Tell Sovereign Marouk to meet me in Transporter 3. 
+		372		00:31:56		540		-->		00:31:58		213		Aye, sir. 
+		373		00:31:58		417		-->		00:32:01		170		- You're going alone, captain? - The danger is minimal, Number One. 
+		374		00:32:01		628		-->		00:32:03		301		Chorgan is unlikely to do anything rash with the Enterprise's phasers trained on his ship. 
+		376		00:32:05		882		-->		00:32:07		976		There are still risks. 
+		377		00:32:09		219		-->		00:32:14		726		For these negotiations to succeed, I must be a mediator, not an enforcer. 
+		378		00:32:15		350		-->		00:32:17		648		You have the Bridge, Number One. 
+		379		00:32:17		853		-->		00:32:19		480		Brull. 
+		380		00:32:34		953		-->		00:32:38		674		Chorgan, this is Sovereign Marouk. 
+		381		00:32:39		749		-->		00:32:41		843		You may sit. 
+		382		00:32:46		381		-->		00:32:47		849		Oh. 
+		383		00:32:49		468		-->		00:32:51		436		Chorgan, I think you will find Marouk's proposal... 
+		384		00:32:51		636		-->		00:32:53		104		You know, Picard, 
+		385		00:32:54		514		-->		00:32:56		733		I could take you prisoner, heh. 
+		386		00:32:58		268		-->		00:33:02		318		Oh, don't worry. I've no intention of doing so. 
+		387		00:33:02		522		-->		00:33:05		617		I know what trouble it's been for you to get here. 
+		388		00:33:05		817		-->		00:33:07		819		And I'm curious why. 
+		389		00:33:08		028		-->		00:33:09		371		Then let's proceed. 
+		390		00:33:09		571		-->		00:33:13		951		Quite simply, I'm proposing amnesty for every Gatherer. 
+		391		00:33:14		159		-->		00:33:15		376		Amnesty? 
+		392		00:33:17		287		-->		00:33:18		459		You mean slavery. 
+		393		00:33:18		663		-->		00:33:20		381		Chorgan, if you want to know what I think... 
+		394		00:33:20		582		-->		00:33:22		425		I don't. 
+		395		00:33:23		001		-->		00:33:27		472		Say what you came to say, but I doubt I'm going to believe you. 
+		396		00:33:27		672		-->		00:33:31		552		I didn't believe this very persuasive Federation captain when he suggested we could reconcile our differences. 
+		398		00:33:34		679		-->		00:33:40		186		I'm convinced now it is the right thing, not just for you, but for us too. 
+		399		00:33:40		393		-->		00:33:41		770		We need you back. 
+		400		00:33:46		149		-->		00:33:50		029		I've brought some Acamarian brandy, heh. 
+		401		00:33:50		237		-->		00:33:52		456		I'm sure it's been a long time. 
+		402		00:33:52		656		-->		00:33:57		127		Hmm. No. You have spent a century hunting us down. 
+		403		00:33:57		327		-->		00:33:59		500		She is trying to put an end to all that. 
+		404		00:33:59		704		-->		00:34:02		048		Yes, and luring us back and putting us in prison. 
+		405		00:34:02		249		-->		00:34:04		923		No, by accepting you back as free men. 
+		406		00:34:05		126		-->		00:34:07		720		Will you feed us? And clothe us too? 
+		407		00:34:07		921		-->		00:34:10		015		No, of course, I won't. 
+		408		00:34:10		215		-->		00:34:14		686		What I will do is give you the means to feed and clothe yourself. 
+		409		00:34:14		886		-->		00:34:17		730		We've set aside some land and you can use it to... 
+		410		00:34:21		184		-->		00:34:23		312		Land? 
+		411		00:34:24		354		-->		00:34:27		574		Do we look like farmers to you? 
+		412		00:34:27		774		-->		00:34:32		029		Then don't farm. Use the land as you wish. It's yours. 
+		413		00:34:32		237		-->		00:34:36		583		And the moment you set foot on it, you'll be better off than you are today. 
+		414		00:34:36		783		-->		00:34:39		002		You won't be running any longer. 
+		415		00:34:40		203		-->		00:34:42		956		- We will need autonomy. - Autonomy? 
+		416		00:34:43		164		-->		00:34:45		417		Sovereign, we can at least acknowledge that Chorgan appears willing to discuss your offer. 
+		418		00:34:52		632		-->		00:34:55		181		There are many levels of autonomy. 
+		419		00:34:55		385		-->		00:34:58		309		Certainly your region would have certain rights. 
+		420		00:34:58		513		-->		00:34:59		810		Yes. 
+		421		00:35:00		348		-->		00:35:06		606		And those rights will be spelled out before I agree to anything. 
+		422		00:35:07		939		-->		00:35:11		489		Commander, I am afraid the only entry we have on Volnoth in the Acamarian database is a birth record. 
+		424		00:35:15		196		-->		00:35:18		621		Probably one of the last of the Gatherers to be born on their planet. 
+		425		00:35:19		034		-->		00:35:20		081		CRUSHER Commander, 
+		426		00:35:21		077		-->		00:35:24		672		I've been digging through the medical database from Acamar Ill for hours. 
+		427		00:35:24		873		-->		00:35:29		219		And I have found another victim of the same microvirus that killed Volnoth. 
+		428		00:35:29		419		-->		00:35:31		296		But only one. 
+		429		00:35:31		504		-->		00:35:35		509		Fifty-three years ago, a Gatherer named Penthor-Mul. 
+		430		00:35:35		717		-->		00:35:39		062		Data, anything in your file on Penthor-Mul? 
+		431		00:35:39		638		-->		00:35:42		642		Yes, sir. He was a member of the Lornack clan. 
+		432		00:35:42		849		-->		00:35:45		352		He was captured while leading a Gatherer raid on an Acamarian outpost. 
+		434		00:35:48		396		-->		00:35:50		945		He died of a heart attack before his trial ended. 
+		435		00:35:52		984		-->		00:35:56		113		Display Volnoth's birth record again. 
+		436		00:36:02		077		-->		00:36:04		205		Lornack, the same clan. 
+		437		00:36:04		746		-->		00:36:08		501		The only two recorded deaths by this microvirus, both from the same clan. 
+		438		00:36:08		667		-->		00:36:09		919		What does that tell us, doctor? 
+		439		00:36:10		919		-->		00:36:13		013		If these microbes were engineered for murder, 
+		440		00:36:13		213		-->		00:36:16		717		I'd say somebody could be going after a whole family. 
+		441		00:36:16		925		-->		00:36:20		975		Commander, Chorgan, the present leader of the Gatherers, is also from the Lornack clan. 
+		443		00:36:23		807		-->		00:36:25		327		I wanna know how this clan was involved with the Acamarian blood feuds. 
+		445		00:36:27		143		-->		00:36:29		987		And I'd like to know any clue as to who their enemies were. 
+		446		00:36:30		188		-->		00:36:32		361		How could this virus have been transmitted, doctor? 
+		447		00:36:32		565		-->		00:36:34		158		More ways than I can count. 
+		448		00:36:34		359		-->		00:36:36		032		And it's perfectly safe to the carrier as long as he doesn't have the same DNA patterns. 
+		450		00:36:38		738		-->		00:36:40		456		Tailor-made for their enemies. 
+		451		00:36:40		657		-->		00:36:43		627		Commander, 80 years ago, the Lornacks massacred a rival clan, the Tralestas. 
+		453		00:36:47		664		-->		00:36:50		292		It ended a feud that had lasted for 200 years. 
+		454		00:36:50		500		-->		00:36:51		547		Ended it? 
+		455		00:36:51		751		-->		00:36:54		220		According to these records, there were no survivors. 
+		456		00:36:54		421		-->		00:36:56		423		The Tralestas were annihilated. 
+		457		00:36:56		631		-->		00:36:59		680		Something tells me they weren't all wiped out. 
+		458		00:36:59		884		-->		00:37:01		852		There must be a missing link here. 
+		459		00:37:02		053		-->		00:37:05		148		Computer, any members of the Acamarian delegation from the Tralesta clan? 
+		461		00:37:07		892		-->		00:37:10		862		<i>Clan affiliation is not within provided records.</i> 
+		462		00:37:11		521		-->		00:37:13		023		Sir, 
+		463		00:37:13		648		-->		00:37:17		278		I believe I have found a correlation between the two deaths. 
+		464		00:37:17		736		-->		00:37:20		410		Your missing link. 
+		465		00:37:24		909		-->		00:37:28		539		That is Penthor-Mul being led from his trial. 
+		466		00:37:29		289		-->		00:37:31		007		I don't see the connection. 
+		467		00:37:31		207		-->		00:37:33		460		Behind him and to the left, sir. 
+		468		00:37:33		668		-->		00:37:36		922		Computer, scan left and magnify. 
+		469		00:37:40		341		-->		00:37:44		096		The computer can extrapolate and reconstruct the rest of the face, sir. 
+		470		00:37:44		304		-->		00:37:45		772		Do it. 
+		471		00:37:51		352		-->		00:37:56		233		But that photograph was taken over 50 years ago. 
+		472		00:37:59		778		-->		00:38:04		375		Fifty-three years ago, and she hasn't aged a day. 
+		473		00:38:15		668		-->		00:38:18		296		Three seats on the ruling council? 
+		474		00:38:18		505		-->		00:38:23		011		If we're going to be subject to your law, we want a part in making it. 
+		475		00:38:23		218		-->		00:38:26		563		Well, I agree you're entitled to representation, but not on the ruling council. 
+		477		00:38:29		224		-->		00:38:31		226		Unacceptable. 
+		478		00:38:31		434		-->		00:38:33		812		The real power is in the council. 
+		479		00:38:34		020		-->		00:38:35		522		You are shutting us off already. 
+		480		00:38:35		730		-->		00:38:37		903		No, you're trying to take too much! 
+		481		00:38:38		107		-->		00:38:40		405		No group has three seats on the council! 
+		482		00:38:40		610		-->		00:38:43		079		I don't care what others have! 
+		483		00:38:43		279		-->		00:38:47		204		You only care about what you can take! 
+		484		00:38:47		408		-->		00:38:50		958		Sovereign, if the situation were reversed, 
+		485		00:38:51		162		-->		00:38:55		417		I'm sure you would be demanding equal levels of representation. 
+		486		00:38:57		585		-->		00:38:59		633		You're right, captain. 
+		487		00:39:01		256		-->		00:39:04		100		I apologize for my temper. 
+		488		00:39:15		895		-->		00:39:19		991		Perhaps a brief pause would be helpful. 
+		489		00:39:21		484		-->		00:39:23		236		I agree. 
+		490		00:39:24		487		-->		00:39:26		205		Hmm. 
+		491		00:39:26		364		-->		00:39:29		117		Maybe a little touch of that brandy. 
+		492		00:39:30		034		-->		00:39:31		081		Yuta. 
+		493		00:39:32		036		-->		00:39:33		754		You know... Thank you. 
+		494		00:39:33		955		-->		00:39:38		631		It is remarkable how very much alike the two of you actually are. 
+		495		00:39:38		835		-->		00:39:40		462		- That's ridiculous. - Really, captain. 
+		496		00:39:40		670		-->		00:39:41		967		No, I'm quite serious. 
+		497		00:39:42		171		-->		00:39:45		220		You are both able negotiators, strong leaders... 
+		498		00:39:45		425		-->		00:39:46		893		We don't obey weak leaders. 
+		499		00:39:47		093		-->		00:39:49		613		We have nothing in common at all. We haven't agreed to anything. 
+		500		00:39:49		804		-->		00:39:51		522		You're wrong, Chorgan. 
+		501		00:39:51		723		-->		00:39:53		851		We have agreed to have some brandy together. 
+		502		00:39:58		479		-->		00:40:00		652		- Don't move. - A Federation trap! 
+		503		00:40:01		149		-->		00:40:06		246		Chorgan, I assure you, my first officer has a very good reason for his actions. 
+		504		00:40:06		446		-->		00:40:08		540		You do, Number One? 
+		505		00:40:09		032		-->		00:40:12		536		Yuta, move away from Chorgan. 
+		506		00:40:12		744		-->		00:40:14		587		- Do it. - Why? 
+		507		00:40:15		038		-->		00:40:18		133		Because of a man you once knew named Penthor-Mul. 
+		508		00:40:18		333		-->		00:40:19		801		Penthor-Mul? 
+		509		00:40:20		001		-->		00:40:22		754		- How do you know Penthor-Mul? - Tell him, Yuta. 
+		510		00:40:24		714		-->		00:40:25		761		I don't understand. 
+		511		00:40:25		965		-->		00:40:28		935		You were with Penthor-Mul when he died. 
+		512		00:40:29		344		-->		00:40:33		724		- It was 5O years ago. How could I...? - I know, Yuta. 
+		513		00:40:33		932		-->		00:40:37		482		Stop! Chorgan, keep perfectly still. 
+		514		00:40:37		685		-->		00:40:41		064		Your life is in danger. Step back, Yuta. 
+		515		00:40:43		733		-->		00:40:46		532		- William, this is not your concern. - It is now. 
+		516		00:40:47		111		-->		00:40:48		704		You're about to commit a murder. 
+		517		00:40:48		905		-->		00:40:52		876		It isn't murder! It's justice. 
+		518		00:40:53		076		-->		00:40:54		453		Who are you? 
+		519		00:40:55		662		-->		00:40:57		881		Yuta of the clan Tralesta. 
+		520		00:40:58		081		-->		00:41:00		334		There are no more Tralestas. 
+		521		00:41:01		459		-->		00:41:04		429		Five survived the last Lornack raid. 
+		522		00:41:04		796		-->		00:41:07		094		But on that day a century ago, my life ended and my search began. 
+		524		00:41:13		972		-->		00:41:18		102		I was the one chosen, transformed. 
+		525		00:41:18		685		-->		00:41:23		065		My cells were altered, my aging slowed, enough to finish my task. 
+		527		00:41:25		483		-->		00:41:29		533		You used me in order to get to the last few you couldn't reach. 
+		528		00:41:29		737		-->		00:41:31		034		Yes, sovereign. 
+		529		00:41:31		239		-->		00:41:34		664		You will never leave this ship alive. 
+		530		00:41:34		867		-->		00:41:36		869		You're the last. 
+		531		00:41:37		078		-->		00:41:42		380		Once you're dead, what happens to me doesn't matter. 
+		532		00:41:42		583		-->		00:41:44		176		The wars are over, Yuta. 
+		533		00:41:45		920		-->		00:41:49		424		- You cannot understand. - You're right, I can't. 
+		534		00:41:49		632		-->		00:41:52		232		Because I've seen the part of you that regrets what you've become. 
+		535		00:41:52		427		-->		00:41:56		182		Listen to me. You don't have to do this anymore. 
+		536		00:42:00		101		-->		00:42:01		774		I have no choice. 
+		537		00:42:02		311		-->		00:42:03		858		You do. 
+		538		00:42:05		815		-->		00:42:07		692		William, I... 
+		539		00:42:09		444		-->		00:42:10		946		I'm sorry. 
+		540		00:42:12		113		-->		00:42:13		740		Stop! 
+		541		00:42:31		716		-->		00:42:33		343		Yuta. 
+		542		00:42:39		223		-->		00:42:41		317		Don't do this. 
+		543		00:43:07		001		-->		00:43:10		801		Commander, I am in your debt. 
+		544		00:43:38		533		-->		00:43:40		456		Oh, yes, thank you. 
+		545		00:43:46		374		-->		00:43:47		796		New orders from Starfleet. 
+		546		00:43:48		000		-->		00:43:49		502		The rendezvous... Nothing, thank you. 
+		547		00:43:49		710		-->		00:43:52		133		Rendezvous with the Garcia has been postponed. 
+		548		00:43:52		338		-->		00:43:57		094		- In the meantime? - Starbase 343. 
+		549		00:43:57		301		-->		00:44:00		726		We're gonna take on medical supplies for the Alpha Leonis system. 
+		550		00:44:00		930		-->		00:44:03		228		Sounds pretty routine. 
+		551		00:44:03		432		-->		00:44:06		732		Well, with the Gatherer truce in effect, it certainly should be. 
+		552		00:44:06		936		-->		00:44:08		358		Oh. 
+		553		00:44:08		563		-->		00:44:12		067		We won't require a full ship's complement. 
+		554		00:44:12		608		-->		00:44:16		613		I'm going to extend short leave on the starbase to anyone who wants it. 
+		555		00:44:20		116		-->		00:44:23		086		I'll pass that along to the crew, captain. 

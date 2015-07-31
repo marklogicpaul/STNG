@@ -1,0 +1,545 @@
+		1		00:00:03		395		-->		00:00:06		728		Captain's Log, stardate <stardate>44286</stardate>.5. 
+		2		00:00:06		765		-->		00:00:09		165		The <i>Enterprise</i> is conducting a security survey of the Onias Sector near the Neutral Zone. 
+		4		00:00:11		837		-->		00:00:14		431		Despite our proximity to Romulan territory the mission has been quiet and uneventful. 
+		6		00:00:25		217		-->		00:00:27		185		All right, Commander, you've got until your next birthday to get that right. 
+		8		00:00:29		221		-->		00:00:30		552		Some things improve with age. 
+		9		00:00:30		589		-->		00:00:32		853		Maybe your trombone playing will be one of them. lt's candle time, birthday boy. 
+		11		00:00:37		829		-->		00:00:39		524		Whoo! All right. 
+		12		00:00:39		564		-->		00:00:42		533		So, what did you wish for, Will? 
+		13		00:00:42		567		-->		00:00:43		966		Music lessons. 
+		14		00:00:49		241		-->		00:00:50		765		Mr. Data, we must hurry or we'll miss Commander Riker's party. 
+		16		00:00:53		578		-->		00:00:57		207		Sir, l find it interesting how much importance humans place on celebrating the day of their birth--  a day they cannot possibly remember. 
+		19		00:01:00		919		-->		00:01:03		410		Captain, l am detecting some unusual fluctuations in subspace frequencies. 
+		21		00:01:07		392		-->		00:01:10		122		We'd better take a look at it, Mr. Data. lt appears we are being probed, sir. 
+		23		00:01:17		202		-->		00:01:18		635		The source? 
+		24		00:01:18		670		-->		00:01:21		332		The third planet of the Alpha Onias system. 
+		25		00:01:21		373		-->		00:01:24		672		Our reports list it as presently uninhabited. 
+		26		00:01:24		710		-->		00:01:27		508		Perhaps reports were incorrect, sir. 
+		27		00:01:27		546		-->		00:01:30		947		Or maybe the rumors of a secret Romulan base in this sector are true. 
+		29		00:01:34		553		-->		00:01:36		350		Picard to Commander Riker. l apologize for interrupting your celebration  but l'm going to need an away team. 
+		32		00:01:41		059		-->		00:01:42		924		Would you report to the Bridge, please? 
+		33		00:01:53		939		-->		00:01:57		067		Although Alpha Onias lll is a Class-M planet our survey teams have listed it as ''barren and inhospitable.'' 
+		35		00:02:01		246		-->		00:02:02		474		Any life signs? 
+		36		00:02:02		514		-->		00:02:03		640		No, sir. 
+		37		00:02:03		682		-->		00:02:06		014		But we have traced residual energy readings to a cavern two kilometers beneath the surface. 
+		39		00:02:08		520		-->		00:02:09		817		Romulans. lt is possible.  l suppose you'll just  have to go down there and find out. 
+		43		00:02:13		725		-->		00:02:16		159		Geordi, Worf, you're with me. 
+		44		00:02:16		194		-->		00:02:18		560		Number One? 
+		45		00:02:18		597		-->		00:02:20		360		Happy birthday. l'm detecting high levels of volcanic gases--  sulfur dioxide, methane, hydrogen sulfide. 
+		48		00:02:46		892		-->		00:02:48		189		Toxic? 
+		49		00:02:48		226		-->		00:02:50		160		Uh, we're okay for now, but l wouldn't want to spend my vacation here. 
+		51		00:02:53		832		-->		00:02:55		527		What about energy readings? 
+		52		00:02:55		567		-->		00:02:57		398		Magnetic clutter is increasing. l cannot make an accurate determination. 
+		54		00:02:59		304		-->		00:03:00		635		Same here, Commander. l'm getting a lot of confusing readings here. 
+		56		00:03:03		508		-->		00:03:06		272		Picard to Riker, please acknowledge. 
+		57		00:03:06		311		-->		00:03:07		539		Riker here. 
+		58		00:03:07		579		-->		00:03:09		479		We're having trouble reading you. 
+		59		00:03:09		514		-->		00:03:12		244		And we're having similar difficulties reading you. l'm advising you and your away team  to transport up at once. 
+		62		00:03:16		354		-->		00:03:17		651		That's good advice, Commander. 
+		63		00:03:17		689		-->		00:03:19		054		We've got a sudden build-up of gases here, especially methane. 
+		65		00:03:20		826		-->		00:03:24		159		Transporter Room, take us up. l can't get a solid lock on you, sir. 
+		67		00:03:27		966		-->		00:03:29		729		There's too much interference. l'm trying again. 
+		69		00:03:33		705		-->		00:03:35		172		Transporter Room, what's happening? 
+		70		00:03:35		240		-->		00:03:36		502		Report! l'm trying again, sir. 
+		72		00:03:54		459		-->		00:03:56		950		Dr. Crusher, he's awake. 
+		73		00:03:59		397		-->		00:04:00		921		Beverly. 
+		74		00:04:00		966		-->		00:04:03		366		Will, you remember me. 
+		75		00:04:03		401		-->		00:04:05		392		That's good. 
+		76		00:04:05		437		-->		00:04:08		167		What else do you remember, Captain? 
+		77		00:04:10		442		-->		00:04:12		876		Captain? 
+		78		00:04:45		844		-->		00:04:50		372		Space, the final frontier. 
+		79		00:04:50		415		-->		00:04:54		181		These are the voyages of the Starship <i>Enterprise.</i> lts continuing mission--  to explore strange new worlds  to seek out new life and new civilizations  to boldly go where no one has gone before. 
+		84		00:06:09		461		-->		00:06:12		624		Water, three Celsius. 
+		85		00:06:22		107		-->		00:06:24		041		How do you feel? 
+		86		00:06:24		075		-->		00:06:26		339		Confused. 
+		87		00:06:26		378		-->		00:06:30		109		That's understandable, considering what's happened. 
+		88		00:06:32		384		-->		00:06:33		783		What has happened? 
+		89		00:06:33		818		-->		00:06:35		149		What happened to Sick Bay? 
+		90		00:06:35		253		-->		00:06:38		154		To you... to me? 
+		91		00:06:38		189		-->		00:06:40		316		Sit down, Captain. 
+		92		00:06:40		358		-->		00:06:43		156		Captain? l am Commander William T. Riker. 
+		93		00:06:43		194		-->		00:06:44		889		What is going on here? 
+		94		00:06:44		929		-->		00:06:46		294		Sit. 
+		95		00:06:46		331		-->		00:06:48		299		Please. 
+		96		00:06:51		870		-->		00:06:57		103		What is the last thing that you remember clearly? 
+		97		00:06:57		142		-->		00:06:59		110		Alpha Onias lll. 
+		98		00:06:59		144		-->		00:07:01		442		The <i>Enterprise</i> had been probed. 
+		99		00:07:01		479		-->		00:07:05		882		Geordi, Worf and l transported down to track the source. 
+		100		00:07:05		917		-->		00:07:08		784		But all you found there was toxic gas. 
+		101		00:07:08		820		-->		00:07:12		779		They barely had time to get the three of you out. 
+		102		00:07:12		824		-->		00:07:17		818		Will, that happened 16 years ago. 
+		103		00:07:22		033		-->		00:07:24		627		That's not possible. 
+		104		00:07:24		669		-->		00:07:27		638		With an Altarian virus, anything is possible. ln fact, we've been expecting this. 
+		106		00:07:32		844		-->		00:07:35		142		Could you be more specific? 
+		107		00:07:35		246		-->		00:07:38		477		That day on Onias lll, you were infected with a strain of Altarian encephalitis--  a retrovirus that incorporates its DNA  directly into the cells of its host.  lt can lie dormant for many years  and then suddenly become active again  as it did in your case ten days ago. 
+		114		00:07:54		866		-->		00:07:57		767		You have been in a coma, delirious. 
+		115		00:07:57		802		-->		00:08:00		635		Your fever finally broke this morning. 
+		116		00:08:00		672		-->		00:08:03		732		But what happened to my memory? 
+		117		00:08:05		143		-->		00:08:08		806		Let me show you a scan of your brain tissue. 
+		118		00:08:13		651		-->		00:08:16		119		When the encephalitis became active it caused widespread synapse degradation  interrupting the consolidation of your memory patterns. 
+		121		00:08:21		493		-->		00:08:23		051		Doctor. 
+		122		00:08:27		332		-->		00:08:29		960		Will, this virus inevitably causes memory loss back to the moment of the original infection.  ln your case, all the way back to Alpha Onias lll.  l don't believe this.  ls this a dream? 
+		127		00:08:42		180		-->		00:08:43		147		Feel my hand. lt is flesh and bone. 
+		129		00:08:44		849		-->		00:08:46		476		This is not a dream. 
+		130		00:08:46		518		-->		00:08:49		817		And you are, in fact, Captain William T. Riker in command of the <i>Enterprise.</i> 
+		132		00:08:51		956		-->		00:08:53		787		The <i>Enterprise.</i> 
+		133		00:08:53		825		-->		00:08:55		452		For how long? 
+		134		00:08:55		493		-->		00:08:57		427		Nine years. lf l've lost my memory, how do l get it back? 
+		136		00:09:04		602		-->		00:09:07		765		Memories are formed by association. 
+		137		00:09:07		806		-->		00:09:11		264		Smells, sounds and images from the present could possibly trigger them. 
+		139		00:09:13		144		-->		00:09:16		602		Like a song reminds you of an old friend. 
+		140		00:09:16		648		-->		00:09:17		774		Exactly. ln associational therapy  we expose the patient to familiar surroundings. 
+		143		00:09:21		920		-->		00:09:24		684		This could stimulate the brain's neural synapses into regenerating. 
+		145		00:09:25		790		-->		00:09:27		018		Well, then let's get started. 
+		146		00:09:27		058		-->		00:09:29		117		There's nothing more familiar than the <i>Enterprise.</i> 
+		147		00:09:29		194		-->		00:09:30		786		Maybe that'll bring back some of my... 
+		148		00:09:30		829		-->		00:09:32		854		Will. l said your memory could return.  ln many of these cases, the damage is permanent. 
+		151		00:09:47		119		-->		00:09:49		383		What about Geordi and Worf? 
+		152		00:09:49		421		-->		00:09:50		945		Were they infected, too? 
+		153		00:09:50		990		-->		00:09:51		957		Thankfully, no. 
+		154		00:09:51		991		-->		00:09:53		549		Geordi appears to have been immune and the Klingons don't seem to be affected by the virus. 
+		156		00:09:56		295		-->		00:09:57		762		Speaking of Klingons. 
+		157		00:09:57		796		-->		00:09:59		525		There have been quite a few changes on the <i>Enterprise</i> during the last 16 years. 
+		159		00:10:03		469		-->		00:10:04		663		Deck eight. 
+		160		00:10:04		703		-->		00:10:06		102		Belay that order. 
+		161		00:10:06		138		-->		00:10:08		072		We should begin the associational therapy in your quarters. 
+		163		00:10:09		408		-->		00:10:11		774		Personal recollections are always the most vivid. 
+		164		00:10:11		810		-->		00:10:13		903		My life was on the Main Bridge. 
+		165		00:10:13		946		-->		00:10:15		436		Always has been. lf anything's going to jog my memory... 
+		167		00:10:18		751		-->		00:10:19		809		Main Bridge. 
+		168		00:10:19		852		-->		00:10:22		116		Repeat command. l said, Main Bridge. 
+		170		00:10:23		989		-->		00:10:26		617		The computer's been slow all morning. 
+		171		00:10:26		658		-->		00:10:28		455		A processing attenuator is down. 
+		172		00:10:28		494		-->		00:10:30		086		Commander La Forge has been running a level-1 diagnostic on it to isolate the problem. 
+		174		00:10:38		837		-->		00:10:40		134		Geordi. 
+		175		00:10:40		172		-->		00:10:43		767		Oh, it's good to see you up and about again, sir. 
+		176		00:10:43		809		-->		00:10:47		142		Your eyes-- what happened to your VlSOR? 
+		177		00:10:47		246		-->		00:10:50		147		My VlSOR? 
+		178		00:10:50		182		-->		00:10:51		809		Oh, l'm sorry, sir. 
+		179		00:10:51		850		-->		00:10:53		875		Dr. Crusher told us that you might not remember. l haven't needed a VlSOR  since l got these cloned implants, Captain. 
+		182		00:11:09		134		-->		00:11:10		567		Captain. 
+		183		00:11:13		305		-->		00:11:14		397		Welcome back, Captain. 
+		184		00:11:14		440		-->		00:11:17		102		We were not expecting to see you on the Bridge so soon. 
+		185		00:11:17		142		-->		00:11:20		634		Commander Data, you are my First Officer? 
+		186		00:11:20		679		-->		00:11:22		408		Do you remember, sir? 
+		187		00:11:22		448		-->		00:11:27		317		Data, l haven't remembered a day for the last 16 years. 
+		188		00:11:27		352		-->		00:11:28		785		Captain, warbird uncloaking. 
+		189		00:11:28		821		-->		00:11:30		379		On screen. 
+		190		00:11:33		492		-->		00:11:35		517		Shields up. 
+		191		00:11:35		561		-->		00:11:36		789		Red Alert. 
+		192		00:11:36		829		-->		00:11:41		095		Captain, we were expecting the <i>Decius.</i> 
+		193		00:11:41		133		-->		00:11:42		964		There is no cause for alarm. 
+		194		00:11:46		505		-->		00:11:49		633		Cancel Red Alert. 
+		195		00:11:49		675		-->		00:11:52		906		Clearly, l need to be briefed. 
+		196		00:11:52		945		-->		00:11:55		004		Captain, the <i>Decius</i> is hailing us. 
+		197		00:11:55		047		-->		00:11:57		982		The Admiral wishes to speak to you. 
+		198		00:11:59		952		-->		00:12:01		476		On screen. 
+		199		00:12:02		387		-->		00:12:04		378		Will. 
+		200		00:12:07		459		-->		00:12:09		290		Admiral Picard. 
+		201		00:12:09		328		-->		00:12:10		295		Deanna. 
+		202		00:12:10		329		-->		00:12:11		921		How are you feeling? l've been better. 
+		204		00:12:13		298		-->		00:12:14		595		Not surprising. 
+		205		00:12:14		633		-->		00:12:17		033		Altarian viruses can be a nasty business. 
+		206		00:12:17		069		-->		00:12:18		036		That's an understatement. l can't even... 
+		208		00:12:19		171		-->		00:12:21		503		We'll discuss this after we've transported over. 
+		209		00:12:21		540		-->		00:12:22		529		Picard out. 
+		210		00:12:33		418		-->		00:12:36		979		Transporter Room Six. 
+		211		00:12:37		022		-->		00:12:39		456		How are you holding up? l could get used to the idea of a Ferengi ensign  but Admiral Picard aboard a Romulan warbird? 
+		214		00:12:46		365		-->		00:12:48		333		What is that all about? l think l should leave all the explanations  to the Admiral. 
+		217		00:12:55		340		-->		00:12:57		604		Whenever you're ready, Chief. 
+		218		00:13:05		651		-->		00:13:06		675		Captain Riker it's good to see you've recovered.  l'm not exactly sure you'd call it a recovery, sir. 
+		221		00:13:12		524		-->		00:13:15		084		Then there has been some memory loss? 
+		222		00:13:16		628		-->		00:13:18		255		How much? 
+		223		00:13:18		297		-->		00:13:21		664		Everything after Alpha Onias lll. 
+		224		00:13:21		700		-->		00:13:25		431		To lose 16 years... it's almost beyond belief.  l have trouble believing it myself.  lt's so overwhelming to have so much of your life missing. 
+		228		00:13:35		147		-->		00:13:37		342		And it couldn't have happened at a worse time. 
+		229		00:13:37		382		-->		00:13:39		680		A few more days of relatively simple negotiation and the treaty will be signed. 
+		231		00:13:41		220		-->		00:13:43		347		What negotiations? What treaty? 
+		232		00:13:43		388		-->		00:13:44		685		Sorry. l'll start at the beginning...  which is four years ago. 
+		235		00:13:50		329		-->		00:13:53		821		A Romulan battle cruiser strayed into Federation space. lts warp coils had collapsed. 
+		237		00:13:55		734		-->		00:13:57		224		Life support was failing. 
+		238		00:13:57		269		-->		00:13:58		634		You saved them, Will. 
+		239		00:13:58		670		-->		00:14:00		297		You and the <i>Enterprise.</i> 
+		240		00:14:00		339		-->		00:14:05		072		The Romulans were... impressed to say the least. 
+		241		00:14:05		143		-->		00:14:08		078		After years of distrust and conflict they started to talk. 
+		243		00:14:10		616		-->		00:14:12		481		You were our key spokesman in securing the alliance with the Romulans. 
+		245		00:14:15		654		-->		00:14:18		316		How far have these negotiations progressed? 
+		246		00:14:18		357		-->		00:14:19		619		The preliminaries are over. 
+		247		00:14:19		658		-->		00:14:22		092		All we need do now is escort the Romulan Ambassador to the final session. 
+		249		00:14:23		195		-->		00:14:25		288		Where you will complete the negotiations and sign the treaty. 
+		251		00:14:27		466		-->		00:14:29		434		Captain... 
+		252		00:14:29		468		-->		00:14:32		437		Admiral l am in no condition to negotiate with the Romulans  or with anyone else. 
+		255		00:14:36		742		-->		00:14:39		210		Will, you're sound of mind and body. lf you are properly briefed  you'll still be able to fulfill your duty. 
+		258		00:14:43		515		-->		00:14:46		109		With a 16-year gap in my head? 
+		259		00:14:46		218		-->		00:14:49		449		We do need you. 
+		260		00:14:52		824		-->		00:14:58		558		Sir, l'm not fit to resume command. l appreciate your candor  but despite your condition, there is no one better equipped  to deal with the Romulans than you. 
+		264		00:15:14		112		-->		00:15:15		773		When do we leave? 
+		265		00:15:15		814		-->		00:15:19		580		As soon as the Ambassador transports over from the <i>Decius.</i> 
+		266		00:15:19		618		-->		00:15:24		681		We will get through this... as we have many times before. l hope so. 
+		268		00:15:30		128		-->		00:15:33		097		Let me take you to your quarters. 
+		269		00:15:33		131		-->		00:15:34		598		Good idea. l've had enough surprises for one day. 
+		271		00:15:47		679		-->		00:15:50		045		Anything familiar? 
+		272		00:15:58		190		-->		00:16:00		954		Hi, Dad. 
+		273		00:16:09		601		-->		00:16:13		332		...and then Mr. Greenburg asked about the Fornax Disaster and l knew the <i>Enterprise</i> saved all the colonists  but l didn't know... 
+		276		00:16:18		777		-->		00:16:20		768		Ah, here it is. 
+		277		00:16:24		116		-->		00:16:26		380		But l didn't know the exact stardate of when their sun went nova. 
+		279		00:16:28		286		-->		00:16:30		584		So if you tell it to me, l'll write it down and that way l won't forget. 
+		281		00:16:37		796		-->		00:16:41		493		You don't remember me, do you? l'm sorry.  l need to talk to your father, Jean-Luc. 
+		284		00:16:48		373		-->		00:16:50		864		Would you mind leaving us alone just for a moment? 
+		285		00:17:04		289		-->		00:17:06		587		Why didn't you warn me? 
+		286		00:17:06		625		-->		00:17:09		890		Beverly hoped that meeting him like this might make an impact-- help you remember. 
+		288		00:17:13		465		-->		00:17:16		059		Well, it made an impact, all right. 
+		289		00:17:16		101		-->		00:17:18		296		Give it time. 
+		290		00:17:22		107		-->		00:17:24		507		Jean-Luc. 
+		291		00:17:24		543		-->		00:17:26		738		Yes. 
+		292		00:17:26		778		-->		00:17:30		942		The Admiral was very pleased when you chose that name. 
+		293		00:17:37		456		-->		00:17:40		016		He's a wonderful boy. 
+		294		00:17:42		294		-->		00:17:43		784		Deanna... who's his mother? 
+		296		00:17:51		470		-->		00:17:53		597		She died two years ago. 
+		297		00:17:55		073		-->		00:17:57		473		A shuttle accident. l'm sorry, Will.  l have no recollection of her at all. 
+		300		00:18:10		088		-->		00:18:13		751		What was she like? 
+		301		00:18:15		760		-->		00:18:18		820		Min was beautiful of course. 
+		303		00:18:20		932		-->		00:18:22		160		Strong intelligent, patient. 
+		305		00:18:25		570		-->		00:18:27		902		Well, she was married to me. 
+		306		00:18:27		939		-->		00:18:29		907		She had to be patient. 
+		307		00:18:29		941		-->		00:18:33		069		She was an excellent Captain's wife and a very good ship's Counselor. 
+		309		00:18:37		516		-->		00:18:39		984		She took over after l left. l can't imagine you leaving the <i>Enterprise.</i> 
+		311		00:18:44		289		-->		00:18:48		248		Admiral Picard offered me a position at Starfleet Command.  lt was a tremendous opportunity.  l couldn't refuse. 
+		315		00:18:57		903		-->		00:19:02		033		But what's important right now, today is that you have a son who needs you. 
+		317		00:19:07		913		-->		00:19:10		177		Spend time with him. 
+		318		00:19:12		250		-->		00:19:15		742		You may find part of what you've lost. 
+		319		00:19:34		764		-->		00:19:36		391		Pretty bad, huh? l've heard better.  l've been practicing  but l... l still can't get a good tone. 
+		323		00:19:42		439		-->		00:19:43		838		You're putting too much pressure on the mouthpiece. 
+		325		00:19:44		874		-->		00:19:45		841		Relax the embouchure. 
+		326		00:19:45		875		-->		00:19:47		433		Don't use any muscles you don't need. 
+		327		00:19:47		477		-->		00:19:49		445		Show me again. 
+		328		00:19:51		114		-->		00:19:54		106		Left hand, right hand. 
+		329		00:20:08		798		-->		00:20:10		766		16 years, you'd think l'd be able to hit that note. 
+		330		00:20:10		800		-->		00:20:11		926		Come on, Dad. 
+		331		00:20:11		968		-->		00:20:13		868		You always make that mistake. 
+		332		00:20:19		809		-->		00:20:22		437		Computer, summarize service record 
+		333		00:20:22		479		-->		00:20:24		606		Riker, William T., Captain. 
+		334		00:20:24		647		-->		00:20:27		115		Begin with the Fornax Disaster. 
+		335		00:20:27		150		-->		00:20:28		947		Please restate question. 
+		336		00:20:28		985		-->		00:20:33		115		Service record, Riker, William T. 
+		337		00:20:33		156		-->		00:20:35		147		Damn it. 
+		338		00:20:36		826		-->		00:20:37		793		Dad? 
+		339		00:20:37		827		-->		00:20:39		294		Computer lag. l can't believe Geordi's still running his diagnostic.  ls, um, that what you wanted? 
+		342		00:20:48		671		-->		00:20:50		298		Picard to Captain Riker. 
+		343		00:20:50		340		-->		00:20:51		807		The Romulan Ambassador is ready to transport over from the <i>Decius.</i> 
+		345		00:20:54		778		-->		00:20:55		904		On my way. l've got to go. 
+		347		00:20:57		113		-->		00:20:58		580		Sure. 
+		348		00:20:58		615		-->		00:21:00		446		Dad? 
+		349		00:21:00		483		-->		00:21:02		974		Everything's going to be fine. 
+		350		00:21:07		390		-->		00:21:08		379		-Thanks. -Bye. 
+		351		00:21:09		392		-->		00:21:10		586		Troi tells me you met Jean-Luc. 
+		352		00:21:10		627		-->		00:21:13		755		How is my namesake holding up to all this? 
+		353		00:21:13		797		-->		00:21:15		264		Better than l am. 
+		354		00:21:15		298		-->		00:21:16		959		We did our best to prepare him. l'm trying to catch up with all this.  l've still got a long way to go-- a long way. 
+		357		00:21:21		771		-->		00:21:23		762		Just follow my lead with the Ambassador. 
+		358		00:21:23		807		-->		00:21:24		933		You'll be fine. 
+		359		00:21:24		974		-->		00:21:26		100		The <i>Decius</i> reports the Ambassador is waiting to transport. 
+		361		00:21:28		812		-->		00:21:30		973		Beam him aboard. 
+		362		00:21:38		321		-->		00:21:40		619		Admiral Picard, Captain Riker. lt's good to see you again. 
+		364		00:21:42		725		-->		00:21:46		024		Ambassador Tomalak, welcome aboard the <i>Enterprise.</i> 
+		365		00:21:46		062		-->		00:21:47		086		Thank you, Admiral. lt is an honor to be the first Romulan  to freely walk about a Federation starship. 
+		368		00:21:56		940		-->		00:21:59		704		Ambassador Tomalak? 
+		369		00:21:59		742		-->		00:22:01		334		At Nelvana lll, he threatened to take the hull of the <i>Enterprise</i> home  as a war trophy. 
+		372		00:22:04		681		-->		00:22:07		241		That was a long time ago. 
+		373		00:22:07		283		-->		00:22:11		219		Many things have changed, including Tomalak. 
+		374		00:22:14		290		-->		00:22:17		191		As soon as we arrive at your Outpost 23 the final negotiations should go quickly.  l agree, Ambassador. 
+		377		00:22:20		497		-->		00:22:22		089		All of the difficult issues have been resolved. 
+		378		00:22:22		198		-->		00:22:23		426		After much debate. 
+		379		00:22:23		466		-->		00:22:26		435		Your Captain Riker is the kind of negotiator even the Ferengi should avoid. 
+		381		00:22:28		705		-->		00:22:31		765		But we have come to an agreement both sides are happy with. 
+		382		00:22:31		808		-->		00:22:33		332		Largely thanks to Captain Riker. 
+		383		00:22:33		376		-->		00:22:34		775		And we are grateful, Captain. 
+		384		00:22:34		811		-->		00:22:38		110		The new alliance will greatly benefit my people. 
+		385		00:22:38		148		-->		00:22:39		945		As l hope it will benefit mine. 
+		386		00:22:39		983		-->		00:22:41		644		Oh, it will, Captain, it will. 
+		387		00:22:48		992		-->		00:22:50		823		Main Bridge. 
+		388		00:22:50		860		-->		00:22:53		124		The virus you contracted, Captain-- have you fully recovered?  l assure you, Captain Riker is quite well. 
+		391		00:22:56		432		-->		00:22:57		899		He is looking forward to attending the final negotiations as planned. 
+		393		00:23:00		503		-->		00:23:01		800		Excellent. 
+		394		00:23:01		838		-->		00:23:05		740		The signing of this treaty is an historic occasion. 
+		395		00:23:05		775		-->		00:23:08		869		You, of all people, deserve to be there. 
+		396		00:23:08		912		-->		00:23:12		177		Thank you... Ambassador. 
+		397		00:23:17		620		-->		00:23:21		249		So this is the Bridge of the <i>Enterprise.</i> 
+		398		00:23:21		291		-->		00:23:23		054		And this, l assume is your tactical position?  lmpressive. 
+		401		00:23:27		297		-->		00:23:28		730		Excuse me. 
+		402		00:23:28		765		-->		00:23:31		757		Admiral, Deanna, l need a moment with you. 
+		403		00:23:31		801		-->		00:23:33		098		Commander Data, if you would accompany the Ambassador on his... tour? 
+		405		00:23:35		271		-->		00:23:36		704		Certainly, sir. 
+		406		00:23:36		739		-->		00:23:38		639		Excuse us, Ambassador. 
+		407		00:23:41		377		-->		00:23:43		607		Ambassador, you may find this of interest. 
+		408		00:23:43		646		-->		00:23:45		273		These newly refined sensors are capable of pinpointing power emissions  of a cloaked warbird even at warp. 
+		411		00:23:50		153		-->		00:23:52		451		You say you trust Tomalak? l trust the process  we have built with the Romulans  over the past four years. 
+		415		00:23:57		427		-->		00:23:59		918		They have nothing to gain by betrayal. 
+		416		00:23:59		963		-->		00:24:01		123		Are you sure? 
+		417		00:24:01		197		-->		00:24:04		064		You've always said it's a chess game with the Romulans-- move, countermove, guile and deceit.  l sense no such dishonesty in Tomalak. 
+		420		00:24:09		272		-->		00:24:11		900		His desire for peace is sincere. 
+		421		00:24:11		941		-->		00:24:13		909		He wants this alliance. 
+		422		00:24:13		943		-->		00:24:16		571		There's no cause for concern. 
+		423		00:24:16		613		-->		00:24:18		240		No cause for concern? 
+		424		00:24:18		281		-->		00:24:21		910		We're talking about revealing the location of Outpost 23-- the key to all of our defenses in the Neutral Zone.  l'm sorry, Will. 
+		427		00:24:26		456		-->		00:24:28		924		Your information is out of date. 
+		428		00:24:28		958		-->		00:24:32		587		The strategic importance of Outpost 23 is minimal. 
+		429		00:24:32		629		-->		00:24:34		096		Has been for years. 
+		430		00:24:34		163		-->		00:24:35		926		Dr. Crusher to Riker. 
+		431		00:24:35		965		-->		00:24:37		762		Are you there, Captain? 
+		432		00:24:37		800		-->		00:24:39		097		What is it, Doctor? 
+		433		00:24:39		135		-->		00:24:40		864		Your son has been injured. 
+		434		00:24:40		903		-->		00:24:43		098		He's been taken to Sick Bay. 
+		435		00:24:43		172		-->		00:24:45		470		You'd better come down here right away. 
+		436		00:24:51		481		-->		00:24:52		448		Dad. 
+		437		00:24:52		482		-->		00:24:54		006		Are you all right? l'm fine. 
+		439		00:24:55		051		-->		00:24:56		279		What happened? lt's broken  but it's going to be all right in just a minute. 
+		442		00:25:01		291		-->		00:25:05		785		Now, let's go easy on this arm for a little while, okay? 
+		443		00:25:05		828		-->		00:25:07		523		How did this happen? l was in the gym...  playing parrises squares. 
+		446		00:25:11		401		-->		00:25:12		868		Parrises squares? l fell off the ramp. 
+		448		00:25:14		737		-->		00:25:18		070		At your age, you could break your neck! l'm sorry.  l didn't mean to. 
+		451		00:25:20		643		-->		00:25:22		577		Continue the compression attenuator for another two minutes. 
+		453		00:25:24		047		-->		00:25:25		014		Yes, Doctor. 
+		454		00:25:25		048		-->		00:25:26		743		Can l talk to you for a moment? l'll be right back. 
+		456		00:25:32		555		-->		00:25:33		715		Will, how old were you when you first started playing parrises squares? 
+		458		00:25:36		259		-->		00:25:40		093		All right. l was probably a little younger than he is. lt's just that, for all practical purposes  this is my first day as a father and he almost kills himself. 
+		461		00:25:46		202		-->		00:25:48		102		He didn't almost kill himself. 
+		462		00:25:48		171		-->		00:25:49		695		He just broke his wrist. 
+		463		00:25:49		739		-->		00:25:53		231		Just like a lot of other boys his age when they fall. 
+		464		00:25:53		276		-->		00:25:54		834		You're right. lt's difficult. 
+		466		00:25:56		746		-->		00:25:58		976		Difficult for you. 
+		467		00:25:59		015		-->		00:26:00		846		What about for Jean-Luc? 
+		468		00:26:00		883		-->		00:26:03		852		Can you imagine how he feels? 
+		469		00:26:03		886		-->		00:26:05		513		You've lost 16 years. 
+		470		00:26:05		555		-->		00:26:09		047		Jean-Luc has lost a lot more than that. 
+		471		00:26:09		125		-->		00:26:10		922		First, his mother... and now, his father. 
+		473		00:26:18		568		-->		00:26:19		796		Good as new, Captain. 
+		474		00:26:19		836		-->		00:26:21		064		You can take him home. 
+		475		00:26:21		104		-->		00:26:23		538		Thanks. 
+		476		00:26:23		573		-->		00:26:25		040		How's the arm? lt's fine. 
+		478		00:26:26		175		-->		00:26:27		733		Dad, l'm really sorry. l mean, l know you have more important  things to do... 
+		481		00:26:31		614		-->		00:26:34		310		There is nothing more important than this, son. 
+		482		00:26:37		787		-->		00:26:38		776		Captain. 
+		483		00:26:41		657		-->		00:26:43		386		Deck eight. 
+		484		00:26:43		426		-->		00:26:44		586		Halt. l know how hard this is for you.  lt's okay, Dad. 
+		487		00:26:49		866		-->		00:26:52		061		No, okay is not good enough. 
+		488		00:26:52		101		-->		00:26:54		001		When l was your age my own father wasn't there for me  and l really needed him.  l've often wondered what kind of father l'd be.  l never felt quite ready. 
+		493		00:27:06		582		-->		00:27:09		176		The idea even scared me a little. 
+		494		00:27:09		218		-->		00:27:10		685		Scared? 
+		495		00:27:10		720		-->		00:27:11		687		You? 
+		496		00:27:11		721		-->		00:27:14		053		Yeah. 
+		497		00:27:14		090		-->		00:27:16		524		But l guess l got over it-- you're here. 
+		498		00:27:18		694		-->		00:27:19		888		Resume. lt's important to me  that l don't let you down, Jean-Luc. 
+		501		00:27:27		370		-->		00:27:28		837		You never have, Dad. 
+		502		00:27:28		871		-->		00:27:31		237		You've always been there for me. l'll have to take your word for that  because l don't remember any of it--  your first step, your first tooth, nothing. 
+		506		00:27:43		453		-->		00:27:45		717		And l want to remember. l guess there's only one thing we can do. 
+		508		00:27:57		033		-->		00:27:59		524		We've got to build some new memories. l'm not sure it's still in the memory banks  but l used to have  a great fishing program on the holodeck. 
+		512		00:28:06		776		-->		00:28:07		743		The Curtis Creek program? 
+		513		00:28:07		777		-->		00:28:08		744		You know it. 
+		514		00:28:08		778		-->		00:28:10		746		Sure, we've gone to Curtis Creek lots of times. 
+		515		00:28:10		780		-->		00:28:12		475		Would you like to go again? 
+		516		00:28:12		515		-->		00:28:13		846		You bet. 
+		517		00:28:13		883		-->		00:28:16		317		Well, as soon as these negotiations are out of the way you and l are going fishing. 
+		519		00:28:17		653		-->		00:28:19		711		Great. 
+		520		00:28:19		844		-->		00:28:22		506		...and then Mom tried to net the fish and she fell in the creek, too. 
+		522		00:28:24		916		-->		00:28:27		476		And then you tried to pull us both out and you fell in.  l'm not sure l want to remember that. 
+		525		00:28:30		722		-->		00:28:32		519		Mom really liked Curtis Creek. 
+		526		00:28:32		557		-->		00:28:36		254		We went there for picnics and stuff lots of times. 
+		527		00:28:37		695		-->		00:28:39		185		What was she like? 
+		528		00:28:42		534		-->		00:28:44		866		She was great. l think of her a lot.  l better go change. 
+		531		00:29:01		152		-->		00:29:02		483		Computer... display family record, Riker, William T. 
+		533		00:29:08		493		-->		00:29:10		825		Limit to visual. 
+		534		00:29:33		184		-->		00:29:36		950		Display family record, Riker, Mrs. William T. 
+		535		00:29:37		522		-->		00:29:40		320		Please restate request. 
+		536		00:29:40		358		-->		00:29:41		723		Damn! 
+		537		00:29:45		530		-->		00:29:46		588		What's wrong, Dad? 
+		538		00:29:46		631		-->		00:29:49		122		The computer still isn't working properly. l can't bring up a visual of your mother. 
+		540		00:29:51		269		-->		00:29:53		464		But l know Mom's pictures are in there. 
+		541		00:29:53		504		-->		00:29:56		735		Did you give a stardate? 
+		542		00:29:56		774		-->		00:29:57		968		Computer display family record, Riker, Mrs. William T. 
+		544		00:30:02		881		-->		00:30:07		011		Home file, stardate <stardate>58416</stardate>. 
+		545		00:30:31		242		-->		00:30:32		402		Min. 
+		546		00:30:34		412		-->		00:30:36		209		Minuet. 
+		547		00:30:36		247		-->		00:30:38		647		Mom was beautiful, wasn't she? 
+		548		00:30:38		683		-->		00:30:40		412		Yes. 
+		549		00:30:42		954		-->		00:30:44		683		What's wrong, Dad? 
+		550		00:30:44		722		-->		00:30:46		485		La Forge to Riker. 
+		551		00:30:46		524		-->		00:30:47		752		Riker here. 
+		552		00:30:47		792		-->		00:30:49		350		Captain, please come to the Bridge. 
+		553		00:30:49		394		-->		00:30:50		383		On my way. 
+		554		00:30:55		133		-->		00:30:56		327		What's the problem? l've had to shut down the warp engines, Captain. 
+		556		00:30:58		036		-->		00:30:59		765		Why? 
+		557		00:30:59		804		-->		00:31:01		635		Antimatter containment fields are fluctuating. lt's nothing to worry about though. 
+		559		00:31:03		141		-->		00:31:04		665		We're on the edge of the Neutral Zone at impulse power, and you're not concerned?  l'll have the engines back on line in no time. 
+		562		00:31:08		646		-->		00:31:11		672		Like you tracked down that faulty processing accelerator? l'm running a level-1 diagnostic. 
+		564		00:31:13		551		-->		00:31:14		518		For 30 hours? lt would never take you more than four. 
+		566		00:31:16		454		-->		00:31:20		754		You're incapable of that level of incompetence, Mr. La Forge. 
+		567		00:31:20		792		-->		00:31:24		728		Worf, where did you get that scar? ln combat. 
+		569		00:31:26		531		-->		00:31:27		828		What battle? 
+		570		00:31:27		865		-->		00:31:30		026		When? 
+		571		00:31:30		068		-->		00:31:32		263		Which sector? 
+		572		00:31:32		303		-->		00:31:33		702		Which unit? 
+		573		00:31:33		738		-->		00:31:35		899		Mr. Data, if we left immediately when would we arrive at Outpost 23? 
+		575		00:31:40		111		-->		00:31:41		442		At warp one three days, four hours... 
+		577		00:31:42		647		-->		00:31:43		773		What about at warp seven? 
+		578		00:31:44		782		-->		00:31:46		079		At warp eight? 
+		579		00:31:46		117		-->		00:31:47		084		At warp nine? 
+		580		00:31:47		118		-->		00:31:48		949		What's the matter, Data? 
+		581		00:31:48		987		-->		00:31:51		455		What happened to those millions of calculations per second? 
+		582		00:31:51		489		-->		00:31:52		456		Pardon me, sir. l am experiencing subspace interference  which limits my abilities.  l can't operate as quickly as... 
+		586		00:31:57		829		-->		00:31:58		796		What did you say? l said l cannot operate... 
+		588		00:32:00		565		-->		00:32:02		192		No, that's not what you said. 
+		589		00:32:02		233		-->		00:32:03		530		You said, ''l can't.'' 
+		590		00:32:03		568		-->		00:32:05		035		You used a contraction, didn't you? 
+		591		00:32:05		103		-->		00:32:07		298		Sir, l can explain if you would just give me... 
+		592		00:32:07		338		-->		00:32:08		828		No, you can't. 
+		593		00:32:08		873		-->		00:32:10		033		Don't even try. 
+		594		00:32:10		074		-->		00:32:12		838		Captain, perhaps it would be best if we... 
+		595		00:32:12		877		-->		00:32:14		344		Shut up! l beg your pardon?  l said shut up  as in close your mouth and stop talking. 
+		599		00:32:21		919		-->		00:32:24		353		Will, l sense how upset you are. 
+		600		00:32:24		389		-->		00:32:27		017		You're angry and impatient... 
+		601		00:32:27		058		-->		00:32:29		219		Deanna, back off. 
+		602		00:32:29		260		-->		00:32:34		288		Well, would anyone else like to speak up or shall we end this charade? 
+		604		00:32:42		407		-->		00:32:46		639		As you wish, Commander Riker. 
+		605		00:32:46		677		-->		00:32:49		578		The charade is over. 
+		606		00:33:03		895		-->		00:33:09		026		The <i>Enterprise,</i> my son-- you created it all. 
+		607		00:33:09		133		-->		00:33:10		964		With the help of our neural scanners and what you would call a holodeck. 
+		609		00:33:13		104		-->		00:33:14		537		Now, please tell me. 
+		610		00:33:14		572		-->		00:33:16		767		How did you discover the truth? 
+		611		00:33:16		808		-->		00:33:21		142		The future we created for you should have been convincing. lt wasn't. 
+		613		00:33:22		847		-->		00:33:25		714		There was a computer time lag, for one thing. 
+		614		00:33:25		750		-->		00:33:27		047		Unavoidable. 
+		615		00:33:27		118		-->		00:33:29		985		Our scanners have a limited response time so whenever you strayed from our... expectations... 
+		617		00:33:35		093		-->		00:33:37		186		But surely, that was not enough to... 
+		618		00:33:37		228		-->		00:33:39		196		To smash your house of cards? 
+		619		00:33:39		230		-->		00:33:45		226		No, it was the visual record of my ''wife,'' Minuet. 
+		620		00:33:45		269		-->		00:33:46		600		Bad move. 
+		621		00:33:46		637		-->		00:33:49		663		But we chose someone from your past who is still alive a woman you were extremely attracted to. 
+		623		00:33:51		976		-->		00:33:53		466		Your mistake, Tomalak. 
+		624		00:33:53		511		-->		00:33:57		413		Minuet was nothing more than a computer-generated fantasy l once experienced on another holodeck.  lmpossible.  ln your mind, that woman exists physically. 
+		628		00:34:07		058		-->		00:34:10		550		Your feelings toward her remain quite passionate. 
+		629		00:34:11		662		-->		00:34:15		325		She was part of a very special program. 
+		630		00:34:16		567		-->		00:34:19		900		So much effort, so little accomplished. lf it was Outpost 23 you were after  why didn't you use your neural scanners  to probe my mind? 
+		634		00:34:26		644		-->		00:34:29		704		Our scanners are calibrated for Romulan brain patterns. 
+		635		00:34:29		747		-->		00:34:32		375		When it comes to human brains, they are less efficient. 
+		636		00:34:32		416		-->		00:34:33		974		There were gaps in the information we gathered from your memory. 
+		638		00:34:35		419		-->		00:34:36		408		Gaps? 
+		639		00:34:39		157		-->		00:34:43		025		From what l saw, l find that hard to believe. 
+		640		00:34:43		060		-->		00:34:46		052		You recreated the <i>Enterprise--</i> the crew, every nuance, smell, sound--  with perfect accuracy.  l didn't see any gaps.  l don't buy it, Tomalak. 
+		645		00:34:59		810		-->		00:35:01		801		We are wasting time. 
+		646		00:35:05		316		-->		00:35:06		578		Bring him! 
+		647		00:35:12		857		-->		00:35:15		382		When you and your colleagues transported to this planet you were less than a kilometer from this base. 
+		649		00:35:17		595		-->		00:35:19		119		Your capture was a simple matter. 
+		650		00:35:19		163		-->		00:35:21		131		My colleagues, where are they? 
+		651		00:35:21		165		-->		00:35:23		963		We allowed them to transport safely back to the <i>Enterprise</i> but your signal was diverted. 
+		653		00:35:25		469		-->		00:35:27		562		They won't stop looking for me, Tomalak. 
+		654		00:35:27		605		-->		00:35:28		911		They already have. 
+		655		00:35:29		044		-->		00:35:32		844		Please say hello to your son. 
+		656		00:35:39		254		-->		00:35:40		346		Jean-Luc? 
+		657		00:35:40		389		-->		00:35:42		152		That is not his name, of course nor have you ever really met him. 
+		659		00:35:44		026		-->		00:35:46		927		We merely used his image to augment your program. 
+		660		00:35:52		534		-->		00:35:53		831		What have you done to him? 
+		661		00:35:53		869		-->		00:35:55		598		While l am gone, please give careful thought to your situation. 
+		663		00:36:08		751		-->		00:36:10		218		What's your name? 
+		664		00:36:14		056		-->		00:36:14		988		Whoa! lf we're going to get out of here  you're going to have to trust me. 
+		667		00:36:20		095		-->		00:36:21		892		Easy. l'm not going to hurt you. 
+		668		00:36:24		133		-->		00:36:25		828		Who are you? 
+		669		00:36:28		404		-->		00:36:30		531		How did you get here? 
+		670		00:36:30		572		-->		00:36:32		972		My name is Will. 
+		671		00:36:37		046		-->		00:36:38		411		Ethan. 
+		672		00:36:38		447		-->		00:36:41		314		They brought me here with my parents. 
+		673		00:36:41		350		-->		00:36:45		446		We were at a research station at Miridian Vl. 
+		674		00:36:45		487		-->		00:36:46		476		Miridian Vl? 
+		675		00:36:46		522		-->		00:36:48		956		On the edge of the Neutral Zone. l thought that was uninhabited. 
+		677		00:36:51		560		-->		00:36:54		427		The station was set up last year. 
+		678		00:36:54		463		-->		00:36:56		363		Then the Romulans came. lt's odd that the <i>Enterprise</i> wasn't advised. 
+		680		00:37:02		871		-->		00:37:04		839		Where are your parents now? 
+		681		00:37:04		873		-->		00:37:08		604		They took them away. 
+		682		00:37:10		612		-->		00:37:12		807		Do you know why the Romulans are keeping you here? 
+		683		00:37:12		848		-->		00:37:13		872		No. l just want to get away.  l'll get us out of here, Ethan. 
+		686		00:37:22		658		-->		00:37:24		091		How? 
+		687		00:37:24		126		-->		00:37:27		527		Even if we do get away, they'll find us. 
+		688		00:37:27		563		-->		00:37:29		929		They found me when l escaped before. 
+		689		00:37:29		965		-->		00:37:30		989		You escaped? 
+		690		00:37:31		033		-->		00:37:32		398		Yes. l hid in a secret place for weeks. 
+		692		00:37:36		338		-->		00:37:40		741		They caught me when l came out to find food. l want that information, Commander.  l want the location of Outpost 23. 
+		695		00:37:46		982		-->		00:37:49		678		Very well, l have been given permission to use whatever means are necessary. 
+		697		00:37:53		055		-->		00:37:54		022		Ethan, no! 
+		698		00:37:54		123		-->		00:37:55		215		Stop him! 
+		699		00:37:59		361		-->		00:38:01		693		That secret hiding place of yours? 
+		700		00:38:04		133		-->		00:38:05		532		This way! ln here! 
+		702		00:38:54		249		-->		00:38:56		877		Their sensors should have picked us up. 
+		703		00:38:56		919		-->		00:38:58		216		No, they can't. l heard them. 
+		705		00:38:59		588		-->		00:39:01		351		There's something in these rocks. 
+		706		00:39:01		390		-->		00:39:02		357		Heavy metals? 
+		707		00:39:02		391		-->		00:39:03		380		Right. 
+		708		00:39:06		695		-->		00:39:08		526		The Romulans forgot all about this storeroom when they rebuilt their tunnels. 
+		710		00:39:16		004		-->		00:39:18		336		Here, we can use these. 
+		711		00:39:18		373		-->		00:39:19		499		Help me. 
+		712		00:39:29		952		-->		00:39:34		946		After l escaped last time, l mapped out all their tunnels. 
+		713		00:39:37		826		-->		00:39:38		793		Supply depot. 
+		714		00:39:38		827		-->		00:39:39		885		Mm-hmm. 
+		715		00:39:39		928		-->		00:39:40		952		Communications living quarters and shuttle bay. 
+		717		00:39:42		831		-->		00:39:45		197		How many guards in the shuttle bay? 
+		718		00:39:45		234		-->		00:39:46		826		Only two or three. lf we stole a shuttlecraft, that would get us nowhere  because the Romulans could follow their own ship  too easily. 
+		722		00:39:56		378		-->		00:40:00		144		But if we broke into their communications system we could send a message to the <i>Enterprise.</i> 
+		724		00:40:03		485		-->		00:40:05		282		Can't do that. 
+		725		00:40:05		320		-->		00:40:08		881		The transmitter is on a voice- activated security system only. 
+		726		00:40:08		924		-->		00:40:10		687		Do you know whose voice activates it? 
+		727		00:40:10		726		-->		00:40:12		853		Only Ambassador Tomalak. 
+		728		00:40:14		329		-->		00:40:15		956		Who? 
+		729		00:40:15		998		-->		00:40:17		465		Tomalak. 
+		730		00:40:17		499		-->		00:40:19		262		Ambassador Tomalak? 
+		731		00:40:20		769		-->		00:40:23		602		Tomalak is a Romulan Captain. 
+		732		00:40:23		639		-->		00:40:26		005		The only time he was ever called Ambassador was in a holodeck fantasy. 
+		734		00:40:27		542		-->		00:40:29		976		How do you know about that? 
+		735		00:40:30		012		-->		00:40:33		641		You, uh... you told me about him. 
+		736		00:40:33		682		-->		00:40:35		513		Who are you? 
+		737		00:40:35		550		-->		00:40:38		348		What is your part in all this? 
+		738		00:40:40		355		-->		00:40:42		050		They've found us! 
+		739		00:40:42		124		-->		00:40:44		854		But you said the sensors didn't work in these tunnels. 
+		740		00:40:44		893		-->		00:40:46		383		Uh, they must have fixed them. 
+		741		00:40:46		428		-->		00:40:47		395		We've got to go. 
+		742		00:40:47		429		-->		00:40:48		953		Where are we going to go, Ethan? 
+		743		00:40:48		997		-->		00:40:50		259		The shuttle bay. 
+		744		00:40:50		299		-->		00:40:51		596		There's still time. l've had enough. 
+		746		00:40:53		969		-->		00:40:56		767		Commander, surrender your weapon. 
+		747		00:40:56		805		-->		00:40:58		170		No more games. 
+		748		00:40:59		775		-->		00:41:01		743		No more fantasies. l'm not going to play anymore.  lt was never the Romulans.  lt was you all along, wasn't it? 
+		752		00:41:27		469		-->		00:41:29		460		There is no question about it, sir. lt is his signal. 
+		754		00:41:30		539		-->		00:41:32		700		Picard to Commander Riker, do you read me? 
+		755		00:41:32		741		-->		00:41:34		971		Riker to Picard, l'm here. 
+		756		00:41:35		010		-->		00:41:36		637		Are you all right? 
+		757		00:41:36		678		-->		00:41:38		270		Yes, sir, l'm all right. 
+		758		00:41:38		313		-->		00:41:39		610		What about Geordi and Worf? 
+		759		00:41:39		648		-->		00:41:41		741		We beamed them up an hour ago. They're fine. 
+		760		00:41:41		783		-->		00:41:43		478		But we lost you in mid-transport. 
+		761		00:41:43		518		-->		00:41:44		576		Where have you been? 
+		762		00:41:44		619		-->		00:41:46		143		What is going on down there? l'm not sure yet, sir. 
+		764		00:41:47		856		-->		00:41:50		188		But l think l'm about to find out. 
+		765		00:41:50		225		-->		00:41:51		624		Stand by. 
+		766		00:42:03		872		-->		00:42:05		339		What shall l call you? 
+		767		00:42:05		374		-->		00:42:07		934		Ethan? Jean-Luc? 
+		768		00:42:07		976		-->		00:42:10		706		Doesn't matter. 
+		769		00:42:12		381		-->		00:42:14		941		This room, it's more than a holodeck, isn't it? 
+		770		00:42:14		983		-->		00:42:16		382		Much more. 
+		771		00:42:16		418		-->		00:42:18		682		The neural scanners read my mind. 
+		772		00:42:18		720		-->		00:42:20		187		Give me anything l want-- just like they tried  to give you everything you wanted. 
+		775		00:42:23		458		-->		00:42:24		823		Everything l wanted?! 
+		776		00:42:24		860		-->		00:42:26		657		You probed the <i>Enterprise.</i> 
+		777		00:42:26		695		-->		00:42:29		994		You lured us here so you could play games with me. l didn't want that, you did. 
+		779		00:42:32		000		-->		00:42:32		967		Why? 
+		780		00:42:33		001		-->		00:42:34		662		My world was invaded. 
+		781		00:42:34		703		-->		00:42:37		968		My people, killed. 
+		782		00:42:38		006		-->		00:42:39		473		My mother brought me here so our enemies would never find me. 
+		784		00:42:47		749		-->		00:42:49		979		They found her, didn't they? 
+		785		00:42:53		422		-->		00:42:57		256		She knew that they would never stop looking for her so she made sure l would be safe. 
+		787		00:43:09		938		-->		00:43:12		771		She left the scanners to protect me-- to give me anything l wanted. 
+		789		00:43:15		277		-->		00:43:16		904		Anything? 
+		790		00:43:16		945		-->		00:43:18		572		Then why did you kidnap me? l wanted you to stay.  lt's been so long.  l just wanted somebody... real.  l thought that you'd be happy.  l'm sorry.  l have to return to my ship. 
+		797		00:43:50		278		-->		00:43:52		542		Come with me. 
+		798		00:43:52		581		-->		00:43:54		879		You don't have to stay here anymore. 
+		799		00:43:54		916		-->		00:43:57		942		You don't have to be alone anymore. 
+		800		00:44:04		025		-->		00:44:05		925		My name is Barash. 
+		801		00:44:14		302		-->		00:44:17		203		To me, you'll always be Jean-Luc. 
+		802		00:44:20		976		-->		00:44:22		967		Two to transport. 

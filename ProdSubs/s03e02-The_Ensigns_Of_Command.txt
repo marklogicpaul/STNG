@@ -1,0 +1,505 @@
+		1		00:00:37		030		-->		00:00:40		400		Captain. Doctor. I am honored by your presence, but may I suggest you attend the second concert? 
+		3		00:00:43		970		-->		00:00:44		910		Why, Data? 
+		4		00:00:45		070		-->		00:00:47		680		Ensign Ortiz will perform the violin part. 
+		5		00:00:47		840		-->		00:00:50		250		My rendition will be less enjoyable. 
+		6		00:00:51		410		-->		00:00:53		310		I am technically proficient, but according to my fellow performers, I lack soul. 
+		8		00:00:58		390		-->		00:01:03		830		Telling us why you'll fail before making the attempt is never wise. 
+		9		00:01:03		990		-->		00:01:08		330		But is not honesty always the preferred choice? 
+		10		00:01:11		570		-->		00:01:16		340		Excessive honesty can be disastrous, particularly in a commander. 
+		11		00:01:16		500		-->		00:01:17		510		Indeed? 
+		12		00:01:17		670		-->		00:01:20		180		Knowing your limitations is one thing. 
+		13		00:01:20		280		-->		00:01:24		280		Advertising them to a crew damages your credibility as a leader. 
+		14		00:01:25		280		-->		00:01:27		950		Because you will lose their confidence? 
+		15		00:01:28		120		-->		00:01:32		350		And you may begin to believe in those limitations yourself. 
+		16		00:01:45		870		-->		00:01:50		370		Captain, we're receiving a message from the Sheliak Corporate. 
+		17		00:02:11		830		-->		00:02:16		030		Origin of message confirmed. It is from the Shelia star system. 
+		18		00:02:16		200		-->		00:02:20		800		The Sheliak have not communicated with the Federation for 111 years. 
+		19		00:02:20		970		-->		00:02:22		500		Why are they doing it now? 
+		20		00:02:25		110		-->		00:02:26		640		On screen. 
+		21		00:02:26		810		-->		00:02:28		380		Federation creatures, there are humans on the fifth planet of Tau Cygna. 
+		23		00:02:31		950		-->		00:02:35		780		This planet was ceded to the Corporate in section 1 33 paragraph 77 of the Treaty of Armens. 
+		25		00:02:39		220		-->		00:02:42		490		We will begin settlement of this world in four days. 
+		26		00:02:42		660		-->		00:02:45		030		- Remove the humans. - What the...? 
+		27		00:02:45		190		-->		00:02:49		200		Federation creatures, there are humans on the fifth planet... 
+		28		00:02:49		360		-->		00:02:51		370		Cancel message. 
+		29		00:02:53		700		-->		00:02:55		840		Tau Cygna V is in the de Laure Belt. 
+		30		00:02:56		000		-->		00:02:58		870		Heavy concentrations of hyperonic radiation. 
+		31		00:02:59		040		-->		00:03:01		340		Humans can't survive there. 
+		32		00:03:01		510		-->		00:03:03		550		Hyperonic radiation is fatal. 
+		33		00:03:03		710		-->		00:03:07		050		Then the Sheliak are asking us to chase ghosts. 
+		34		00:03:07		220		-->		00:03:08		420		No, Number One. 
+		35		00:03:08		580		-->		00:03:11		850		The Sheliak haven't broken a century of silence to send us after phantoms. 
+		37		00:03:14		720		-->		00:03:20		230		An investigation is in order. Set course for Tau Cygna V. 
+		38		00:03:48		420		-->		00:03:52		060		Space, the final frontier. 
+		39		00:03:53		190		-->		00:03:57		130		These are the voyages of the Starship Enterprise. 
+		40		00:03:57		300		-->		00:04:01		400		Its continuing mission, to explore strange new worlds... 
+		41		00:04:02		770		-->		00:04:06		140		...to seek out new life and new civilisations... 
+		42		00:04:07		410		-->		00:04:11		510		...to boldly go where no one has gone before. 
+		43		00:05:16		810		-->		00:05:20		320		Captain, human-life-form readings from the planet. 
+		44		00:05:20		480		-->		00:05:23		650		- The Sheliak weren't hallucinating. - Numbers? 
+		45		00:05:24		690		-->		00:05:26		860		Impossible to get a reading. 
+		46		00:05:27		020		-->		00:05:29		720		Radiation is disrupting our sensors. 
+		47		00:05:29		890		-->		00:05:34		230		Radiation has also made the ship's transporters inoperable. 
+		48		00:05:34		400		-->		00:05:35		930		So are the phasers. 
+		49		00:05:36		100		-->		00:05:39		730		- How can humans survive there? - They must have adapted. 
+		50		00:05:39		870		-->		00:05:43		670		Work with radiation sensitivity suggests it's possible. 
+		51		00:05:43		840		-->		00:05:46		210		Perhaps with extensive viral therapy. 
+		52		00:05:46		370		-->		00:05:49		710		Whoever they are, we've gotta get them off the planet. 
+		53		00:05:49		880		-->		00:05:53		520		By treaty, that world still belongs to the Sheliak. 
+		54		00:05:53		680		-->		00:05:58		350		Who are within their rights to remove these trespassers. 
+		55		00:05:58		520		-->		00:06:02		390		If we don't remove them, the Sheliak will. Forcefully. 
+		56		00:06:02		560		-->		00:06:03		760		How forcefully? 
+		57		00:06:03		930		-->		00:06:06		960		The Sheliak consider humans a lower life form and would have no compunctions about exterminating them. 
+		59		00:06:10		930		-->		00:06:14		740		Mr Data, as you're unaffected by hyperonic radiation, 
+		60		00:06:14		900		-->		00:06:19		510		I'd like you to go to the planet via shuttlecraft to commence evacuation. 
+		61		00:06:19		670		-->		00:06:20		980		Aye, sir. 
+		62		00:06:21		580		-->		00:06:23		350		Number One. 
+		63		00:06:25		410		-->		00:06:29		150		Any speculation on what we might find down there? 
+		64		00:06:29		320		-->		00:06:31		990		My guess would be a lone survey craft. 
+		65		00:06:32		150		-->		00:06:34		660		Maybe a dozen or so survivors. 
+		66		00:06:49		140		-->		00:06:52		170		I think it's some sort of shuttlecraft. 
+		67		00:06:52		340		-->		00:06:55		040		- Where's it from? - Look at the markings. 
+		68		00:06:55		210		-->		00:06:57		480		It must be from the Federation. 
+		69		00:07:02		450		-->		00:07:03		890		Greetings, gentlemen. 
+		70		00:07:05		620		-->		00:07:09		990		We saw your ship. You're the first visitor we've had... 
+		71		00:07:10		160		-->		00:07:12		690		The first visitor we've ever had. 
+		72		00:07:13		290		-->		00:07:15		660		You're not human. 
+		73		00:07:15		830		-->		00:07:18		970		That is correct. I am an android. 
+		74		00:07:19		130		-->		00:07:22		700		I am Lt Cmdr Data of the Federation Starship Enterprise. 
+		75		00:07:23		710		-->		00:07:26		570		Our great-grandparents were in the Federation. 
+		76		00:07:26		740		-->		00:07:29		310		You don't wanna waste time talking to us. 
+		77		00:07:29		480		-->		00:07:32		050		You should meet Gosheven. We'll take you. 
+		78		00:07:32		210		-->		00:07:34		980		I'm sure the Federation will be proud of us. 
+		79		00:07:35		150		-->		00:07:37		820		Wait till you see all we've accomplished. 
+		80		00:07:37		920		-->		00:07:41		190		And who precisely is "us"? 
+		81		00:07:41		360		-->		00:07:44		360		Don't you know? Oh no, I don't guess you would. 
+		82		00:07:44		530		-->		00:07:47		600		We're descendants of the original settlers, from the colony ship Artemis. 
+		84		00:07:50		870		-->		00:07:55		670		Got it. The Artemis. Launched 92 years ago for Septimus Minor. 
+		85		00:07:55		840		-->		00:07:59		440		When they failed to check in, Starfleet began a huge search. 
+		86		00:07:59		610		-->		00:08:01		940		What took the Artemis off course? 
+		87		00:08:02		110		-->		00:08:04		510		My local informant does not know. 
+		88		00:08:04		680		-->		00:08:09		450		In the early days, survival was more important than history. 
+		89		00:08:09		620		-->		00:08:14		790		- Understood. How many are they? - 1 5,253, sir. 
+		90		00:08:15		760		-->		00:08:17		960		1 5,000! 
+		91		00:08:18		130		-->		00:08:22		260		Three days, no transporters. We'll never get them out in time. 
+		92		00:08:22		430		-->		00:08:23		600		Shuttles? 
+		93		00:08:23		770		-->		00:08:26		430		Loading all shuttlecraft to capacity, evacuation will take... four weeks, four days. 
+		95		00:08:31		940		-->		00:08:33		980		We need more time. 
+		96		00:08:34		510		-->		00:08:37		480		Mr Data, prepare the colonists for evacuation. 
+		97		00:08:37		650		-->		00:08:38		950		Aye, sir. 
+		98		00:08:39		110		-->		00:08:40		350		Get me the Sheliak. 
+		99		00:08:40		520		-->		00:08:44		720		Their homeworld is quite distant. This will take some time. 
+		100		00:09:04		840		-->		00:09:07		980		Gosheven, look what's come. 
+		101		00:09:08		140		-->		00:09:10		880		Lt Cmdr Data of the Starship Enterprise. 
+		102		00:09:11		050		-->		00:09:14		980		- He's an android. - So he is. 
+		103		00:09:16		890		-->		00:09:20		260		Well, now that you're here, what do you want? 
+		104		00:09:20		420		-->		00:09:24		830		My mission is to prepare this colony for evacuation. 
+		105		00:09:24		990		-->		00:09:26		360		Why? 
+		106		00:09:26		530		-->		00:09:29		200		Because this planet belongs to the Sheliak. 
+		107		00:09:29		330		-->		00:09:31		730		And who is the Sheliak? 
+		108		00:09:31		900		-->		00:09:33		170		The term is plural. 
+		109		00:09:33		340		-->		00:09:37		440		The Sheliak are a non-humanoid intelligent life form, class R3. 
+		110		00:09:37		610		-->		00:09:41		010		Well, this colony has been here over 90 years. 
+		111		00:09:41		780		-->		00:09:44		710		We've never seen a Sheliak. 
+		112		00:09:44		850		-->		00:09:48		350		I'd say that makes Tau Cygna V our planet. 
+		113		00:09:48		520		-->		00:09:52		420		The original destination of the Artemis was Septimus Minor. 
+		114		00:09:52		590		-->		00:09:56		890		The guidance system failed. Took them far off course. 
+		115		00:09:57		060		-->		00:09:59		960		Our ancestors were lucky to land anywhere. 
+		116		00:10:00		130		-->		00:10:02		700		Then the radiation started killing them. 
+		117		00:10:02		800		-->		00:10:07		200		It killed a third of the colonists before they adapted to it. 
+		118		00:10:07		370		-->		00:10:09		100		Our colony prospered. 
+		119		00:10:09		270		-->		00:10:13		780		Look around. We've brought water to the desert, built a community. 
+		120		00:10:13		910		-->		00:10:16		980		Your accomplishments are truly remarkable. 
+		121		00:10:17		150		-->		00:10:22		220		Yet there is a treaty which makes this planet Sheliak domain. 
+		122		00:10:22		750		-->		00:10:26		690		- Then change the treaty. - That may not be possible. 
+		123		00:10:26		820		-->		00:10:29		420		The Sheliak wish to colonize this planet and will not share it with humans. 
+		125		00:10:31		990		-->		00:10:36		830		If you are here when they arrive, they will eradicate you. 
+		126		00:10:37		000		-->		00:10:38		500		They'd kill all of us? 
+		127		00:10:38		670		-->		00:10:41		300		They have little regard for human life. 
+		128		00:10:41		440		-->		00:10:44		870		The sensible thing is to prepare a contingency plan for the evacuation of your people. 
+		130		00:10:47		810		-->		00:10:49		880		We're not evacuating. 
+		131		00:10:50		050		-->		00:10:53		380		- I have not made myself clear. - Yes, you have. 
+		132		00:10:54		350		-->		00:10:56		790		Let me be equally clear. 
+		133		00:10:56		950		-->		00:10:59		890		There's going to be no evacuation. 
+		134		00:11:02		390		-->		00:11:06		130		You've delivered your message, so go back to your ship. 
+		135		00:11:06		290		-->		00:11:08		300		I have work to do. 
+		136		00:11:17		740		-->		00:11:19		210		Nice catch. 
+		137		00:11:21		540		-->		00:11:23		210		Wonderful reflexes. 
+		138		00:11:23		380		-->		00:11:26		210		Sorry to test you like that, but I was curious. 
+		139		00:11:26		380		-->		00:11:29		750		- Found a new toy, have we? - Toy? 
+		140		00:11:29		920		-->		00:11:33		250		This is the most incredible android I've ever seen. 
+		141		00:11:33		420		-->		00:11:35		020		Have you seen many? 
+		142		00:11:36		690		-->		00:11:39		530		Actually, no. You're the first. 
+		143		00:11:39		690		-->		00:11:43		770		Only you would get this excited over a walking calculator. 
+		144		00:11:45		100		-->		00:11:47		400		Cybernetics fascinates me. 
+		145		00:11:47		570		-->		00:11:51		210		- Are your neural paths duotronic? - No. Positronic. 
+		146		00:11:51		370		-->		00:11:54		540		Is that possible? What's your memory capacity? 
+		147		00:11:54		710		-->		00:11:58		280		How many operations per second? I have a million questions. 
+		148		00:11:58		450		-->		00:12:00		950		I have no time to answer a million. 
+		149		00:12:01		120		-->		00:12:05		220		I have a mission to accomplish. I must know about your people. 
+		150		00:12:05		390		-->		00:12:07		760		Gosheven seems unwilling to talk. 
+		151		00:12:09		360		-->		00:12:11		360		I'm Ard'rian McKenzie. 
+		152		00:12:12		560		-->		00:12:14		760		Perhaps I can help you. 
+		153		00:12:21		600		-->		00:12:24		470		Gentlemen, we're giving you an assignment. 
+		154		00:12:24		640		-->		00:12:28		210		One thing we don't want to hear is that it's impossible. 
+		155		00:12:28		410		-->		00:12:31		780		I need the transporters to work despite the radiation. 
+		156		00:12:31		950		-->		00:12:33		650		Yeah, but that's im... 
+		157		00:12:35		750		-->		00:12:36		950		Yes, sir. 
+		158		00:12:42		860		-->		00:12:46		860		Even if we get the Sheliak to talk, they won't be accommodating. 
+		159		00:12:47		030		-->		00:12:49		830		When the treaty was first negotiated, the Federation sent 372 legal experts. 
+		161		00:12:54		170		-->		00:12:56		000		What do we have? 
+		162		00:12:56		810		-->		00:12:58		640		Thee and me? 
+		163		00:13:12		190		-->		00:13:13		960		No response. 
+		164		00:13:14		160		-->		00:13:17		530		Try them again. Boost the signal strength. 
+		165		00:13:21		830		-->		00:13:25		370		Sheliak Corporate. This is the Starship Enterprise. 
+		166		00:13:25		530		-->		00:13:27		000		Respond, please. 
+		167		00:13:31		810		-->		00:13:35		980		Conversation is neither required nor desired. 
+		168		00:13:36		640		-->		00:13:39		350		Conversation is necessary if we are to find a solution to our mutual problem. 
+		170		00:13:42		880		-->		00:13:47		590		Our involvement in Federation illegality is not indicated. 
+		171		00:13:47		760		-->		00:13:50		160		Both parties are involved, sir. 
+		172		00:13:50		330		-->		00:13:54		100		Remove the humans from the Tau Cygna system. 
+		173		00:13:54		260		-->		00:13:56		260		Three Earth days remain. 
+		174		00:13:56		830		-->		00:13:59		370		Let us negotiate in good faith. 
+		175		00:13:59		530		-->		00:14:03		240		Negotiate to what purpose? The treaty is signed. 
+		176		00:14:03		610		-->		00:14:07		280		There is a thriving colony on that planet. 
+		177		00:14:07		440		-->		00:14:12		380		Rather than uproot these people, may I offer a compromise? 
+		178		00:14:12		550		-->		00:14:14		550		- Denied. - Why? 
+		179		00:14:14		720		-->		00:14:18		520		The law is paramount. We are entitled. 
+		180		00:14:18		690		-->		00:14:21		590		This is not a law. It is a treaty. 
+		181		00:14:21		760		-->		00:14:27		300		It is designed to smooth relations between races, not to act as a strait... 
+		183		00:14:32		270		-->		00:14:33		970		...jacket. 
+		184		00:14:34		670		-->		00:14:37		840		You really think we'll have to leave Tau Cygna V? 
+		185		00:14:38		010		-->		00:14:43		780		The possibility exists, yet Gosheven seems unwilling to prepare for it. 
+		186		00:14:43		950		-->		00:14:47		120		- Why? - Maybe because you're an android. 
+		187		00:14:47		280		-->		00:14:51		450		I don't think he likes the idea of machines ordering him around. 
+		188		00:14:52		520		-->		00:14:54		590		I am not ordering him. 
+		189		00:14:54		760		-->		00:14:58		030		I am trying to persuade him to evacuate his people. 
+		190		00:14:59		530		-->		00:15:02		630		Do you think my course of action should be followed? 
+		191		00:15:02		800		-->		00:15:04		030		Of course. 
+		192		00:15:04		200		-->		00:15:08		140		- Despite the fact I am an android? - Because of that fact. 
+		193		00:15:08		300		-->		00:15:11		670		I'm not prejudiced against computers. I like them. 
+		194		00:15:11		840		-->		00:15:15		480		Not that any computer we have is as sophisticated as you. 
+		195		00:15:17		810		-->		00:15:19		850		No, I would say not. 
+		196		00:15:20		950		-->		00:15:25		190		People can be selfish, irrational, stubborn, malicious. 
+		197		00:15:25		350		-->		00:15:28		020		But computers don't have those failings. 
+		198		00:15:28		160		-->		00:15:31		360		And you conclude that I am impartial? 
+		199		00:15:31		530		-->		00:15:34		300		Hence, you accept my recommendations? 
+		200		00:15:34		730		-->		00:15:36		360		Yet Gosheven does not. 
+		201		00:15:36		530		-->		00:15:38		230		Picard to Cmdr Data. 
+		202		00:15:39		200		-->		00:15:40		170		Data here. 
+		203		00:15:40		340		-->		00:15:43		910		- The Sheliak won't bargain. - Understood, sir. 
+		204		00:15:44		070		-->		00:15:49		240		I'm calling for transport. Get those people ready to evacuate quickly. 
+		205		00:15:49		410		-->		00:15:50		980		Aye, sir. 
+		206		00:15:51		150		-->		00:15:54		180		We must speak to Gosheven immediately. 
+		207		00:16:25		680		-->		00:16:27		780		Gentlemen, how's it coming? 
+		208		00:16:30		550		-->		00:16:33		890		- What the hell is that? - Our first attempt. 
+		209		00:16:34		920		-->		00:16:37		590		Keep at it. We need those transporters. 
+		210		00:16:46		770		-->		00:16:48		770		You see this? 
+		211		00:16:48		940		-->		00:16:52		170		Do you have any idea what it is, or what it means? 
+		212		00:16:52		340		-->		00:16:56		340		It is water. A substance composed of two atoms of hydrogen... 
+		213		00:16:56		510		-->		00:16:57		610		It's not water. 
+		214		00:16:57		780		-->		00:17:02		580		It's blood and sweat. The result of 90 years of combined effort. 
+		215		00:17:02		750		-->		00:17:04		120		This isn't a town. 
+		216		00:17:04		290		-->		00:17:08		820		It's a monument to everyone who's lived and died here. 
+		217		00:17:08		990		-->		00:17:12		030		- You're talking nonsense. - Am I? 
+		218		00:17:12		660		-->		00:17:15		430		My grandfather is buried on that mountain. 
+		219		00:17:15		600		-->		00:17:18		870		He died in a rock slide surveying for this aqueduct. 
+		220		00:17:19		030		-->		00:17:22		000		This colony exists because of his sacrifice and the sacrifice of thousands of others. 
+		222		00:17:26		880		-->		00:17:29		640		No, we are not leaving. 
+		223		00:17:29		810		-->		00:17:33		250		The Sheliak will not accept humans on their planet. 
+		224		00:17:33		420		-->		00:17:35		980		They will use force to remove you. 
+		225		00:17:36		150		-->		00:17:41		760		We will not be bullied off our land. Not by you, and not by the Sheliak. 
+		226		00:17:45		230		-->		00:17:48		860		Stubborn and irrational. Now what do we do? 
+		227		00:17:50		200		-->		00:17:54		540		- Are his sentiments typical? - I hope not. 
+		228		00:17:54		700		-->		00:17:57		170		If I can convince people to leave... 
+		229		00:17:57		340		-->		00:18:00		180		Don't you mean if we can convince? 
+		230		00:18:06		950		-->		00:18:09		520		- Come. - Yes, sir. 
+		231		00:18:10		590		-->		00:18:14		060		Three weeks. Starfleet is profuse in its apologies, but it will still be three weeks until the arrival of a transport ship  equipped with dedicated personnel shuttles. 
+		234		00:18:23		570		-->		00:18:25		230		We can't wait three weeks. 
+		235		00:18:25		400		-->		00:18:29		100		Then the Sheliak must agree to extend our deadline. 
+		236		00:18:31		740		-->		00:18:36		950		They plan to settle Tau Cygna V two days from now. 
+		237		00:18:37		110		-->		00:18:40		150		One of their ships must already be en route. 
+		238		00:18:40		320		-->		00:18:42		650		We're going to intercept that ship. 
+		239		00:18:42		820		-->		00:18:45		290		The Sheliak may see that as hostile. 
+		240		00:18:45		450		-->		00:18:47		590		A risk we have to take. 
+		241		00:18:55		260		-->		00:18:58		870		The Enterprise is going to intercept the Sheliak ship. 
+		242		00:18:59		030		-->		00:19:00		500		Now, your job... 
+		243		00:19:00		670		-->		00:19:03		670		- Well, you know what your job is. - Commander. 
+		244		00:19:03		840		-->		00:19:08		040		In human parlance, I do not believe I can get the job done. 
+		245		00:19:08		210		-->		00:19:11		810		My training prepared me for starship command duties. 
+		246		00:19:11		950		-->		00:19:15		120		As a cultural contact, I am less than exemplary. 
+		247		00:19:15		280		-->		00:19:18		820		- What's the situation? - Their leader will not listen. 
+		248		00:19:18		990		-->		00:19:23		690		He denies my arguments and speaks of structures they have built. 
+		249		00:19:23		860		-->		00:19:26		530		- Try something else. - I have, sir. 
+		250		00:19:26		660		-->		00:19:30		830		In the last three hours, I have spoken with 56 colonists. 
+		251		00:19:30		970		-->		00:19:33		700		Ten refused to believe the threat exists. 
+		252		00:19:33		840		-->		00:19:36		810		22 favor staying and fighting the Sheliak. 
+		253		00:19:36		970		-->		00:19:41		810		1 6 prefer negotiation or some sort of passive resistance. 
+		254		00:19:41		910		-->		00:19:45		250		Only eight considered evacuation. Of those... 
+		255		00:19:45		410		-->		00:19:47		720		Data, I can't help you. 
+		256		00:19:47		880		-->		00:19:50		720		I haven't talked to these people. You have. 
+		257		00:19:50		890		-->		00:19:55		090		Use your positronic brain to carry out your mission. 
+		258		00:19:55		260		-->		00:19:57		730		Sir, if I do not succeed, how violent is the Sheliak reaction likely to be? 
+		260		00:20:01		360		-->		00:20:03		230		Only the treaty stopped them from eradicating the colony the moment they discovered it. 
+		262		00:20:07		570		-->		00:20:10		270		- Ah. - "Ah" is right, Data. 
+		263		00:20:10		440		-->		00:20:14		080		The lives of 1 5,000 people are riding on you. 
+		264		00:20:14		240		-->		00:20:17		550		You'd better get innovative. Riker out. 
+		265		00:20:17		710		-->		00:20:19		550		Data? 
+		266		00:20:19		710		-->		00:20:21		450		We're having an effect. 
+		267		00:20:21		620		-->		00:20:26		190		People are asking questions. Gosheven has called a meeting. 
+		268		00:20:26		350		-->		00:20:29		360		Has Gosheven changed his position? 
+		269		00:20:29		520		-->		00:20:33		290		No. But you can present your recommendations. 
+		270		00:20:33		460		-->		00:20:37		930		So far, my attempts at persuasion have been ineffective. 
+		271		00:20:49		110		-->		00:20:52		410		- Why did you do that? - You appeared to need it. 
+		272		00:20:54		950		-->		00:20:59		350		Among humans, a kiss usually serves to seal a friendship, or indicate support, attraction, affection. 
+		274		00:21:04		260		-->		00:21:06		190		In this context, I must assume that your intention was to express support. 
+		276		00:21:10		700		-->		00:21:13		100		You don't understand human behavior. 
+		277		00:21:13		270		-->		00:21:15		540		That is an understatement. 
+		278		00:21:16		440		-->		00:21:20		380		Sometimes I don't either. Androids are a lot more rational. 
+		279		00:21:21		110		-->		00:21:24		810		That quality has not helped me to accomplish my mission. 
+		280		00:21:24		980		-->		00:21:27		850		A rational argument isn't always enough. 
+		281		00:21:28		020		-->		00:21:32		790		Maybe, to be more persuasive, you should use reverse psychology. 
+		282		00:21:35		690		-->		00:21:40		230		Elicit a desired behavior by advocating its opposite. 
+		283		00:21:40		400		-->		00:21:42		400		That implies deception. 
+		284		00:21:42		560		-->		00:21:46		000		A little. But if it helps us get our point across... 
+		285		00:21:46		170		-->		00:21:51		510		Perhaps this is a situation where excessive honesty can be detrimental. 
+		286		00:22:06		420		-->		00:22:07		990		Are we progressing? 
+		287		00:22:08		160		-->		00:22:11		930		- About like you'd expect, sir. - Splendid! Carry on. 
+		288		00:22:14		760		-->		00:22:16		360		He wants the impossible. 
+		289		00:22:16		530		-->		00:22:19		270		That's the short definition of "Captain". 
+		290		00:22:37		390		-->		00:22:40		290		You all know the android from Starfleet, and you've been discussing why he's come. 
+		292		00:22:45		960		-->		00:22:47		530		I called this meeting to replace misinformation with cold hard fact. 
+		294		00:22:52		670		-->		00:22:56		070		- I wish to speak. - No. Leave now. 
+		295		00:22:57		140		-->		00:23:01		510		Is your position so weak that it cannot withstand debate? 
+		296		00:23:01		680		-->		00:23:03		310		Let him speak. 
+		297		00:23:18		190		-->		00:23:20		930		You all know of the Sheliak threat. 
+		298		00:23:21		100		-->		00:23:25		000		Starfleet wishes to evacuate you for your own protection. 
+		299		00:23:25		170		-->		00:23:29		340		Yet Gosheven has decided otherwise. 
+		300		00:23:30		370		-->		00:23:32		010		That is his right. 
+		301		00:23:32		170		-->		00:23:35		680		I will not waste time trying to reverse that decision. 
+		302		00:23:36		210		-->		00:23:41		150		I admire your conviction in the face of certain defeat. 
+		303		00:23:41		320		-->		00:23:44		490		Though doomed, your effort will be valiant. 
+		304		00:23:44		650		-->		00:23:50		490		And when you die, you will die for land and for honor. 
+		305		00:23:59		730		-->		00:24:04		470		Your children will understand that they are dying for a worthy cause. 
+		306		00:24:04		640		-->		00:24:07		340		Long after the battle is over, their courage will be remembered and extolled. 
+		308		00:24:12		480		-->		00:24:14		150		Remembered by who? 
+		309		00:24:16		220		-->		00:24:19		220		Yes, that is true. 
+		310		00:24:20		420		-->		00:24:23		830		There will be no one left alive to remember. 
+		311		00:24:28		360		-->		00:24:30		870		A valiant try, android. 
+		312		00:24:31		030		-->		00:24:33		840		But what a low opinion you must have of us. 
+		313		00:24:34		000		-->		00:24:36		570		I wanted to describe your destruction in a manner with an emotional effect. 
+		315		00:24:39		270		-->		00:24:41		610		He describes it pretty damn well. 
+		316		00:24:41		780		-->		00:24:46		510		Are you ready to follow this machine? Give up without a fight? 
+		317		00:24:46		680		-->		00:24:51		120		He says we're going to lose. That's his cowardice talking. 
+		318		00:24:51		290		-->		00:24:55		360		What if he's right? Shouldn't we consider that possibility? 
+		319		00:24:55		520		-->		00:25:00		160		This colony exists because generations gave their lives for it. 
+		320		00:25:00		330		-->		00:25:03		930		Many died before we could adapt to the radiation. 
+		321		00:25:04		100		-->		00:25:07		000		Many more died bringing water to this desert. 
+		322		00:25:07		170		-->		00:25:10		340		- My grandfather... ...is buried on that mountain. 
+		323		00:25:10		510		-->		00:25:12		240		Who'll be left to bury you? 
+		324		00:25:19		280		-->		00:25:23		120		Have you considered what this evacuation means? 
+		325		00:25:23		280		-->		00:25:27		190		Everything we have, we abandon. 
+		326		00:25:27		360		-->		00:25:31		260		Everything that we have built turns to dust. 
+		327		00:25:31		430		-->		00:25:37		270		Everything that we have accomplished means nothing. I say no. 
+		328		00:25:37		430		-->		00:25:40		700		You elected me your leader. Follow me now. 
+		329		00:25:40		870		-->		00:25:45		040		I don't think our chances are as hopeless as he says. 
+		330		00:25:46		510		-->		00:25:49		810		And I'm willing to stake our lives on it. 
+		331		00:25:51		480		-->		00:25:53		450		Any objections? 
+		332		00:25:57		690		-->		00:25:59		050		Good. 
+		333		00:25:59		850		-->		00:26:02		860		Because here we stand. 
+		334		00:26:03		020		-->		00:26:05		290		- Aye. - We stand with you. 
+		335		00:26:14		400		-->		00:26:16		340		Then here you die. 
+		336		00:26:24		080		-->		00:26:28		850		Mr Data, I want you to know that Gosheven doesn't speak for all of us. 
+		337		00:26:29		020		-->		00:26:31		720		I see no reason to die needlessly. 
+		338		00:26:31		890		-->		00:26:32		920		And you? 
+		339		00:26:33		090		-->		00:26:35		760		I'm not sure. Gosheven's done well for us. 
+		340		00:26:35		890		-->		00:26:38		630		But I want to hear more of what you have to say. 
+		341		00:26:38		790		-->		00:26:40		200		Others feel the same, but they are uneasy about confronting Gosheven. 
+		343		00:26:43		530		-->		00:26:47		070		Get them together and we'll meet at my house. 
+		344		00:26:51		810		-->		00:26:54		610		With other non-humanoid races, there's always been some point of reference. 
+		346		00:26:58		580		-->		00:27:00		250		Not so with the Sheliak. 
+		347		00:27:00		420		-->		00:27:03		490		We must have something in common. We communicate. 
+		348		00:27:03		650		-->		00:27:07		920		Barely. They have learnt several Federation languages, but theirs continues to elude us. 
+		350		00:27:11		290		-->		00:27:15		360		- Telepaths. - Attempted and failed. 
+		351		00:27:15		530		-->		00:27:18		330		Actually, the fact that any alien race communicates with another is quite remarkable. 
+		353		00:27:23		810		-->		00:27:26		370		We are stranded on a planet. 
+		354		00:27:26		540		-->		00:27:30		310		We have no language in common, but I want to teach you mine. 
+		355		00:27:32		150		-->		00:27:36		550		- S'marith. What did I just say? - Cup? 
+		356		00:27:38		450		-->		00:27:39		990		- Glass? - Are you sure? 
+		357		00:27:40		160		-->		00:27:46		130		I may have meant liquid, clear, brown, hot. 
+		358		00:27:46		290		-->		00:27:51		170		We conceptualize the universe in relatively the same way. 
+		359		00:27:51		330		-->		00:27:52		500		Point taken. 
+		360		00:27:53		900		-->		00:27:59		240		In your talks, you must be extremely accurate. 
+		361		00:27:59		370		-->		00:28:03		310		The treaty is 500,000 words. 
+		362		00:28:03		480		-->		00:28:06		150		The length was to accommodate the Sheliak. 
+		363		00:28:06		250		-->		00:28:08		650		They consider our language irrational and wanted this level of complexity to avoid future misunderstandings. 
+		365		00:28:13		860		-->		00:28:18		560		Captain, we have the vessel carrying the Sheliak on visual. 
+		366		00:28:18		730		-->		00:28:20		830		On my way. 
+		367		00:28:21		000		-->		00:28:23		370		So, it begins. 
+		368		00:28:28		100		-->		00:28:30		770		- Hailing frequencies. - Open. 
+		369		00:28:30		910		-->		00:28:34		580		This is Capt Jean-Luc Picard of the Starship Enterprise. 
+		370		00:28:35		440		-->		00:28:37		210		Your purpose, Enterprise? 
+		371		00:28:37		380		-->		00:28:42		780		We desire face-to-face negotiations to settle the crisis on Tau Cygna V. 
+		372		00:28:42		950		-->		00:28:45		290		Meaningless. 
+		373		00:28:45		450		-->		00:28:51		760		We're entitled to consultation under paragraph 653, subparagraph nine. 
+		374		00:28:54		100		-->		00:28:55		230		Granted. 
+		375		00:28:56		700		-->		00:29:00		800		- Was that an invitation? - I am taking it as such. Counselor. 
+		376		00:29:00		970		-->		00:29:03		100		You have the bridge, Number One. 
+		377		00:29:03		270		-->		00:29:05		610		Helm, maintain relative position. 
+		378		00:29:05		770		-->		00:29:09		140		Mr Worf, tell transporter room two to stand by. 
+		379		00:29:09		310		-->		00:29:10		980		Aye, sir. 
+		380		00:29:11		150		-->		00:29:14		580		Once the Federation resettles us, we'll be left alone? 
+		381		00:29:14		750		-->		00:29:15		920		If you so desire. 
+		382		00:29:16		080		-->		00:29:18		290		We do. We like to do things on our own. 
+		383		00:29:18		450		-->		00:29:22		420		The Federation will offer as little or as much help as you want. 
+		384		00:29:22		590		-->		00:29:24		830		Kentor, are you with us? 
+		385		00:29:25		960		-->		00:29:29		430		Yes. The question is how do we convince Gosheven? 
+		386		00:29:29		600		-->		00:29:31		270		Why do we need to? 
+		387		00:29:31		430		-->		00:29:34		870		He's respected. Most people will do what he says. 
+		388		00:29:35		040		-->		00:29:39		310		They respect you, too. If you take a stand, they'll fall in line. 
+		389		00:29:39		470		-->		00:29:42		680		I don't know. Gosheven's got a lot of supporters. 
+		390		00:29:42		840		-->		00:29:44		310		Don't forget that. 
+		391		00:29:47		720		-->		00:29:51		550		I'm disappointed. I thought we'd settled this. 
+		392		00:29:52		150		-->		00:29:54		360		Apparently, that is not correct. 
+		393		00:29:56		160		-->		00:29:58		030		Still stirring up trouble? 
+		394		00:29:58		190		-->		00:30:00		160		Since when is talk trouble? 
+		395		00:30:05		400		-->		00:30:09		200		It's over. Don't you get it? 
+		396		00:30:09		370		-->		00:30:11		670		You had your say. You lost. 
+		397		00:30:12		810		-->		00:30:15		210		I appear to be reversing that defeat. 
+		398		00:30:15		380		-->		00:30:16		510		No, you're not. 
+		399		00:30:16		680		-->		00:30:20		550		You're just stubborn. Well, let me tell you something. 
+		400		00:30:25		020		-->		00:30:28		160		- So am I. - Damn you, Gosheven! 
+		401		00:30:29		020		-->		00:30:31		160		- You killed him! - I killed no one. 
+		402		00:30:31		330		-->		00:30:33		600		I merely shut down a machine. 
+		403		00:30:33		760		-->		00:30:36		870		That's it, everyone. It's time to go home. 
+		404		00:30:40		900		-->		00:30:42		840		You'll see that I'm right. 
+		405		00:31:17		270		-->		00:31:19		340		Advance and speak. 
+		406		00:31:29		150		-->		00:31:30		790		Director... 
+		407		00:31:32		120		-->		00:31:34		620		...we will comply with your request to remove the colony from Tau Cygna V,  but we need time. 
+		410		00:31:38		860		-->		00:31:41		030		The given time has elapsed. 
+		411		00:31:41		200		-->		00:31:42		800		We carry the membership. 
+		412		00:31:42		960		-->		00:31:45		630		We will proceed with their debarkation. 
+		413		00:31:45		800		-->		00:31:49		840		The temporary presence of humans won't interfere with your plans. 
+		414		00:31:50		010		-->		00:31:53		940		Unacceptable. You must remove the creatures. 
+		415		00:31:54		110		-->		00:31:57		780		I'm trying, but the ship isn't available for three weeks. 
+		416		00:31:57		950		-->		00:32:00		150		Then you are in violation. 
+		417		00:32:00		320		-->		00:32:02		780		I have admitted that. 
+		418		00:32:02		950		-->		00:32:06		290		I am only asking for a little flexibility. 
+		419		00:32:06		450		-->		00:32:11		790		Section 501, paragraph 7 1 6, subparagraph five. 
+		420		00:32:11		890		-->		00:32:15		530		"Unwanted life forms inhabiting H-Class worlds may be removed at the discretion of the Sheliak Corporate." 
+		422		00:32:19		830		-->		00:32:25		340		We will remove them, but you must grant us the time we require. 
+		423		00:32:25		510		-->		00:32:30		210		You need time, Picard? We will save you time. 
+		424		00:32:30		380		-->		00:32:33		720		We will eradicate the human infestation. 
+		425		00:32:33		880		-->		00:32:38		190		They are not vermin! I will not permit this outrage. 
+		426		00:32:38		350		-->		00:32:44		090		Intelligent converse is impossible. You do not discuss. You gibber. 
+		427		00:32:44		260		-->		00:32:47		430		Between intelligent species of goodwill... 
+		428		00:32:51		270		-->		00:32:54		740		I take it the Sheliak just hung up on us again. 
+		429		00:33:07		520		-->		00:33:10		690		I was afraid your neural pathways were scrambled. 
+		430		00:33:10		850		-->		00:33:12		920		I have diagnostic circuits and am able to correct many malfunctions. 
+		432		00:33:16		460		-->		00:33:18		590		I'm not surprised at Gosheven. 
+		433		00:33:18		760		-->		00:33:21		630		But Kentor and the others said they were with us. 
+		434		00:33:21		800		-->		00:33:23		730		I guess words don't mean much. 
+		435		00:33:25		100		-->		00:33:29		940		Perhaps that is our difficulty. Words are all we have been using. 
+		436		00:33:30		110		-->		00:33:34		110		Humans seem to take much stronger notice of actions. 
+		437		00:33:35		240		-->		00:33:37		150		I require a phaser. 
+		438		00:33:38		110		-->		00:33:41		580		- What's a phaser? - A type of weapon. 
+		439		00:33:41		750		-->		00:33:46		620		Unfortunately, it does not function around hyperonic radiation. 
+		440		00:33:46		790		-->		00:33:49		260		I will have to be innovative. 
+		441		00:33:52		030		-->		00:33:56		160		Hyperonic radiation randomizes phaser beams. 
+		442		00:33:56		330		-->		00:33:59		970		I think I can improvise a circuit which will compensate by continuously recollimating the output. 
+		444		00:34:03		370		-->		00:34:08		110		You're using your own neural processors to build a smarter phaser. 
+		445		00:34:08		280		-->		00:34:10		010		Essentially correct. 
+		446		00:34:12		550		-->		00:34:14		280		Get word to Gosheven. 
+		447		00:34:14		550		-->		00:34:18		190		Tell him I am coming to the pumping station. 
+		448		00:34:18		350		-->		00:34:21		360		Tell him I am going to destroy the aqueduct. 
+		449		00:34:23		790		-->		00:34:25		790		He'll try and stop you. 
+		450		00:34:26		630		-->		00:34:28		660		I sincerely hope so. 
+		451		00:34:45		350		-->		00:34:48		550		- Go to yellow alert. Shields up. - Aye, sir. 
+		452		00:34:48		720		-->		00:34:52		920		Riker, keep close to the Sheliak vessel. Match any move she makes. 
+		453		00:34:53		090		-->		00:34:56		490		- Aye, sir. - Mr Worf, hailing frequency. 
+		454		00:34:57		190		-->		00:34:58		560		Open. 
+		455		00:34:59		760		-->		00:35:01		800		They are not responding. 
+		456		00:35:03		200		-->		00:35:06		530		They don't have to answer. They just have to listen. 
+		457		00:35:06		700		-->		00:35:09		940		Sheliak vessel, you will have to get past me to get at the colony on Tau Cygna V. 
+		459		00:35:14		710		-->		00:35:18		110		- No response. - Close channel. 
+		460		00:35:19		610		-->		00:35:21		120		Get me that treaty. 
+		461		00:35:21		280		-->		00:35:24		650		They've beat us over the head with it for three days. 
+		462		00:35:24		820		-->		00:35:29		120		Let's find something in it that we can turn to our own advantage. 
+		463		00:35:55		350		-->		00:35:56		820		Stop! 
+		464		00:36:02		520		-->		00:36:05		230		That was the stun setting. 
+		465		00:36:05		390		-->		00:36:07		130		This is not. 
+		466		00:36:18		910		-->		00:36:24		180		I can reduce this pumping station to a pile of debris, but I trust my point is clear. 
+		468		00:36:26		750		-->		00:36:29		920		I am but one android with a single weapon. 
+		469		00:36:30		090		-->		00:36:33		220		There are hundreds of Sheliak on the way. 
+		470		00:36:33		390		-->		00:36:35		820		Their weapons are far more powerful. 
+		471		00:36:35		990		-->		00:36:38		530		They may not offer you a target. 
+		472		00:36:38		690		-->		00:36:42		330		They can obliterate you from orbit. 
+		473		00:36:42		500		-->		00:36:47		840		You will die never having seen the faces of your killers. 
+		474		00:36:49		540		-->		00:36:51		210		The choice is yours. 
+		475		00:36:53		880		-->		00:36:56		580		There are other places, other challenges. 
+		476		00:36:56		710		-->		00:36:58		880		Yes, listen to Kentor. 
+		477		00:37:40		490		-->		00:37:43		790		I really was willing to stay here and die for this. 
+		478		00:37:43		960		-->		00:37:45		630		I know that. 
+		479		00:37:46		830		-->		00:37:51		700		This is just a thing, and things can be replaced. 
+		480		00:37:51		870		-->		00:37:53		700		Lives cannot. 
+		481		00:38:12		220		-->		00:38:14		020		This is hopeless. 
+		482		00:38:14		460		-->		00:38:16		890		Fighting would be preferable. 
+		483		00:38:23		500		-->		00:38:26		630		- That's it. - I don't follow you, sir. 
+		484		00:38:27		840		-->		00:38:30		670		- Mr Worf, get me the Sheliak. - Yes, sir. 
+		485		00:38:39		980		-->		00:38:42		080		Coming through, sir. 
+		486		00:38:44		490		-->		00:38:48		020		Pursuant to paragraph 1,290, 
+		487		00:38:48		190		-->		00:38:52		060		I hereby request third-party arbitration of our dispute. 
+		488		00:38:54		160		-->		00:38:56		360		You have the right. 
+		489		00:38:56		530		-->		00:39:00		600		Furthermore, pursuant to subsection D3, 
+		490		00:39:00		770		-->		00:39:06		070		- I name the Grisellas to arbitrate. - Grisellas? 
+		491		00:39:06		240		-->		00:39:09		110		Unfortunately, they are hibernating now. 
+		492		00:39:09		280		-->		00:39:14		280		They'll awaken in six months, at which time we can settle this. 
+		493		00:39:15		380		-->		00:39:21		390		Now, do you want to wait or give me my three weeks? 
+		494		00:39:21		560		-->		00:39:26		290		Absurd. We carry the membership. We can brook no delay. 
+		495		00:39:26		460		-->		00:39:29		600		Then I hereby declare this treaty in abeyance. 
+		496		00:39:29		800		-->		00:39:32		730		Wait! Negotiation is permiss... 
+		497		00:39:38		770		-->		00:39:42		240		- You enjoyed that. - You're damned right. 
+		498		00:39:47		950		-->		00:39:51		120		Captain, they are hailing us. 
+		499		00:40:04		830		-->		00:40:05		870		Sir? 
+		500		00:40:20		050		-->		00:40:22		180		On screen. 
+		501		00:40:23		850		-->		00:40:28		320		You may have your three weeks, Picard of the Enterprise. 
+		502		00:40:29		190		-->		00:40:30		290		Thank you. 
+		503		00:40:37		800		-->		00:40:42		000		Captain, we can do it. We can modify the transporters. 
+		504		00:40:42		170		-->		00:40:43		200		Excellent. 
+		505		00:40:43		370		-->		00:40:45		970		It'll take 15 years and 1 00 researchers. 
+		506		00:40:46		140		-->		00:40:50		150		Mr La Forge, I believe we will postpone. 
+		507		00:40:51		150		-->		00:40:52		880		Yes, sir. 
+		508		00:40:58		990		-->		00:41:01		160		Lt Cmdr Data to Enterprise. 
+		509		00:41:01		260		-->		00:41:05		730		I am about to leave Tau Cygna V and await rendezvous instructions. 
+		510		00:41:05		890		-->		00:41:08		660		Acknowledged. Stand by. 
+		511		00:41:20		280		-->		00:41:24		250		Hi. The evacuation plan is going well. 
+		512		00:41:24		410		-->		00:41:28		420		When the ship arrives, we'll be ready to leave. You succeeded. 
+		513		00:41:28		580		-->		00:41:32		020		I only succeeded with your support and insight. 
+		514		00:41:32		190		-->		00:41:35		960		- I am grateful for your assistance. - Good. 
+		515		00:41:36		120		-->		00:41:40		100		- Then you won't forget me. - I am incapable of forgetting. 
+		516		00:41:40		260		-->		00:41:44		730		I will remember every detail of my visit with perfect clarity. 
+		517		00:41:44		900		-->		00:41:46		770		But nothing more? 
+		518		00:41:48		240		-->		00:41:49		800		I do not understand. 
+		519		00:41:53		610		-->		00:41:56		980		I guess what I really want to know is... 
+		520		00:41:58		850		-->		00:42:01		950		...do you have any feelings for me? 
+		521		00:42:04		020		-->		00:42:07		520		I have no feelings of any kind. 
+		522		00:42:08		960		-->		00:42:11		760		No, of course you don't. 
+		523		00:42:24		210		-->		00:42:25		670		What was that for? 
+		524		00:42:26		780		-->		00:42:28		880		You appeared to need it. 
+		525		00:42:31		280		-->		00:42:34		780		So you saw that I was unhappy and did what you concluded  would make me feel better? 
+		528		00:42:43		890		-->		00:42:45		460		Rational to the last. 
+		529		00:43:01		680		-->		00:43:03		040		Bye. 
+		530		00:43:05		380		-->		00:43:06		380		Come. 
+		531		00:43:11		890		-->		00:43:15		160		- Welcome home. Well done. - Thank you, sir. 
+		532		00:43:18		390		-->		00:43:23		160		The good Doctor provided me with a recording of your concert. 
+		533		00:43:23		330		-->		00:43:27		000		Your performance shows... feeling. 
+		534		00:43:27		740		-->		00:43:32		440		As I have recently reminded others, sir, I have no feeling. 
+		535		00:43:33		170		-->		00:43:38		750		It's hard to believe. Your playing is quite beautiful. 
+		536		00:43:38		910		-->		00:43:42		080		Strictly speaking, sir, it is not my playing. 
+		537		00:43:42		250		-->		00:43:46		820		It is a precise imitation of Jascha Heifetz and Trenka Bronkin. 
+		538		00:43:50		090		-->		00:43:53		290		Is there nothing of Data in what I'm hearing? 
+		539		00:43:53		430		-->		00:43:55		660		You see, you chose the violinists. 
+		540		00:43:55		830		-->		00:44:00		840		Heifetz and Bronkin have radically different styles and techniques, yet you combined them successfully. 
+		542		00:44:06		980		-->		00:44:11		380		I suppose I have learned to be creative, sir. 
+		543		00:44:11		550		-->		00:44:13		210		When necessary. 
+		544		00:44:16		320		-->		00:44:19		950		Mr Data, I look forward to your next concert.

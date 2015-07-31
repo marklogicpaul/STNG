@@ -1,0 +1,513 @@
+		1		00:00:02		628		-->		00:00:05		631		Captain's log, stardate <stardate>42923</stardate>.4. 
+		2		00:00:05		797		-->		00:00:09		426		Despite misgivings, I have agreed to Starfleet's request to divert to the Braslota system  to take part in a war-game exercise. 
+		5		00:00:14		681		-->		00:00:17		351		Joining us as observer and mediator is the Zakdorn master strategist, Sirna Kolrami. 
+		7		00:00:32		950		-->		00:00:36		119		Mr Kolrami, Capt Jean-Luc Picard. Welcome aboard. 
+		8		00:00:36		286		-->		00:00:39		748		Captain, I bring you greetings from those at Starfleet Command. 
+		9		00:00:39		915		-->		00:00:42		251		Would you care to see your quarters? 
+		10		00:00:42		417		-->		00:00:44		127		I require little rest. 
+		11		00:00:44		294		-->		00:00:47		339		I prefer that we commence with our mission. 
+		12		00:00:54		179		-->		00:00:56		223		Despite their reputations, this Zakdorn does not appear to be a very formidable warrior. 
+		14		00:01:02		020		-->		00:01:04		147		In military brinksmanship, individual physical prowess is less important  than the perception of the whole species. 
+		17		00:01:09		736		-->		00:01:13		365		For over nine millennia, foes have regarded the Zakdorns as having the greatest strategic minds in the galaxy. 
+		19		00:01:17		411		-->		00:01:21		164		So no one is willing to test that perception in combat. 
+		20		00:01:21		707		-->		00:01:23		208		Exactly. 
+		21		00:01:25		460		-->		00:01:27		462		Then the reputation means nothing. 
+		22		00:01:28		422		-->		00:01:32		301		The Braslota system. In orbit around the second planet is the 80-year-old starcruiser Hathaway. 
+		24		00:01:38		724		-->		00:01:40		851		He is still your first choice? 
+		25		00:01:41		226		-->		00:01:43		979		Cmdr Riker will captain the Hathaway. 
+		26		00:01:44		938		-->		00:01:48		692		You have 48 hours to prepare before the Enterprise attacks. 
+		27		00:01:48		859		-->		00:01:51		987		- We'll experience battle conditions? - Correct. 
+		28		00:01:52		154		-->		00:01:55		449		Engineering will disconnect the Enterprise's weapons and link the system with a modified pulse beam. 
+		30		00:01:58		702		-->		00:02:00		954		Hits are recorded electronically. 
+		31		00:02:01		121		-->		00:02:05		209		If the computer registers damage, it will act accordingly, shutting down the affected areas for the appropriate repair time. 
+		33		00:02:10		839		-->		00:02:12		674		Additional questions? 
+		34		00:02:16		678		-->		00:02:19		139		Capt Picard, it is my understanding that you initially resisted the request for this simulation. 
+		36		00:02:24		186		-->		00:02:25		145		Yes. 
+		37		00:02:26		230		-->		00:02:27		523		May I know why? 
+		38		00:02:27		689		-->		00:02:31		610		Starfleet is not military. Its purpose is exploration. 
+		39		00:02:32		736		-->		00:02:35		155		Then why am I here? 
+		40		00:02:36		240		-->		00:02:38		408		With the Borg threat, 
+		41		00:02:38		575		-->		00:02:43		622		I decided that my officers and I needed to hone our tactical skills. 
+		42		00:02:43		789		-->		00:02:48		001		In a crisis situation, it is prudent to have several options. 
+		43		00:02:49		503		-->		00:02:51		880		I prefer brains over brawn, too. 
+		44		00:02:52		047		-->		00:02:54		758		It's a waste of effort testing combat skills. 
+		45		00:02:54		925		-->		00:02:57		469		It's a small part in the make-up of a captain. 
+		46		00:02:57		970		-->		00:03:00		305		Your objection is noted. 
+		47		00:03:00		472		-->		00:03:04		101		Let us hope that your distaste for the exercise will not affect your strategic abilities. 
+		49		00:03:09		106		-->		00:03:13		402		Mr Kolrami, when I agree to do something, I do it. 
+		50		00:03:15		320		-->		00:03:17		489		Do you care to surrender now? 
+		51		00:03:40		721		-->		00:03:43		765		Space, the final frontier. 
+		52		00:03:45		142		-->		00:03:49		146		These are the voyages of the Starship Enterprise. 
+		53		00:03:49		313		-->		00:03:54		193		Its continuing mission, to explore strange, new worlds,... 
+		54		00:03:55		152		-->		00:03:58		780		..to seek out new life and new civilizations,... 
+		55		00:03:59		740		-->		00:04:03		911		..to boldly go where no one has gone before. 
+		56		00:05:07		808		-->		00:05:11		061		Your team should number 40, so select whom you will, except Mr Data, who will serve as my First Officer. 
+		58		00:05:14		982		-->		00:05:18		110		I had envisaged you defining the crew. 
+		59		00:05:21		029		-->		00:05:24		992		Here, the leader of an away team controls the mission. 
+		60		00:05:25		826		-->		00:05:29		413		If you want to judge leadership, start at the beginning. 
+		61		00:05:29		580		-->		00:05:32		374		Very well, Captain. 
+		62		00:05:34		793		-->		00:05:38		380		- My, what a charmer. - Doctor... 
+		63		00:05:38		547		-->		00:05:41		884		Captain, he needs an attitude adjustment. 
+		64		00:05:42		050		-->		00:05:45		971		The Zakdornian culture is replete with self-assuredness. 
+		65		00:05:46		138		-->		00:05:47		764		Seldom is it undeserved. 
+		66		00:05:47		931		-->		00:05:52		186		Kolrami is a third-level grandmaster at the game of strategema. 
+		67		00:05:56		481		-->		00:05:58		275		Another millimeter. 
+		68		00:05:58		442		-->		00:06:02		154		That's it. A little more. There. That's excellent. 
+		69		00:06:02		321		-->		00:06:04		698		- Lieutenant? - Yes, Commander? 
+		70		00:06:04		865		-->		00:06:08		619		- You've heard about the simulation? - Yes. Good luck. 
+		71		00:06:08		785		-->		00:06:12		664		I researched those Avidyne engines. They're archaic. Touchy. 
+		72		00:06:12		831		-->		00:06:16		543		Anticipating the worst, can they be overhauled in 48 hours? 
+		73		00:06:16		710		-->		00:06:21		215		I've already taken the liberty of putting together a few necessities. 
+		74		00:06:32		226		-->		00:06:33		185		Enter! 
+		75		00:06:43		403		-->		00:06:44		988		Am I disturbing you? 
+		76		00:06:53		789		-->		00:06:54		831		Just finished. 
+		77		00:06:55		290		-->		00:06:57		709		What do you think of the simulation? 
+		78		00:06:58		627		-->		00:07:02		005		- Waste of time. - It's just an exercise. 
+		79		00:07:02		589		-->		00:07:07		135		Useless. If there is nothing to lose, no sacrifice, then there is nothing to gain. 
+		81		00:07:12		808		-->		00:07:14		601		You mean, besides pride. 
+		82		00:07:15		727		-->		00:07:20		357		In this case, it doesn't matter. I probably haven't got a chance. 
+		83		00:07:20		524		-->		00:07:23		193		- There is always a chance. - Slim. 
+		84		00:07:23		360		-->		00:07:26		029		The Hathaway's most sophisticated weapons, even in a computer mock-up, can't defeat the Enterprise. 
+		86		00:07:30		075		-->		00:07:30		993		Well, still... 
+		87		00:07:31		159		-->		00:07:34		621		You're out-manned, out-gunned, out-equipped. What's left? 
+		88		00:07:41		170		-->		00:07:42		337		Guile. 
+		89		00:07:43		589		-->		00:07:44		673		Join me. 
+		90		00:07:48		468		-->		00:07:50		429		The honour is to serve. 
+		91		00:07:58		270		-->		00:08:01		648		Scan all sectors within three light years of Braslota. 
+		92		00:08:01		815		-->		00:08:05		110		- How's your crew shaping up? - One last request. 
+		93		00:08:05		277		-->		00:08:06		612		Anyone in particular? 
+		94		00:08:06		778		-->		00:08:12		117		I would like Acting Ensign Crusher on board for educational observation. 
+		95		00:08:17		664		-->		00:08:19		041		Thank you, Captain. 
+		96		00:08:21		043		-->		00:08:24		171		We'll have some time before reaching Braslota. 
+		97		00:08:24		338		-->		00:08:27		591		Would you play me in a game of strategema? 
+		98		00:08:29		092		-->		00:08:32		721		Although I'm intrigued by the audacity of your request, 
+		99		00:08:32		888		-->		00:08:36		350		I can't fathom why you would wish the encounter. 
+		100		00:08:37		476		-->		00:08:39		853		- I enjoy a challenge. - Very well. 
+		101		00:08:40		395		-->		00:08:46		151		An opponent of limited dimensions can often be quite diverting. 
+		102		00:08:48		445		-->		00:08:49		780		Thank you. 
+		103		00:08:56		245		-->		00:08:58		372		- You're gonna beat him? - No. 
+		104		00:08:58		539		-->		00:09:01		083		- Then it's gonna be close? - No. 
+		105		00:09:01		250		-->		00:09:03		377		- But you have a chance? - No! 
+		106		00:09:03		544		-->		00:09:05		671		- Are you going to show up? - Sure. 
+		107		00:09:05		838		-->		00:09:09		132		Kolrami's the best. Just to play him is a privilege. 
+		108		00:09:09		299		-->		00:09:12		553		Aside from that, is there anything to look forward to? 
+		109		00:09:12		719		-->		00:09:13		595		No. 
+		110		00:09:13		762		-->		00:09:15		556		This is gonna be exciting. 
+		111		00:09:29		736		-->		00:09:32		239		Against an opponent of approximate skill, strategema can last over 1,000 moves. 
+		113		00:09:35		117		-->		00:09:37		911		I wouldn't bet on being here that long. 
+		114		00:09:38		078		-->		00:09:40		789		I have wagered heavily in the ship's pool that you will take him past the sixth plateau. 
+		116		00:09:44		418		-->		00:09:45		794		And if I don't? 
+		117		00:09:47		337		-->		00:09:50		591		I will be irritated. 
+		118		00:09:51		967		-->		00:09:55		387		Forever curious, this urge to compete. 
+		119		00:09:55		554		-->		00:09:57		097		It's a human response. 
+		120		00:09:57		264		-->		00:10:01		143		That inborn craving to gauge your capabilities through conflict. 
+		121		00:10:01		310		-->		00:10:03		812		There are other ways to challenge oneself. 
+		122		00:10:03		979		-->		00:10:06		732		Perhaps, but they all lack a certain thrill. 
+		123		00:10:06		899		-->		00:10:08		567		Humans can find it helpful to have an outsider set the standard by which they're judged. 
+		125		00:10:12		779		-->		00:10:14		531		To avoid deceiving oneself. 
+		126		00:10:16		116		-->		00:10:19		995		Maybe you should challenge Kolrami to strategema. 
+		127		00:10:20		495		-->		00:10:21		455		Why, Doctor? 
+		128		00:10:21		622		-->		00:10:23		373		When someone is that smug, you occasionally have to deflate them a little. 
+		130		00:10:26		585		-->		00:10:30		964		Yeah, I'd like to see your neural flex tear him down a peg. 
+		131		00:10:31		131		-->		00:10:32		508		To what end? 
+		132		00:10:34		468		-->		00:10:38		263		Computer, actuation positions for strategema. 
+		133		00:10:38		430		-->		00:10:40		015		Ready? Begin. 
+		134		00:10:42		392		-->		00:10:45		103		- Come on, Commander. - Will. 
+		135		00:10:45		270		-->		00:10:47		397		You can get him. Come on. 
+		136		00:10:47		564		-->		00:10:48		941		Come on, you got him. 
+		137		00:10:51		068		-->		00:10:52		861		Here you go. 
+		138		00:11:01		578		-->		00:11:03		997		- That's it? - I'm afraid so. 
+		139		00:11:04		164		-->		00:11:06		834		- But you only made 23 moves. - Yes. 
+		140		00:11:07		835		-->		00:11:09		628		Congratulations. 
+		141		00:11:21		598		-->		00:11:25		269		Cmdr Riker, there's your next challenge. 
+		142		00:11:28		939		-->		00:11:32		276		Away team assembled and ready to transport. 
+		143		00:11:32		442		-->		00:11:35		362		I may get there and want to come right home. 
+		144		00:11:35		529		-->		00:11:38		740		Good luck, Number One. Captain. 
+		145		00:11:38		907		-->		00:11:42		369		The simulation will commence in 48 hours. 
+		146		00:12:04		349		-->		00:12:08		270		There should be some emergency bridge lighting here. 
+		147		00:12:16		987		-->		00:12:18		363		Not good. 
+		148		00:12:18		530		-->		00:12:22		951		You're wrong, Mr Worf, it's fantastic. And it's ours. 
+		149		00:12:25		746		-->		00:12:27		331		Mr Worf? 
+		150		00:12:34		171		-->		00:12:39		218		Sir, Lt La Forge is a superior officer. The honour should be his. 
+		151		00:12:39		384		-->		00:12:42		804		This is a battle simulation. You're my Tactical Officer. 
+		152		00:12:42		971		-->		00:12:45		807		I've discussed this with Geordi and we agreed. 
+		153		00:12:45		974		-->		00:12:49		811		Besides, if Engineering's anything like the bridge, I'll be busy. 
+		154		00:13:03		075		-->		00:13:07		788		Attention, crew of the USS Hathaway. This is your Captain. 
+		155		00:13:07		955		-->		00:13:11		667		Over the next two days you might lose a lot of sleep, but with your skill and stamina we'll have this lady ready to fly. 
+		157		00:13:17		506		-->		00:13:22		427		I want hourly progress reports from all stations. Riker out. 
+		158		00:14:03		552		-->		00:14:07		890		Nice job, Geordi. Now what are the possibilities of warp drive? 
+		159		00:14:15		105		-->		00:14:16		481		Not good. 
+		160		00:14:17		816		-->		00:14:21		820		There are only a few dilithium fragments left in the holding clamps. 
+		161		00:14:21		987		-->		00:14:25		782		Also, there's no antimatter to fuel the drive. 
+		162		00:14:25		949		-->		00:14:27		659		Any recommendations? 
+		163		00:14:27		826		-->		00:14:30		495		- No, sir. - We haven't got a prayer. 
+		164		00:14:31		997		-->		00:14:35		584		Would you like to transfer back to the Enterprise, Mr Crusher? 
+		165		00:14:36		168		-->		00:14:37		586		No, sir. 
+		166		00:14:39		171		-->		00:14:43		133		Wes, remember our purpose is to improvise. 
+		167		00:14:43		300		-->		00:14:45		302		It's the effort that counts. 
+		168		00:14:49		306		-->		00:14:50		891		Open. 
+		169		00:14:52		809		-->		00:14:55		646		I believe the rules are understood by all. 
+		170		00:14:55		812		-->		00:14:59		107		- Weapons conversion, Lt Burke? - Complete, Captain. 
+		171		00:14:59		274		-->		00:15:03		987		- Signal received. Locked on. - She's been stripped down. 
+		172		00:15:04		154		-->		00:15:07		658		The only offensive systems you need will be simulated. 
+		173		00:15:07		824		-->		00:15:10		327		What's the Zakdornian word for mismatch? 
+		174		00:15:10		494		-->		00:15:14		248		"Challenge." We do not whine about the inequities of life. 
+		175		00:15:14		414		-->		00:15:18		961		How you perform in a mismatch is what is of interest to Starfleet. 
+		176		00:15:19		127		-->		00:15:23		006		After all, when one is in the superior position, one is expected to win. 
+		178		00:15:27		052		-->		00:15:29		513		Screen off. You have the bridge, Mr Data. 
+		179		00:15:29		680		-->		00:15:30		597		Aye, sir. 
+		180		00:15:30		764		-->		00:15:34		351		Lt Cmdr Data, I'm intrigued by your challenge. 
+		181		00:15:34		518		-->		00:15:38		814		Dr Pulaski informed me of your desire to play a game of strategema. 
+		182		00:15:41		650		-->		00:15:44		236		But I expressed no such interest. 
+		183		00:15:44		403		-->		00:15:48		240		Data means he would never have asked you himself, but he wants to pit his skill against yours. 
+		185		00:15:51		952		-->		00:15:56		790		Play against a machine. Why should I wish to? 
+		186		00:15:56		957		-->		00:16:01		211		I don't blame you. It's no fun when you know you're going to lose. 
+		187		00:16:01		378		-->		00:16:06		466		But I wouldn't lose. Now you'll no doubt tell me to prove it. 
+		188		00:16:06		633		-->		00:16:10		721		- Data, you can't let that pass. - Indeed, I... 
+		189		00:16:13		432		-->		00:16:14		641		Cannot. 
+		190		00:16:14		808		-->		00:16:18		270		Then you will play for the honour of your ship. 
+		191		00:16:20		564		-->		00:16:22		900		The honour of the ship? 
+		192		00:16:23		066		-->		00:16:26		195		It's your reputation that's on the line. 
+		193		00:16:34		953		-->		00:16:39		124		With my knowledge of the Enterprise's Security override, we may be able to convince the sensors  that an enemy ship is approaching. 
+		196		00:16:44		630		-->		00:16:47		841		Their instruments would lie to them. 
+		197		00:16:48		008		-->		00:16:51		803		That might give us the edge we're looking for. 
+		198		00:16:51		970		-->		00:16:54		515		But what about the viewscreen? 
+		199		00:16:54		681		-->		00:16:56		099		If I am successful, the computer will project a false image of the enemy ship. 
+		201		00:17:00		812		-->		00:17:03		857		So unless someone runs to a window and looks out... 
+		202		00:17:04		024		-->		00:17:06		818		They're going to fall for it! 
+		203		00:17:20		999		-->		00:17:23		710		The lining's still smooth. 
+		204		00:17:23		877		-->		00:17:27		923		We should be able to do something with the dilithium we scavenged. 
+		205		00:17:28		090		-->		00:17:30		133		I'm sure the system's functional. 
+		206		00:17:30		300		-->		00:17:34		221		But without antimatter, what difference does it make? 
+		207		00:17:35		597		-->		00:17:37		766		I have to return to the Enterprise. 
+		208		00:17:37		933		-->		00:17:40		227		We've only got 32 hours! 
+		209		00:17:40		394		-->		00:17:43		105		- This is important. - And this isn't? 
+		210		00:17:44		565		-->		00:17:47		818		Attempt the routeing bypass here. 
+		211		00:17:47		985		-->		00:17:51		613		If it works, they will be surprised. 
+		212		00:17:51		780		-->		00:17:54		575		Where am I going to get the opti-cable? 
+		213		00:17:57		327		-->		00:17:58		912		Anywhere. 
+		214		00:18:03		959		-->		00:18:07		462		Captain? I left an experiment running on the Enterprise. 
+		215		00:18:07		629		-->		00:18:11		133		- May I go back and shut it down? - It's that important? 
+		216		00:18:11		300		-->		00:18:16		138		It has to be monitored. It is my final grade in plasma physics. 
+		217		00:18:19		308		-->		00:18:22		728		- Message from the Hathaway, sir. - On screen. 
+		218		00:18:23		312		-->		00:18:27		232		Request permission for Ensign Crusher to reboard. 
+		219		00:18:27		399		-->		00:18:28		692		Why? 
+		220		00:18:28		859		-->		00:18:33		488		Apparently, he left a very critical experiment unattended. 
+		221		00:18:35		032		-->		00:18:37		534		- Any objection? - He should be escorted, and have no contact with anything save his research. 
+		223		00:18:41		872		-->		00:18:45		792		Permission granted. Mr Burke, will you handle that? 
+		224		00:18:45		959		-->		00:18:46		919		Aye, sir. 
+		225		00:18:47		085		-->		00:18:49		463		I don't know why Riker chose him. 
+		226		00:18:49		630		-->		00:18:52		508		Just a noncommissioned child. 
+		227		00:18:55		469		-->		00:19:00		307		I can't believe I forgot about this. I let excitement cloud my judgement. 
+		228		00:19:00		474		-->		00:19:03		560		It's very dull. I spent six weeks setting this up. 
+		229		00:19:03		727		-->		00:19:08		232		- That's a lot of work. - Oh, no! This is ruined. 
+		230		00:19:08		398		-->		00:19:13		195		Too bad. Look, is this going to take much longer? 
+		231		00:19:13		362		-->		00:19:17		032		I'll have to dispose of this safely. It's very volatile. 
+		232		00:19:18		158		-->		00:19:21		745		- I'll beam it off the Enterprise. - Fine. Just do it. 
+		233		00:19:21		912		-->		00:19:24		957		I'll transfer it to the transporter room. 
+		234		00:20:00		576		-->		00:20:05		414		In the present context, what did she mean by, "Bust him up"? 
+		235		00:20:05		581		-->		00:20:08		709		In her own way, Dr Pulaski was instructing you to take the shortest route to victory. 
+		237		00:20:11		628		-->		00:20:13		463		As opposed to what? 
+		238		00:20:19		344		-->		00:20:22		306		Ready? Begin. 
+		239		00:20:42		868		-->		00:20:45		329		I can't believe it. 
+		240		00:20:45		495		-->		00:20:48		248		A computer beaten by flesh and blood? 
+		241		00:20:49		499		-->		00:20:52		669		You advanced quite far against a worthy opponent. 
+		242		00:20:52		836		-->		00:20:55		339		Thoroughly enjoyable, Mr Data. 
+		243		00:20:56		590		-->		00:20:59		843		I'm at your disposal for a rematch. 
+		244		00:21:00		010		-->		00:21:03		138		Thank you. But what would be the point? 
+		245		00:21:06		433		-->		00:21:11		647		How can you lose? You're supposed to be infallible. 
+		246		00:21:11		813		-->		00:21:14		525		Obviously, I am not. 
+		247		00:21:23		075		-->		00:21:24		826		Ensign, where is Cmdr Data? 
+		248		00:21:24		993		-->		00:21:29		331		He has temporarily removed himself from bridge duty, sir. 
+		249		00:21:29		498		-->		00:21:34		878		Your crew is excellently trained. A tribute to your leadership. 
+		250		00:21:35		045		-->		00:21:39		132		Although I doubt their extensive preparation will be needed. 
+		251		00:21:39		716		-->		00:21:41		051		Why is that? 
+		252		00:21:41		969		-->		00:21:47		808		I do not expect Capt Riker will present much of a challenge. 
+		253		00:21:48		725		-->		00:21:52		187		Mr Kolrami, may I speak with you in private? 
+		254		00:22:01		488		-->		00:22:04		992		I want to know the root of your prejudice for my First Officer. 
+		255		00:22:05		158		-->		00:22:06		159		Captain. 
+		256		00:22:06		326		-->		00:22:10		163		Mr Kolrami, you have denigrated and abused Cmdr Riker since coming aboard this ship. 
+		258		00:22:12		499		-->		00:22:15		669		I would like some explanation. 
+		259		00:22:15		836		-->		00:22:20		382		Having studied William Riker's file prior to this assignment, 
+		260		00:22:20		549		-->		00:22:23		969		I have found him wanting. 
+		261		00:22:24		136		-->		00:22:25		971		In what regard? 
+		262		00:22:27		598		-->		00:22:30		434		His work record is exemplary, but, as you know, a starship captain is not manufactured. 
+		264		00:22:37		774		-->		00:22:42		112		He, or she, is born from inside. 
+		265		00:22:42		279		-->		00:22:44		823		From the character of the individual. 
+		266		00:22:44		990		-->		00:22:47		075		My interviews have revealed a man who displays circumstantially inappropriate joviality,  belying the seriousness of his station. 
+		269		00:22:57		252		-->		00:23:01		423		Don't confuse style with intent. 
+		270		00:23:02		424		-->		00:23:06		261		Only a fool would question Riker's dedication to Starfleet and the people under his command. 
+		272		00:23:09		014		-->		00:23:12		309		He is the finest officer with whom I have ever served. 
+		273		00:23:12		476		-->		00:23:18		857		We shall see if your faith is well founded. 
+		274		00:23:19		024		-->		00:23:23		070		The test is whether the crew will follow where he leads. 
+		275		00:23:23		237		-->		00:23:24		613		His... 
+		276		00:23:25		822		-->		00:23:31		495		His joviality is the means by which he creates that loyalty. 
+		277		00:23:31		662		-->		00:23:35		958		And I will match his command style with your statistics any time. 
+		278		00:23:44		091		-->		00:23:46		009		Come in, please. 
+		279		00:23:49		596		-->		00:23:50		556		Data. 
+		280		00:23:50		722		-->		00:23:53		058		Counsellor. Is something the matter? 
+		281		00:23:53		225		-->		00:23:55		602		That was going to be my question. 
+		282		00:23:56		270		-->		00:23:58		772		With my repository of knowledge, 
+		283		00:23:58		939		-->		00:24:02		651		I expected to perform better against a humanoid life form. 
+		284		00:24:02		818		-->		00:24:08		657		Some of our greatest advances have come from analyzing failure. 
+		285		00:24:08		824		-->		00:24:13		161		- While it can be ego-bruising... - I do not have an ego. 
+		286		00:24:14		079		-->		00:24:15		497		Yes. 
+		287		00:24:15		664		-->		00:24:19		585		Well, a loss can be disheartening. 
+		288		00:24:19		751		-->		00:24:23		463		- But I do not have a... - Data! 
+		289		00:24:24		506		-->		00:24:26		884		You can handle defeat in two ways. 
+		290		00:24:27		050		-->		00:24:31		054		You can lose confidence, or you can learn from your mistakes. 
+		291		00:24:32		639		-->		00:24:35		726		That is what troubles me. I made no mistakes. 
+		292		00:24:36		810		-->		00:24:40		355		I have conducted a diagnostic check of all my programs. 
+		293		00:24:40		522		-->		00:24:42		691		I am checking the ship's computer. 
+		294		00:24:42		858		-->		00:24:44		610		Is that all necessary? 
+		295		00:24:44		776		-->		00:24:48		322		I believe so. I have proven to be vulnerable. 
+		296		00:24:48		488		-->		00:24:52		534		At present, my deductions should be treated with scepticism. 
+		297		00:24:52		701		-->		00:24:55		537		That's why you haven't been on the bridge? 
+		298		00:24:55		704		-->		00:25:00		459		Yes. The Captain would be ill-advised to rely upon my judgement. 
+		299		00:25:02		169		-->		00:25:05		964		I think you're overreacting. I'm sure you're alright. l, however, am not sure. 
+		301		00:25:19		186		-->		00:25:20		854		Easy now. 
+		302		00:25:21		855		-->		00:25:24		608		- Is that it? - Yeah. 
+		303		00:25:25		192		-->		00:25:26		527		Good. Good work. 
+		304		00:25:26		693		-->		00:25:29		571		Alright. Hand me that connector on the kit. 
+		305		00:25:35		994		-->		00:25:39		790		- What is that? - My experiment from the Enterprise. 
+		306		00:25:39		957		-->		00:25:41		625		Wes? 
+		307		00:25:41		792		-->		00:25:46		713		It deals with high-energy plasma reactions with antimatter. 
+		308		00:25:48		173		-->		00:25:50		968		You went back to the Enterprise for that? 
+		309		00:25:51		718		-->		00:25:55		430		- You cheated. - No, sir. You told me to improvise. 
+		310		00:25:55		597		-->		00:26:00		686		We need to calibrate a thermal curve to start a controlled reaction. 
+		311		00:26:02		729		-->		00:26:06		358		Assuming you can, can you regulate the reaction? 
+		312		00:26:09		611		-->		00:26:12		865		There's just enough crystal left to do it. 
+		313		00:26:15		033		-->		00:26:17		953		We'll channel the reaction through the chips. 
+		314		00:26:18		120		-->		00:26:20		205		- Are we good? - Better than good. 
+		315		00:26:20		372		-->		00:26:24		001		Great. Brilliant. It's gonna be fun. Carry on. 
+		316		00:26:30		924		-->		00:26:32		384		Come in, please. 
+		317		00:26:34		553		-->		00:26:38		140		- Alright, Data, enough of this. - Doctor? 
+		318		00:26:38		307		-->		00:26:42		019		How long are you going to sulk like Achilles in his tent? 
+		319		00:26:42		186		-->		00:26:44		062		I'm conducting diagnostic... 
+		320		00:26:44		229		-->		00:26:46		690		You can sell Troi that story, but not me. 
+		321		00:26:46		857		-->		00:26:50		611		You're smarting because you were beaten. Well, it happens. 
+		322		00:26:50		777		-->		00:26:56		700		No, Doctor, I'm concerned about giving the Captain unsound advice. 
+		323		00:26:58		994		-->		00:27:03		290		I wish I had never manoeuvred you into playing that game! 
+		324		00:27:03		457		-->		00:27:04		583		I'm sorry. 
+		325		00:27:05		125		-->		00:27:08		837		Why, Doctor? It is done, and perhaps just as well. 
+		326		00:27:09		004		-->		00:27:12		424		This has indicated that I am damaged in some fashion. 
+		327		00:27:12		591		-->		00:27:14		968		I must find the malfunction. 
+		328		00:27:26		021		-->		00:27:28		190		The simulation begins in one hour. 
+		329		00:27:28		357		-->		00:27:31		401		You'll have warp drive, but maybe not what you expect. 
+		330		00:27:31		568		-->		00:27:33		570		That deserves an explanation. 
+		331		00:27:33		737		-->		00:27:36		823		- We'll have warp one for... - Just under two seconds. 
+		332		00:27:36		990		-->		00:27:41		203		Not enough for an escape. It may give us strategic advantage. 
+		333		00:27:41		370		-->		00:27:44		831		- All of this is theoretical. - And if it fails to pay off? 
+		334		00:27:44		998		-->		00:27:47		793		Have you ever driven a Grenthemen water hopper? 
+		335		00:27:47		960		-->		00:27:51		088		- Ever popped the clutch? - We could stall the Hathaway? 
+		336		00:27:51		255		-->		00:27:54		299		And the Enterprise will pulverise us. 
+		337		00:28:06		562		-->		00:28:10		607		Let me try to understand. You are saying that Cmdr Data is suffering from a profound loss of confidence,  and that you believe that only I can restore the balance? 
+		340		00:28:19		491		-->		00:28:20		492		Yes, sir. 
+		341		00:28:20		659		-->		00:28:24		705		Deanna and I have tried, but we're not getting through to him. 
+		342		00:28:24		872		-->		00:28:27		332		Don't you think you're overreacting? 
+		343		00:28:27		499		-->		00:28:31		170		Data is not capable of the emotions you're assigning him. 
+		344		00:28:31		336		-->		00:28:33		005		The effects are the same, whether it's human emotions or android algorithms. 
+		346		00:28:36		758		-->		00:28:40		220		Data is not on the bridge and I don't think he will be until we find some way to address his problem. 
+		348		00:28:44		683		-->		00:28:48		228		I'm less than one hour away from a battle simulation, and I have to hand-hold an android. 
+		350		00:28:51		315		-->		00:28:53		609		The burdens of command. 
+		351		00:29:01		033		-->		00:29:02		784		Come in, please. 
+		352		00:29:05		120		-->		00:29:07		831		I require your presence on the bridge. 
+		353		00:29:07		998		-->		00:29:10		167		Captain, with all due respect, you should choose another First Officer. 
+		355		00:29:13		587		-->		00:29:15		672		You are my First Officer. 
+		356		00:29:16		465		-->		00:29:20		844		I have not isolated the problem. I might make a mistake. 
+		357		00:29:22		387		-->		00:29:24		264		Yes, you might. 
+		358		00:29:24		431		-->		00:29:28		060		But that does not alter your duty to me and to this ship. 
+		359		00:29:28		227		-->		00:29:30		687		Do you know how to formulate a premise? 
+		360		00:29:31		188		-->		00:29:33		190		- Yes, sir. - Formulate this. 
+		361		00:29:33		357		-->		00:29:36		527		How do I deal with Cmdr Riker and the Hathaway? 
+		362		00:29:36		693		-->		00:29:39		530		I will await your answer on the bridge. 
+		363		00:29:40		531		-->		00:29:43		033		And, Commander, it is possible to commit no mistakes and still lose. 
+		365		00:29:49		706		-->		00:29:53		460		That is not a weakness. That is life. 
+		366		00:29:56		213		-->		00:29:58		048		I believe I understand, sir. 
+		367		00:29:58		841		-->		00:30:04		471		Will you leave your hesitation and self-doubt here in your quarters? 
+		368		00:30:16		149		-->		00:30:20		487		I have several examples of Cmdr Riker's battle technique. 
+		369		00:30:20		654		-->		00:30:21		947		At the Academy, he calculated a sensory blind spot on a Tholian vessel  and hid within it in a battle simulation. 
+		372		00:30:29		288		-->		00:30:31		415		As a lieutenant on the Potemkin, his solution to a crisis was to shut down power  and hang over a planet's magnetic pole,  confusing his opponent's sensors. 
+		376		00:30:40		424		-->		00:30:45		220		From these specifics, what conclusion can you extrapolate? 
+		377		00:30:45		387		-->		00:30:49		933		Only 21 percent of the time does he rely on traditional tactics. 
+		378		00:30:50		100		-->		00:30:55		439		So, the Captain must be prepared for unusual cunning. 
+		379		00:30:57		232		-->		00:31:01		862		Counsellor, Cmdr Riker will assume we have made this analysis. 
+		380		00:31:02		029		-->		00:31:05		657		Knowing that we know his methods, he will alter them. 
+		381		00:31:05		824		-->		00:31:09		369		But knowing that he knows that we know that he knows, he might return to his usual pattern. 
+		383		00:31:12		206		-->		00:31:16		335		Wait! You're overanalyzing, Data. 
+		384		00:31:16		502		-->		00:31:19		338		One cannot deny human nature. 
+		385		00:31:20		547		-->		00:31:22		674		What kind of a man is Cmdr Riker? 
+		386		00:31:25		594		-->		00:31:27		804		- A fighter? - Yes. 
+		387		00:31:27		971		-->		00:31:32		309		The weaker his position, the more aggressive his posture. 
+		388		00:31:32		476		-->		00:31:35		479		And he won't give up. 
+		389		00:31:35		646		-->		00:31:40		150		Then despite whatever options he is given, he must be... 
+		390		00:31:40		317		-->		00:31:43		237		The man that he is. Exactly. 
+		391		00:31:45		322		-->		00:31:47		282		Is that a failing in humans? 
+		392		00:31:50		452		-->		00:31:53		288		You will have to decide that for yourself. 
+		393		00:32:05		300		-->		00:32:07		302		On screen. 
+		394		00:32:10		055		-->		00:32:12		140		The hunt begins, Number One. 
+		395		00:32:12		307		-->		00:32:17		521		We're ready. Remember, Enterprise, Capt Riker has never lost. 
+		396		00:32:17		688		-->		00:32:20		148		Begin now. 
+		397		00:32:20		732		-->		00:32:22		651		Screen off. 
+		398		00:32:22		818		-->		00:32:25		654		Set course 223, mark 357. 
+		399		00:32:25		821		-->		00:32:29		283		Full impulse power. Initiate Kumeh manoeuvre. 
+		400		00:32:33		912		-->		00:32:38		166		Kumeh manoeuvre? Why start with such a recognizable ploy? 
+		401		00:32:38		333		-->		00:32:41		420		He wants us to reveal our tactics. Mr Worf? 
+		402		00:32:42		421		-->		00:32:44		965		Counter with the Talupian manoeuvre. 
+		403		00:32:45		132		-->		00:32:49		136		Agreed. Three-quarter impulse, full on my command. 
+		404		00:32:49		428		-->		00:32:53		348		- Mr Worf, prepare your surprise. - Aye, sir. 
+		405		00:32:53		515		-->		00:32:57		102		Set course 317, mark 73. 
+		406		00:32:57		269		-->		00:33:00		105		Present minimal aspect. Ready warp one. 
+		407		00:33:00		272		-->		00:33:02		566		Optimal spread on simulated torpedoes. 
+		408		00:33:04		735		-->		00:33:07		821		Romulan warship approaching from astern. 
+		409		00:33:07		988		-->		00:33:09		990		- What? - It came out of nowhere. 
+		410		00:33:10		157		-->		00:33:12		367		Bring us about. Maximum shields. 
+		411		00:33:12		534		-->		00:33:15		704		Full weapon systems. Open hailing frequency. 
+		412		00:33:15		871		-->		00:33:18		582		I can't, sir, there's nothing there. 
+		413		00:33:24		880		-->		00:33:26		715		Warp three, evasive. 
+		414		00:33:26		882		-->		00:33:30		886		Disengage weapons and shields. Re-engage modified beam. 
+		415		00:33:31		053		-->		00:33:34		056		- He's quite good. - He's the best. 
+		416		00:33:34		223		-->		00:33:37		935		Computer reports simulated damage to several aft decks. 
+		417		00:33:38		101		-->		00:33:40		437		Repair time, 3.6 days. 
+		418		00:33:40		604		-->		00:33:42		022		How did he do that? 
+		419		00:33:42		189		-->		00:33:46		735		Mr Worf overrode the sensor codes. Played some holographic games. 
+		420		00:33:46		902		-->		00:33:48		779		Mr Data, input a new code. 
+		421		00:33:50		614		-->		00:33:54		326		Attack posture, circumvental attitude. 
+		422		00:33:54		493		-->		00:33:57		329		Prepare beams for photon mode. 
+		423		00:34:01		291		-->		00:34:03		502		Bye-bye, Hathaway. 
+		424		00:34:04		294		-->		00:34:06		755		Computers report damage to the Enterprise. 
+		425		00:34:06		922		-->		00:34:09		091		They're moving. Why not go after them? 
+		426		00:34:09		258		-->		00:34:12		302		They're not through with us. Prepare warp jump. 
+		427		00:34:12		469		-->		00:34:15		305		- There are no guarantees. - There never are. 
+		428		00:34:15		472		-->		00:34:20		519		I'm gonna trust your expertise. Stand by for my signal. 
+		429		00:34:20		686		-->		00:34:23		021		Ready with photon torpedoes. 
+		430		00:34:23		188		-->		00:34:27		609		Captain, sensors picking up a Ferengi warship at warp five. 
+		431		00:34:27		776		-->		00:34:30		612		- Did you input that new code? - Aye, sir. 
+		432		00:34:31		905		-->		00:34:37		494		Mr Worf, I didn't give you enough credit. Continue the simulation... 
+		433		00:34:37		661		-->		00:34:39		454		Divert all power to shields! 
+		434		00:34:39		788		-->		00:34:41		290		Sever modified beams. 
+		435		00:34:41		456		-->		00:34:44		626		- Engage phasers and target. - Fire when ready! 
+		436		00:34:48		380		-->		00:34:51		049		That's no ghost attacking. That's real. 
+		437		00:34:51		175		-->		00:34:54		887		- We must assist, sir. - We've no offensive weapons. 
+		438		00:34:55		053		-->		00:34:56		805		Where are my weapons? 
+		439		00:34:56		972		-->		00:35:01		643		Unavailable, sir. We cannot disengage the modified beams. 
+		440		00:35:04		646		-->		00:35:07		191		- We must retreat! - Unacceptable. 
+		441		00:35:07		357		-->		00:35:09		568		The Ferengi have stopped their attack. 
+		442		00:35:09		735		-->		00:35:11		445		Transport the away team aboard. 
+		443		00:35:11		612		-->		00:35:14		865		- Transporter functions gone, sir. - Shields reduced. 
+		444		00:35:15		032		-->		00:35:16		742		Use this moment to escape. 
+		445		00:35:16		909		-->		00:35:18		994		I have 40 crew on the Hathaway. 
+		446		00:35:19		161		-->		00:35:21		205		Sacrifice them to save 1,000. 
+		447		00:35:21		371		-->		00:35:25		042		Acceptable tactical losses under the circumstances. 
+		448		00:35:25		209		-->		00:35:26		502		Not to me! 
+		449		00:35:26		668		-->		00:35:30		506		Notify Starfleet. Hail the Ferengi on my word. Formulate alternatives. 
+		450		00:35:30		672		-->		00:35:33		800		As the observer, I order you to withdraw! 
+		451		00:35:33		967		-->		00:35:35		344		I am the Captain! 
+		452		00:35:35		511		-->		00:35:40		516		Your order is nullified. Ferengi on main viewscreen. 
+		453		00:35:44		394		-->		00:35:46		271		I am Capt Jean-Luc Picard of the Federation Starship USS Enterprise. 
+		455		00:35:50		067		-->		00:35:52		236		Why have you attacked my vessel? 
+		456		00:35:52		402		-->		00:35:54		655		Why was your ship combative with another Federation vessel of lesser design? 
+		458		00:35:59		201		-->		00:36:02		996		Why do you now protect your former target? 
+		459		00:36:03		163		-->		00:36:05		707		What is its value to you? 
+		460		00:36:05		874		-->		00:36:10		838		Our probes indicate you were aware of our approach, yet took no action. 
+		461		00:36:11		004		-->		00:36:15		175		Your answers will dictate our response. 
+		462		00:36:17		261		-->		00:36:20		722		We have refrained from launching a counterattack in the hope of a peaceful resolution. 
+		464		00:36:23		642		-->		00:36:27		646		Our probes indicate that you are crippled, and the ship you protect has no weaponry,  no light-speed drive, and only a scarce crew. 
+		467		00:36:35		529		-->		00:36:38		115		This makes no sense to us. 
+		468		00:36:38		282		-->		00:36:42		202		Unless it contains something very valuable. 
+		469		00:36:42		369		-->		00:36:47		374		I am Bractor, Leader of the Ferengi attack vessel Kreechta! 
+		470		00:36:47		541		-->		00:36:51		712		I will have the secret of the other Federation ship. 
+		471		00:36:52		337		-->		00:36:54		840		Surrender it to me, and I will allow your Enterprise to leave unharmed. 
+		473		00:37:04		641		-->		00:37:07		394		You have ten of your minutes. 
+		474		00:37:10		814		-->		00:37:13		567		Sir, they're massing a surge of power. 
+		475		00:37:13		734		-->		00:37:17		070		We're being scanned. They've locked on. 
+		476		00:37:19		031		-->		00:37:19		990		Data? 
+		477		00:37:20		157		-->		00:37:23		035		Our shields will not withstand another assault. 
+		478		00:37:23		202		-->		00:37:28		749		Then there are no options. Retreat or die. 
+		479		00:37:37		341		-->		00:37:39		218		Captain's log, supplemental. 
+		480		00:37:39		384		-->		00:37:43		889		Due to my miscalculation, the Enterprise has been subjected to a surprise attack by the Ferengi. 
+		482		00:37:46		808		-->		00:37:50		354		I have little time to decide the fate of 40 of my crew stranded aboard the derelict Hathaway. 
+		484		00:37:53		899		-->		00:37:55		901		I am open to suggestions. 
+		485		00:37:56		068		-->		00:38:00		280		Captain, we can launch a limited number of photon torpedoes. 
+		486		00:38:00		447		-->		00:38:04		868		I've given you my advice. The Hathaway is expendable. 
+		487		00:38:05		035		-->		00:38:08		497		- Cmdr Riker is hailing, sir. - On screen. 
+		488		00:38:10		332		-->		00:38:13		126		Have you been monitoring communications? 
+		489		00:38:13		293		-->		00:38:16		213		Yes, sir. Kolrami's right. Save the Enterprise. 
+		490		00:38:16		380		-->		00:38:18		423		That would leave you defenceless. 
+		491		00:38:18		590		-->		00:38:23		595		When Bractor closes in, we'll hit our warp drive, take our chances. 
+		492		00:38:24		555		-->		00:38:25		597		Your what? 
+		493		00:38:25		764		-->		00:38:28		308		We have a two-second warp capability. 
+		494		00:38:28		475		-->		00:38:32		104		Impossible! That ship was rendered warp inactive. 
+		495		00:38:32		271		-->		00:38:34		940		I told you he was the best. 
+		496		00:38:35		107		-->		00:38:37		818		I'd like to hear more about this. Later. 
+		497		00:38:37		985		-->		00:38:41		572		Right now, I have to work something out with Mr Data. 
+		498		00:38:41		738		-->		00:38:44		616		Premise. The Ferengi want the Hathaway, believing it to be of value. 
+		500		00:38:46		535		-->		00:38:49		454		We must remove it from their field of interest. 
+		501		00:38:49		621		-->		00:38:52		416		They will soon locate it after a two-second warp. 
+		502		00:38:52		583		-->		00:38:55		544		There is a way. Number One, can you hear this? 
+		503		00:38:55		711		-->		00:38:57		254		Yes, sir. We're all here. 
+		504		00:38:57		421		-->		00:38:59		673		Can you pull a rabbit out of your hat? 
+		505		00:38:59		840		-->		00:39:02		509		- Mr Data? - On the Captain's command, we will fire four photon torpedoes at the Hathaway. 
+		507		00:39:06		597		-->		00:39:11		101		One millisecond later, the computer will trigger your warp jump. 
+		508		00:39:11		268		-->		00:39:15		564		I hate this plan. We're not even sure our warp jump will work. 
+		509		00:39:15		731		-->		00:39:18		108		If the warp engines fail to function, the result could be unfortunate. 
+		511		00:39:21		236		-->		00:39:23		071		Very unfortunate. 
+		512		00:39:23		238		-->		00:39:25		240		We will be dead. 
+		513		00:39:25		407		-->		00:39:27		284		Capt Riker, 
+		514		00:39:27		451		-->		00:39:29		369		I cannot order you to do this. 
+		515		00:39:29		536		-->		00:39:32		706		What the hell? Nobody said life was safe. 
+		516		00:39:32		873		-->		00:39:34		249		The advantage is, that it will appear from the Kreechta's perspective as though... 
+		518		00:39:40		130		-->		00:39:43		175		As though you were destroyed in the explosion. 
+		519		00:39:43		342		-->		00:39:46		470		That will deceive them only for a few minutes. 
+		520		00:39:46		637		-->		00:39:48		931		Their sensors will soon locate us. 
+		521		00:39:49		097		-->		00:39:53		227		We only need a few minutes. You'll prepare a surprise for them. 
+		522		00:39:53		393		-->		00:39:54		645		Then we're agreed. 
+		523		00:39:56		313		-->		00:39:58		273		On my mark, four minutes. 
+		524		00:39:58		732		-->		00:40:02		819		Remember, if the implementation is off by one millisecond, the Hathaway will not survive. 
+		526		00:40:05		030		-->		00:40:08		992		That's the one thing we're all absolutely sure about. 
+		527		00:40:17		251		-->		00:40:19		002		Are we ready, Number One? 
+		528		00:40:19		169		-->		00:40:21		588		- Ready, Captain. - Ready, Captain. 
+		529		00:40:22		589		-->		00:40:26		718		Good luck to both of you. Bractor. 
+		530		00:40:32		057		-->		00:40:36		687		- I will wait no longer, Picard. - The answer is no. 
+		531		00:40:36		854		-->		00:40:40		399		Your actions have been criminal. You will not profit by them. 
+		532		00:40:40		899		-->		00:40:45		112		- You are a fool! - How can you stop us? 
+		533		00:40:45		279		-->		00:40:48		198		You believe the Hathaway has value? 
+		534		00:40:48		365		-->		00:40:51		326		We deny you your prize. Fire! 
+		535		00:40:57		833		-->		00:41:02		796		Destroy your own, rather than suffer the ignominy of defeat? 
+		536		00:41:02		963		-->		00:41:06		633		I did not think the Federation had such iron. 
+		537		00:41:06		800		-->		00:41:10		512		You had no claim on that vessel. It was ours to destroy. 
+		538		00:41:10		679		-->		00:41:14		641		As you are ours to destroy. 
+		539		00:41:15		350		-->		00:41:17		060		You can try. 
+		540		00:41:18		103		-->		00:41:20		772		Enterprise targeted, Leader! 
+		541		00:41:20		939		-->		00:41:24		776		Leader, there is another Federation ship closing. 
+		542		00:41:24		943		-->		00:41:28		780		- A starship! - Maximum shields! 
+		543		00:41:28		947		-->		00:41:33		368		We have been outmanoeuvred. Retreat. 
+		544		00:41:36		246		-->		00:41:39		917		Our sensors show no Federation starship nearby. 
+		545		00:41:40		083		-->		00:41:43		128		Of course not. That was Klingon guile. 
+		546		00:41:43		295		-->		00:41:46		423		You made it, Number One. Smooth ride? 
+		547		00:41:46		590		-->		00:41:49		092		Well, it certainly was different. 
+		548		00:41:49		259		-->		00:41:53		055		- We'll lock on and pick you up. - With pleasure, Captain. 
+		549		00:41:59		686		-->		00:42:06		610		I must admit, your Cmdr Riker acquitted himself quite admirably. 
+		550		00:42:08		654		-->		00:42:11		240		And so, Captain, have you. 
+		551		00:42:12		658		-->		00:42:17		329		My report to Starfleet will be most favourable. 
+		552		00:42:17		496		-->		00:42:19		081		Thank you. 
+		553		00:42:20		999		-->		00:42:25		379		Initiate recovery procedures. Continue repairs. 
+		554		00:42:25		546		-->		00:42:28		549		Plot a course for the nearest starbase. 
+		555		00:42:31		802		-->		00:42:33		679		Captain's log, supplemental. 
+		556		00:42:33		846		-->		00:42:37		641		With the transporter repaired and my crew safely aboard, we have officially ended our Starfleet battle simulation. 
+		558		00:43:26		815		-->		00:43:28		775		Why have you suspended the game? 
+		559		00:43:28		942		-->		00:43:33		780		Because this is not a rematch! You have made a mockery of me. 
+		560		00:43:37		284		-->		00:43:40		829		- Data, you beat him! - No, sir. It is a stalemate. 
+		561		00:43:40		996		-->		00:43:43		207		No game has ever gone this high. 
+		562		00:43:43		373		-->		00:43:47		753		- What did you do? - I simply altered my premise. 
+		563		00:43:47		920		-->		00:43:51		882		Working under the assumption that Kolrami wanted to win, he expected me to play for the same goal. 
+		565		00:43:54		885		-->		00:43:56		136		You didn't. 
+		566		00:43:56		303		-->		00:43:59		973		No. I was playing for a standoff. A draw. 
+		567		00:44:00		140		-->		00:44:02		851		While Kolrami was dedicated to winning, 
+		568		00:44:03		018		-->		00:44:07		064		I passed up obvious avenues of advancement to settle for a balance. 
+		569		00:44:07		231		-->		00:44:10		567		Theoretically, I could challenge him indefinitely. 
+		570		00:44:10		734		-->		00:44:12		611		Then you have beaten him. 
+		571		00:44:13		320		-->		00:44:15		155		It is a matter of perspective. 
+		572		00:44:15		322		-->		00:44:17		908		In the strictest sense, I did not win. 
+		573		00:44:18		075		-->		00:44:19		660		Data! 
+		574		00:44:21		370		-->		00:44:24		081		- I busted him up. - Yes! 

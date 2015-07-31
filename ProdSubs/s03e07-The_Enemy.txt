@@ -1,0 +1,459 @@
+		1		00:00:18		310		-->		00:00:20		080		Placing beam-out marker. 
+		2		00:00:20		250		-->		00:00:23		320		Return transport, 1 4 minutes, 40 seconds. 
+		3		00:00:24		320		-->		00:00:26		320		Is your view any better, Geordi? 
+		4		00:00:26		490		-->		00:00:30		160		Not too bad. A lot of charged-particle precipitation. 
+		5		00:00:30		330		-->		00:00:33		830		- I can compensate. - Communicators are dysfunctional. 
+		6		00:00:34		000		-->		00:00:35		460		Tricorders? 
+		7		00:00:35		630		-->		00:00:38		030		Readings only valid within five metres. 
+		8		00:00:38		200		-->		00:00:42		640		Good thing we didn't bring Data. We'd be unscrambling his circuits. 
+		9		00:00:44		640		-->		00:00:46		210		Commander! 
+		10		00:00:46		710		-->		00:00:49		380		Picking up something on the positron scan. 
+		11		00:00:56		650		-->		00:01:00		560		Over here! Some electrically conductive objects. 
+		12		00:01:11		430		-->		00:01:14		040		Recognise those markings, Worf? 
+		13		00:01:14		200		-->		00:01:16		370		Yes, sir. Romulan. 
+		14		00:01:17		610		-->		00:01:21		440		What the hell are they doing in a Federation sector? 
+		15		00:01:21		610		-->		00:01:24		950		Picking up traces of ultritium residue. 
+		16		00:01:25		110		-->		00:01:28		580		An explosive device must have destroyed the craft after it crashed. 
+		18		00:01:31		290		-->		00:01:33		890		Let's spread out. 25-metre radius. 
+		19		00:01:34		060		-->		00:01:37		130		Our window back closes in 1 2 minutes. 
+		20		00:01:56		610		-->		00:01:58		180		Commander! 
+		21		00:02:10		830		-->		00:02:12		260		Cmdr Riker! 
+		22		00:02:56		040		-->		00:02:58		640		- Four minutes to beam-up. - Where is he? 
+		23		00:02:58		810		-->		00:03:00		540		Wait here. 
+		24		00:03:40		220		-->		00:03:41		880		Worf! 
+		25		00:03:45		620		-->		00:03:47		620		Cmdr Riker! 
+		26		00:03:53		560		-->		00:03:55		160		Geordi! 
+		27		00:04:09		040		-->		00:04:12		550		Worf! Cmdr Riker! 
+		28		00:04:20		220		-->		00:04:22		190		Hold your position, Mr Worf. 
+		29		00:04:30		530		-->		00:04:32		100		Worf! 
+		30		00:05:02		360		-->		00:05:05		300		Space, the final frontier. 
+		31		00:05:07		040		-->		00:05:10		440		These are the voyages of the Starship Enterprise. 
+		32		00:05:10		970		-->		00:05:15		480		Its continuing mission, to explore strange new worlds... 
+		33		00:05:16		640		-->		00:05:19		950		...to seek out new life and new civilisations... 
+		34		00:05:21		280		-->		00:05:24		820		...to boldly go where no one has gone before. 
+		35		00:06:25		180		-->		00:06:29		120		Captain's log, stardate <stardate>43349</stardate>.2. 
+		36		00:06:29		280		-->		00:06:34		260		An unidentified distress signal has uncovered a crashed Romulan vessel on the surface of Galorndon Core, a Federation planet. 
+		38		00:06:37		960		-->		00:06:40		160		They have recovered one survivor. 
+		39		00:06:40		330		-->		00:06:44		530		But Lt Cmdr La Forge did not report back with the away team and is still missing. 
+		41		00:06:47		540		-->		00:06:52		170		- Get him to sickbay. - Post a guard at all times. 
+		42		00:06:52		340		-->		00:06:55		010		He's not going anywhere, Lieutenant. 
+		43		00:06:56		780		-->		00:06:59		310		Sorry. There's no way to lock in. 
+		44		00:06:59		480		-->		00:07:01		620		Keep trying, O'Brien. 
+		45		00:07:02		650		-->		00:07:05		390		The storm's creating thousands of ghosts. 
+		46		00:07:05		550		-->		00:07:08		260		Beam those ghosts back! One may be Geordi. 
+		47		00:07:08		390		-->		00:07:11		430		- Permission to lead another team. - Denied. 
+		48		00:07:11		590		-->		00:07:14		900		When we get a window in the storms. The crash site? 
+		49		00:07:15		060		-->		00:07:16		770		The Romulan craft is a loss. 
+		50		00:07:16		930		-->		00:07:20		270		There's nothing to salvage unless you use tweezers. 
+		51		00:07:20		440		-->		00:07:21		770		No others? 
+		52		00:07:21		940		-->		00:07:25		140		You couldn't see two metres in front of yourself. 
+		53		00:07:25		310		-->		00:07:29		980		It is the last place one would expect Romulan encroachment. 
+		54		00:07:30		150		-->		00:07:32		250		On the other hand, 
+		55		00:07:32		410		-->		00:07:35		150		Galorndon Core would provide ideal cover for the opening move of a new offensive. 
+		57		00:07:38		150		-->		00:07:41		260		I doubt they were there for the climate. 
+		58		00:09:07		080		-->		00:09:09		940		We thought it would be like working on Vulcans. 
+		59		00:09:10		110		-->		00:09:12		710		But there are subtle differences. Too many. 
+		60		00:09:12		880		-->		00:09:16		320		- Can you treat him? - He has damage to vital areas. 
+		61		00:09:16		480		-->		00:09:20		660		He needs a transfusion of compatible ribosomes to recover. 
+		62		00:09:20		820		-->		00:09:23		790		I'm setting up a schedule to test the crew. 
+		63		00:09:23		960		-->		00:09:27		460		- We can't use the replicator? - It's too complex. 
+		64		00:09:27		630		-->		00:09:31		270		- Will he survive? - I can't answer that yet. 
+		65		00:09:31		430		-->		00:09:34		970		Will he survive long enough to tell us what he was doing? 
+		66		00:09:35		100		-->		00:09:37		270		It's an important consideration. 
+		67		00:09:38		310		-->		00:09:40		810		I can bring him around for a few minutes. 
+		68		00:09:40		980		-->		00:09:43		450		But there is one serious complication. 
+		69		00:09:45		050		-->		00:09:49		220		His brainwaves indicate early neural-pathway degeneration. 
+		70		00:09:49		380		-->		00:09:52		550		- Head injury? - No obvious cranial trauma. 
+		71		00:09:52		690		-->		00:09:55		860		I'm guessing the magnetic fields on the surface slowly broke down his synaptic connections. 
+		73		00:09:59		190		-->		00:10:01		160		Will that affect Geordi? 
+		74		00:10:10		310		-->		00:10:12		540		He'll be conscious for a minute. 
+		75		00:10:17		880		-->		00:10:21		520		You are on board the Federation Starship Enterprise. 
+		76		00:10:22		350		-->		00:10:24		350		We're treating your injuries. 
+		77		00:10:25		590		-->		00:10:28		390		How long were you down on Galorndon Core? 
+		78		00:10:30		860		-->		00:10:32		430		Do you understand me? 
+		79		00:10:33		090		-->		00:10:36		530		I... will not answer questions. 
+		80		00:10:36		630		-->		00:10:39		900		We need to know if there are other survivors. 
+		81		00:10:41		400		-->		00:10:43		410		I am alone. 
+		82		00:10:43		940		-->		00:10:46		680		I will not answer any questions. 
+		83		00:10:47		580		-->		00:10:50		810		Do you have a mothership to advise of your condition? 
+		84		00:11:00		920		-->		00:11:03		990		The only answer he gives is that he was alone. 
+		85		00:11:04		160		-->		00:11:06		160		Which suggests that he wasn't. 
+		86		00:11:55		880		-->		00:11:59		250		Something, anything, to cut through the storm. 
+		87		00:11:59		410		-->		00:12:02		480		Some way to get a signal through to him. 
+		88		00:12:03		320		-->		00:12:07		260		A neutrino pulse! We could build a portable neutrino source and send it to the surface as a beacon. 
+		90		00:12:10		990		-->		00:12:14		900		A neutrino pulse would send particles up through the atmosphere and be detected by Geordi's visor. 
+		92		00:12:17		270		-->		00:12:19		730		He can show himself by modifying the pulse. 
+		93		00:12:20		340		-->		00:12:21		970		Make it so. 
+		94		00:12:23		610		-->		00:12:24		840		Captain. 
+		95		00:12:25		010		-->		00:12:28		440		I have a new transmission on a parallel frequency. 
+		96		00:12:28		610		-->		00:12:32		780		- From the surface? - No, from inside the Romulan zone. 
+		97		00:12:32		950		-->		00:12:35		750		We should be able to view the transmission. 
+		98		00:12:35		920		-->		00:12:37		420		On screen. 
+		99		00:12:38		250		-->		00:12:40		020		Tomalak to Pi. 
+		100		00:12:41		360		-->		00:12:44		630		We have received your distress signal. Respond. 
+		101		00:12:46		490		-->		00:12:48		360		If you can hear me, we are entering the Neutral Zone now. 
+		103		00:12:52		030		-->		00:12:54		840		We will reach you in six hours. 
+		104		00:13:05		850		-->		00:13:08		420		Mr Worf, hail the Romulan vessel. 
+		105		00:13:10		320		-->		00:13:12		390		Hailing frequencies open, sir. 
+		106		00:13:12		550		-->		00:13:15		860		Romulan vessel, this is Capt Jean-Luc Picard of the Federation Starship Enterprise. 
+		108		00:13:23		230		-->		00:13:25		200		The frequency is open, sir. 
+		109		00:13:25		700		-->		00:13:29		770		Cmdr Tomalak, we have intercepted your transmission. 
+		110		00:13:29		940		-->		00:13:33		410		You are not to enter Federation space. 
+		111		00:13:34		240		-->		00:13:37		280		Capt Picard, my apologies. 
+		112		00:13:37		810		-->		00:13:39		650		Had I known you were near, 
+		113		00:13:39		810		-->		00:13:43		720		I would have advised you before crossing the Neutral Zone. 
+		114		00:13:43		890		-->		00:13:44		820		Indeed? 
+		115		00:13:44		990		-->		00:13:47		660		I am sure you will understand. 
+		116		00:13:47		790		-->		00:13:50		390		One of our ships had a navigational error and crashed on Galorndon Core. 
+		118		00:13:53		260		-->		00:13:55		400		A slight navigational error? 
+		119		00:13:55		560		-->		00:13:58		600		Nearly half a light year past the Neutral Zone? 
+		120		00:13:58		770		-->		00:14:02		670		I assure you, no aggression was intended. 
+		121		00:14:03		510		-->		00:14:04		910		Commander. 
+		122		00:14:05		470		-->		00:14:08		140		We have recovered one of your survivors. 
+		123		00:14:09		440		-->		00:14:11		580		He is on board your ship? 
+		124		00:14:11		750		-->		00:14:14		480		He is being treated for severe injuries. 
+		125		00:14:15		620		-->		00:14:17		190		And his craft? 
+		126		00:14:17		720		-->		00:14:21		520		Destroyed... deliberately. After the crash. 
+		127		00:14:22		390		-->		00:14:26		700		I'm sure you are prepared to rendezvous in the Neutral Zone. 
+		128		00:14:27		160		-->		00:14:31		470		I have a team on the planet. We have to beam them up. 
+		129		00:14:31		630		-->		00:14:34		200		And then you will return my officer? 
+		130		00:14:36		240		-->		00:14:40		510		Are there any other Romulans to recover from Galorndon Core? 
+		131		00:14:42		010		-->		00:14:44		880		No. It was a one-man craft. 
+		132		00:14:46		380		-->		00:14:47		550		Captain. 
+		133		00:14:47		720		-->		00:14:51		550		We will be at the Federation border in roughly five hours. 
+		134		00:14:51		720		-->		00:14:54		790		We will expect you to rendezvous at that time. 
+		135		00:14:57		690		-->		00:14:59		030		Counsellor? 
+		136		00:14:59		190		-->		00:15:01		960		There is great hostility behind his smile. 
+		137		00:15:02		130		-->		00:15:04		900		He'll stop at nothing to complete his mission. 
+		138		00:15:05		070		-->		00:15:07		070		Including the Neutral Zone border. 
+		139		00:15:07		240		-->		00:15:10		910		Captain, I see no reason to return the Romulan. 
+		140		00:15:11		070		-->		00:15:13		210		He should be held and interrogated. 
+		141		00:15:13		380		-->		00:15:15		780		We have every right to detain him. 
+		142		00:15:15		940		-->		00:15:19		610		Without evidence of intent, it will not be simple. 
+		143		00:15:19		780		-->		00:15:23		750		It obviously wasn't pilot's error. It demands a response. 
+		144		00:15:23		920		-->		00:15:26		820		But we must measure our response carefully, or history may remember Galorndon Core  along with Pearl Harbor and Station Salem One  as the stage for a bloody preamble to war. 
+		148		00:15:48		340		-->		00:15:51		880		I want him off the drugs. They're not doing anything. 
+		149		00:15:52		050		-->		00:15:54		450		- Dr Crusher to Picard. - Go ahead. 
+		150		00:15:54		620		-->		00:15:57		490		My patient is not responding to treatment. 
+		151		00:15:57		650		-->		00:16:00		320		You haven't found a compatible ribosome donor? 
+		152		00:16:00		460		-->		00:16:02		820		The lab is still processing the tests. 
+		153		00:16:02		990		-->		00:16:04		530		Early results indicate humans have many bio-rejection factors. 
+		155		00:16:07		400		-->		00:16:09		360		I've also ruled out the Vulcans. 
+		156		00:16:09		860		-->		00:16:12		700		I think I'll try old-fashioned medicine. 
+		157		00:16:12		870		-->		00:16:16		170		Keep the fever down and let the body heal itself. 
+		158		00:16:16		340		-->		00:16:18		410		Keep me advised. Picard out. 
+		159		00:16:18		570		-->		00:16:22		010		The neutrino beacon is aboard a class-3 probe. 
+		160		00:16:22		180		-->		00:16:25		080		Well done, Ensign. Mr Worf, launch the probe. 
+		161		00:16:25		250		-->		00:16:26		720		Aye aye, sir. 
+		162		00:17:16		500		-->		00:17:19		000		Probe has reached the surface, sir. 
+		163		00:17:19		600		-->		00:17:21		540		The neutrino stream is strong. 
+		164		00:17:21		700		-->		00:17:25		110		Sensors are tracking the probe despite the interference. 
+		165		00:17:47		430		-->		00:17:50		130		A stationary neutrino source! 
+		166		00:17:51		400		-->		00:17:55		400		Wesley Crusher. Thank you, Wesley! 
+		167		00:18:35		840		-->		00:18:39		680		- You are my prisoner! - Right. 
+		168		00:18:39		850		-->		00:18:41		450		Congratulations. 
+		169		00:18:41		580		-->		00:18:44		950		Surely a strategic triumph for the Romulan Empire. 
+		170		00:18:45		120		-->		00:18:46		690		Stay there! 
+		171		00:18:48		490		-->		00:18:50		660		My shoes are full of sand. 
+		172		00:18:50		830		-->		00:18:52		590		I hate that. Don't you? 
+		173		00:18:52		760		-->		00:18:54		460		Name and rank. 
+		174		00:18:55		660		-->		00:19:00		970		Lt Cmdr Geordi La Forge. I don't think I got yours. 
+		175		00:19:01		140		-->		00:19:03		640		A Romulan ship will arrive shortly. 
+		176		00:19:03		740		-->		00:19:07		110		- You will accompany me on board. - I don't think so. 
+		177		00:19:07		280		-->		00:19:12		280		We heard your message, too, and well, the fleet's in. 
+		178		00:19:12		410		-->		00:19:14		620		The sky's full of Federation ships. 
+		179		00:19:15		880		-->		00:19:20		090		- You're lying. - I never lie with sand in my shoes. 
+		180		00:19:21		120		-->		00:19:22		720		Get up! 
+		181		00:19:25		030		-->		00:19:31		130		Seriously, the only way out of here is for you to put that thing down. 
+		182		00:19:31		300		-->		00:19:33		800		When there's a window in the storm... 
+		183		00:20:06		430		-->		00:20:08		300		Are you OK? 
+		184		00:20:22		020		-->		00:20:25		290		- You gotta be kidding. - Sit! 
+		185		00:20:32		390		-->		00:20:35		030		Welcome to Galorndon Core, where no good deed goes unpunished. 
+		187		00:20:48		510		-->		00:20:50		080		Yes, Doctor? 
+		188		00:20:51		080		-->		00:20:54		550		Lieutenant, good. Come in. Please sit down. 
+		189		00:21:01		260		-->		00:21:05		060		We have found a compatible ribosome match for the Romulan. 
+		190		00:21:05		230		-->		00:21:06		460		But only one. 
+		191		00:21:06		630		-->		00:21:08		060		You. 
+		192		00:21:09		200		-->		00:21:11		570		That is impossible. I am a Klingon. 
+		193		00:21:12		070		-->		00:21:13		740		Different species, yes. 
+		194		00:21:13		900		-->		00:21:16		870		But many humanoids have comparable cell structures. 
+		195		00:21:17		040		-->		00:21:20		280		And you have what this Romulan needs. 
+		196		00:21:20		440		-->		00:21:23		480		There's absolutely no risk to you. 
+		197		00:21:26		820		-->		00:21:29		780		You understood that was the purpose of the testing? 
+		198		00:21:30		290		-->		00:21:32		950		I have no objection to tests. 
+		199		00:21:37		330		-->		00:21:40		000		You have an objection to being a donor? 
+		200		00:21:40		830		-->		00:21:42		000		Yes. 
+		201		00:21:45		000		-->		00:21:48		800		I understand your feelings about the Romulans, but this is not the time. 
+		203		00:21:51		170		-->		00:21:55		540		If you had seen them kill your parents, you would understand it is always the time for those feelings. 
+		205		00:21:58		810		-->		00:22:02		380		This Romulan didn't murder your parents. 
+		206		00:22:02		580		-->		00:22:05		820		And you are the only one who can save his life. 
+		207		00:22:09		220		-->		00:22:11		030		Then he will die. 
+		208		00:22:17		870		-->		00:22:20		370		I sure wish you'd put that away. 
+		209		00:22:20		500		-->		00:22:23		100		- You're afraid of dying! - You bet. 
+		210		00:22:23		270		-->		00:22:25		340		- Who isn't? - I'm not. 
+		211		00:22:25		440		-->		00:22:28		540		- Right! - To die serving my people... 
+		212		00:22:28		710		-->		00:22:30		710		The Romulan path to glory. 
+		213		00:22:31		680		-->		00:22:33		550		You can be sarcastic now. 
+		214		00:22:33		720		-->		00:22:36		920		But in a few millennia, when humans are extinct and the Romulan Empire spans the galaxy... 
+		216		00:22:39		950		-->		00:22:43		320		You really believe that stuff, don't you, Commodore? 
+		217		00:22:44		590		-->		00:22:48		100		You may address me as Centurion Bochra. 
+		218		00:22:49		000		-->		00:22:50		830		Bochra? 
+		219		00:22:51		470		-->		00:22:54		600		Good, solid Romulan name. 
+		220		00:22:58		770		-->		00:23:00		680		- What's the matter? - Nothing. 
+		221		00:23:00		840		-->		00:23:03		610		Wrong. Your heart rate just shot way up. 
+		222		00:23:09		650		-->		00:23:14		120		It translates radiation into neural impulses. It allows me to see. 
+		223		00:23:16		460		-->		00:23:18		290		Without it, you're blind? 
+		224		00:23:19		760		-->		00:23:21		330		Yeah. 
+		225		00:23:23		130		-->		00:23:27		040		- How did this happen? - I was born that way. 
+		226		00:23:27		940		-->		00:23:30		010		And your parents let you live? 
+		227		00:23:30		170		-->		00:23:33		810		What kind of question is that? Of course they did! 
+		228		00:23:34		510		-->		00:23:36		540		No wonder your race is weak. 
+		229		00:23:36		710		-->		00:23:40		150		You waste time and resources on defective children. 
+		230		00:23:43		750		-->		00:23:45		250		Whoa! 
+		231		00:23:51		230		-->		00:23:54		860		I must be having some sort of... polarity shift. 
+		232		00:23:58		700		-->		00:24:01		370		Diagnostic insists everything's fine. 
+		233		00:24:09		240		-->		00:24:12		810		Your body temperature's gone up almost another point. 
+		234		00:24:12		980		-->		00:24:15		780		- What are you saying? - I don't know. 
+		235		00:24:15		950		-->		00:24:19		820		It must be this place, all that electromagnetic soup. 
+		236		00:24:19		990		-->		00:24:22		720		It's wreaking havoc on our nervous systems. 
+		237		00:24:22		890		-->		00:24:27		000		Your metabolism's messed up, so's my interface with the visor. 
+		238		00:24:27		160		-->		00:24:29		000		- We gotta get out. - Sit down. 
+		239		00:24:29		160		-->		00:24:31		670		- Bochra. - Sit down! 
+		240		00:24:47		150		-->		00:24:48		750		What is that? 
+		241		00:24:50		750		-->		00:24:54		920		It's just background fluctuation. He hasn't found it yet. 
+		242		00:24:55		090		-->		00:24:57		890		Then he must be hurt. Or dead. 
+		243		00:25:01		500		-->		00:25:04		270		When does our next window open up, Data? 
+		244		00:25:04		430		-->		00:25:07		240		There is no indication, no way to predict. 
+		245		00:25:07		400		-->		00:25:11		210		- Incoming Romulan transmission. - They're early. 
+		246		00:25:11		370		-->		00:25:15		410		The Romulan warbird should be 29 minutes from the Neutral Zone. 
+		247		00:25:15		580		-->		00:25:19		280		Close enough, however, to see that we are not there. 
+		248		00:25:20		580		-->		00:25:22		180		On screen. 
+		249		00:25:23		050		-->		00:25:26		290		Picard. I'm approaching the Federation border. 
+		250		00:25:26		450		-->		00:25:29		560		The Enterprise is not to be found. Why? 
+		251		00:25:29		720		-->		00:25:34		600		My away team is unable to leave the surface because of the storms. 
+		252		00:25:34		760		-->		00:25:36		360		And my officer? 
+		253		00:25:37		570		-->		00:25:41		470		- He is alive. - His life remains in jeopardy? 
+		254		00:25:43		070		-->		00:25:44		140		Yes. 
+		255		00:25:44		310		-->		00:25:46		240		And yet you will not permit me into your precious Federation space to retrieve him? 
+		257		00:25:50		410		-->		00:25:54		280		If the point is not clear, let me make it again. 
+		258		00:25:54		450		-->		00:25:57		490		Romulan warships do not enter Federation space unless they are to do battle. 
+		260		00:25:59		950		-->		00:26:02		060		But a mission of mercy? 
+		261		00:26:02		220		-->		00:26:05		660		A mission to recover one of your officers, who has been caught on a Federation planet  for reasons as yet unknown. 
+		264		00:26:11		430		-->		00:26:15		340		- I have already explained. - I rejected your explanation! 
+		265		00:26:16		640		-->		00:26:18		210		Territories! 
+		266		00:26:19		440		-->		00:26:22		940		You would measure territories against a man's life? 
+		268		00:26:26		050		-->		00:26:29		650		I am singularly impressed by your concern for a life. 
+		269		00:26:29		820		-->		00:26:32		990		Do not risk more lives by leaving the Neutral Zone! 
+		270		00:26:33		150		-->		00:26:34		690		Picard out. 
+		271		00:26:43		900		-->		00:26:45		400		Bochra. 
+		272		00:26:46		430		-->		00:26:49		370		You're in bad shape. My vision's worse. 
+		273		00:26:49		540		-->		00:26:54		880		There's a beacon to get us to my ship, but not if I can't find it. 
+		274		00:26:55		010		-->		00:26:57		380		I cannot surrender to the Federation. 
+		275		00:26:57		550		-->		00:26:59		450		Then stay here and die! 
+		276		00:27:01		350		-->		00:27:03		690		If the situation were reversed... 
+		277		00:27:04		890		-->		00:27:07		560		...would you not die to avoid capture? 
+		278		00:27:08		060		-->		00:27:10		060		I don't know. I might. 
+		279		00:27:11		030		-->		00:27:13		800		If I thought the stakes were high enough. 
+		280		00:27:13		960		-->		00:27:16		430		But they'd have to be pretty high. 
+		281		00:27:19		400		-->		00:27:22		270		I guess I'd make a lousy Romulan! 
+		282		00:27:24		310		-->		00:27:27		240		I no more wish to die than you do. 
+		283		00:27:27		740		-->		00:27:29		140		Bochra. 
+		284		00:27:30		310		-->		00:27:35		120		There are times when it's necessary to die for one's ideals. 
+		285		00:27:37		850		-->		00:27:40		360		Do you believe this is the time? 
+		286		00:27:51		670		-->		00:27:54		340		Come on. Let's go find that beacon. 
+		287		00:28:01		680		-->		00:28:03		410		Whoa! 
+		288		00:28:03		580		-->		00:28:05		250		What is it? 
+		289		00:28:05		880		-->		00:28:07		880		Everything's gone blank. 
+		290		00:28:13		860		-->		00:28:15		420		I'm blind. 
+		291		00:28:29		870		-->		00:28:31		410		Come. 
+		292		00:28:32		810		-->		00:28:34		410		Worf. 
+		293		00:28:40		950		-->		00:28:43		490		You are busy. Forgive my intrusion. 
+		294		00:28:43		650		-->		00:28:47		320		For what it's worth, I understand your bitterness. 
+		295		00:28:47		490		-->		00:28:50		160		With respect, sir, you cannot. 
+		296		00:28:52		790		-->		00:28:55		800		I am asked to give the blood of my mother and father 
+		297		00:28:55		960		-->		00:28:59		330		- To those who murdered them! - You blame all Romulans? 
+		298		00:28:59		500		-->		00:29:01		340		- Yes. - For ever? 
+		299		00:29:03		740		-->		00:29:07		080		What if the Federation made peace with the Romulans? 
+		300		00:29:08		510		-->		00:29:09		810		Impossible. 
+		301		00:29:10		810		-->		00:29:14		580		That's what your people said a few years ago about humans. 
+		302		00:29:17		190		-->		00:29:19		990		Think how many died in that war. 
+		303		00:29:20		490		-->		00:29:22		960		Would you and I be here now if we hadn't let go of the anger and blame? 
+		305		00:29:27		360		-->		00:29:29		200		Where does it end, Worf? 
+		306		00:29:29		360		-->		00:29:31		630		If that Romulan dies, does his family carry the bitterness on another generation? 
+		308		00:29:41		210		-->		00:29:43		450		Then you believe I should? 
+		309		00:29:43		610		-->		00:29:46		750		What I believe... doesn't matter. 
+		310		00:29:48		280		-->		00:29:50		950		My Starfleet training tells me one thing. 
+		311		00:29:52		220		-->		00:29:54		790		But everything I am tells me another. 
+		312		00:29:54		960		-->		00:29:58		690		- Lt Worf to sickbay. - Acknowledged. 
+		313		00:30:21		120		-->		00:30:24		550		Lieutenant, his life is coming to an end. 
+		314		00:30:24		720		-->		00:30:28		220		I thought it important for you to see him again. 
+		315		00:30:28		390		-->		00:30:31		430		It's not too late to change your mind. 
+		316		00:30:46		240		-->		00:30:48		140		Come close to me, Klingon. 
+		317		00:30:50		110		-->		00:30:53		010		Let me die with my hands at your throat. 
+		318		00:30:53		980		-->		00:30:58		390		There is a substance within my cells which you need to survive. 
+		319		00:31:01		820		-->		00:31:05		390		Then you've come to hear me beg for my life? 
+		320		00:31:06		490		-->		00:31:08		000		No. 
+		321		00:31:14		440		-->		00:31:16		600		I would rather die than pollute my body with Klingon filth! 
+		323		00:31:35		120		-->		00:31:38		190		I've lost almost all feeling in my legs. 
+		324		00:31:39		230		-->		00:31:41		960		My synapses must be turning to jelly. 
+		325		00:31:42		130		-->		00:31:45		470		The visor's fine. I just can't see a thing. 
+		326		00:31:45		630		-->		00:31:47		900		How do we locate the beacon? 
+		327		00:31:51		070		-->		00:31:52		640		We don't. 
+		328		00:31:57		580		-->		00:32:01		280		Do all humans give up so easily? 
+		329		00:32:01		880		-->		00:32:06		590		We're lost, unless you've got something that can smell neutrinos. 
+		330		00:32:09		790		-->		00:32:12		460		We have the sensor device you are carrying. 
+		331		00:32:12		630		-->		00:32:17		170		Tricorder? It's not set up to detect neutrinos. 
+		332		00:32:17		330		-->		00:32:20		400		Your eye device does. Connect them. 
+		333		00:32:20		570		-->		00:32:23		070		They don't speak the same language. 
+		334		00:32:23		240		-->		00:32:26		910		Besides, I'd never be able to get an accurate sampling. 
+		335		00:32:27		540		-->		00:32:29		540		Wait a second. 
+		336		00:32:30		410		-->		00:32:34		050		I wouldn't need an accurate sampling, just a pointer. 
+		337		00:32:35		380		-->		00:32:37		350		A neutrino Geiger counter. 
+		338		00:32:40		160		-->		00:32:42		220		No, it's still not possible. 
+		339		00:32:42		820		-->		00:32:46		090		- You cannot do it? - Under normal circumstances, maybe. 
+		340		00:32:46		260		-->		00:32:48		730		Here? No way. 
+		341		00:32:48		900		-->		00:32:51		900		- Why? - Because I can't see! 
+		342		00:32:54		870		-->		00:33:00		080		Adapting the neural output of the visor can't be done by touch. 
+		343		00:33:05		610		-->		00:33:08		920		Then I... will be your eyes. 
+		344		00:33:16		460		-->		00:33:20		930		The storm is subsiding. We should have a window in an hour. 
+		345		00:33:21		100		-->		00:33:24		430		There's still no indication he's found the beacon. 
+		346		00:33:24		600		-->		00:33:26		600		- Assemble a team. - Sir. 
+		347		00:33:26		770		-->		00:33:29		740		The Romulan warship has crossed the border. 
+		348		00:33:29		900		-->		00:33:33		010		It is in Federation space and heading towards us. 
+		349		00:33:33		510		-->		00:33:35		510		Belay that order, Number One. 
+		350		00:33:38		510		-->		00:33:40		120		Red alert. 
+		351		00:33:46		450		-->		00:33:49		720		Make sure the limiter matches the output range. 
+		352		00:33:49		890		-->		00:33:51		660		Not so fast. 
+		353		00:33:54		400		-->		00:33:56		530		Now, place the neural output pods in contact with the tricorder scanner heads. 
+		355		00:34:01		970		-->		00:34:03		970		- Ready. - Let her rip. 
+		356		00:34:11		710		-->		00:34:13		580		Bearing three-five-zero. 
+		357		00:34:14		820		-->		00:34:18		650		We did it! The first Federation-Romulan co-venture. 
+		358		00:34:21		520		-->		00:34:23		360		The storm may be breaking. 
+		359		00:34:23		530		-->		00:34:27		930		With any luck, there'll be an electromagnetic window opening up. 
+		360		00:34:28		100		-->		00:34:31		100		At which point, I'll be your prisoner. 
+		361		00:34:34		400		-->		00:34:37		740		- Can you walk? - I don't know. 
+		362		00:34:38		640		-->		00:34:40		440		Well, let's find out. 
+		363		00:34:42		440		-->		00:34:43		810		Come on. 
+		364		00:34:47		650		-->		00:34:50		320		- OK, let's go. - Straight ahead. 
+		365		00:34:56		930		-->		00:34:58		730		To the right. 
+		366		00:35:01		000		-->		00:35:02		400		Come. 
+		367		00:35:04		730		-->		00:35:08		270		- You wished to see me? - Yes, Lieutenant. 
+		368		00:35:08		900		-->		00:35:12		840		- I assume you know what it's about. - Yes. 
+		369		00:35:14		340		-->		00:35:17		810		The Romulan vessel will reach us within the hour. 
+		370		00:35:19		550		-->		00:35:21		680		If our patient dies... 
+		371		00:35:22		850		-->		00:35:26		620		...it may be just the excuse the Romulan commander needs to start an incident. 
+		373		00:35:30		460		-->		00:35:35		030		The death of a Romulan officer at the hands of the Federation. 
+		374		00:35:35		200		-->		00:35:37		530		- Think of it. - I have. 
+		375		00:35:38		730		-->		00:35:45		740		So, there is no question that he is more valuable to us alive than dead. 
+		376		00:35:46		340		-->		00:35:47		910		I understand. 
+		377		00:35:50		580		-->		00:35:52		180		Lieutenant... 
+		378		00:35:54		220		-->		00:36:01		090		...sometimes, the moral obligations of command are less than clear. 
+		379		00:36:01		260		-->		00:36:04		290		I have to weigh the good of the many against the needs of the individual,  and try to balance them as realistically as possible. 
+		382		00:36:10		800		-->		00:36:13		300		God knows, I don't always succeed. 
+		383		00:36:13		470		-->		00:36:16		540		I have not had cause to complain, Captain. 
+		384		00:36:17		270		-->		00:36:21		110		Lieutenant, you wouldn't complain even if you had cause. 
+		385		00:36:24		150		-->		00:36:27		380		If you order me to agree to the transfusion, 
+		386		00:36:27		550		-->		00:36:29		450		I will obey, of course. 
+		387		00:36:30		820		-->		00:36:33		760		I don't want... to order you. 
+		388		00:36:35		120		-->		00:36:37		330		But I ask you. I... 
+		389		00:36:39		230		-->		00:36:43		330		...beg you to volunteer. 
+		390		00:36:43		500		-->		00:36:45		330		I cannot. 
+		391		00:36:56		380		-->		00:36:57		810		Lieutenant. 
+		392		00:37:00		480		-->		00:37:01		420		Sir? 
+		393		00:37:03		220		-->		00:37:04		890		That will be all. 
+		394		00:37:13		400		-->		00:37:16		500		- Picard to Dr Crusher. - Go ahead. 
+		395		00:37:16		670		-->		00:37:20		200		Do not continue to enlist the cooperation of Lt Worf. 
+		396		00:37:21		440		-->		00:37:23		440		I won't have to, Captain. 
+		397		00:37:24		110		-->		00:37:26		170		The Romulan has died. 
+		398		00:37:44		560		-->		00:37:46		360		We've found it! 
+		399		00:37:47		460		-->		00:37:51		700		Now we alter its signal so the Enterprise knows we found it. 
+		400		00:37:51		870		-->		00:37:55		140		- Will that be difficult? - Not with your help. 
+		401		00:38:00		040		-->		00:38:02		440		The scanners are showing a window. 
+		402		00:38:02		610		-->		00:38:06		410		- Expected duration? - Nine minutes, 40 seconds, sir. 
+		403		00:38:06		580		-->		00:38:08		980		No change in the beacon's signal. 
+		404		00:38:09		150		-->		00:38:12		890		Romulan ship approaching. Bearing 354, mark 287. 
+		405		00:38:13		050		-->		00:38:14		620		On screen. 
+		406		00:38:18		730		-->		00:38:20		500		Entering phaser range. 
+		407		00:38:20		900		-->		00:38:24		130		- We are being hailed, sir. - On viewer. 
+		408		00:38:25		900		-->		00:38:30		740		You have one chance to escape destruction, Picard. 
+		409		00:38:31		670		-->		00:38:34		740		Return my officer at once. 
+		410		00:38:34		910		-->		00:38:38		310		You have entered Federation space despite my warning. 
+		411		00:38:38		480		-->		00:38:40		850		You forced the situation! 
+		412		00:38:41		680		-->		00:38:44		250		I will not leave without him. 
+		413		00:38:47		260		-->		00:38:48		760		He is dead. 
+		414		00:38:52		230		-->		00:38:57		200		Then he... is but the first to fall, Picard. 
+		415		00:38:58		730		-->		00:39:02		070		The Romulan ship is powering its forward disruptor. 
+		416		00:39:02		200		-->		00:39:04		040		All shields to maximum. 
+		417		00:39:04		770		-->		00:39:06		210		Aye, sir. 
+		418		00:39:06		840		-->		00:39:08		680		Lock phasers on target. 
+		419		00:39:08		840		-->		00:39:11		180		Phasers locked... and ready. 
+		420		00:39:11		810		-->		00:39:14		480		The signal from the beacon is modulating. 
+		421		00:39:15		220		-->		00:39:16		250		It's Geordi. 
+		422		00:39:16		420		-->		00:39:18		290		But our shields are up. 
+		423		00:39:18		450		-->		00:39:20		820		Lower them and the Romulans will strike. 
+		424		00:39:20		960		-->		00:39:25		390		The electromagnetic window is closing. Three minutes remain. 
+		425		00:39:25		560		-->		00:39:28		930		Transporter room, lock onto the beam and stand by. 
+		426		00:39:29		100		-->		00:39:30		500		Standing by. 
+		427		00:39:30		670		-->		00:39:33		770		The window is allowing intermittent readings. 
+		428		00:39:33		940		-->		00:39:38		310		There are ghost images but we are picking up two life forms. 
+		429		00:39:40		280		-->		00:39:41		780		Another Romulan? 
+		430		00:39:41		880		-->		00:39:43		480		I cannot say. 
+		431		00:39:43		650		-->		00:39:47		180		The interference prevents an accurate reading. 
+		432		00:39:47		350		-->		00:39:49		820		But that's a likely hypothesis. 
+		433		00:39:49		980		-->		00:39:53		120		If Cmdr La Forge has located a second survivor... 
+		434		00:39:53		290		-->		00:39:54		990		Lieutenant. 
+		435		00:39:55		860		-->		00:39:58		530		- Hail the Romulan vessel. - Aye, sir. 
+		436		00:40:00		560		-->		00:40:04		230		- They are ignoring our hail. - Repeat the hail. 
+		437		00:40:04		400		-->		00:40:08		240		They have no way of knowing how accurate our sensors are. 
+		438		00:40:08		970		-->		00:40:11		910		Put on your best poker face, Number One. 
+		439		00:40:12		070		-->		00:40:13		680		Open a frequency. 
+		440		00:40:14		380		-->		00:40:15		980		Cmdr Tomalak. 
+		441		00:40:16		680		-->		00:40:19		480		It would appear our away team has located a second man from your one-man ship. 
+		443		00:40:23		850		-->		00:40:26		220		We're preparing to beam them up. 
+		444		00:40:26		390		-->		00:40:29		860		After which, we will return the survivor to you. 
+		445		00:40:31		260		-->		00:40:33		130		No acknowledgement, sir. 
+		446		00:40:35		230		-->		00:40:38		270		Commander, both our ships are ready to fight. 
+		447		00:40:39		930		-->		00:40:42		940		We have two extremely powerful and destructive arsenals at our command. 
+		449		00:40:46		740		-->		00:40:50		380		Our next actions will have serious repercussions. 
+		450		00:40:51		450		-->		00:40:53		820		We have reason to mistrust one another but even better reason to set those differences aside. 
+		452		00:40:58		390		-->		00:41:02		790		Of course, the question is, who will take the initiative? 
+		453		00:41:04		490		-->		00:41:08		330		Who will make the first gesture of trust? 
+		454		00:41:15		370		-->		00:41:17		170		The answer is, I will. 
+		455		00:41:17		310		-->		00:41:19		340		I must lower our shields to beam those men up from the planet's surface. 
+		457		00:41:28		520		-->		00:41:30		720		Once the shields are down, you will have the opportunity to fire on us. 
+		459		00:41:34		190		-->		00:41:38		690		If you do, you will destroy not only the Enterprise and its crew, but the ceasefire that the Romulans and the Federation now enjoy. 
+		461		00:41:47		070		-->		00:41:49		900		Lieutenant, lower the shields. 
+		462		00:41:51		240		-->		00:41:53		340		Leave the hailing frequency open. 
+		463		00:41:55		110		-->		00:41:56		850		Yes, sir. 
+		464		00:41:57		410		-->		00:41:59		180		Shields down. 
+		465		00:42:00		080		-->		00:42:04		120		Mr O'Brien, transport La Forge and the Romulan to the bridge. 
+		466		00:42:04		250		-->		00:42:06		090		Aye, sir. Energising. 
+		467		00:42:12		860		-->		00:42:16		530		- Security to the bridge. - Belay that order. Shields up. 
+		468		00:42:21		140		-->		00:42:23		440		No one is going to harm you. 
+		469		00:42:24		440		-->		00:42:26		470		You have my word on that. 
+		470		00:42:30		080		-->		00:42:32		210		Well, Commander? 
+		471		00:42:34		780		-->		00:42:38		250		If he has been in any way mistreated... 
+		472		00:42:42		020		-->		00:42:45		730		I have given them no information, Commander. 
+		473		00:42:45		890		-->		00:42:48		330		But I have not been mistreated. 
+		474		00:42:49		360		-->		00:42:51		000		In fact... 
+		475		00:42:52		230		-->		00:42:54		740		...this human saved my life. 
+		476		00:42:55		670		-->		00:42:56		710		Tomalak. 
+		477		00:42:58		410		-->		00:43:03		240		How is it possible that you didn't know of the second Romulan? 
+		478		00:43:04		710		-->		00:43:07		880		A simple misunderstanding, Capt Picard. 
+		479		00:43:08		050		-->		00:43:12		550		I was misinformed as to the size of the craft. 
+		480		00:43:12		690		-->		00:43:15		520		I assure you, I intended no deception. 
+		481		00:43:15		690		-->		00:43:17		360		Of course not. 
+		482		00:43:18		190		-->		00:43:20		100		You doubt my good faith? 
+		483		00:43:21		160		-->		00:43:24		930		My faith would be strengthened by a gesture from you. 
+		484		00:43:25		100		-->		00:43:27		770		Such as powering down your disruptors. 
+		485		00:43:31		710		-->		00:43:33		440		Disruptors powering down. 
+		486		00:43:34		180		-->		00:43:37		280		Thank you. Cancel red alert, Lieutenant. 
+		487		00:43:38		380		-->		00:43:43		080		We shall return your officer and escort you to the Neutral Zone. 
+		488		00:43:43		250		-->		00:43:44		850		That is acceptable. 
+		489		00:43:48		460		-->		00:43:52		690		- Good to have you back. - Good to be back. 
+		490		00:43:52		790		-->		00:43:56		130		Actually, I have Centurion Bochra to thank for it. 
+		491		00:43:57		500		-->		00:43:58		670		Indeed? 
+		492		00:44:03		510		-->		00:44:05		140		Cmdr La Forge and Lt Worf,  escort our guest to transporter room one. 
+		495		00:44:11		210		-->		00:44:13		010		Yes, sir. 
+		496		00:44:13		180		-->		00:44:14		980		Come on. 
+		497		00:44:18		620		-->		00:44:21		460		- Close call. - Too close, Number One. 498 00:44:22,560 --> 00:44:25,230 Brinkmanship is a dangerous game.

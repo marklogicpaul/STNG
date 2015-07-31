@@ -1,0 +1,479 @@
+		1		00:00:02		586		-->		00:00:06		590		Captain's log, stardate <stardate>42686</stardate>.4. 
+		2		00:00:06		757		-->		00:00:11		011		We are going to Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies. 
+		4		00:00:17		309		-->		00:00:21		396		- I consider them insignificant. - What if you're wrong? 
+		5		00:00:21		563		-->		00:00:25		234		Sorry. But what if it is more than a mere discrepancy? 
+		6		00:00:25		400		-->		00:00:27		611		Then we have a problem. 
+		7		00:00:27		778		-->		00:00:31		406		Agreed. Montgomery can give us an independent reading. 
+		8		00:00:31		573		-->		00:00:33		408		Even if controls have failed, we can re-crystallize dilithium without outside help. 
+		10		00:00:37		204		-->		00:00:39		873		Don't worry. My ego isn't at stake here. 
+		11		00:00:39		998		-->		00:00:43		669		We could reprogram the system to correct the variables. 
+		12		00:00:45		170		-->		00:00:48		715		That's an option, but as we're stopping at Montgomery anyway, they can do the analysis. 
+		14		00:00:50		759		-->		00:00:53		929		I don't recall Montgomery being on the itinerary. 
+		15		00:00:55		722		-->		00:00:58		100		We could all use a 12-hour layover. 
+		16		00:00:58		267		-->		00:01:02		688		I've received some personnel transfer directives, priority matter. 
+		17		00:01:02		855		-->		00:01:04		648		Boarding or disembarking? 
+		18		00:01:04		815		-->		00:01:07		860		We're approaching Starbase Montgomery. 
+		19		00:01:08		026		-->		00:01:09		987		Go to half-impulse power. 
+		20		00:01:10		153		-->		00:01:13		991		Will you come to the observation lounge when you're done? 
+		21		00:01:27		671		-->		00:01:28		881		Captain? 
+		22		00:01:30		382		-->		00:01:32		843		I've been recollecting the arrival of a new First Officer on board the Enterprise,  and a manual docking confidently achieved. 
+		25		00:01:41		101		-->		00:01:45		564		Well, I may have been miserly in my congratulations then, so let me make up for it now. 
+		27		00:01:49		985		-->		00:01:53		238		The Captain of Starship Aries is retiring. 
+		28		00:01:54		656		-->		00:01:58		368		Congratulations. You've been selected as his replacement. 
+		29		00:01:58		535		-->		00:02:01		288		She's in the Vega-Omicron Sector. 
+		30		00:02:01		455		-->		00:02:04		917		They have picked up indications of intelligent life, though nothing confirmed. 
+		32		00:02:07		085		-->		00:02:08		962		Starfleet wants to know more. 
+		33		00:02:09		129		-->		00:02:12		841		That's why they want you, not for your military proficiency, but for your skill as an explorer, and as a diplomat. 
+		35		00:02:17		095		-->		00:02:20		098		It'll take months just to get there. 
+		36		00:02:20		849		-->		00:02:24		228		With no guarantee of finding anything when you arrive. 
+		37		00:02:24		394		-->		00:02:26		939		You have 12 hours to consider it. 
+		38		00:02:27		105		-->		00:02:31		485		And if it's not too premature, congratulations, Captain. 
+		39		00:02:57		553		-->		00:03:00		556		Space, the final frontier. 
+		40		00:03:02		182		-->		00:03:06		395		These are the voyages of the Starship Enterprise. 
+		41		00:03:06		562		-->		00:03:10		899		Its continuing mission, to explore strange new worlds,... 
+		42		00:03:12		150		-->		00:03:15		696		..to seek out new life and new civilizations,... 
+		43		00:03:16		697		-->		00:03:20		576		..to boldly go where no one has gone before. 
+		44		00:04:29		937		-->		00:04:32		773		- Establish synchronous orbit. - Aye, sir. 
+		45		00:04:35		150		-->		00:04:39		738		Montgomery is sending a civilian adviser to brief you on the mission. 
+		46		00:04:39		905		-->		00:04:41		990		A personal briefing? 
+		47		00:04:42		157		-->		00:04:45		577		An attachÈ with knowledge in the frontier regions. 
+		48		00:04:45		744		-->		00:04:48		247		You'll find the briefing interesting. 
+		49		00:04:49		665		-->		00:04:53		252		I hope it's complete. My decision will be based on it. 
+		50		00:04:53		418		-->		00:04:55		879		Cmdr Riker to transporter room three. 
+		51		00:04:57		548		-->		00:04:58		924		Enjoy. 
+		52		00:05:05		889		-->		00:05:06		890		Ensign. 
+		53		00:05:07		057		-->		00:05:10		644		You're right on time, Commander. He's on his way now. 
+		54		00:05:18		151		-->		00:05:19		361		Dad. 
+		55		00:05:22		281		-->		00:05:25		534		You're the civilian adviser and attachÈ? 
+		56		00:05:25		701		-->		00:05:29		663		I wanted it kept quiet. I didn't want to get you excited. 
+		57		00:05:30		163		-->		00:05:33		667		It's been 15 years. Excitement is hardly appropriate. 
+		58		00:05:35		502		-->		00:05:38		922		You've done well. First Officer on the Enterprise. 
+		59		00:05:39		089		-->		00:05:42		676		- Quite a feather in your cap. - I've worked hard. 
+		60		00:05:43		969		-->		00:05:46		972		Of course. I'm proud of you, son. 
+		61		00:05:47		723		-->		00:05:49		766		Excuse me. I have my duties. 
+		62		00:05:50		684		-->		00:05:53		979		When you've settled in, we can complete our briefing. 
+		63		00:05:54		188		-->		00:05:56		648		Have Security arrange an escort. 
+		64		00:05:56		815		-->		00:05:58		192		Aye, sir. 
+		65		00:06:08		994		-->		00:06:11		663		Worf, did you hear about Cmdr Riker's promotion? 
+		66		00:06:11		788		-->		00:06:16		126		He didn't know it was his father. Imagine if it was your father. 
+		67		00:06:16		293		-->		00:06:19		171		- I never knew mine. - Nor me. 
+		68		00:06:19		338		-->		00:06:22		508		It is a waste of time to think of such things. 
+		69		00:06:22		674		-->		00:06:25		385		I wasn't, but everybody needs somebody. 
+		70		00:06:25		552		-->		00:06:26		929		Enough! 
+		71		00:06:35		979		-->		00:06:38		815		Montgomery didn't have to send all this help. 
+		72		00:06:38		982		-->		00:06:41		777		I've checked for anomalous frequencies, so don't waste your time on that. 
+		74		00:06:47		157		-->		00:06:49		284		Wes. Are you OK? 
+		75		00:06:50		202		-->		00:06:55		207		I was just talking to Worf. He's really eccentric at times. 
+		76		00:06:55		374		-->		00:06:57		000		That's one word for it. 
+		77		00:06:57		501		-->		00:07:01		380		He was really upset. I must've said something wrong. 
+		78		00:07:01		547		-->		00:07:05		676		Maybe he's just not thrilled at the prospect of losing Cmdr Riker. 
+		79		00:07:05		843		-->		00:07:06		927		I'm not. 
+		80		00:07:07		094		-->		00:07:10		556		Neither am l, but with Worf it was something else. 
+		81		00:07:10		722		-->		00:07:14		393		- Something's really bothering him. - Think so? 
+		82		00:07:27		406		-->		00:07:29		533		- Female? - No. 
+		83		00:07:29		700		-->		00:07:30		701		Career? 
+		84		00:07:33		662		-->		00:07:36		415		- Family. - That is trouble. 
+		85		00:07:36		582		-->		00:07:42		671		You choose your enemies and friends, but family, that's in the stars. 
+		86		00:07:42		838		-->		00:07:44		423		So I've heard. 
+		87		00:07:52		014		-->		00:07:54		433		Kyle Riker! Excuse me, ladies. 
+		88		00:07:57		227		-->		00:07:58		604		Great to see you. 
+		89		00:08:01		815		-->		00:08:04		484		Kyle. Been a long time. 
+		90		00:08:18		081		-->		00:08:21		585		This is more than a surprise, it's a total shock. 
+		91		00:08:21		919		-->		00:08:26		798		- You didn't bake me a cake? - You're actually here. 
+		92		00:08:26		965		-->		00:08:29		426		That makes two of us. How about a drink? 
+		93		00:08:29		593		-->		00:08:30		886		How about a kiss? 
+		94		00:08:35		557		-->		00:08:38		352		- They know each other. - No kidding? 
+		95		00:08:38		519		-->		00:08:41		688		I know her, too, but we don't do that. 
+		96		00:08:48		445		-->		00:08:50		614		You look wonderful. 
+		97		00:08:58		330		-->		00:09:01		375		It has nothing to do with Cmdr Riker's assignment? 
+		98		00:09:01		542		-->		00:09:05		462		No. His reaction was the opposite of mine. Completely unaffected. 
+		99		00:09:05		629		-->		00:09:08		799		With all that's going on, maybe you're overreacting. 
+		100		00:09:08		966		-->		00:09:12		344		Really? You try talking to Worf, Geordi. 
+		101		00:09:12		511		-->		00:09:14		763		He is not normal for Worf. 
+		102		00:09:16		682		-->		00:09:20		352		There is a predisposition toward hostility in Klingons, but Worf has been unusually out of sorts. 
+		104		00:09:24		398		-->		00:09:26		608		He's never been much on charm. 
+		105		00:09:27		734		-->		00:09:31		488		I think we should try to help. He is our friend. l, for one, want to keep him friendly. 
+		107		00:09:34		741		-->		00:09:36		118		Suggestions? 
+		108		00:09:36		285		-->		00:09:39		079		Empirical study. Monitor the subject. 
+		109		00:09:39		246		-->		00:09:42		749		Right. Watch the subject for unusual behaviour. 
+		110		00:09:42		916		-->		00:09:44		251		Won't be difficult. 
+		111		00:09:44		418		-->		00:09:48		630		Within the norm of Klingon patterns. Discretion will be required. 
+		112		00:09:48		797		-->		00:09:50		424		Agreed. When do we start? 
+		113		00:09:52		634		-->		00:09:56		597		We will assist you as needed. You found the problem. 
+		114		00:09:56		763		-->		00:09:58		557		And you must solve it. 
+		115		00:10:16		116		-->		00:10:17		075		Thank you. 
+		116		00:10:17		242		-->		00:10:21		830		After working out the Fuurinkazan battle strategies at the Tokyo Base, 
+		117		00:10:21		997		-->		00:10:24		708		I was asked to come here as an adviser. 
+		118		00:10:24		875		-->		00:10:27		711		I'm surprised how long you stayed out of action. 
+		119		00:10:27		878		-->		00:10:31		298		Will, your father and I were just catching up. 
+		120		00:10:31		465		-->		00:10:36		887		- You never said you knew him. - Well, it wasn't exactly a secret. 
+		121		00:10:37		596		-->		00:10:40		766		- It just never came up. - Sit down, son. 
+		122		00:10:41		433		-->		00:10:43		894		I'm ready for that briefing if you are. 
+		123		00:10:57		324		-->		00:11:00		619		- It was a pleasure. - Good to see you too, Graham. 
+		124		00:11:02		621		-->		00:11:04		540		Are you running for Mayor? 
+		125		00:11:04		706		-->		00:11:08		418		Do pick-up work long enough, and it'll happen to you, too. 
+		126		00:11:10		963		-->		00:11:16		009		- I thought about you a lot. - You don't need to say anything. 
+		127		00:11:16		176		-->		00:11:18		679		We could've been great together. 
+		128		00:11:18		846		-->		00:11:19		805		Possibly. 
+		129		00:11:19		972		-->		00:11:22		641		- Is it true you got married? - Again. 
+		130		00:11:22		766		-->		00:11:26		270		- And again. - That makes you three for three? 
+		131		00:11:26		728		-->		00:11:30		649		I'm not complaining. They're good men and we're all friends. 
+		132		00:11:30		816		-->		00:11:31		733		Like us? 
+		133		00:11:32		317		-->		00:11:36		989		Close, but different. They were all a bit more in touch with themselves. 
+		134		00:11:38		407		-->		00:11:40		200		Face facts. You're crusty. 
+		135		00:11:40		367		-->		00:11:43		579		You have a reputation for being hard as nails, but underneath, you're not so bad. 
+		137		00:11:46		540		-->		00:11:48		125		Some of us even love you. 
+		138		00:11:50		794		-->		00:11:52		713		And then there's Will. 
+		139		00:11:56		425		-->		00:11:58		343		Then there's Will. 
+		140		00:12:02		598		-->		00:12:05		267		Wesley should be doing this on his own. 
+		141		00:12:05		392		-->		00:12:09		730		- But he needs his study time. - I can't believe you fell for that. 
+		142		00:12:14		359		-->		00:12:17		362		He looks perfectly normal to me. 
+		143		00:12:17		779		-->		00:12:21		408		In solitude, there is nothing to trigger unusual behaviour. 
+		144		00:12:21		950		-->		00:12:25		037		Good point. Let's not tamper with the status quo. 
+		145		00:12:25		412		-->		00:12:29		208		But that would defeat our opportunity for research. 
+		146		00:12:29		374		-->		00:12:33		170		In all probability, he is simply lonely. 
+		147		00:12:33		337		-->		00:12:36		798		We can relieve his anxiety through socialization. 
+		148		00:12:37		633		-->		00:12:39		426		Be my guest. 
+		149		00:12:47		309		-->		00:12:49		728		Excuse me, Lieutenant. 
+		150		00:12:49		895		-->		00:12:53		690		You seem to have lost the will to communicate with others. 
+		151		00:12:53		857		-->		00:12:55		484		You have friends here. 
+		152		00:12:55		651		-->		00:12:57		861		We... 
+		153		00:12:58		028		-->		00:12:59		863		We care about you. 
+		154		00:13:00		030		-->		00:13:02		783		Geordi, Wesley and I were saying... 
+		155		00:13:02		950		-->		00:13:07		162		With all due respect, ... be gone! 
+		156		00:13:09		790		-->		00:13:10		624		Sir. 
+		157		00:13:24		638		-->		00:13:28		433		He seems... quite sincere in his desire for solitude. 
+		158		00:13:28		600		-->		00:13:30		602		Seeing is believing? 
+		159		00:13:50		414		-->		00:13:51		707		Come in. 
+		160		00:13:54		001		-->		00:13:57		087		- Worf? - May I have a moment, sir? 
+		161		00:13:58		005		-->		00:14:01		675		- Of course. What is it? - It is very difficult to say. 
+		162		00:14:02		801		-->		00:14:05		470		Words are not always easy for me. 
+		163		00:14:08		223		-->		00:14:09		600		Is that Earth? 
+		164		00:14:10		058		-->		00:14:13		103		Yes, Alaska. I was nine years old. 
+		165		00:14:13		645		-->		00:14:19		526		- That is a fish you're holding. - And I didn't even catch it. 
+		166		00:14:21		153		-->		00:14:23		488		- But it looks like you... - Hooked it. 
+		167		00:14:23		655		-->		00:14:28		202		My father took the rod away. He was afraid I'd lose it. 
+		168		00:14:30		329		-->		00:14:32		664		You do not have good feelings for him? 
+		169		00:14:33		874		-->		00:14:35		042		No, I... 
+		170		00:14:35		959		-->		00:14:41		798		Well, I'm not sure what I'm feeling. What's on your mind? 
+		171		00:14:47		179		-->		00:14:51		141		- You are leaving the Enterprise? - I've been offered a command. 
+		172		00:14:52		768		-->		00:14:54		853		I would like to join you. 
+		173		00:14:58		690		-->		00:15:00		984		I haven't accepted the assignment. 
+		174		00:15:01		568		-->		00:15:04		988		But it could be dangerous. There may be combat. 
+		175		00:15:05		155		-->		00:15:08		784		- That is not the purpose. - Still, to die a true hero... 
+		176		00:15:08		951		-->		00:15:12		371		Worf, you've made your point. 
+		177		00:15:15		165		-->		00:15:17		876		I know you will do the right thing. 
+		178		00:15:34		977		-->		00:15:38		480		Finally, we're alone. Maybe now we can talk. 
+		179		00:15:39		064		-->		00:15:40		816		I'm here for the briefing. 
+		180		00:15:44		194		-->		00:15:46		280		All you need to know is here. 
+		181		00:15:50		534		-->		00:15:52		953		This could have been transmitted. 
+		182		00:15:54		371		-->		00:15:59		626		- I've heard good things about you. - Then why haven't I heard from you? 
+		183		00:16:00		419		-->		00:16:04		006		I know. Keeping in touch is not my strong suit. 
+		184		00:16:04		173		-->		00:16:08		510		It's a funny thing about being a parent. There are no tech manuals. 
+		185		00:16:08		677		-->		00:16:14		016		No read-outs to get you through. You just wing it from day to day. 
+		186		00:16:15		642		-->		00:16:17		728		Will, when your mother died... 
+		187		00:16:18		145		-->		00:16:21		565		Excuse me. I've got to study this briefing. 
+		188		00:16:22		524		-->		00:16:26		778		Will, I came to the Enterprise because... 
+		189		00:16:28		989		-->		00:16:32		242		Considering where you might be going, I wanted to... 
+		190		00:16:34		745		-->		00:16:37		039		I'm here with my hand out, son. 
+		191		00:16:58		519		-->		00:17:02		397		Poor guy. Picked up a flu virus at Nasreldine. 
+		192		00:17:02		564		-->		00:17:04		274		Nasty. What's the therapy? 
+		193		00:17:04		441		-->		00:17:09		363		Tryptophan-lysine distillate, with a generous dose of PCS. 
+		194		00:17:10		072		-->		00:17:13		659		- PCS? - Pulaski's chicken soup. 
+		195		00:17:14		451		-->		00:17:18		664		- You haven't lost your touch. - When they hurt, I hurt. 
+		196		00:17:18		830		-->		00:17:22		918		Dr Pulaski's greatest medical skill is her empathy. 
+		197		00:17:23		460		-->		00:17:26		588		- You must be Cmdr Riker's father. - Yes. How...? 
+		198		00:17:26		755		-->		00:17:30		175		We've all heard about you, and I felt certain things. 
+		199		00:17:30		342		-->		00:17:32		427		Deanna Troi, ship's Counsellor. 
+		200		00:17:33		846		-->		00:17:36		390		- Kyle Riker. - I thought you should meet. 
+		201		00:17:36		557		-->		00:17:38		976		Deanna keeps us from deluding ourselves. 
+		202		00:17:39		893		-->		00:17:42		145		Let me guess, Betazoid? 
+		203		00:17:42		479		-->		00:17:44		773		At your service. 
+		204		00:17:44		940		-->		00:17:47		276		I have work to do. Please excuse me. 
+		205		00:17:47		442		-->		00:17:51		530		Why do I get the feeling that this is a setup? 
+		206		00:17:51		697		-->		00:17:56		410		Because you're intelligent, wise and quite correct. 
+		207		00:17:56		577		-->		00:18:00		372		Well, I've never been set up better, that's for sure. 
+		208		00:18:00		539		-->		00:18:03		208		You're also very anxious about something. 
+		209		00:18:06		378		-->		00:18:08		088		It's Will, isn't it? 
+		210		00:18:09		298		-->		00:18:11		633		You're not as close as you'd like. 
+		211		00:18:12		426		-->		00:18:18		182		I don't know. We both have good taste in women, wouldn't you say? 
+		212		00:18:20		976		-->		00:18:25		105		I'd like to help you if I can, ... if you'll let me. 
+		213		00:18:25		564		-->		00:18:27		900		Fine. What do you want from me? 
+		214		00:18:28		066		-->		00:18:30		903		I came here to bury the hatchet with my son, only to find out that the ground was frozen solid. 
+		216		00:18:35		157		-->		00:18:38		619		You don't seem the kind to give up so easily. 
+		217		00:18:38		785		-->		00:18:41		079		I didn't say I was giving up. 
+		218		00:18:41		246		-->		00:18:44		374		It would just be nice to get something from him. 
+		219		00:18:44		541		-->		00:18:46		376		What do you want? 
+		220		00:18:46		543		-->		00:18:49		254		I don't know. Acknowledgement or... 
+		221		00:18:49		922		-->		00:18:52		883		Respect is earned, not bestowed. 
+		222		00:18:53		467		-->		00:18:56		553		Respect? I don't need that from him. 
+		223		00:18:58		138		-->		00:19:00		265		You want him to be proud of you. 
+		224		00:19:00		432		-->		00:19:02		851		You take pride in his accomplishments. 
+		225		00:19:03		018		-->		00:19:04		061		Absolutely. 
+		226		00:19:04		228		-->		00:19:09		358		First Officer of the Enterprise, just been offered his first command. 
+		227		00:19:09		816		-->		00:19:11		735		Yet you covet his success. 
+		228		00:19:12		069		-->		00:19:15		572		Please. He'd be lucky to have the career I've had. 
+		229		00:19:15		739		-->		00:19:18		575		True. You're well respected in your field. 
+		230		00:19:18		742		-->		00:19:21		245		I have a reputation for excellence. 
+		231		00:19:21		870		-->		00:19:23		497		And false humility. 
+		232		00:19:26		500		-->		00:19:30		254		My guess is that Will finds you pretty fascinating. 
+		233		00:19:30		420		-->		00:19:33		173		Candour seems to be a trait he admires. 
+		234		00:19:34		466		-->		00:19:37		261		Honesty is the trait he admires most. 
+		235		00:19:38		220		-->		00:19:40		180		You should honestly consider why you're so competitive with your own son. 
+		237		00:19:45		018		-->		00:19:48		897		Competitive? Maybe in the past. 
+		238		00:19:49		606		-->		00:19:54		611		But I'm here to help Will prepare for his first task as Captain. 
+		239		00:19:54		778		-->		00:19:57		531		Will he accept such a dangerous assignment? 
+		240		00:19:57		698		-->		00:20:00		200		He'll accept it because it is dangerous. 
+		241		00:20:00		868		-->		00:20:04		246		- How can you be so sure? - Because I would. 
+		242		00:20:05		080		-->		00:20:08		000		And we aren't so different, Will and I. 
+		243		00:20:18		093		-->		00:20:19		553		Come in. 
+		244		00:20:23		182		-->		00:20:26		643		You've seen your mission briefing? Any questions? 
+		245		00:20:26		810		-->		00:20:30		230		No, other than one about the Aries's First Officer. 
+		246		00:20:30		397		-->		00:20:32		191		Yes. Flaherty. 
+		247		00:20:32		774		-->		00:20:36		987		Yes. It mentions something about "an uncanny linguistic skill". 
+		248		00:20:37		905		-->		00:20:39		406		An understatement. 
+		249		00:20:39		573		-->		00:20:43		243		The last time I saw Cmdr Flaherty, he spoke 40 languages. 
+		250		00:20:43		410		-->		00:20:48		123		As I recall, among the more exotic were Romulan, Klingon, 
+		251		00:20:48		290		-->		00:20:51		168		Giamon, Stroyerian. 
+		252		00:20:51		335		-->		00:20:53		003		He speaks 40 languages? 
+		253		00:20:53		170		-->		00:20:57		633		He has this ability of instantly interpreting and extrapolating any verbal communication he hears. 
+		255		00:21:00		093		-->		00:21:03		055		You will find him very useful in Vega-Omicron. 
+		256		00:21:03		222		-->		00:21:04		848		I'm sure I will. 
+		257		00:21:05		724		-->		00:21:06		517		Come in. 
+		258		00:21:07		893		-->		00:21:10		771		Capt Picard, at last. 
+		259		00:21:10		938		-->		00:21:13		899		Thank you for the help you've given my son. 
+		260		00:21:14		066		-->		00:21:17		861		My only regret is that your reunion marks Will's farewell. 
+		261		00:21:18		028		-->		00:21:21		865		- But he's ready for this command. - Yes, I have no doubt. 
+		262		00:21:23		659		-->		00:21:28		580		- May I have a word with my son? - Of course. Excuse me, gentlemen. 
+		263		00:21:33		085		-->		00:21:35		587		I won't be pushed into this decision. 
+		264		00:21:35		754		-->		00:21:40		884		Come on. Don't you think you're ready for the Aries? 
+		265		00:21:41		051		-->		00:21:44		972		- Starfleet does. - You're the best candidate. 
+		266		00:21:46		598		-->		00:21:49		101		But I'm here if you need me. 
+		267		00:21:49		268		-->		00:21:52		980		I've been alone since I was 15. I can take care of myself. 
+		268		00:21:53		146		-->		00:21:56		108		Please, spare me the pain of your childhood. 
+		269		00:21:57		150		-->		00:22:01		238		I hung in for 13 years. If that wasn't enough, too bad. 
+		270		00:22:10		873		-->		00:22:13		166		Data, what if I missed something? 
+		271		00:22:13		333		-->		00:22:15		627		The computer would have corrected it. 
+		272		00:22:15		794		-->		00:22:18		881		- Maybe my inputs were incorrect. - Data, Geordi. 
+		273		00:22:19		047		-->		00:22:21		884		- I figured out Worf's problem. - You spoke to him? 
+		274		00:22:22		050		-->		00:22:26		138		No. I accessed the Klingon cultural database. It took time. 
+		275		00:22:26		305		-->		00:22:31		143		OK, Wesley, slow down. What is the problem? 
+		276		00:22:31		310		-->		00:22:34		688		It's the tenth anniversary of Worf's Age of Ascension. 
+		277		00:22:34		855		-->		00:22:35		814		His what? 
+		278		00:22:35		981		-->		00:22:39		359		The Age of Ascension. A ritual of great significance. 
+		279		00:22:39		526		-->		00:22:43		655		A rite of initiation marking a new level of spiritual attainment. 
+		280		00:22:43		822		-->		00:22:46		491		What is the significance of the anniversary? 
+		281		00:22:46		658		-->		00:22:50		037		It's a day of celebration spent with fellow Klingons. 
+		282		00:22:50		204		-->		00:22:52		956		Worf doesn't have any Klingon friends. 
+		283		00:22:53		123		-->		00:22:56		293		- We're his friends. - We don't practise his tradition. 
+		284		00:22:56		460		-->		00:22:58		253		And we're not Klingons. 
+		285		00:22:58		420		-->		00:23:01		089		Worf is culturally and socially isolated. 
+		286		00:23:01		965		-->		00:23:06		261		What do you suggest? We can't invite a bunch of Klingons on board. 
+		287		00:23:06		428		-->		00:23:09		848		The computer could supply simulations on the holodeck. 
+		288		00:23:10		265		-->		00:23:13		143		Holographic Klingons. Sure. Why not? 
+		289		00:23:13		310		-->		00:23:17		064		We need only to program in specific details of the ceremony. 
+		290		00:23:17		231		-->		00:23:20		901		The cultural database said the Klingon's family must attend. 
+		291		00:23:21		068		-->		00:23:23		820		So? We're his family. We'll go. 
+		292		00:23:23		987		-->		00:23:27		449		I just wonder what kind of party the Klingons have. 
+		293		00:23:33		163		-->		00:23:35		916		- Have you got a minute? - Sure. 
+		294		00:23:36		083		-->		00:23:40		754		I wanted to apologize. Your personal life is none of my business. 
+		295		00:23:41		713		-->		00:23:46		218		- Even if it involves your father? - Even if it involves my father. 
+		296		00:23:47		761		-->		00:23:50		722		Did he ever tell you why he never remarried? 
+		297		00:23:50		889		-->		00:23:53		851		What woman would have him with an ego like that? 
+		298		00:23:54		017		-->		00:23:56		854		I would have, in a cold minute. 
+		299		00:24:08		824		-->		00:24:12		286		12 years ago, Kyle Riker was a civilian strategist advising Starfleet in its conflict with the Tholians. 
+		301		00:24:16		123		-->		00:24:19		251		The starbase he was operating from was attacked. 
+		302		00:24:19		418		-->		00:24:23		714		None of the base crew was expected to live, and they all died, all except your father. 
+		304		00:24:27		593		-->		00:24:33		390		Your father alone had the will to endure, to face the pain, to live. 
+		305		00:24:35		058		-->		00:24:37		102		I never knew that about him. 
+		306		00:24:38		645		-->		00:24:43		358		I've never seen a man fight so hard in all my life. 
+		307		00:24:43		775		-->		00:24:46		820		- And you fell in love? - Yes. 
+		308		00:24:47		404		-->		00:24:48		989		And so did he. 
+		309		00:24:50		866		-->		00:24:54		870		But marriage was out of the question. He had other priorities. 
+		310		00:24:55		037		-->		00:24:56		163		His career. 
+		311		00:24:58		457		-->		00:25:02		085		If I were you, going out on the Aries, 
+		312		00:25:02		252		-->		00:25:06		089		I'd jettison the emotional baggage you carry around. 
+		313		00:25:16		600		-->		00:25:19		770		The cultural database was specific on the setting. 
+		314		00:25:19		937		-->		00:25:25		025		Let me guess. 20-piece orchestra, magnificent ballroom, formal wear... 
+		315		00:25:25		192		-->		00:25:28		320		No, there's some unusual test of inner strength. 
+		316		00:25:28		487		-->		00:25:31		073		That would entail Klingon painstiks. 
+		317		00:25:31		240		-->		00:25:33		033		Painstiks? Sounds lovely. 
+		318		00:25:33		575		-->		00:25:37		621		Enduring physical suffering is a Klingon spiritual test. 
+		319		00:25:37		788		-->		00:25:42		292		So for Worf to celebrate his anniversary, he has to be hurt? 
+		320		00:25:43		001		-->		00:25:46		797		- And we have to witness this? - We are his family. 
+		321		00:25:53		387		-->		00:25:54		721		Come. 
+		322		00:25:57		683		-->		00:25:59		518		Number One? 
+		323		00:26:00		143		-->		00:26:03		689		I'd be a fool to turn promotion down, wouldn't I? 
+		324		00:26:03		856		-->		00:26:05		107		I don't know. 
+		325		00:26:06		108		-->		00:26:10		237		And if you're asking what to do, I don't know that either. 
+		326		00:26:13		532		-->		00:26:18		120		I can spell out, albeit crudely, what you're choosing between. 
+		327		00:26:18		287		-->		00:26:22		749		As First Officer of the Enterprise, you have a position of distinction, prestige, even glamour of a sort. 
+		329		00:26:27		504		-->		00:26:31		258		You are the second-in-command of Starfleet's flagship, but still second-in-command. 
+		331		00:26:36		054		-->		00:26:41		727		Your promotion will transfer you to a relatively insignificant ship in an obscure corner of the galaxy. 
+		333		00:26:46		481		-->		00:26:50		777		But it will be your ship, and being who you are, it will soon be vibrant with your authority, your style, your vision. 
+		335		00:27:02		331		-->		00:27:03		707		You know, ... 
+		336		00:27:05		250		-->		00:27:08		712		..there is no substitute for holding the reins. 
+		337		00:27:14		635		-->		00:27:18		514		I'll need a little more time to make this decision. 
+		338		00:27:34		404		-->		00:27:36		782		- Find anything yet? - Not yet. 
+		339		00:27:36		949		-->		00:27:41		078		- There is nothing to find. - No harm in checking, I guess. 
+		340		00:27:41		245		-->		00:27:45		541		Really? How would you like them to give the transporter a once-over? 
+		341		00:27:45		707		-->		00:27:48		460		No problem. We're totally shipshape. 
+		342		00:27:48		627		-->		00:27:52		965		The point is that they even suspect a malfunction. 
+		343		00:27:53		131		-->		00:27:56		635		If I were not a consummate professional, and an android, 
+		344		00:27:56		802		-->		00:28:00		013		I would find this entire procedure insulting. 
+		345		00:28:00		722		-->		00:28:01		682		Thanks, Data. 
+		346		00:28:07		771		-->		00:28:12		526		Chief, could you attend a little party for Lt Worf at 1700 hours? 
+		347		00:28:12		693		-->		00:28:16		446		A party for Worf? Sounds intriguing. I'd be delighted. 
+		348		00:28:16		613		-->		00:28:19		658		- It's a surprise. - My lips are sealed. 
+		349		00:28:23		412		-->		00:28:26		415		I couldn't leave without saying goodbye. 
+		350		00:28:26		582		-->		00:28:30		627		I don't like goodbyes. How about "until next time"? 
+		351		00:28:31		378		-->		00:28:33		130		How about "until next time"? 
+		352		00:28:34		715		-->		00:28:38		510		It's been a pleasure working with you, Commander. 
+		353		00:28:38		677		-->		00:28:41		221		The feeling is mutual, Counsellor. 
+		354		00:28:42		014		-->		00:28:45		184		I'm meant to know how everyone feels, but... 
+		355		00:28:45		350		-->		00:28:47		644		I can't read you right now. 
+		356		00:28:47		811		-->		00:28:50		939		Perhaps your own feelings are getting in the way. 
+		357		00:28:51		106		-->		00:28:54		026		I'm here to help others sort out their emotions. 
+		358		00:28:54		735		-->		00:28:56		987		My feelings are beside the point. 
+		359		00:28:58		363		-->		00:29:03		160		Not to me. Our feelings are what make us all human. 
+		360		00:29:05		996		-->		00:29:08		081		Are you feeling sad? 
+		361		00:29:14		379		-->		00:29:15		756		Yes, I am. 
+		362		00:29:17		049		-->		00:29:18		425		So am I. 
+		363		00:29:40		405		-->		00:29:43		450		I leave at 2100 hours. Can I have a minute? 
+		364		00:29:50		082		-->		00:29:53		502		I've practised my best Academy courtesy, now you should go. 
+		365		00:29:53		669		-->		00:29:56		672		We need to talk, so lower your shields. 
+		366		00:29:57		130		-->		00:30:00		467		- I'm asking you to leave or I'll... - You'll what? 
+		367		00:30:00		968		-->		00:30:03		971		It's a shame there's no anbo-jytsu ring nearby. 
+		368		00:30:04		137		-->		00:30:06		849		Really? There is. Deck 12. The gymnasium. 
+		369		00:30:07		307		-->		00:30:09		977		We can clear the air once and for all. 
+		370		00:30:10		102		-->		00:30:11		478		You're on. 
+		371		00:30:21		405		-->		00:30:23		866		Scuttlebutt says you wanted to see me. 
+		372		00:30:24		032		-->		00:30:25		409		That's right. 
+		373		00:30:27		911		-->		00:30:31		832		- I thought I knew you. - You do, as well as anyone. 
+		374		00:30:31		999		-->		00:30:35		586		Then what is this anbo-jytsu match with Will? 
+		375		00:30:36		920		-->		00:30:37		880		You've heard. 
+		376		00:30:38		046		-->		00:30:41		425		Haven't we grown beyond the point of resolving our problems with physical conflict? 
+		378		00:30:43		343		-->		00:30:45		304		I think you're overreacting. 
+		379		00:30:45		470		-->		00:30:48		640		Me? You're the one who's fighting his own son. 
+		380		00:30:48		807		-->		00:30:52		019		It's not a fight so much as a contest. 
+		381		00:30:52		561		-->		00:30:56		940		- And if one of you is injured? - I know a good doctor. 
+		382		00:30:57		107		-->		00:30:58		275		- Kate... - Kyle... 
+		383		00:30:59		443		-->		00:31:02		321		We've played anbo-jytsu since Will was eight. 
+		384		00:31:02		487		-->		00:31:06		158		He knows how to take care of himself. So do I. 
+		385		00:31:06		325		-->		00:31:09		786		Don't take this personally, but Will is in his prime. 
+		386		00:31:09		953		-->		00:31:12		956		And I'm no spring chicken. I know. 
+		387		00:31:13		123		-->		00:31:16		293		Don't worry. He's never been able to beat me. 
+		388		00:31:38		232		-->		00:31:41		693		Computer, is this it? 
+		389		00:31:42		861		-->		00:31:46		698		Correct. Klingon rite-of-Ascension chamber. 
+		390		00:31:47		407		-->		00:31:49		535		Is this really necessary? 
+		391		00:31:49		701		-->		00:31:52		079		If we want to help Worf, it is. 
+		392		00:31:52		246		-->		00:31:56		834		Computer, give us Klingon personnel appropriate to this event. 
+		393		00:31:59		253		-->		00:32:04		132		These images have been specifically programmed for Ascension rites. 
+		394		00:32:04		299		-->		00:32:05		676		Cute bunch. 
+		395		00:32:09		096		-->		00:32:10		973		And they use those? 
+		396		00:32:11		139		-->		00:32:13		517		Those are Klingon painstiks. 
+		397		00:32:15		227		-->		00:32:20		148		I once saw one of them used against a two-ton Rectyne monopod. 
+		398		00:32:20		440		-->		00:32:24		027		Poor creature jumped five meters at the slightest touch. 
+		399		00:32:24		194		-->		00:32:27		447		It finally died from excessive cephalic pressures. 
+		400		00:32:28		824		-->		00:32:29		825		You mean...? 
+		401		00:32:29		992		-->		00:32:32		911		Right. The animal's head exploded like... 
+		402		00:32:33		078		-->		00:32:35		914		I think that's enough, Chief O'Brien. 
+		403		00:32:43		297		-->		00:32:47		301		- I do not enjoy riddles. - You will enjoy this one. 
+		404		00:32:47		467		-->		00:32:51		054		I'm in no mood for trifling or games, not today. 
+		405		00:32:51		221		-->		00:32:53		682		I know how important today is for you, the anniversary of your rite of Ascension. 
+		407		00:32:56		643		-->		00:33:00		189		- You know about that? - All your friends on board do. 
+		408		00:33:01		231		-->		00:33:05		194		That is impossible. It is a secret known only to Klingons. 
+		409		00:33:05		360		-->		00:33:08		238		And certain resourceful young ensigns. 
+		410		00:33:11		658		-->		00:33:15		621		Wesley Crusher. What does he know about it? 
+		411		00:33:16		830		-->		00:33:18		290		Just bear with me. 
+		412		00:33:18		957		-->		00:33:21		627		- Where are we going? - The holodeck. 
+		413		00:33:24		796		-->		00:33:29		301		- This is truly trying my patience. - I think you will approve. 
+		414		00:33:29		593		-->		00:33:33		472		- You're not coming in? - No. 
+		415		00:33:40		646		-->		00:33:42		022		Open. 
+		416		00:33:58		413		-->		00:34:02		334		- An Ascension ceremony. - Happy anniversary. 
+		417		00:34:03		669		-->		00:34:05		379		Shall we begin? 
+		418		00:34:14		847		-->		00:34:16		014		I am ready. 
+		419		00:34:37		744		-->		00:34:40		831		Today, I am a warrior. 
+		420		00:34:40		998		-->		00:34:43		125		I must show you my heart. 
+		421		00:34:43		792		-->		00:34:46		336		I travel the river of blood! 
+		422		00:34:56		471		-->		00:34:58		682		The true test of Klingon strength is to admit one's most profound feelings while under extreme duress. 
+		424		00:35:19		077		-->		00:35:23		582		The battle is mine! I crave only the blood of the enemy. 
+		425		00:35:36		887		-->		00:35:41		391		The bile of the vanquished flows over my hands. 
+		426		00:36:10		587		-->		00:36:11		964		Thank you. 
+		427		00:36:30		065		-->		00:36:33		151		- Is Lt Worf alright? - He's never been happier. 
+		428		00:36:33		318		-->		00:36:39		199		- So it was a good ceremony? - I didn't stay for refreshments. 
+		429		00:36:39		366		-->		00:36:41		493		You don't enjoy Klingon culture? 
+		430		00:36:41		660		-->		00:36:44		079		I'm glad that humans have progressed beyond the need for barbaric display. 
+		432		00:36:47		666		-->		00:36:49		168		Have they? 
+		433		00:36:49		334		-->		00:36:52		504		Cmdr Riker and his father are in the gymnasium, about to engage in barbarism. 
+		435		00:36:55		007		-->		00:36:57		759		Don't remind me. I do not approve. 
+		436		00:36:57		926		-->		00:36:59		720		In spite of human evolution, there are still some traits endemic to gender. 
+		438		00:37:03		056		-->		00:37:06		476		They'll knock each other's brains out because they're men? 
+		439		00:37:06		643		-->		00:37:08		812		Human males are unique. 
+		440		00:37:08		979		-->		00:37:12		983		Fathers regard their sons as children, even into adulthood. 
+		441		00:37:13		150		-->		00:37:17		112		Sons chafe against their fathers' perceived expectations. 
+		442		00:37:18		989		-->		00:37:21		909		It's as if they never grow up at all. 
+		443		00:37:24		703		-->		00:37:29		750		Perhaps that's part of their charm, and why we find them so attractive. 
+		444		00:37:30		334		-->		00:37:33		045		Particularly men like Cmdr Riker. 
+		445		00:37:34		463		-->		00:37:36		256		And his father. 
+		446		00:37:39		593		-->		00:37:42		054		I hope they don't injure each other. 
+		447		00:37:47		351		-->		00:37:52		189		Anbo-jytsu, the ultimate evolution in the martial arts. 
+		448		00:37:52		356		-->		00:37:54		399		I remember my early lessons. 
+		449		00:37:54		858		-->		00:37:58		987		You could never get used to the sightless factor, or to losing. 
+		450		00:37:59		154		-->		00:38:02		491		True, but I've had 15 years to practise. 
+		451		00:38:03		367		-->		00:38:06		787		Well, let's see if you've learned anything. 
+		452		00:39:01		633		-->		00:39:03		010		Well! 
+		453		00:39:07		014		-->		00:39:09		683		- You've been practising. - And remembering. 
+		454		00:39:09		808		-->		00:39:12		769		You should have been the one to die, not her. 
+		455		00:39:17		107		-->		00:39:19		943		Good. Get it all out. 
+		456		00:39:47		054		-->		00:39:48		430		I had you. 
+		457		00:39:49		306		-->		00:39:50		724		Listen, Will. 
+		458		00:39:50		891		-->		00:39:55		854		You were too young to understand and I was too hurt to explain. 
+		459		00:39:56		021		-->		00:39:58		565		You were never too hurt for anything. 
+		460		00:39:58		732		-->		00:40:01		902		She was your mother, but she was my wife. 
+		461		00:40:02		069		-->		00:40:06		114		When she died, all that kept me going was you. 
+		462		00:40:06		615		-->		00:40:08		867		You had a strange way of showing it. 
+		463		00:40:09		034		-->		00:40:12		746		I thought we could talk this out, but maybe you're right. 
+		464		00:40:13		413		-->		00:40:16		708		Maybe I am no father, and you're no son. 
+		465		00:40:16		875		-->		00:40:19		545		And this fight is all we have left. 
+		466		00:40:44		611		-->		00:40:45		988		Wait! 
+		467		00:40:48		365		-->		00:40:49		491		What now? 
+		468		00:40:50		868		-->		00:40:52		911		- You can't do that. - What? 
+		469		00:40:53		662		-->		00:40:56		081		Hachidan kiritsu. It's illegal. 
+		470		00:40:57		124		-->		00:40:58		458		You're kidding? 
+		471		00:41:00		669		-->		00:41:04		506		All these years... That's why I never won. You were cheating. 
+		472		00:41:07		176		-->		00:41:11		430		It worked, didn't it? Kept you coming back for more. 
+		473		00:41:12		139		-->		00:41:15		893		Incredible. You cheated me. How'd you get away with it? 
+		474		00:41:16		059		-->		00:41:17		311		You were a kid. 
+		475		00:41:17		477		-->		00:41:22		941		I knew I couldn't take you, but I had to keep you interested. 
+		476		00:41:23		567		-->		00:41:26		236		- I always hated you for that. - Damn it. 
+		477		00:41:26		612		-->		00:41:30		824		You were barely out of diapers when she died! You hardly knew her. 
+		478		00:41:30		991		-->		00:41:32		075		I'd loved her. 
+		479		00:41:34		036		-->		00:41:36		038		You carried pain. So did I. 
+		480		00:41:36		747		-->		00:41:40		834		I should have explained this long ago, but it hurt too much. 
+		481		00:41:42		794		-->		00:41:48		133		Then the wall grew up between us. And, living together, it got bigger. 
+		482		00:41:50		093		-->		00:41:53		555		You know, ... it's funny. 
+		483		00:41:55		390		-->		00:42:00		646		I can talk to a roomful of admirals about anything in the galaxy, ... 
+		484		00:42:01		772		-->		00:42:05		984		..but I can't talk to you about how I feel. 
+		485		00:42:07		402		-->		00:42:08		987		How do you feel? 
+		486		00:42:12		074		-->		00:42:13		659		How do you think? 
+		487		00:42:15		744		-->		00:42:17		454		I love you, son. 
+		488		00:42:23		252		-->		00:42:27		130		- I'd better go back to the starbase. - I know. 
+		489		00:42:28		257		-->		00:42:29		842		I'm glad you came. 
+		490		00:42:35		931		-->		00:42:37		516		Be careful now, OK? 
+		491		00:42:47		651		-->		00:42:51		738		Montgomery's specialist and analytical team have beamed down. 
+		492		00:42:52		197		-->		00:42:55		534		What were the analytical team's findings? 
+		493		00:42:55		701		-->		00:43:00		622		They suggested reprogramming the system to correct read-out variables. 
+		494		00:43:00		789		-->		00:43:04		251		Precisely what Cmdr Data recommended, as I recall. 
+		495		00:43:07		254		-->		00:43:11		758		At least it gave Cmdr Riker the chance to consider his promotion. 
+		496		00:43:12		676		-->		00:43:17		681		Now that he's accepted, we can leave him at Starbase Montgomery. 
+		497		00:43:22		603		-->		00:43:24		646		- Number One. - Captain. 
+		498		00:43:25		981		-->		00:43:29		860		With your permission, I've decided to stay on the Enterprise. 
+		499		00:43:36		658		-->		00:43:39		786		- Granted. - Thank you, sir. 
+		500		00:43:42		497		-->		00:43:46		668		- Take us out of orbit, Ensign. - Breaking synchronous orbit, sir. 
+		501		00:43:46		835		-->		00:43:50		672		Set course for Beta Kupsic. That is still our destination? 
+		502		00:43:51		590		-->		00:43:53		634		Velocity, warp factor five. 
+		503		00:43:55		344		-->		00:43:57		346		Course and speed set, sir. 
+		504		00:43:58		764		-->		00:44:01		975		Any particular reason for this change of heart? 
+		505		00:44:02		726		-->		00:44:07		147		Self-interest. Right now, the best place for me to be is here. 
+		506		00:44:11		193		-->		00:44:12		569		Engage. 

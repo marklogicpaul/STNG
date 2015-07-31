@@ -1,0 +1,440 @@
+		1		00:00:03		212		-->		00:00:05		422		Looking good. I'll go five. 
+		2		00:00:06		423		-->		00:00:07		674		Five... here. 
+		3		00:00:07		841		-->		00:00:09		218		And five more. 
+		4		00:00:10		385		-->		00:00:14		598		I believe the wiser course of action here is to bend. 
+		5		00:00:15		307		-->		00:00:17		184		You mean fold, Data. 
+		6		00:00:17		351		-->		00:00:21		605		That is correct. Fold. To bend. To make compact or to capitulate. 
+		7		00:00:21		772		-->		00:00:23		357		I raise 50. 
+		8		00:00:26		151		-->		00:00:30		822		I do not believe Lt Worf understands all the nuances of betting. 
+		9		00:00:31		156		-->		00:00:34		535		I wouldn't judge. His pile's a lot bigger than yours. 
+		10		00:00:34		701		-->		00:00:36		119		Than any of ours. 
+		11		00:00:36		286		-->		00:00:40		374		The cards have favoured Lt Worf, but that is the result of chance, thus, a temporary situation. 
+		13		00:00:42		626		-->		00:00:46		505		- You hope. - Talk or play. Not both. 
+		14		00:00:49		842		-->		00:00:51		009		50, right? 
+		15		00:00:51		176		-->		00:00:55		472		50 is the bet. What's the matter? Your feet getting cold? 
+		16		00:00:55		848		-->		00:00:58		517		My cards are getting cold. Here you go. 
+		17		00:01:01		687		-->		00:01:04		773		I'm glad you stayed in. I need the chips. 
+		18		00:01:05		357		-->		00:01:07		276		Talk, talk, talk. 
+		19		00:01:07		442		-->		00:01:09		987		OK, here's the action. 
+		20		00:01:10		153		-->		00:01:13		323		50, ... and another 50. 
+		21		00:01:14		741		-->		00:01:16		326		Fold, fold, fold. 
+		22		00:01:17		661		-->		00:01:20		497		Your 50, and 50 more. 
+		23		00:01:21		832		-->		00:01:24		877		I'd love to play, but not with these cards. 
+		24		00:01:25		043		-->		00:01:27		337		Looks like it's just us, handsome. 
+		25		00:01:30		549		-->		00:01:31		550		I'll see you. 
+		26		00:01:44		563		-->		00:01:48		525		- Beats my straight. - The Iceman wins again. 
+		27		00:01:48		692		-->		00:01:51		904		You took my last chip. At least smile, Worf. 
+		28		00:01:52		070		-->		00:01:54		323		That would break his concentration. 
+		29		00:01:55		407		-->		00:01:56		366		Your deal. 
+		30		00:02:04		499		-->		00:02:06		710		The game is seven-card stud. 
+		31		00:02:06		877		-->		00:02:10		464		After the queen, one-eyed jacks and low card in the hole are wild. 
+		32		00:02:10		631		-->		00:02:12		424		Wait, let me write this down. 
+		33		00:02:27		898		-->		00:02:29		316		I open with 50. 
+		34		00:02:30		234		-->		00:02:32		027		Bridge to Cmdr Riker. 
+		35		00:02:32		194		-->		00:02:35		989		Receiving a class-11 emergency signal from Starfleet Command. 
+		36		00:02:36		156		-->		00:02:37		241		On my way. 
+		37		00:02:37		407		-->		00:02:39		117		50? You were bluffing. 
+		38		00:02:39		284		-->		00:02:42		454		- Klingons never bluff. - Yeah, right. 
+		39		00:02:54		967		-->		00:02:58		011		- Mr Data? - Emergency signal reads as follows. 
+		40		00:02:58		178		-->		00:03:03		934		"Enterprise to divert to coordinates 423 by 112 by 51 immediately." 
+		41		00:03:04		101		-->		00:03:08		230		- "Further orders to follow." - That's it? What's the emergency? 
+		42		00:03:08		397		-->		00:03:10		566		The message did not elaborate, sir. 
+		43		00:03:11		400		-->		00:03:12		985		Not even a hint. 
+		44		00:03:13		151		-->		00:03:15		362		- Course laid in. - Warp eight. 
+		45		00:03:15		529		-->		00:03:20		659		When Starfleet gets enigmatic, I know we're facing a challenge. Engage. 
+		46		00:03:42		514		-->		00:03:45		601		Space, the final frontier. 
+		47		00:03:47		311		-->		00:03:51		231		These are the voyages of the Starship Enterprise. 
+		48		00:03:51		398		-->		00:03:55		485		Its continuing mission, to explore strange new worlds,... 
+		49		00:03:57		321		-->		00:04:00		991		..to seek out new life and new civilizations,... 
+		50		00:04:01		909		-->		00:04:05		579		..to boldly go where no one has gone before. 
+		51		00:05:06		598		-->		00:05:09		601		Our destination is a point near the Boradis system. 
+		52		00:05:10		060		-->		00:05:12		729		That area was colonized recently as I recall. 
+		53		00:05:13		105		-->		00:05:17		568		The first Federation outpost was founded 34 years ago on Boradis III. 
+		54		00:05:17		734		-->		00:05:21		154		The Federation has since colonized several planets nearby. 
+		55		00:05:21		321		-->		00:05:23		448		Yet we are not headed for a colony. 
+		56		00:05:23		615		-->		00:05:26		076		The coordinates are outside the system. 
+		57		00:05:26		243		-->		00:05:29		288		- Any problems reported in that area? - None, sir. 
+		58		00:05:29		913		-->		00:05:31		456		What the devil is going on? 
+		59		00:05:31		623		-->		00:05:35		002		Captain, Starfleet Command is hailing us. 
+		60		00:05:36		044		-->		00:05:38		255		About time. On screen. 
+		61		00:05:39		756		-->		00:05:43		969		- Greetings, Capt Picard. - My compliments, Admiral Gromek. 
+		62		00:05:44		136		-->		00:05:49		308		You will soon be joined by a special emissary from Starbase 153. 
+		63		00:05:49		474		-->		00:05:52		144		We are now transmitting the specifics. 
+		64		00:05:53		562		-->		00:05:55		063		We are receiving, sir. 
+		65		00:05:56		064		-->		00:05:58		025		The rendezvous will be tricky, so you must reach the intercept point on schedule. 
+		67		00:06:01		945		-->		00:06:04		031		Understood. And the mission? 
+		68		00:06:04		198		-->		00:06:08		410		The envoy will fill you in. You are to cooperate fully. 
+		69		00:06:10		037		-->		00:06:12		789		- Can you give me any details? - Negative. 
+		70		00:06:15		542		-->		00:06:19		463		It's rather difficult to prepare for a mission I know nothing about. 
+		71		00:06:20		088		-->		00:06:24		801		I sympathize, but Starfleet Command considers this a top-security matter. 
+		72		00:06:25		344		-->		00:06:29		765		Once the envoy has briefed you, you should understand our caution. 
+		73		00:06:30		641		-->		00:06:31		600		Gromek out. 
+		74		00:06:37		564		-->		00:06:40		609		Data, what ship is transporting the envoy? 
+		75		00:06:40		776		-->		00:06:44		530		Apparently, there were no starships available on Starbase 153. 
+		76		00:06:44		696		-->		00:06:47		491		The envoy is aboard a class-8 probe. 
+		77		00:06:48		951		-->		00:06:52		204		A class-8 probe is just over two meters long. 
+		78		00:06:52		663		-->		00:06:54		790		Yes, that's true, Number One. 
+		79		00:06:55		916		-->		00:07:00		587		With transmitters and sensors removed and a life-support system installed, there would be room for one person. 
+		81		00:07:03		423		-->		00:07:05		634		And it can travel at warp nine. 
+		82		00:07:05		801		-->		00:07:08		887		By sending the probe to us, rather than diverting us, they are saving us 6.1 hours. 
+		84		00:07:11		723		-->		00:07:14		601		Starfleet must feel time is of the essence. 
+		85		00:07:14		768		-->		00:07:18		480		But to seal someone inside a class-8 probe and launch it... 
+		86		00:07:18		647		-->		00:07:21		441		What a way to transport a Federation dignitary. 
+		87		00:07:25		821		-->		00:07:28		490		Coming to 31, mark 113. 
+		88		00:07:29		157		-->		00:07:32		119		Our course is now parallel to the probe, sir. 
+		89		00:07:32		286		-->		00:07:34		580		Increase speed to warp 8.9. 
+		90		00:07:35		539		-->		00:07:36		957		8.9, aye. 
+		91		00:07:37		124		-->		00:07:40		294		- Full sensors aft. - Scanning. 
+		92		00:07:42		004		-->		00:07:46		175		Data, project our course beyond the rendezvous. What lies ahead? 
+		93		00:07:48		010		-->		00:07:49		970		From what I can tell, very little. 
+		94		00:07:50		137		-->		00:07:54		766		There are four colonies, and nine outposts throughout the sector. 
+		95		00:07:54		933		-->		00:08:00		689		I have it. Bearing 05, mark 231. Velocity, warp nine. 
+		96		00:08:01		815		-->		00:08:05		777		- I see it. - Adjust speed to intercept. 
+		97		00:08:12		910		-->		00:08:19		666		Probe is coming up to starboard. Range, 8200. Tractor beam ready. 
+		98		00:08:21		001		-->		00:08:24		796		- Mr La Forge? - Transporter ready, Captain. 
+		99		00:08:29		635		-->		00:08:32		221		Range now... 7500. 
+		100		00:08:33		305		-->		00:08:35		015		Steady as she goes. 
+		101		00:08:41		688		-->		00:08:45		359		- Probe is standing abeam. - Engage tractor beam. 
+		102		00:08:53		116		-->		00:08:56		495		- Transporter beam locked, Captain. - Energize. 
+		103		00:09:06		505		-->		00:09:09		633		- Probe aboard, Captain. - Acknowledged. Number One? 
+		104		00:09:09		800		-->		00:09:13		679		- I'll welcome our visitor. - Resume original course and speed. 
+		105		00:09:14		263		-->		00:09:15		681		Aye, sir. 
+		106		00:09:25		858		-->		00:09:27		442		All yours, Commander. 
+		107		00:09:51		717		-->		00:09:53		969		Something wrong, Doctor? 
+		108		00:09:54		136		-->		00:09:58		348		I'm not sure. The readings are quite interesting. 
+		109		00:10:06		315		-->		00:10:08		609		I greet you. I am K'Ehleyr. 
+		110		00:10:12		487		-->		00:10:13		530		You speak Klingon. 
+		111		00:10:13		697		-->		00:10:17		534		A little. I'm Cmdr Riker. This is Chief Medical Officer Pulaski. 
+		112		00:10:17		701		-->		00:10:19		995		I hope your trip wasn't too unpleasant. 
+		113		00:10:20		537		-->		00:10:25		375		Klingons do not mind hardship, but I am delighted I'm out of that coffin. 
+		114		00:10:25		542		-->		00:10:28		962		I don't blame you. It's not the most luxurious accommodation. 
+		115		00:10:29		129		-->		00:10:32		716		Whoever said "Getting there is half the fun" never rode in a probe. 
+		116		00:10:34		551		-->		00:10:39		765		How are you feeling? Your vital signs are atypical for a Klingon. 
+		117		00:10:40		516		-->		00:10:42		809		Because I am only half Klingon. 
+		118		00:10:44		645		-->		00:10:48		607		Yes. My father was Klingon. My mother was human. 
+		119		00:10:52		819		-->		00:10:58		075		Captain, allow me to present Special Federation Emissary K'Ehleyr. 
+		120		00:11:00		744		-->		00:11:03		163		Welcome aboard. I'm Jean-Luc Picard. 
+		121		00:11:05		457		-->		00:11:09		294		This is Counsellor Troi. Lt Cmdr Data. 
+		122		00:11:10		546		-->		00:11:12		631		- And this is Lt... - Worf. 
+		123		00:11:14		091		-->		00:11:18		303		So this is where you've been hiding. I told you we'd meet again. 
+		124		00:11:21		390		-->		00:11:25		143		- Aren't you going to greet me? - I have nothing to say to you. 
+		125		00:11:27		896		-->		00:11:30		190		Haven't changed a bit. 
+		126		00:11:32		484		-->		00:11:34		987		Well, I missed you, too. 
+		127		00:11:45		539		-->		00:11:49		334		Two days ago, Starbase 336 received an automated transmission from a Klingon ship, the T'Ong. 
+		129		00:11:52		171		-->		00:11:55		299		That ship was sent out over 75 years ago. 
+		130		00:11:55		716		-->		00:11:58		635		When the Federation and the Klingons were at war. 
+		131		00:11:59		970		-->		00:12:02		389		The message was to Klingon High Command. 
+		132		00:12:02		556		-->		00:12:07		436		It said that the ship was going home and was nearing its awakening point. 
+		133		00:12:08		520		-->		00:12:12		441		Suggesting that the crew were in cryogenic sleep for the journey. 
+		134		00:12:13		358		-->		00:12:15		569		- Exactly. - And when they're revived? 
+		135		00:12:16		236		-->		00:12:20		657		We'll have a ship full of Klingons who think the war's still going on. 
+		136		00:12:21		158		-->		00:12:26		205		So our task is to find the ship and tell them they're not at war? 
+		137		00:12:27		080		-->		00:12:29		791		Why us? Wouldn't a Klingon ship be better? 
+		138		00:12:30		417		-->		00:12:35		088		A Klingon ship, the P'Rang, is two days behind us. It may be too late. 
+		139		00:12:35		255		-->		00:12:36		340		Why too late? 
+		140		00:12:36		507		-->		00:12:40		636		The T'Ong crew will awaken near several Federation outposts. 
+		141		00:12:41		011		-->		00:12:44		223		There are 13 colonies in that sector. 
+		142		00:12:44		389		-->		00:12:47		351		Nice, ripe targets for a Klingon warship. 
+		143		00:12:47		518		-->		00:12:52		022		And you think you can convince them that humans are now their allies? 
+		144		00:12:52		439		-->		00:12:54		233		No, not a chance. 
+		145		00:12:55		651		-->		00:12:58		695		I think talking will be a waste of time. 
+		146		00:12:59		154		-->		00:13:02		491		Klingons of that era were raised to despise humans. 
+		147		00:13:03		575		-->		00:13:07		496		We'll try diplomacy, but I promise you it won't work. 
+		148		00:13:07		663		-->		00:13:09		623		Then you'll have to destroy them. 
+		149		00:13:13		877		-->		00:13:14		711		No. 
+		150		00:13:15		879		-->		00:13:21		218		No? Captain, these Klingons are killers. You'll have no choice. 
+		151		00:13:22		970		-->		00:13:24		972		We shall find another choice. 
+		152		00:13:25		138		-->		00:13:28		642		I want options before we encounter the Klingon ship. 
+		153		00:13:28		809		-->		00:13:32		771		Lieutenant, ... I'm assigning you to help the Emissary. 
+		154		00:13:37		150		-->		00:13:38		735		Dismissed. 
+		155		00:13:39		862		-->		00:13:42		531		I will escort you to the guest quarters. 
+		156		00:13:43		907		-->		00:13:45		409		Captain. 
+		157		00:13:53		166		-->		00:13:54		585		Lieutenant? 
+		158		00:13:58		422		-->		00:14:05		137		Sir, I suggest Cmdr Riker or Data can better serve the Special Emissary. 
+		159		00:14:06		972		-->		00:14:09		933		Any personal reasons you don't want the assignment? 
+		160		00:14:10		100		-->		00:14:11		435		Yes. 
+		161		00:14:13		187		-->		00:14:14		771		Any professional reasons? 
+		162		00:14:17		191		-->		00:14:18		233		No. 
+		163		00:14:23		030		-->		00:14:26		325		- I withdraw my request, Captain. - Good. 
+		164		00:14:34		833		-->		00:14:38		795		I didn't know humans and Klingons could produce children. 
+		165		00:14:38		962		-->		00:14:42		633		Actually, the DNA is compatible, with a fair amount of help. 
+		166		00:14:42		799		-->		00:14:44		343		Rather like my parents. 
+		167		00:14:44		510		-->		00:14:49		139		I know what you mean. My father was human and my mother is Betazoid. 
+		168		00:14:49		306		-->		00:14:53		727		Really? It was the other way round for me. My mother was human. 
+		169		00:14:53		894		-->		00:14:57		481		You must have grown up like me, trapped between cultures. 
+		170		00:14:57		648		-->		00:14:59		441		I never felt trapped. 
+		171		00:14:59		608		-->		00:15:05		489		I tried to experience the richness and diversity of the two worlds. 
+		172		00:15:05		656		-->		00:15:07		908		Perhaps you got the best of each. 
+		173		00:15:12		955		-->		00:15:15		999		Myself, I think I got the worst of each. 
+		174		00:15:16		166		-->		00:15:18		168		- I doubt that. - Yes. 
+		175		00:15:18		544		-->		00:15:21		463		Having my mother's sense of humour is bad enough. 
+		176		00:15:21		630		-->		00:15:23		966		It's gotten me into plenty of trouble. 
+		177		00:15:24		424		-->		00:15:25		884		And your Klingon side? 
+		178		00:15:27		678		-->		00:15:30		597		That I keep under tight control. 
+		179		00:15:30		764		-->		00:15:34		810		It's like a terrible temper, not something I want people to see. 
+		180		00:15:35		269		-->		00:15:38		647		- Everyone has tempers. - Not like mine. 
+		181		00:15:39		356		-->		00:15:44		695		Sometimes I feel there's a monster inside of me, fighting to get out. 
+		182		00:15:45		404		-->		00:15:46		697		And it frightens you? 
+		183		00:15:46		864		-->		00:15:52		619		Of course it does. My Klingon side can be... terrifying. 
+		184		00:15:53		579		-->		00:15:54		955		Even to me. 
+		185		00:15:55		122		-->		00:15:58		542		It gives you strength. It's a part of you. 
+		186		00:16:00		294		-->		00:16:02		880		That doesn't mean I have to like it. 
+		187		00:16:18		979		-->		00:16:20		564		You are late. 
+		188		00:16:21		440		-->		00:16:24		109		Sorry. Had to make myself beautiful. 
+		189		00:16:24		276		-->		00:16:26		486		I fail to understand why. 
+		190		00:16:28		363		-->		00:16:32		784		Worf, we're alone now. You don't have to act like a Klingon glacier. 
+		191		00:16:32		951		-->		00:16:34		536		I don't bite. 
+		192		00:16:34		703		-->		00:16:37		247		Well, that's wrong. I do bite. 
+		193		00:16:41		084		-->		00:16:43		003		Shall we proceed with our duties? 
+		194		00:16:43		795		-->		00:16:48		300		You weren't this aloof six years ago. Or don't you remember? 
+		195		00:16:48		467		-->		00:16:50		469		Nothing is wrong with my memory. 
+		196		00:16:50		636		-->		00:16:54		014		Something is wrong with you. You're not even looking at me. 
+		197		00:16:54		181		-->		00:16:56		308		I am familiar with your appearance. 
+		198		00:17:06		944		-->		00:17:10		447		And it gives you no pleasure to see me again. 
+		199		00:17:14		034		-->		00:17:18		038		It isn't as if we tried it and it didn't work, you know. 
+		200		00:17:18		205		-->		00:17:20		374		You never gave it a chance. 
+		201		00:17:22		376		-->		00:17:23		710		I never? 
+		202		00:17:25		295		-->		00:17:27		589		I mean, as I see it, we have some... 
+		204		00:17:31		760		-->		00:17:35		305		..unfinished business, you and I. 
+		205		00:17:39		685		-->		00:17:41		979		Not as far as I'm concerned. 
+		206		00:17:52		823		-->		00:17:57		327		According to the library computer, the Captain of the T'Ong is K'Temoc. 
+		207		00:17:57		494		-->		00:17:59		955		There is nothing on the ship's mission. 
+		208		00:18:00		122		-->		00:18:03		333		Probably some secret military objective. 
+		209		00:18:04		084		-->		00:18:07		713		Perhaps. But we have no evidence of that. 
+		210		00:18:08		338		-->		00:18:11		550		Why else would there be no record of the mission? 
+		211		00:18:12		217		-->		00:18:14		803		The records may simply have been lost. 
+		212		00:18:14		970		-->		00:18:20		684		What does it matter? Our concern is the present, the possible threat. 
+		213		00:18:21		143		-->		00:18:24		146		To contend with that threat, we need information. 
+		214		00:18:24		313		-->		00:18:27		399		We have all the information we need. 
+		215		00:18:29		318		-->		00:18:33		947		That is foolish. Knowing their mission may help us understand them. 
+		216		00:18:34		114		-->		00:18:39		203		There is nothing to understand. These are Klingons. They'll attack. 
+		217		00:18:39		369		-->		00:18:45		501		In their minds, we're the enemy, and we can't talk them out of that. 
+		218		00:18:47		669		-->		00:18:51		048		And I do not appreciate being interrupted. 
+		219		00:18:51		215		-->		00:18:54		343		And I do not appreciate wasting my time! 
+		220		00:18:54		510		-->		00:18:56		678		We were instructed to find options. 
+		221		00:18:56		845		-->		00:18:59		890		There aren't any. The assignment's hopeless. 
+		222		00:19:00		057		-->		00:19:03		810		- There are always options. - Are there? 
+		223		00:19:03		977		-->		00:19:09		900		Tell me, whatever happened to that wonderful Klingon fatalism of yours? 
+		224		00:19:10		776		-->		00:19:13		612		My experiences aboard this ship have taught me most problems have more than one solution. 
+		226		00:19:17		157		-->		00:19:22		913		Starfleet hasn't improved you one bit. You're as stubborn as ever. 
+		227		00:19:24		081		-->		00:19:27		960		Are you going to carry out your duties, or aren't you? 
+		228		00:19:28		126		-->		00:19:30		337		Alright. I will. 
+		229		00:19:31		463		-->		00:19:33		799		Upon due consideration of the problem and careful examination of all possible options,  my original recommendation stands. 
+		232		00:19:45		143		-->		00:19:47		020		Meeting adjourned! 
+		233		00:20:29		855		-->		00:20:31		231		Come. 
+		234		00:20:39		781		-->		00:20:41		617		You're upset. 
+		235		00:20:41		783		-->		00:20:44		912		Your finely honed Betazoid sense tell you that? 
+		236		00:20:45		078		-->		00:20:48		040		Well, that and the table. 
+		237		00:20:51		752		-->		00:20:54		463		I warned you about my Klingon half. 
+		238		00:20:56		131		-->		00:20:57		966		May I make a suggestion? 
+		239		00:20:58		634		-->		00:21:02		971		I thank you, Counsellor, but I don't want any counselling. 
+		240		00:21:03		430		-->		00:21:05		807		I was going to suggest something else. 
+		241		00:21:07		684		-->		00:21:10		687		I find the exercise programs on the holodeck rigorous enough to take my mind off most frustrations. 
+		243		00:21:15		526		-->		00:21:18		403		And it'll keep me from wrecking the ship. 
+		244		00:21:19		321		-->		00:21:20		697		That, too. 
+		245		00:21:28		038		-->		00:21:31		792		- Enter program. - Show me the exercise menu. 
+		246		00:21:34		127		-->		00:21:35		796		Hold. 
+		247		00:21:35		963		-->		00:21:39		091		Callisthenics program of Lt Worf. 
+		248		00:21:40		133		-->		00:21:43		595		Program complete. You may enter when ready. 
+		249		00:22:10		789		-->		00:22:12		165		Status, Mr Data? 
+		250		00:22:12		332		-->		00:22:15		085		Based on the last position of the Klingon ship, its trajectory and estimates of its speed,  we should be within scanner range in 15 hours, eight minutes. 
+		253		00:22:29		099		-->		00:22:30		726		Lieutenant? 
+		254		00:22:32		352		-->		00:22:38		150		Special Emissary K'Ehleyr has... declared a short recess, sir. 
+		255		00:22:38		734		-->		00:22:41		945		I wish to run a test on tactical backup equipment. 
+		256		00:22:42		362		-->		00:22:46		658		- We just tested all those systems. - I wish to check them again. 
+		257		00:22:48		952		-->		00:22:50		329		Lieutenant. 
+		258		00:22:56		460		-->		00:22:58		378		I commend your diligence. 
+		259		00:22:58		545		-->		00:23:02		216		However, I'm concerned that you're working yourself too hard. 
+		260		00:23:02		382		-->		00:23:04		718		Sir, given the unknowns we will face... 
+		261		00:23:04		885		-->		00:23:08		889		- Lieutenant, I order you to relax. - I am relaxed. 
+		262		00:23:13		143		-->		00:23:14		520		Yes, sir. 
+		263		00:23:26		281		-->		00:23:29		660		I've never before seen the Lieutenant so... unsettled. 
+		264		00:23:29		826		-->		00:23:31		828		The Iceman's finally melting. 
+		265		00:24:51		575		-->		00:24:53		327		Not much of a program. 
+		266		00:25:13		055		-->		00:25:14		431		Computer, ... 
+		267		00:25:16		725		-->		00:25:18		101		..level two. 
+		268		00:27:31		944		-->		00:27:35		447		Some callisthenics programs are better than others. 
+		269		00:27:36		073		-->		00:27:37		783		You still can make jokes. 
+		270		00:27:39		576		-->		00:27:45		249		- You don't like a sense of humour? - I did not say that. 
+		271		00:27:46		750		-->		00:27:53		966		Worf, you're the perfect Klingon. The ultimate minimalist. Talk to me. 
+		272		00:27:58		011		-->		00:28:02		099		I've noted that some people use humour as a shield. 
+		273		00:28:03		225		-->		00:28:06		186		They talk much, yet say little. 
+		274		00:28:08		397		-->		00:28:12		109		Whereas others take a simpler approach. 
+		275		00:28:13		235		-->		00:28:15		028		Say nothing. 
+		276		00:28:17		197		-->		00:28:19		700		When one does not have the words. 
+		277		00:28:19		867		-->		00:28:22		327		Or is loath to speak them. 
+		278		00:28:28		250		-->		00:28:30		836		Why didn't we do this six years ago? 
+		279		00:28:31		795		-->		00:28:34		631		- We were not ready. - I was. 
+		280		00:28:36		383		-->		00:28:41		555		No. We were both too young, too... unaware. 
+		281		00:28:44		183		-->		00:28:46		393		We lacked commitment. 
+		282		00:28:47		853		-->		00:28:50		355		Perhaps we lacked courage as well. 
+		283		00:28:54		109		-->		00:28:55		694		No longer. 
+		284		00:29:02		034		-->		00:29:04		203		Wait. You can't mean... 
+		285		00:29:04		369		-->		00:29:05		746		We are mated. 
+		286		00:29:06		622		-->		00:29:10		083		Yes, I know. I was there. But... 
+		287		00:29:10		250		-->		00:29:12		961		Now we must solemnize our union with the oath. 
+		288		00:29:13		504		-->		00:29:16		340		I am not going to become your wife. 
+		289		00:29:16		507		-->		00:29:18		008		You already are. 
+		290		00:29:18		175		-->		00:29:21		220		Don't give me that Klingon nonsense. 
+		291		00:29:22		262		-->		00:29:25		432		You would dishonour our sacred traditions? 
+		292		00:29:26		016		-->		00:29:28		310		They're not sacred. They're absurd. 
+		293		00:29:28		894		-->		00:29:33		232		Marrying you is out of the question for a million reasons. 
+		294		00:29:33		398		-->		00:29:35		234		They didn't stop you earlier. 
+		295		00:29:35		692		-->		00:29:40		656		Worf, it was what it was, glorious and wonderful, and all that. 
+		296		00:29:40		822		-->		00:29:44		076		But it doesn't mean anything. 
+		297		00:29:46		036		-->		00:29:48		539		That is a human attitude. 
+		298		00:29:48		705		-->		00:29:51		792		- I am human! - You are also Klingon. 
+		299		00:29:52		501		-->		00:29:54		878		So that means we should bond for life? 
+		300		00:29:55		337		-->		00:29:57		172		It is our way. 
+		301		00:29:58		215		-->		00:30:01		260		Yours. Not mine. 
+		302		00:30:14		606		-->		00:30:17		150		I will not take the oath. 
+		303		00:30:18		777		-->		00:30:21		446		Then this night had no meaning. 
+		304		00:30:21		572		-->		00:30:24		992		And that... I will not believe. 
+		305		00:30:25		951		-->		00:30:27		494		Believe what you will. 
+		306		00:30:40		883		-->		00:30:43		927		- Approaching the coordinates. - Slow to impulse. 
+		307		00:30:44		428		-->		00:30:47		097		Short- and long-range sensor scans negative. 
+		308		00:30:47		222		-->		00:30:49		141		Lay in a standard search pattern. 
+		309		00:30:49		308		-->		00:30:52		853		- Search pattern laid in. - Full impulse. Engage. 
+		310		00:30:53		687		-->		00:30:56		356		I hope we find them before they end their nap. 
+		311		00:30:56		523		-->		00:30:57		608		Agreed. 
+		312		00:30:57		774		-->		00:31:01		862		No outpost in this area could defend itself from a Klingon warship. 
+		313		00:31:09		036		-->		00:31:13		540		I'm working on our assignment, trying a few computer simulations. 
+		314		00:31:14		458		-->		00:31:17		961		Your devotion to duty is commendable... if belated. 
+		315		00:31:24		051		-->		00:31:26		136		Unwilling to be alone with me? 
+		316		00:31:28		013		-->		00:31:31		517		I asked Cmdr Data to help us analyze the alternatives. 
+		317		00:31:33		227		-->		00:31:35		729		An android chaperon. 
+		318		00:31:37		981		-->		00:31:40		400		Android, of course, is correct. But... 
+		319		00:31:40		567		-->		00:31:44		446		..I fail to see how chaperon is applicable here. 
+		320		00:31:45		822		-->		00:31:47		407		Never mind. 
+		321		00:31:48		659		-->		00:31:50		661		I guess I can't blame you. 
+		322		00:31:53		455		-->		00:31:59		253		Tell me one thing. You'd have gone through with the oath, wouldn't you? 
+		323		00:32:00		128		-->		00:32:05		092		Regardless of the consequences to our careers, to our lives. 
+		324		00:32:07		219		-->		00:32:09		221		Honour demanded no less. 
+		325		00:32:09		930		-->		00:32:15		269		What do you want? Is honour all you care about? 
+		326		00:32:15		435		-->		00:32:17		938		Don't you feel anything else? 
+		327		00:32:20		774		-->		00:32:22		568		No comment? 
+		328		00:32:25		779		-->		00:32:30		701		Poor android. Whose behaviour do you find more perplexing? 
+		329		00:32:31		702		-->		00:32:35		497		Human... or Klingon? 
+		330		00:32:39		543		-->		00:32:44		006		At the moment, I would find it difficult to choose. 
+		331		00:32:45		090		-->		00:32:46		675		So would I. 
+		332		00:32:48		719		-->		00:32:53		557		OK, when we locate the T'Ong, there are two possibilities. First... 
+		333		00:32:53		724		-->		00:32:57		311		We find the ship before it reaches the awakening point and simply keep them asleep. 
+		335		00:33:00		063		-->		00:33:04		276		- Is that feasible? - We can override their controls. 
+		336		00:33:04		443		-->		00:33:08		030		That way we await the arrival of the Klingon ship P'Rang. 
+		337		00:33:08		947		-->		00:33:13		076		So when the T'Ong's crew awakens, they are surrounded by Klingons. 
+		338		00:33:13		452		-->		00:33:17		414		- That would be ideal. - But there's the second possibility. 
+		339		00:33:17		581		-->		00:33:20		709		That the crew of the T'Ong has already revived. 
+		340		00:33:21		043		-->		00:33:24		838		They see this is Federation territory and attack an outpost. 
+		341		00:33:25		005		-->		00:33:27		132		Theirs could be a scientific voyage. 
+		342		00:33:27		299		-->		00:33:31		470		Klingons of that era doing research for its own sake? 
+		343		00:33:31		887		-->		00:33:36		266		- But they may be reasonable. - That point is beside the point. 
+		344		00:33:36		433		-->		00:33:39		394		These are Klingons, at war with us. 
+		345		00:33:39		561		-->		00:33:44		191		Whatever their mission, once they see a Federation target, they'll attack. 
+		346		00:33:46		151		-->		00:33:48		695		Can they be disabled rather than destroyed? 
+		347		00:33:49		196		-->		00:33:52		783		We could knock out their engines without damaging the ship. 
+		348		00:33:52		950		-->		00:33:56		828		No use. Disable the ship and K'Temoc will destroy it himself. 
+		349		00:33:57		371		-->		00:34:00		040		Klingons do not surrender. 
+		350		00:34:01		708		-->		00:34:06		296		If we don't reach it before they wake up, you have no alternatives. 
+		351		00:34:06		463		-->		00:34:08		298		I can't accept that. 
+		352		00:34:11		510		-->		00:34:14		763		There must be some way to make the Klingons listen. 
+		353		00:34:14		930		-->		00:34:18		141		- If we convince them... - Captain, we've detected a ship. 
+		354		00:34:18		308		-->		00:34:20		561		Bearing 316, mark 42. 
+		355		00:34:20		727		-->		00:34:22		229		Extreme sensor range. 
+		356		00:34:22		396		-->		00:34:24		982		Lay in intercept course. Go to yellow alert. 
+		357		00:34:34		408		-->		00:34:35		951		Shields are up. 
+		358		00:34:36		118		-->		00:34:39		079		Better lock in phasers. It may be your only chance. 
+		359		00:34:39		246		-->		00:34:40		747		Intercept course laid in. 
+		360		00:34:40		914		-->		00:34:43		584		Hold position. Let's see if they've spotted us. 
+		361		00:34:46		920		-->		00:34:48		839		Magnification, 100. 
+		362		00:34:53		093		-->		00:34:54		553		Mr Data? 
+		363		00:34:54		720		-->		00:34:58		640		Life forms are aboard. Unable to ascertain whether they are awake. 
+		364		00:34:59		099		-->		00:35:04		021		Their propulsion is inactive, so I hypothesize that they are asleep. 
+		365		00:35:06		148		-->		00:35:08		150		However, I could be in error. 
+		366		00:35:09		568		-->		00:35:11		403		Shields holding. 
+		367		00:35:14		907		-->		00:35:16		909		They've cloaked themselves. 
+		368		00:35:18		869		-->		00:35:22		122		Well, Captain, you've had your chance. 
+		369		00:35:33		258		-->		00:35:36		386		Transferring Engineering to the bridge. 
+		370		00:35:37		429		-->		00:35:38		555		Can you find them? 
+		371		00:35:40		557		-->		00:35:43		644		I think so. Those old shields weren't too efficient at blocking gamma-ray output. 
+		373		00:35:46		021		-->		00:35:49		441		If I can tune the sensors to a particular band... 
+		374		00:35:49		608		-->		00:35:53		278		There, got 'em. Transferring coordinates to helm. 
+		375		00:35:53		487		-->		00:35:56		823		- Intercept. Warp two. - Warp two, sir. 
+		376		00:35:56		990		-->		00:36:00		911		Let them die like Klingons, in battle. They deserve that much. 
+		377		00:36:13		298		-->		00:36:15		092		Captain. 
+		378		00:36:16		009		-->		00:36:17		719		I have another option. 
+		379		00:36:20		389		-->		00:36:23		767		Captain's log, stardate <stardate>42901</stardate>.3. 
+		380		00:36:23		934		-->		00:36:28		146		Despite their cloaking shields, we have located the Klingon vessel. 
+		381		00:36:28		313		-->		00:36:32		317		In an effort to avoid confrontation, we plan to implement the option presented by Lt Worf. 
+		383		00:36:34		486		-->		00:36:40		033		The T'Ong has changed course to 32, mark 81 . Increasing to warp three. 
+		384		00:36:40		742		-->		00:36:43		495		- Standard evasive manoeuvre. - Stay with them. 
+		385		00:36:43		662		-->		00:36:45		539		Yes, sir. 
+		386		00:36:45		706		-->		00:36:51		086		The T'Ong is now on a heading of 42, mark 113, accelerating to warp five. 
+		387		00:36:51		753		-->		00:36:55		048		- They're making a break for it. - Overtake, warp eight. 
+		388		00:36:55		674		-->		00:36:57		009		Aye. 
+		389		00:36:57		176		-->		00:37:02		639		Put us right in their path. Come to a full stop. Full power to shields. 
+		390		00:37:12		941		-->		00:37:17		237		We've thrown down the gauntlet. Let's see if they pick it up. 
+		391		00:37:18		071		-->		00:37:19		740		Slowing to impulse, sir. 
+		392		00:37:24		453		-->		00:37:29		041		Phaser hit on forward shields. Brimming up now. No damage. 
+		393		00:37:29		541		-->		00:37:32		753		I guess we've piqued their interest now. 
+		394		00:37:32		920		-->		00:37:34		671		Agreed. 
+		395		00:37:35		172		-->		00:37:39		843		Give them a chance to look their enemy in the face. Ready, Lieutenant. 
+		396		00:37:43		388		-->		00:37:46		266		- Open hailing frequencies. - Open, sir. 
+		397		00:37:49		144		-->		00:37:52		397		What... ? What is this? 
+		398		00:37:53		565		-->		00:37:57		694		Captain K'Temoc, have you lost your mind? 
+		399		00:37:57		861		-->		00:38:00		447		Halt your vessel and drop your shields! 
+		400		00:38:00		781		-->		00:38:03		992		What treachery is this? By whose authority? 
+		401		00:38:04		159		-->		00:38:06		870		I am Worf, commanding the Enterprise. 
+		402		00:38:07		037		-->		00:38:11		375		And it is you who have committed treason by firing on this vessel. 
+		403		00:38:11		542		-->		00:38:15		462		I have standing orders to fire on all Federation ships. 
+		404		00:38:16		213		-->		00:38:17		714		You fool! 
+		405		00:38:18		632		-->		00:38:22		261		Did it not occur to you that the war would be over by now? 
+		406		00:38:22		427		-->		00:38:26		890		- I have no proof of that. - Trust your eyes. 
+		407		00:38:28		058		-->		00:38:31		562		Or is your brain still stuck in its long slumber? 
+		408		00:38:33		230		-->		00:38:37		901		How do I know this is no Federation trick? How can I be sure? 
+		409		00:38:42		406		-->		00:38:48		078		Captain, as you are new to this century, I have tried to be patient. 
+		410		00:38:48		245		-->		00:38:51		623		But I will tolerate no further insubordination. 
+		411		00:38:51		790		-->		00:38:56		295		- Drop your shields immediately. - And if I refuse? 
+		412		00:39:00		340		-->		00:39:05		137		Then die in ignorance. I can waste no more time on you. 
+		413		00:39:09		266		-->		00:39:10		767		Phasers to full power. 
+		414		00:39:10		934		-->		00:39:14		021		Aye, sir. Phasers ready. Target locked. 
+		415		00:39:17		316		-->		00:39:19		860		You dare not destroy us. 
+		416		00:39:20		777		-->		00:39:24		114		We are on a crucial mission for Klingon High Command. 
+		417		00:39:25		365		-->		00:39:27		576		Has the T'Ong dropped its shields? 
+		418		00:39:27		743		-->		00:39:29		453		No, sir. 
+		419		00:39:29		620		-->		00:39:32		456		Very well. Fire all phasers. 
+		420		00:39:33		665		-->		00:39:34		791		Wait! 
+		421		00:39:45		469		-->		00:39:47		596		Lower the shields. 
+		422		00:39:48		805		-->		00:39:52		601		I yield command of the T'Ong to you, Capt Worf. 
+		423		00:39:54		770		-->		00:39:57		731		Long live the Klingon Empire. 
+		424		00:39:57		898		-->		00:40:00		317		A wise decision, Captain. 
+		425		00:40:07		699		-->		00:40:10		244		Cmdr K'Ehleyr will board and take command. 
+		426		00:40:10		410		-->		00:40:14		289		The Klingon cruiser P'Rang will soon arrive and escort you home. 
+		427		00:40:16		250		-->		00:40:19		169		- And Captain... - Yes? 
+		428		00:40:19		336		-->		00:40:22		005		Welcome to the 24th century. 
+		429		00:40:35		018		-->		00:40:37		271		I return command to you, Captain. 
+		430		00:40:37		437		-->		00:40:39		773		Thank you, Lieutenant. Congratulations. 
+		431		00:40:41		066		-->		00:40:43		902		A very fine first command. Well done. 
+		432		00:40:49		658		-->		00:40:52		035		How did you like command? 
+		433		00:40:54		413		-->		00:40:56		039		Comfortable chair. 
+		434		00:41:01		086		-->		00:41:03		088		And you wore it well. 
+		435		00:41:15		058		-->		00:41:17		269		One to beam aboard the T'Ong. 
+		436		00:41:18		604		-->		00:41:19		563		All set. 
+		437		00:41:20		272		-->		00:41:21		648		I relieve you. 
+		438		00:41:23		108		-->		00:41:24		776		Yes, Lieutenant. 
+		439		00:41:30		490		-->		00:41:33		911		The Klingon P'Rang will rendezvous with you in three days. 
+		440		00:41:34		328		-->		00:41:39		750		And I'll begin the assimilation of these Klingons to our era. 
+		441		00:41:50		260		-->		00:41:52		346		Is there anything else you require? 
+		442		00:41:54		556		-->		00:41:57		976		No. Nothing else. 
+		443		00:42:09		321		-->		00:42:11		031		Damn you, Worf. 
+		444		00:42:12		282		-->		00:42:15		911		You'd let me go without saying another word, wouldn't you? 
+		445		00:42:19		206		-->		00:42:20		999		What needs to be said? 
+		446		00:42:22		626		-->		00:42:29		591		Nothing. Everything. We're about to go our separate ways again. 
+		447		00:42:29		758		-->		00:42:31		677		And that disturbs you? 
+		448		00:42:36		056		-->		00:42:40		644		I hid the truth from you. Last night did have meaning. 
+		449		00:42:49		736		-->		00:42:55		158		I was tempted to take the oath with you. But it scared me. 
+		450		00:42:56		785		-->		00:43:00		414		I've never had such strong feelings toward anyone. 
+		451		00:43:12		676		-->		00:43:14		261		Nor have I. 
+		452		00:43:15		721		-->		00:43:18		599		Then it was more than just a point of honour. 
+		453		00:43:23		103		-->		00:43:26		982		Maybe someday, when our paths cross again, ... 
+		454		00:43:29		026		-->		00:43:31		862		..I won't be so easy to get rid of. 
+		455		00:44:14		196		-->		00:44:17		449		I will not be complete... without you. 

@@ -1,0 +1,471 @@
+		1		00:00:37		996		-->		00:00:40		831		Captain, we have arrived at Tanuga IV. 
+		2		00:00:40		958		-->		00:00:45		335		The away team has completed its survey of Dr Apgar's work. 
+		3		00:00:46		296		-->		00:00:47		956		Good. 
+		4		00:00:50		551		-->		00:00:55		925		Please. And feel free to examine the work of the other students, too. 
+		5		00:01:04		273		-->		00:01:09		231		Ensign Williams' style is influenced by geometric constructivism. 
+		6		00:01:17		661		-->		00:01:21		493		Lt Wright has fused the incongruities of the surrealists with the irrationality of Dadaism. 
+		8		00:01:36		597		-->		00:01:38		305		Interesting. 
+		9		00:01:39		141		-->		00:01:42		474		Thank you. In what way? 
+		10		00:01:44		688		-->		00:01:48		852		While suggesting the free treatment of form attributed to Fauvism, this quite inappropriately attempts to juxtapose  the disparate cubistic styles of Picasso and Léger. 
+		13		00:01:55		949		-->		00:01:58		571		In addition, the use of colour suggests a... haphazard mélange of clashing styles. 
+		15		00:02:01		747		-->		00:02:07		121		- And the unsettling overtones... - Thank you, Mr. Data! 
+		16		00:02:07		252		-->		00:02:11		879		- If I can further assist... - No! Thank you. 
+		17		00:02:19		097		-->		00:02:23		095		Captain's log, stardate <stardate>43610</stardate>.4. 
+		18		00:02:23		227		-->		00:02:27		271		After making a delivery of dicosilium to the Tanuga IV research station, our away team has received an update from Dr Nel Apgar on his efforts  to make Krieger waves, a potentially valuable new power source. 
+		21		00:02:36		198		-->		00:02:38		190		Welcome back, Mr. La Forge. 
+		22		00:02:38		325		-->		00:02:40		614		- Thank you, sir. - Where's Cmdr Riker? 
+		23		00:02:40		744		-->		00:02:45		287		He's still down on the station, sir. Dr Apgar wanted a word with him. 
+		24		00:02:46		583		-->		00:02:48		375		Any problems? 
+		25		00:02:48		502		-->		00:02:51		207		Not with the scientific part of the mission, no. 
+		26		00:02:51		338		-->		00:02:54		541		Riker to Enterprise. I'm ready to leave. Now. 
+		27		00:02:54		675		-->		00:02:57		592		I'm sure Cmdr Riker will be able to explain. 
+		28		00:02:57		719		-->		00:03:01		053		Stand by, Commander. Engaging transport. 
+		29		00:03:05		352		-->		00:03:08		555		Transporter room to Engineering, I have a power drain. 
+		30		00:03:19		449		-->		00:03:21		822		Transporter room! Is Cmdr Riker aboard? 
+		31		00:03:21		952		-->		00:03:25		700		Not yet, Captain. I'm having trouble clearing the signal. 
+		32		00:03:35		132		-->		00:03:37		967		Transporter room to bridge. He's aboard. 
+		33		00:03:42		222		-->		00:03:44		096		Why do you sound so surprised? 
+		34		00:03:44		224		-->		00:03:47		059		We weren't sure you left the space station in time. 
+		35		00:03:47		186		-->		00:03:50		140		- In time for what? - It just exploded, sir. 
+		36		00:05:48		556		-->		00:05:51		676		Captain's log, supplemental. Cmdr Riker has informed me that Dr Apgar was the only one aboard the space station when it exploded. 
+		38		00:05:56		564		-->		00:06:00		312		We remain in orbit, investigating the accident. 
+		39		00:06:01		652		-->		00:06:03		312		I've checked the whole system. 
+		40		00:06:03		446		-->		00:06:06		316		I can't find any transporter malfunction 
+		41		00:06:06		449		-->		00:06:10		493		- to cause an explosion like that. - Why the power drain beforehand? 
+		42		00:06:10		620		-->		00:06:12		244		I don't know, sir. 
+		43		00:06:12		371		-->		00:06:16		784		I shall want an answer to that. I'm sure the Tanugans will too. 
+		44		00:06:16		918		-->		00:06:21		876		The radiation suggests an overload of the reactor core. 
+		45		00:06:23		674		-->		00:06:26		794		Were there any indications of reactor core problems? 
+		46		00:06:26		928		-->		00:06:29		335		- No, sir. - Number One? 
+		47		00:06:32		767		-->		00:06:39		185		Mr. La Forge indicated that this was not an entirely routine mission. 
+		48		00:06:39		315		-->		00:06:43		644		It's a long story, but I'm sure it has nothing to do with this accident. 
+		49		00:06:43		778		-->		00:06:46		316		Chief Investigator Krag of Tanugan security requests permission to beam aboard. 
+		51		00:06:49		242		-->		00:06:52		492		- Granted. Escort him to the bridge. - Aye, sir. 
+		52		00:06:56		707		-->		00:07:01		120		You had better tell me as much as possible prior to his arrival. 
+		53		00:07:14		392		-->		00:07:18		555		I'm Lt Worf, head of ship's security. I will take you to the captain. 
+		54		00:07:28		739		-->		00:07:30		399		Chief Investigator, welcome. 
+		55		00:07:30		533		-->		00:07:35		574		I'm Capt Picard. This is my first officer, Cmdr William Riker. 
+		56		00:07:36		956		-->		00:07:40		621		Cmdr Riker, I am here to take you into custody. 
+		57		00:07:40		751		-->		00:07:44		251		- Custody? On what charge? - Suspicion of murder. 
+		58		00:07:44		797		-->		00:07:49		792		- Wait a minute. You can't come on... - We are willing to cooperate, but... 
+		59		00:07:49		927		-->		00:07:53		545		Then release the prisoner for transportation to the planet. 
+		60		00:07:56		976		-->		00:08:00		179		Let's continue this discussion in private. 
+		61		00:08:01		314		-->		00:08:04		848		Number One... you have the bridge. 
+		62		00:08:27		506		-->		00:08:29		998		Just what is the evidence against my officer? 
+		63		00:08:30		134		-->		00:08:34		511		Two witnesses have described the commander's threats against Dr Apgar. 
+		64		00:08:34		639		-->		00:08:38		719		Threats? I'm aware they had a private conversation. 
+		65		00:08:38		851		-->		00:08:42		137		Apparently, it was much more than a private conversation. 
+		66		00:08:42		271		-->		00:08:45		557		But he will be given a chance to prove his innocence. 
+		67		00:08:45		691		-->		00:08:51		611		In our system of jurisprudence a man is innocent until proved guilty. 
+		68		00:08:51		739		-->		00:08:54		823		In ours he is guilty until proved innocent and you are under our jurisdiction. 
+		70		00:08:58		287		-->		00:09:01		407		If I understand Federation regulations on this, and I did look them up... 
+		72		00:09:03		376		-->		00:09:06		709		I am aware of Federation regulations, sir. 
+		73		00:09:06		837		-->		00:09:12		543		In them you will find the captain decides if extradition's warranted. 
+		74		00:09:12		677		-->		00:09:15		880		- Are you saying it is not? - I am saying, if there is sufficient cause to warrant a trial 
+		76		00:09:19		058		-->		00:09:22		178		I will release my officer into your custody. 
+		77		00:09:23		312		-->		00:09:26		099		Would you say you are close to your first officer? 
+		78		00:09:26		232		-->		00:09:31		024		- That question is irrelevant. - Really! You cannot believe that. 
+		79		00:09:31		153		-->		00:09:34		653		How can I expect a fair and impartial decision? 
+		80		00:09:34		782		-->		00:09:37		024		I must protect the rights of my officer. 
+		81		00:09:37		159		-->		00:09:43		079		I can appreciate that. But you will do it on the planet, not here. 
+		82		00:09:44		917		-->		00:09:48		749		After all, what if you were to decide to leave this star system? 
+		83		00:09:50		214		-->		00:09:53		334		You have my word as a Starfleet officer that I will not. 
+		84		00:09:55		469		-->		00:09:57		296		Unacceptable. 
+		85		00:09:57		430		-->		00:10:01		095		Captain, you will turn him over to me for interrogation now! 
+		86		00:10:04		061		-->		00:10:10		680		- Interrogate him here. - We must recreate, step by step, all the events leading to the explosion. 
+		88		00:10:13		362		-->		00:10:15		770		We will require access to all the witnesses, as well as the data from the lab's ground computers. 
+		90		00:10:19		785		-->		00:10:23		830		It would be impossible to accomplish here. 
+		91		00:10:23		956		-->		00:10:27		372		Perhaps not. Mr. Data, will you report to my ready room? 
+		92		00:10:27		501		-->		00:10:28		830		Aye, sir. 
+		93		00:10:28		961		-->		00:10:32		377		We may be able to assist you in recreating these events. 
+		94		00:10:35		718		-->		00:10:38		339		Cmdr Data, this is Chief Inspector Krag. 
+		95		00:10:39		722		-->		00:10:42		213		By taking testimony from the away team and from witnesses provided by the investigator,  could you program the holodeck to recreate events on the station? 
+		98		00:10:52		068		-->		00:10:55		234		It would require construction and design specifications, full representations of the Krieger equipment,  as well as visual images and voice analyses of the persons involved. 
+		101		00:11:02		954		-->		00:11:05		195		But it is possible. 
+		102		00:11:07		583		-->		00:11:09		659		Very well. 
+		103		00:11:09		794		-->		00:11:14		372		Arrangements will be made to provide you with all available information. 
+		104		00:11:14		507		-->		00:11:17		792		I shall return shortly with our witnesses. 
+		105		00:11:17		927		-->		00:11:21		972		Commander, escort Investigator Krag to transporter room three. 
+		106		00:11:36		362		-->		00:11:39		446		Ensign Crusher, Mr. La Forge, we are going to recreate the research station on the holodeck. 
+		108		00:11:43		452		-->		00:11:46		537		I want you to work with Cmdr Data on the preparations. 
+		109		00:11:46		664		-->		00:11:49		581		In addition, Cmdr La Forge and Cmdr Riker, 
+		110		00:11:49		709		-->		00:11:53		374		I want you to give the computer depositions of everything you saw, everything you heard, while you were on board. 
+		112		00:11:56		632		-->		00:12:01		341		Counsellor, I want you to assist me during this inquiry. 
+		113		00:12:06		142		-->		00:12:07		850		My decision on the extradition will be based on the evidence presented during these recreations. 
+		115		00:12:16		152		-->		00:12:20		778		Captain, may I have a word with you? 
+		116		00:12:22		366		-->		00:12:26		744		Under the circumstances, Number One, I think that would be inappropriate. 
+		117		00:12:38		174		-->		00:12:43		381		Second officer's log, stardate <stardate>4361</stardate> 1.6. 
+		118		00:12:43		512		-->		00:12:47		842		Programming of the holodeck has taken 18 hours 11 minutes and is complete. 
+		119		00:12:47		975		-->		00:12:50		846		All participants have entered their depositions. 
+		120		00:12:50		978		-->		00:12:54		347		Complete records from the lab's ground computers as well as Dr Apgar's personal logs have been included. 
+		122		00:12:58		027		-->		00:13:02		440		The recreations will have a nominal 8. 7 percent margin of error. 
+		123		00:13:29		141		-->		00:13:32		308		Is there anything you'd like to say before we begin? 
+		124		00:13:32		436		-->		00:13:35		805		Just this. I'm not a murderer. 
+		125		00:13:35		940		-->		00:13:41		231		I went to the lab as a representative of Starfleet. I acted accordingly. 
+		126		00:13:41		362		-->		00:13:44		482		I was there to evaluate Dr Apgar's progress in the development of a Krieger-wave converter. 
+		128		00:13:48		202		-->		00:13:50		740		That's all I was interested in. 
+		129		00:13:50		872		-->		00:13:56		114		Computer, load deposition program Riker one. 
+		130		00:13:58		462		-->		00:14:00		621		Run the simulation. 
+		131		00:14:07		013		-->		00:14:11		307		Dr Apgar, I'm Cmdr William Riker. Lt Cmdr Geordi La Forge. 
+		132		00:14:11		851		-->		00:14:16		098		My assistant, Tayna. Let's get on with it, shall we? 
+		133		00:14:16		230		-->		00:14:19		065		Let's not be in such a hurry, dear. 
+		134		00:14:19		192		-->		00:14:21		896		Perhaps our guests would care for refreshments. 
+		135		00:14:22		028		-->		00:14:25		693		- My wife, Manua. - A pleasure to meet you. 
+		136		00:14:26		824		-->		00:14:29		991		- If you're ready to start, we are. - Of course I am. 
+		137		00:14:30		119		-->		00:14:31		910		Why not give me an overview while Mr. La Forge and your assistant look at the experimental data? 
+		139		00:14:36		000		-->		00:14:39		250		Fine. I must say, Commander, I resent this early arrival. 
+		140		00:14:39		378		-->		00:14:44		420		Starfleet will get its converter. I've had a few setbacks, that's all. 
+		141		00:14:45		343		-->		00:14:49		127		We're not here to pressure you. We just want an update. 
+		142		00:14:49		263		-->		00:14:52		217		Tayna, show Mr. La Forge whatever he wants to see. 
+		143		00:14:52		350		-->		00:14:55		600		- Give full access to our records. - Yes, Doctor. 
+		144		00:14:55		728		-->		00:14:56		926		If you'll come with me? 
+		145		00:14:57		063		-->		00:15:03		812		Our lambda field generator requires a minimum of 5,000 kilometres... 
+		146		00:15:04		945		-->		00:15:06		902		Darling, you're being rude. 
+		147		00:15:07		030		-->		00:15:10		779		Cmdr Riker is willing to sit through all your prattle. 
+		148		00:15:10		909		-->		00:15:15		618		Let's have a drink, Commander, and we'll hear all about Krieger waves. 
+		149		00:15:26		091		-->		00:15:27		585		To your success, Doctor. 
+		150		00:15:28		718		-->		00:15:31		209		And the rewards that come with it. 
+		151		00:15:33		473		-->		00:15:36		011		Riker, what is Starfleet doing here anyway? 
+		152		00:15:36		142		-->		00:15:38		894		My delivery wasn't due for another three months. 
+		153		00:15:39		020		-->		00:15:40		764		We were in this sector anyway. 
+		154		00:15:40		897		-->		00:15:45		310		As you'd asked for more dicosilium, it seemed like a good opportunity. 
+		155		00:15:46		027		-->		00:15:48		649		How interesting. What is this other mission? 
+		156		00:15:48		780		-->		00:15:53		157		It's a study of a proto-star cloud. The Enterprise will be back tomorrow. 
+		157		00:15:53		535		-->		00:15:56		073		The Enterprise just left you here? 
+		158		00:15:56		204		-->		00:15:59		490		We didn't want to inconvenience you. We arranged quarters. 
+		159		00:15:59		624		-->		00:16:01		249		I won't hear of it. 
+		160		00:16:01		376		-->		00:16:03		949		- I insist you stay with us. - I hardly think... 
+		161		00:16:04		087		-->		00:16:08		583		I know you would prefer to be left alone with your very important work but l, for one, am glad for the company. 
+		163		00:16:16		433		-->		00:16:18		010		Good. 
+		164		00:16:18		768		-->		00:16:22		387		I must apologise for my husband's lack of social graces. 
+		165		00:16:22		522		-->		00:16:26		271		He may be one of the great scientific minds of the galaxy, but he does come up a bit short in other areas. 
+		167		00:16:33		491		-->		00:16:36		065		Wait a moment. Stop! 
+		168		00:16:36		203		-->		00:16:38		954		Computer, freeze program. 
+		169		00:16:39		080		-->		00:16:41		785		Then it's your testimony it was Mrs. Apgar's idea for you to spend the night aboard the space station? 
+		171		00:16:44		878		-->		00:16:47		879		It's my testimony and it's the truth. 
+		172		00:16:50		800		-->		00:16:52		840		Resume program. 
+		173		00:16:56		723		-->		00:17:01		350		Our guest quarters aren't luxurious, but I've tried to make them warm. 
+		174		00:17:01		478		-->		00:17:04		147		I'll be very comfortable, thank you. Good night. 
+		175		00:17:05		607		-->		00:17:09		605		- Environmental controls are here. - I'm sure I'll find all I need. 
+		176		00:17:09		736		-->		00:17:12		903		And the door shuts by touching this panel. 
+		177		00:17:16		618		-->		00:17:19		156		- Mrs. Apgar... - This is my sanctuary. 
+		178		00:17:19		287		-->		00:17:22		787		Privacy is very important on a small station. 
+		179		00:17:24		543		-->		00:17:28		540		I'm left alone here. Often for hours. 
+		180		00:17:29		089		-->		00:17:31		461		It's late. I am tired. 
+		181		00:17:33		677		-->		00:17:35		753		- Are you still tired? - Ma'am... 
+		182		00:17:35		887		-->		00:17:39		221		Excuse me. I really think you ought to leave. 
+		183		00:17:41		810		-->		00:17:43		849		I knew I'd find you with him. 
+		184		00:17:43		979		-->		00:17:46		648		Did you think I didn't notice how you looked at him? 
+		185		00:17:46		773		-->		00:17:49		478		- I'm not the fool you take me for. - Doctor... ! 
+		186		00:17:53		655		-->		00:17:55		731		This has been a terrible mistake! 
+		187		00:17:56		241		-->		00:18:00		570		You won't get away with this. I'll see to it. I swear I will. 
+		188		00:18:06		209		-->		00:18:08		498		Freeze program. 
+		189		00:18:08		628		-->		00:18:12		377		I didn't see Dr Apgar until the next morning. He asked to see me alone. 
+		190		00:18:12		507		-->		00:18:17		668		Cmdr La Forge returned to the Enterprise. Resume program. 
+		191		00:18:20		265		-->		00:18:24		263		If I make a formal complaint your report on my work won't be very good. 
+		192		00:18:24		394		-->		00:18:27		146		Doctor, this will have no impact on my report. 
+		193		00:18:27		272		-->		00:18:29		561		It was a misunderstanding. 
+		194		00:18:29		691		-->		00:18:32		478		We can straighten it all out if Mrs. Apgar joins us. 
+		195		00:18:32		611		-->		00:18:36		858		My wife and my assistant have transported down to the planet. 
+		196		00:18:38		116		-->		00:18:40		109		What will you put in your report? 
+		197		00:18:40		243		-->		00:18:44		075		That there is no justification for the extra dicosilium I requested? 
+		198		00:18:44		206		-->		00:18:46		827		That is why they sent you early, isn't it? 
+		199		00:18:46		958		-->		00:18:51		038		I can explain why I needed it. They don't understand my problems. 
+		200		00:18:51		171		-->		00:18:54		754		- There are explanations for this. - I don't need explanations. 
+		201		00:18:55		467		-->		00:18:59		334		Then we have nothing further to say to each other. 
+		202		00:19:01		431		-->		00:19:04		681		I'll tell my captain to expect your grievance. 
+		203		00:19:04		809		-->		00:19:06		434		Do that. 
+		204		00:19:09		481		-->		00:19:13		181		Riker to Enterprise. I'm ready to leave. Now. 
+		205		00:19:13		860		-->		00:19:17		905		Stand by, Commander. Engaging transport. 
+		206		00:19:18		823		-->		00:19:20		567		Freeze program. 
+		207		00:19:20		700		-->		00:19:22		942		Then I returned to the Enterprise. 
+		208		00:19:23		286		-->		00:19:27		865		And you have nothing further to add? Nothing about firing a phaser? 
+		209		00:19:29		084		-->		00:19:31		456		I never fired a phaser on the station. 
+		210		00:19:31		753		-->		00:19:33		580		That's odd. 
+		211		00:19:33		713		-->		00:19:39		668		Very odd. Capt Picard, is it not true your sensors detected an energy drain 
+		212		00:19:39		803		-->		00:19:44		216		- just as Cmdr Riker began transport? - That's correct. 
+		213		00:19:44		349		-->		00:19:47		932		- Have you been able to explain it? - Not to my knowledge. 
+		214		00:19:48		061		-->		00:19:49		686		We have. 
+		215		00:19:53		650		-->		00:19:56		355		Our readings are quite clear about it. 
+		216		00:19:56		486		-->		00:19:59		357		Information from the lab's ground computers indicates that an energy pulse was fired  just as Cmdr Riker began transport. 
+		219		00:20:05		370		-->		00:20:08		739		Furthermore, by analyzing the angle and trajectory we determined that it came from the very spot Cmdr Riker was standing. 
+		221		00:20:20		010		-->		00:20:22		797		So then, will you allow me to show you my recreation of the end of this story? 
+		223		00:20:27		058		-->		00:20:29		466		A speculation, if you will. 
+		224		00:20:29		603		-->		00:20:33		683		Computer, run hypothetical Krag one. 
+		225		00:20:39		112		-->		00:20:42		647		Riker to Enterprise, I'm ready to leave. Now. 
+		226		00:20:42		782		-->		00:20:46		033		Stand by, Commander. Engaging transport. 
+		227		00:20:47		329		-->		00:20:49		570		Freeze program. 
+		228		00:20:50		498		-->		00:20:54		330		Three seconds later, the space station exploded. 
+		229		00:21:10		101		-->		00:21:13		720		He's right. Something was fired at the reactor core. 
+		230		00:21:13		855		-->		00:21:16		939		The energy signature does indicate a phaser-like blast. 
+		231		00:21:17		067		-->		00:21:21		361		It wasn't the commander's phaser! There's another answer. 
+		232		00:21:21		488		-->		00:21:23		480		We're just not seeing it. 
+		233		00:21:23		615		-->		00:21:27		447		Could anything else in the lab create this kind of energy discharge? 
+		234		00:21:27		577		-->		00:21:33		283		Not that I saw. Besides, how could it come from Cmdr Riker's exact spot? 
+		235		00:21:33		416		-->		00:21:36		702		- I should have stayed with him! - Commander... 
+		236		00:21:36		836		-->		00:21:40		620		Sensors indicate a radiation burst on deck 39 outside cargo bay 1 2. 
+		237		00:21:40		757		-->		00:21:43		248		- Source? - Unknown, sir. 
+		238		00:21:43		385		-->		00:21:46		054		Computer, identify type of radiation. 
+		239		00:21:46		179		-->		00:21:49		963		Emission is not consistent with any known radiation. 
+		240		00:21:50		100		-->		00:21:52		176		It is subsiding, sir. 
+		241		00:21:54		938		-->		00:21:57		808		What kind of radiation could do this? 
+		242		00:21:59		818		-->		00:22:04		147		- Make any sense to you? - No. Not even the main deflector 
+		243		00:22:04		281		-->		00:22:07		198		- puts out that kind of spillage. - Where's it from? 
+		244		00:22:07		325		-->		00:22:12		912		I don't know, but whatever it is, it can put a hole in solid duranium! 
+		245		00:22:31		808		-->		00:22:33		884		In a sense we have already met Mrs. Apgar, so we shall dispense with introductions. 
+		247		00:22:37		731		-->		00:22:41		313		Mrs. Apgar, you understand the purpose of this hearing? 
+		248		00:22:41		943		-->		00:22:45		193		We understand how difficult this will be for you. 
+		249		00:22:45		322		-->		00:22:48		940		If you need a recess, please don't hesitate to ask. 
+		250		00:22:49		075		-->		00:22:52		444		Would you like to make a statement before we begin? 
+		251		00:22:52		579		-->		00:22:54		203		No. 
+		252		00:22:55		040		-->		00:22:58		539		I just know he did it. He killed my husband. 
+		253		00:23:01		004		-->		00:23:05		002		Computer, load Manua simulation one. 
+		254		00:23:07		636		-->		00:23:09		260		Run program. 
+		255		00:23:09		387		-->		00:23:11		345		If you greet them with such a long face they'll assume something is wrong with the experiment. 
+		257		00:23:14		851		-->		00:23:16		643		I just need a little more time. 
+		258		00:23:16		770		-->		00:23:21		764		I'm certain they'll give you all you need if you just show a little charm. 
+		259		00:23:21		900		-->		00:23:25		185		You do that so much better than I do. 
+		260		00:23:28		615		-->		00:23:33		443		Manua, some day I'll be able to reward you for all your patience. 
+		261		00:23:33		578		-->		00:23:37		078		I'll get you everything you ever dreamed of. 
+		262		00:23:37		207		-->		00:23:39		614		I have all the reward I need. 
+		263		00:23:39		751		-->		00:23:42		669		Now go on. I'll be right in. 
+		264		00:23:48		009		-->		00:23:49		717		Dr Apgar? 
+		265		00:23:49		844		-->		00:23:52		549		Cmdr William Riker. Lt Cmdr Geordi La Forge. 
+		266		00:23:53		181		-->		00:23:57		226		My assistant, Tayna. Let's get on with it, shall we? 
+		267		00:23:57		352		-->		00:23:59		060		Don't be in such a hurry, dear. 
+		268		00:23:59		187		-->		00:24:03		399		- Our guests might like refreshment. - My wife, Manua. 
+		269		00:24:03		525		-->		00:24:05		767		A pleasure to meet you, Manua. 
+		270		00:24:05		902		-->		00:24:08		310		- I'm anxious to get started. - If you wish. 
+		271		00:24:08		446		-->		00:24:11		946		I resent your early arrival. I have much work to do. 
+		272		00:24:12		367		-->		00:24:16		780		I'll try and make this as painless as possible for both of us. 
+		273		00:24:16		913		-->		00:24:20		531		- Do you assist your husband? - No, I'm no scientist. 
+		274		00:24:20		667		-->		00:24:22		660		No, neither am l. 
+		275		00:24:23		461		-->		00:24:25		750		But I find this all fascinating. 
+		276		00:24:27		549		-->		00:24:31		760		Mr. La Forge, take a look at the doctor's experimental data. 
+		277		00:24:31		887		-->		00:24:34		175		- Later you can give me an overview. - Fine. 
+		278		00:24:34		306		-->		00:24:39		644		Starfleet will get its converter. I've had a few setbacks, that's all. 
+		279		00:24:39		769		-->		00:24:41		845		I'm not trying to pressure you. 
+		280		00:24:41		980		-->		00:24:47		271		I'm sure my report will underscore the need to support your research. 
+		281		00:24:48		904		-->		00:24:52		355		Tayna, I'll call up the records. Show the commander's assistant whatever he wants to see. 
+		283		00:24:54		409		-->		00:24:56		615		Yes, Doctor. If you'll come with me? 
+		284		00:24:56		745		-->		00:25:03		626		Our field generator on the planet requires a minimum of 5,000 km... 
+		285		00:25:05		503		-->		00:25:10		580		Let Tayna take care of that. I'm sure Cmdr Riker wants to hear your report. 
+		286		00:25:10		717		-->		00:25:14		466		I'll pour you both a drink and you can talk all about Krieger waves. 
+		287		00:25:23		813		-->		00:25:25		722		Commander... 
+		288		00:25:26		691		-->		00:25:29		478		- To success! - Success! 
+		289		00:25:32		196		-->		00:25:36		111		Well, in a way I suppose it's good that you're early. 
+		290		00:25:36		242		-->		00:25:41		118		It gives me a chance to show you the progress we've been making. 
+		291		00:25:41		247		-->		00:25:45		826		I'd appreciate it if we could stay here until the Enterprise returns. 
+		292		00:25:47		754		-->		00:25:49		462		It's a little inconvenient. 
+		293		00:25:49		756		-->		00:25:52		959		It would help to accelerate the process. 
+		294		00:25:57		972		-->		00:26:01		139		Well, if you wish, Commander. 
+		295		00:26:01		267		-->		00:26:02		726		Now... 
+		296		00:26:03		519		-->		00:26:06		093		Where shall I start? 
+		297		00:26:06		230		-->		00:26:10		145		Well, first of all, you should know that I am very close to being able to columnate a Krieger field. 
+		299		00:26:18		868		-->		00:26:22		913		- Our guest quarters are modest. - Very charming. 
+		300		00:26:23		414		-->		00:26:24		992		It has your touch. 
+		301		00:26:25		124		-->		00:26:29		454		We don't often have guests. I use this as my sanctuary. 
+		302		00:26:29		587		-->		00:26:32		458		Who do you need sanctuary from? 
+		303		00:26:32		590		-->		00:26:34		962		The environmental controls are here. 
+		304		00:26:38		304		-->		00:26:42		254		Commander, please. It's late and I'm tired. 
+		305		00:26:42		392		-->		00:26:46		769		A man more interested in Krieger waves than you! How is that possible? 
+		306		00:26:46		896		-->		00:26:49		648		My husband is one of the greatest minds in the galaxy and we love each other very much. 
+		308		00:26:51		692		-->		00:26:54		943		- Please! Don't! - It must be very lonely. 
+		309		00:26:55		071		-->		00:26:57		562		A princess in a very high tower. 
+		310		00:26:57		698		-->		00:27:01		827		- My husband will be looking for me. - Your sanctuary, remember? 
+		311		00:27:01		953		-->		00:27:03		696		Commander, don't! 
+		312		00:27:03		830		-->		00:27:06		237		She's lying! That never happened. 
+		313		00:27:06		374		-->		00:27:08		165		- Freeze program. - Please! 
+		314		00:27:09		127		-->		00:27:11		618		Captain, you know I would never act like that. 
+		315		00:27:11		754		-->		00:27:13		581		Cmdr Riker! 
+		316		00:27:13		715		-->		00:27:16		799		This isn't me. I didn't close the door. 
+		317		00:27:17		385		-->		00:27:20		884		I didn't proposition her and I certainly didn't try to rape her. 
+		318		00:27:22		515		-->		00:27:27		722		- Why are you doing this? - It's exactly what happened. 
+		319		00:27:29		605		-->		00:27:31		230		Will, come on, sit down. 
+		320		00:27:45		288		-->		00:27:46		699		Resume program. 
+		321		00:27:48		374		-->		00:27:50		331		Please! 
+		322		00:27:50		460		-->		00:27:54		753		I knew you'd try this. Do you think I didn't notice how you looked at her? 
+		323		00:27:54		881		-->		00:27:57		502		I'm not the fool you take me for! 
+		324		00:28:02		472		-->		00:28:05		757		You won't get away with this. Your career is over. 
+		325		00:28:05		892		-->		00:28:08		727		I'll see to it, I swear I will. 
+		326		00:28:08		853		-->		00:28:13		645		If you report this, you'll be making a terrible mistake, Doctor. 
+		327		00:28:21		574		-->		00:28:23		365		Freeze program. 
+		328		00:28:24		786		-->		00:28:28		201		Your career was safe. He was a scientist. 
+		329		00:28:28		331		-->		00:28:30		786		In another day some more technical trivia would have distracted him. 
+		331		00:28:32		919		-->		00:28:36		963		He would have forgotten about you and his complaint to Starfleet. 
+		332		00:28:38		841		-->		00:28:40		170		Excuse me. 
+		333		00:28:44		430		-->		00:28:49		009		We'll... we'll take a short recess. 
+		334		00:29:00		071		-->		00:29:02		776		Why would she lie like that? 
+		335		00:29:02		907		-->		00:29:05		232		She was lying. You could tell. 
+		336		00:29:05		368		-->		00:29:09		911		Will, I didn't sense any deception from her. 
+		337		00:29:10		957		-->		00:29:12		748		- Then you think that l... - No! 
+		338		00:29:12		875		-->		00:29:17		087		Of course not. I know you. You don't have to convince me of anything. 
+		339		00:29:17		213		-->		00:29:19		455		We can't both be telling the truth. 
+		340		00:29:19		590		-->		00:29:23		754		It is the truth, as each of you remembers it. 
+		341		00:29:26		264		-->		00:29:29		051		But her version puts a noose around my neck. 
+		342		00:29:32		895		-->		00:29:37		438		This is healing beautifully. You can work on strengthening those muscles. 
+		343		00:29:37		567		-->		00:29:41		516		Security to Dr Crusher. Evacuate. Repeat: evacuate. 
+		344		00:29:41		654		-->		00:29:45		272		Radiation emissions are indicated in sickbay. 
+		345		00:29:57		295		-->		00:30:01		043		This is definitely the same radiation that penetrated deck 39. 
+		346		00:30:01		174		-->		00:30:04		293		Highly focused, very powerful, but of unknown origin. 
+		347		00:30:04		427		-->		00:30:09		089		If this should happen near the engine core we'd be in big trouble, Captain. 
+		348		00:30:09		223		-->		00:30:10		682		Do you have any theories? 
+		349		00:30:10		808		-->		00:30:15		554		Data's noticed something too strange to be a coincidence. 
+		350		00:30:15		688		-->		00:30:17		764		The two radiation events on board occurred five hours, twenty minutes and three seconds apart. 
+		352		00:30:21		527		-->		00:30:25		395		The science station exploded at almost four times that interval. 
+		353		00:30:25		531		-->		00:30:30		074		There's a .001 4 second variance we haven't been able to explain yet. 
+		354		00:30:30		203		-->		00:30:34		366		So there's a connection between the radiation bursts and the blast? 
+		355		00:30:34		499		-->		00:30:38		413		We do not have the evidence to support that conclusion at this time. 
+		356		00:30:38		544		-->		00:30:41		748		If they're right, we should be able to predict the next event. 
+		357		00:30:41		881		-->		00:30:43		874		We're expecting it in five hours. 
+		358		00:30:44		008		-->		00:30:47		092		Take every precaution to protect the ship's vital areas. 
+		359		00:30:47		220		-->		00:30:52		427		If we haven't found the source before the time is up, we'll leave orbit. 
+		360		00:30:52		558		-->		00:30:56		770		If you perceive any further danger, advise me immediately. 
+		361		00:30:59		107		-->		00:31:00		815		We'll figure it out, Commander. 
+		362		00:31:13		329		-->		00:31:19		165		After the... fight, Dr Apgar came to find me. He was very upset. 
+		363		00:31:20		878		-->		00:31:22		670		And he told you what happened? 
+		364		00:31:22		797		-->		00:31:25		751		Yes, he told me everything that happened. 
+		365		00:31:25		883		-->		00:31:31		091		Based on Tayna's deposition, we have recreated the incident as Dr Apgar described it to her. 
+		367		00:31:35		143		-->		00:31:38		428		- Computer... - Inspector, this is hearsay. 
+		368		00:31:38		563		-->		00:31:40		769		She wasn't a witness to this incident. 
+		369		00:31:40		898		-->		00:31:43		472		But Dr Apgar is dead. 
+		370		00:31:43		609		-->		00:31:46		231		Her statement is admissible in Tanugan law and I insist you consider it. 
+		372		00:31:50		783		-->		00:31:52		776		Well... 
+		373		00:31:52		910		-->		00:31:58		415		We'll watch this... evidence and we'll weigh it accordingly. 
+		374		00:31:59		000		-->		00:32:02		333		Computer, run Tayna simulation three. 
+		375		00:32:10		386		-->		00:32:15		629		I knew it. Do you think I didn't notice how you looked at each other? 
+		376		00:32:15		767		-->		00:32:18		436		I'm not the fool you take me for. 
+		377		00:32:24		567		-->		00:32:27		603		I'm going to report this, Riker. You can count on that. 
+		378		00:32:27		737		-->		00:32:31		320		You're a dead man, Apgar. A dead man! 
+		379		00:32:31		657		-->		00:32:33		615		Freeze program. 
+		380		00:32:34		285		-->		00:32:36		776		And then Dr Apgar came to find you? 
+		381		00:32:36		913		-->		00:32:38		455		Yes. 
+		382		00:32:38		581		-->		00:32:41		333		Run Tayna simulation four. 
+		383		00:32:45		379		-->		00:32:48		630		I want you to take Manua and beam down to Tanuga immediately. 
+		384		00:32:48		758		-->		00:32:50		881		If he threatened you, you shouldn't stay. 
+		385		00:32:51		010		-->		00:32:55		506		I'm not leaving him here. I've got to protect our work. 
+		386		00:32:55		640		-->		00:33:00		551		- I'll contact the authorities. - No! I'll take care of that. 
+		387		00:33:04		816		-->		00:33:06		892		Doctor, be careful. 
+		388		00:33:07		026		-->		00:33:10		478		It'll be alright. Go on. 
+		389		00:33:10		613		-->		00:33:12		771		Freeze program. 
+		390		00:33:13		533		-->		00:33:17		198		- Then what happened? - I left the station with Manua. 
+		391		00:33:17		328		-->		00:33:20		199		The next day, when I heard the station had exploded, 
+		392		00:33:20		331		-->		00:33:24		708		I knew what had happened. He'd killed Dr Apgar! 
+		393		00:33:25		420		-->		00:33:28		290		Thank you. You are excused. 
+		394		00:33:32		552		-->		00:33:36		799		Captain, I have established motive, method and opportunity. 
+		395		00:33:36		931		-->		00:33:39		504		In any court in the Federation that is sufficient to warrant the extradition of the accused. 
+		397		00:33:44		063		-->		00:33:46		850		I await your decision forthwith. 
+		398		00:33:59		120		-->		00:34:01		362		I don't see any alternative. Do you? 
+		399		00:34:01		497		-->		00:34:05		329		- We both know Will's innocent. - Of course he's innocent! 
+		400		00:34:05		460		-->		00:34:11		165		But I can't allow myself the luxury of yielding to personal feelings. 
+		401		00:34:13		426		-->		00:34:17		887		The evidence warrants a trial. I'll have to allow extradition. 
+		402		00:34:20		516		-->		00:34:24		680		Do you think there is enough evidence to prove his innocence? 
+		403		00:34:26		439		-->		00:34:27		435		No. 
+		404		00:34:27		565		-->		00:34:30		436		Captain, we have found the radiation source. 
+		405		00:34:30		568		-->		00:34:33		486		- Can you join us on the bridge? - Acknowledged. 
+		406		00:34:40		744		-->		00:34:44		113		We are looking for a phenomenon that reoccurs every five hours, 
+		407		00:34:44		247		-->		00:34:47		830		- twenty minutes and three seconds. - The interval between bursts. 
+		408		00:34:47		959		-->		00:34:50		581		We have found one such phenomenon on the planet. 
+		409		00:34:50		712		-->		00:34:56		335		The field generator Apgar used during his research emits an energy pulse, then takes five hours, twenty minutes and three seconds to recharge. 
+		411		00:35:00		514		-->		00:35:03		431		It must have been left on after the explosion. 
+		412		00:35:03		558		-->		00:35:07		556		Why would a generator affect the Enterprise in this way? 
+		413		00:35:07		687		-->		00:35:11		471		It should not be. It is a harmless lambda field generator. 
+		414		00:35:11		608		-->		00:35:16		151		But we knew that somehow it was related to our radiation bursts. 
+		415		00:35:16		279		-->		00:35:20		324		We now know what is causing the bursts and why the station exploded. 
+		416		00:35:20		450		-->		00:35:24		068		And we also know who killed Dr Apgar. 
+		417		00:35:40		470		-->		00:35:46		888		Chief Inspector, we've watched these events replayed over and over again and... I am impressed and admittedly dismayed  by the body of evidence against Cmdr Riker. 
+		420		00:35:57		779		-->		00:36:01		777		But isn't it remarkable that with all the witnesses, all the different points of view of the events aboard the space station,  we haven't seen what really happened? 
+		423		00:36:10		542		-->		00:36:13		413		- I do not understand. - Allow me, with the help of Mr. La Forge, to explain. 
+		425		00:36:16		214		-->		00:36:20		710		Computer, load Manua program one, time index... 
+		426		00:36:22		304		-->		00:36:24		131		..1 4-4-1 . 
+		427		00:36:25		557		-->		00:36:26		968		Play program. 
+		428		00:36:27		100		-->		00:36:32		973		Starfleet will get its converter. I've had a few setbacks, that's all. 
+		429		00:36:33		106		-->		00:36:34		565		Freeze. 
+		430		00:36:34		941		-->		00:36:37		183		Mrs. Apgar, this is from your deposition. 
+		431		00:36:37		319		-->		00:36:40		984		It suggests that your husband had failed to create Krieger waves. 
+		432		00:36:41		114		-->		00:36:44		364		- Yes, but he was very close. - He said he needed more time. 
+		433		00:36:44		493		-->		00:36:47		244		He was upset by our early arrival. 
+		434		00:36:47		370		-->		00:36:51		582		But in fact I maintain that he had already made that breakthrough 
+		435		00:36:52		751		-->		00:36:56		796		- and that he was lying to us. - On what basis? 
+		436		00:36:56		922		-->		00:37:01		251		For several hours we've experienced unusual radiation bursts. 
+		437		00:37:01		384		-->		00:37:03		591		We've identified them as Krieger waves. 
+		438		00:37:03		720		-->		00:37:07		172		Krieger waves? But that's impossible. From where? 
+		439		00:37:07		641		-->		00:37:09		680		Right here. Inside the holodeck. 
+		440		00:37:09		810		-->		00:37:13		642		We have recreated your science lab in every detail. 
+		441		00:37:13		772		-->		00:37:17		105		Essentially, what was in the original lab is here. 
+		442		00:37:17		234		-->		00:37:22		145		Including the converter Dr Apgar claimed didn't work. Except it does. 
+		443		00:37:22		280		-->		00:37:27		275		Your field generator has been sending out harmless energy charges, which this facsimile has been converting into Krieger waves. 
+		445		00:37:32		707		-->		00:37:36		491		- But the holodeck can't do that. - Well, it didn't. 
+		446		00:37:39		881		-->		00:37:41		340		When you get down to it, the converter is just a series of mirrors and reflective coils. 
+		448		00:37:46		054		-->		00:37:50		301		Energy from the generator reflects off elements in the converter, which turns it into highly focused Krieger waves. 
+		450		00:37:54		646		-->		00:37:57		979		And those waves have been striking different areas of our ship as we orbit the planet and our angle to the generator changes. 
+		452		00:38:02		987		-->		00:38:05		941		Why would Dr Apgar lie about his success? 
+		453		00:38:06		074		-->		00:38:10		736		Computer, run Manua program one, time index 1 4-3-8. 
+		454		00:38:14		123		-->		00:38:19		248		Manua, some day I'll be able to reward you for all your patience. 
+		455		00:38:19		379		-->		00:38:21		870		I'll get you everything you ever dreamed of. 
+		456		00:38:22		006		-->		00:38:25		589		- I have all the reward I need. - Freeze program. 
+		457		00:38:26		511		-->		00:38:30		343		Computer, run Riker program two, time index... 
+		458		00:38:31		766		-->		00:38:33		640		..1 6-1 -0. 
+		459		00:38:38		022		-->		00:38:42		102		- To your success, Doctor. - And the rewards that come with it. 
+		460		00:38:42		235		-->		00:38:44		192		Freeze. 
+		461		00:38:44		779		-->		00:38:47		982		- I never said that. - Nevertheless, it seems clear that your husband was motivated to earn the rewards that pleased you. 
+		463		00:38:53		288		-->		00:38:54		996		What's wrong with that? 
+		464		00:38:55		123		-->		00:38:58		741		He wouldn't have earned great profits from Starfleet. 
+		465		00:38:58		876		-->		00:39:01		581		We only wanted a new power source. 
+		466		00:39:01		713		-->		00:39:03		789		But if he could turn this into a weapon, it would be worth a lot to the Romulans and a few others. 
+		468		00:39:07		677		-->		00:39:11		509		The extra dicosilium Dr Apgar had been trying to order is an indication he was trying to create larger reflective coils. 
+		470		00:39:14		392		-->		00:39:16		266		When the away team arrived early he must have been worried that Starfleet was becoming suspicious. 
+		472		00:39:22		483		-->		00:39:25		021		He needed more time to finish his work. 
+		473		00:39:25		153		-->		00:39:27		145		Apgar said that in all three versions. 
+		474		00:39:27		280		-->		00:39:32		357		No doubt he was afraid Cmdr Riker might learn the truth... 
+		475		00:39:33		453		-->		00:39:36		619		..and cut off his support prematurely. 
+		476		00:39:41		127		-->		00:39:45		504		Discovering Cmdr Riker with his wife didn't help matters. 
+		477		00:39:45		632		-->		00:39:48		502		I submit he decided to murder Cmdr Riker. 
+		478		00:39:50		219		-->		00:39:53		007		- Ridiculous! - Is it? 
+		479		00:39:53		139		-->		00:39:57		718		Computer, run Tayna program four, time index... 
+		480		00:39:58		895		-->		00:40:00		472		..1 8-1 -4. 
+		481		00:40:04		692		-->		00:40:09		354		- I'll contact the authorities. - No! I'll take care of that. 
+		482		00:40:12		242		-->		00:40:14		033		Freeze. 
+		483		00:40:14		160		-->		00:40:17		576		Tayna, what exactly is Apgar doing here? 
+		484		00:40:17		705		-->		00:40:21		952		- Activating the planet's generator. - Why would he do that? 
+		485		00:40:22		752		-->		00:40:26		702		Maybe he was going to work on the converter. I don't know. 
+		486		00:40:27		674		-->		00:40:31		921		Maybe he was thinking ahead to his next confrontation with Cmdr Riker. 
+		487		00:40:32		679		-->		00:40:36		213		Computer, play Riker program four, time index... 
+		488		00:40:36		975		-->		00:40:38		433		..24-1 . 
+		489		00:40:41		312		-->		00:40:43		139		What will you put in your report? 
+		490		00:40:43		273		-->		00:40:46		642		That there's no justification for the extra dicosilium? 
+		491		00:40:46		776		-->		00:40:48		567		That is why they sent you early. 
+		492		00:40:48		695		-->		00:40:52		989		I can explain why I needed it. They don't understand my problems. 
+		493		00:40:53		116		-->		00:40:56		282		- There are explanations. - I don't need explanations. 
+		494		00:40:56		411		-->		00:40:57		953		Freeze. 
+		495		00:40:58		788		-->		00:41:03		082		It must have seemed Cmdr Riker was confirming Apgar's worst fears. 
+		496		00:41:03		835		-->		00:41:08		129		And I believe it was now he finally decided to kill him. 
+		497		00:41:08		756		-->		00:41:14		177		You forget. We know that the energy pulse which blew up the reactor originated from Cmdr Riker's position, not Dr Apgar's. 
+		499		00:41:19		976		-->		00:41:23		676		We are hypothesising that Dr Apgar energized the converter at the moment of Cmdr Riker's beam-out,  hoping to make his death look like an accident. 
+		502		00:41:29		360		-->		00:41:32		979		But unexpectedly the energy pulse hit the transporter beam and reflected back to the reactor, which caused the explosion. 
+		504		00:41:37		285		-->		00:41:41		117		An interesting hypothesis, but impossible to prove. 
+		505		00:41:41		497		-->		00:41:43		040		Not really. 
+		506		00:41:43		166		-->		00:41:48		670		We know the field generator has been repeating a discharge like clockwork, except the explosion occurred 
+		508		00:41:51		758		-->		00:41:55		257		.001 4 seconds after the initial discharge. 
+		509		00:41:55		386		-->		00:41:58		802		That variance is the time it would take the energy pulse to bounce from the transporter beam to the reactor. 
+		511		00:42:02		226		-->		00:42:06		853		We've arranged a demonstration. Mr. La Forge, I think it's about time. 
+		512		00:42:07		649		-->		00:42:11		100		Computer, load program La Forge one. 
+		513		00:42:11		236		-->		00:42:13		643		Coordinate auto-engage time sequence. 
+		514		00:42:13		905		-->		00:42:17		950		The next discharge is scheduled to occur in just a few moments. 
+		515		00:42:18		076		-->		00:42:21		030		We've aligned the holodeck to recreate the final events as Cmdr Riker described them, only this time,  our facsimile will process the energy charge from the planet and reflect it  just as the original converter did before the explosion. 
+		519		00:42:33		883		-->		00:42:37		632		If we're correct, we'll know it instantly. 
+		520		00:42:37		762		-->		00:42:40		431		Auto-engage time sequence synchronized. 
+		521		00:42:41		766		-->		00:42:45		182		Then we have nothing further to say to each other. 
+		522		00:42:45		311		-->		00:42:47		981		I'll tell my captain to expect your grievance. 
+		523		00:42:48		106		-->		00:42:49		730		Do that. 
+		524		00:42:50		650		-->		00:42:53		935		Riker to Enterprise. I'm ready to leave. Now. 
+		525		00:42:54		070		-->		00:42:57		320		Stand by, Commander. Engaging transport. 
+		526		00:43:21		764		-->		00:43:26		889		Dr Apgar killed himself during his attempt to kill Cmdr Riker. 
+		527		00:43:33		568		-->		00:43:35		857		Based on this new evidence, 
+		528		00:43:35		987		-->		00:43:39		937		I withdraw my request for Cmdr Riker's extradition. 
+		529		00:43:41		117		-->		00:43:44		403		Commander... my apologies. 
+		530		00:43:53		296		-->		00:43:57		792		Number One, have we any further business in the Tanuga system? 
+		531		00:43:57		926		-->		00:44:00		499		Not that I know of. I'd gladly put it behind me. 
+		532		00:44:00		637		-->		00:44:03		507		Then perhaps you would get this ship under way. 
+		533		00:44:03		640		-->		00:44:08		515		With pleasure, sir. Ensign Crusher, set course for Emila II, warp three. 
+		534		00:44:10		021		-->		00:44:13		472		- Course laid in, sir. - Engage. 

@@ -1,0 +1,568 @@
+		1		00:00:09		968		-->		00:00:12		016		Brother John Bates, is that not the morning which breaks yonder? 
+		3		00:00:15		432		-->		00:00:17		230		I think it be. 
+		4		00:00:18		477		-->		00:00:22		527		But we have no great cause to desire the approach of day. 
+		5		00:00:26		276		-->		00:00:27		949		- Who's there? - A friend. 
+		6		00:00:28		153		-->		00:00:30		076		Under what captain serve you? 
+		7		00:00:30		280		-->		00:00:32		578		Under Sir Thomas Erpingham. 
+		8		00:00:37		913		-->		00:00:39		711		I pray you, what thinks he of our estate? 
+		10		00:00:43		460		-->		00:00:44		882		Even as men wrecked upon a sand that look to be washed off the next tide. 
+		12		00:00:47		631		-->		00:00:49		192		He has not told his thought to the king? 
+		13		00:00:49		383		-->		00:00:50		430		No. 
+		14		00:00:50		634		-->		00:00:52		682		Nor 'tis not meet he should. 
+		15		00:00:52		886		-->		00:00:55		264		For though I speak it to you, 
+		16		00:00:55		514		-->		00:01:00		486		I think the king is but a man, as I am. 
+		17		00:01:01		645		-->		00:01:05		275		The violet smells to him as it doth to me. 
+		18		00:01:05		482		-->		00:01:09		532		In his nakedness, he appears but a man. 
+		19		00:01:10		112		-->		00:01:15		664		Therefore his fears, out of doubt, be of the same relish as ours are. 
+		20		00:01:16		243		-->		00:01:19		668		Yet no man should possess him with any appearance of fear, lest he, by showing it, should dishearten his army. 
+		22		00:01:22		124		-->		00:01:24		126		He may show what outward courage he will, but I believe, as cold a night as 'tis,  he could wish himself in Thames up to the neck. 
+		25		00:01:29		673		-->		00:01:35		646		Methinks I could not die anyplace so contented as in the king's company, his cause being just and his quarrel honorable. 
+		27		00:01:39		641		-->		00:01:41		063		That's more than we know. 
+		28		00:01:41		268		-->		00:01:43		236		Or more than we should seek after. 
+		29		00:01:43		437		-->		00:01:45		110		If his cause be wrong, our obedience to the king wipes the crime of it out of us. 
+		31		00:01:48		483		-->		00:01:50		360		But if the cause be not good, the king himself hath a heavy reckoning to make  when all those legs and arms and heads chopped off in a battle  shall join together at the latter day and cry all, "We died at such a place." 
+		35		00:02:01		330		-->		00:02:04		504		The king is not bound to answer the particular endings of his soldiers, the father of his son, nor the master of his servant. 
+		37		00:02:07		878		-->		00:02:10		131		Splendid, Data, splendid. 
+		38		00:02:10		339		-->		00:02:12		637		- You're getting better and better. - Freeze program. 
+		39		00:02:19		264		-->		00:02:20		311		Thank you, sir. 
+		40		00:02:20		515		-->		00:02:24		611		I plan to study the performances of Olivier, Branagh, Shapiro and Kullnark. 
+		41		00:02:24		811		-->		00:02:26		438		Data, ah, you're here to learn about the human condition,  and there is no better way of doing that than by embracing Shakespeare. 
+		44		00:02:36		281		-->		00:02:39		831		But you must discover it through your own performance, not by imitating others. 
+		46		00:02:41		453		-->		00:02:43		376		<i>Riker to Picard. Sorry to interrupt, sir.</i> 
+		47		00:02:43		580		-->		00:02:44		627		Go ahead, Number One. 
+		48		00:02:44		831		-->		00:02:48		210		Sensors are picking up an unidentified craft in the Neutral Zone. 
+		49		00:02:48		418		-->		00:02:50		386		<i>It's heading toward Federation space.</i> 
+		50		00:02:50		545		-->		00:02:52		263		We're on our way. Picard out. 
+		51		00:02:52		464		-->		00:02:56		014		We'll, uh, get to the rest of the act another time, Data. 
+		52		00:02:56		218		-->		00:02:58		186		Computer, file program and clear. 
+		53		00:03:01		390		-->		00:03:05		440		Captain, why should a king wish to <i>pass</i> as a commoner? 
+		54		00:03:05		644		-->		00:03:07		612		If he is the leader, should he not be leading? 
+		55		00:03:08		188		-->		00:03:11		613		Listen to what Shakespeare is telling you about the man, Data. 
+		56		00:03:11		817		-->		00:03:14		991		A king who had true feeling for his soldiers would wish to share their fears with them on the eve of battle. 
+		58		00:03:19		282		-->		00:03:21		831		Sir, will I be able to schedule a performance for the crew in the near future? 
+		60		00:03:24		079		-->		00:03:27		879		- Let's not rush it, shall we? - Hmm. 
+		61		00:03:36		383		-->		00:03:38		431		Outpost Sierra Six confirms our readings, sir. 
+		62		00:03:38		635		-->		00:03:43		311		They identify it as a Romulan scout ship, bearing 270-mark-14. 
+		63		00:03:43		515		-->		00:03:47		065		Scout ship? What would a scout ship be doing this far in the Neutral Zone? 
+		64		00:03:47		269		-->		00:03:50		239		Captain, shall we transmit a warning to withdraw, sir? 
+		65		00:03:50		439		-->		00:03:52		157		- Open a hailing frequency. - Aye, sir. 
+		66		00:03:53		525		-->		00:03:57		029		- Captain, the Romulan is hailing us. - Visual. 
+		67		00:03:57		237		-->		00:03:59		831		- Not within range yet. - Open a channel. 
+		68		00:04:01		575		-->		00:04:03		498		<i>Federation ship, do you read?</i> 
+		69		00:04:03		702		-->		00:04:05		670		<i>I require urgent assistance.</i> 
+		70		00:04:05		871		-->		00:04:07		669		This is Captain Jean-Luc Picard of the USS... 
+		71		00:04:07		873		-->		00:04:10		217		<i>Federation ship, please, help me.</i> 
+		72		00:04:10		417		-->		00:04:13		637		<i>Requesting asylum. Under pursuit.</i> 
+		73		00:04:13		837		-->		00:04:17		467		- Pursuit? - Visual range. On-screen, captain. 
+		74		00:04:52		751		-->		00:04:56		847		<i>Space, the final frontier.</i> 
+		75		00:04:57		547		-->		00:05:01		347		<i>These are the voyages of the starship Enterprise.</i> 
+		76		00:05:01		551		-->		00:05:06		853		<i>To explore strange, new worlds,</i> 
+		77		00:05:07		182		-->		00:05:11		107		<i>to seek out new life and new civilizations,</i> 
+		78		00:05:11		728		-->		00:05:15		983		<i>to boldly go where no one has gone before.</i> 
+		79		00:06:19		087		-->		00:06:20		688		Red alert. Open a channel to the warship. 
+		80		00:06:22		048		-->		00:06:23		721		Come to intercept course. Keep us out of the Neutral Zone. 
+		81		00:06:23		925		-->		00:06:24		972		Channel is open. 
+		82		00:06:25		176		-->		00:06:27		457		How long before they cross over into Federation territory? 
+		83		00:06:27		637		-->		00:06:28		934		Forty-one seconds, sir. 
+		84		00:06:29		139		-->		00:06:30		356		Romulan warbird, this is Captain Jean-Luc Picard of the Federation vessel Enterprise. 
+		86		00:06:34		144		-->		00:06:35		987		You have crossed into the Neutral Zone and are engaged in hostile action. 
+		88		00:06:38		315		-->		00:06:41		114		Explain yourself and your intent. 
+		89		00:06:41		526		-->		00:06:44		621		- No reply, sir. - Hail the scout. 
+		90		00:06:45		989		-->		00:06:47		741		- Responding. - On-screen. 
+		91		00:06:47		949		-->		00:06:51		954		<i>SET N; Federation craft. Please, you must help me.</i> 
+		92		00:06:52		162		-->		00:06:55		837		We are moving to intercept. Maintain your course and power. 
+		93		00:07:01		421		-->		00:07:03		219		The scout ship is severely damaged, sir. 
+		94		00:07:03		423		-->		00:07:04		903		Engines inoperative, shields are down. 
+		95		00:07:05		091		-->		00:07:09		346		- Position? - Coordinates 140-by-205, sir. 
+		96		00:07:09		554		-->		00:07:11		272		- Federation space. - Right. 
+		97		00:07:11		473		-->		00:07:12		975		Move to within 5 kilometers. 
+		98		00:07:13		183		-->		00:07:14		275		Mr. La Forge, prepare to extend our shields around the Romulan scout ship. 
+		100		00:07:17		020		-->		00:07:19		944		At that range, the shields won't be able to take much punishment, captain. 
+		101		00:07:20		148		-->		00:07:23		197		- Five kilometers, sir. - All stop. 
+		102		00:07:23		401		-->		00:07:25		995		- Extend shields. - In <i>place.</i> 
+		103		00:07:26		613		-->		00:07:28		206		We've got the scout ship, captain. 
+		104		00:07:38		416		-->		00:07:40		217		Weapons on the warbird are fully powered, sir. 
+		105		00:07:40		418		-->		00:07:43		513		- Lock phasers. Open a channel. - Ready. 
+		106		00:07:43		713		-->		00:07:47		013		Romulan vessel, you are now in Federation territory. 
+		107		00:07:47		217		-->		00:07:49		436		Unless you withdraw... 
+		108		00:07:52		597		-->		00:07:54		019		No argument? 
+		109		00:07:54		224		-->		00:07:56		522		Warbird has re-entered the Neutral Zone. 
+		110		00:07:56		726		-->		00:07:58		444		Heading toward Romulan territory. 
+		111		00:07:58		645		-->		00:08:00		568		Massive power failure to the scout ship, sir. 
+		112		00:08:00		772		-->		00:08:04		572		All systems are going off-line, including life support. 
+		113		00:08:04		776		-->		00:08:06		528		Transporter 2, prepare to beam the occupant of the scout ship directly aboard. 
+		115		00:08:08		321		-->		00:08:10		289		- Aye, sir. - Mr. Worf. 
+		116		00:08:10		657		-->		00:08:14		161		Mr. Data, lock onto the scout ship. Take it in tow. 
+		117		00:08:18		498		-->		00:08:20		250		Energize. 
+		118		00:08:35		181		-->		00:08:36		899		I must see your captain immediately. 
+		119		00:08:37		100		-->		00:08:39		979		- We'll get you to Sickbay. After that... - This cannot wait! 
+		120		00:08:40		186		-->		00:08:43		531		I have information vital to your survival. 
+		121		00:08:48		361		-->		00:08:51		706		<i>Captain's log, stardate <stardate>43462</stardate>.5.</i> 
+		122		00:08:51		906		-->		00:08:55		160		<i>We have beamed aboard an apparent Romuian defector</i> 
+		123		00:08:55		368		-->		00:08:57		712		<i>who claims to be a tow-ranking logistics officer</i> 
+		124		00:08:57		912		-->		00:09:01		837		<i>with extraordinary information about a secret offensive.</i> 
+		125		00:09:02		042		-->		00:09:06		092		The humiliating defeat at the Battle of Cheron has not been forgotten. 
+		126		00:09:06		296		-->		00:09:09		175		The new leaders have vowed to disregard the treaty and claim the Neutral Zone. 
+		128		00:09:11		092		-->		00:09:13		140		Nelvana Ill is just the first step. 
+		129		00:09:13		344		-->		00:09:16		223		You're saying an entire base has already been established there? 
+		130		00:09:16		431		-->		00:09:20		061		Within 48 hours, the reactor core will be online. 
+		131		00:09:20		268		-->		00:09:24		899		So the Federation sensors that monitor the Neutral Zone just missed it. 
+		132		00:09:25		815		-->		00:09:27		408		It would seem so. 
+		133		00:09:28		860		-->		00:09:33		286		In two days, a fleet of Romulan warbirds will be within striking distance of 15 Federation sectors. 
+		135		00:09:38		536		-->		00:09:40		755		The Federation will not permit that. 
+		136		00:09:40		955		-->		00:09:45		051		Then it is war that we're talking about, isn't it? 
+		137		00:09:48		046		-->		00:09:51		892		Destroy the base now and the threat is over. 
+		138		00:09:53		384		-->		00:09:56		354		Well, I'm sure you are fatigued by your ordeal and you require medical attention. 
+		140		00:09:58		431		-->		00:10:01		856		Lieutenant Worf, will you conduct Sublieutenant Setal to the Sickbay? 
+		141		00:10:02		644		-->		00:10:04		487		We will attend to your quarters. 
+		142		00:10:04		687		-->		00:10:08		032		No doubt you will wish to question me further. 
+		143		00:10:09		943		-->		00:10:11		365		No doubt. 
+		144		00:10:24		582		-->		00:10:27		005		- Tells a hell of a story. - You don't believe it? 
+		145		00:10:27		210		-->		00:10:29		053		The Empire knows that we would never allow them to build a base within the Neutral Zone. 
+		147		00:10:31		548		-->		00:10:34		802		Commander, that would not be an atypical Romulan ploy. 
+		148		00:10:35		009		-->		00:10:38		980		In their long history of war, Romulans have rarely attacked first. 
+		149		00:10:39		180		-->		00:10:41		979		They prefer to test their enemy's resolve. 
+		150		00:10:42		183		-->		00:10:45		357		I think he's a plant, to draw us into the Neutral Zone. 
+		151		00:10:45		562		-->		00:10:47		314		That way, we look like the aggressors. 
+		152		00:10:47		522		-->		00:10:49		570		And the Romulans would have a legitimate excuse 
+		153		00:10:49		774		-->		00:10:51		947		- for responding in force. - Exactly. 
+		154		00:10:52		152		-->		00:10:55		372		That would also not be an atypical Romulan ploy, sir. 
+		155		00:10:55		905		-->		00:10:59		000		It's always a game of chess with them, isn't it? 
+		156		00:10:59		200		-->		00:11:01		498		Well, at least he's given us a chance to get a look at some Romulan technology close-up. 
+		158		00:11:05		206		-->		00:11:07		800		Mr. La Forge, you will lead the away team over to the scout. 
+		159		00:11:08		001		-->		00:11:12		256		Commander, you and Counselor Troi will conduct Setal's interrogation. 
+		160		00:11:12		463		-->		00:11:14		886		Captain, permission to observe the interrogation. 
+		161		00:11:15		091		-->		00:11:17		344		No, Mr. Data, I need you on the Bridge with me. 
+		162		00:11:17		552		-->		00:11:18		895		There is much to be done. 
+		163		00:11:19		095		-->		00:11:22		269		We have less than 48 hours to prevent a war. 
+		164		00:11:23		016		-->		00:11:26		862		Or perhaps to start one. 
+		165		00:11:27		437		-->		00:11:30		611		This will depend on establishing the truth... 
+		166		00:11:37		197		-->		00:11:40		326		I set the auto-destruct sequencer before I left the ship. 
+		167		00:11:40		533		-->		00:11:42		126		Why? 
+		168		00:11:42		785		-->		00:11:44		332		Wouldn't you? 
+		169		00:11:44		537		-->		00:11:46		255		To prevent your ship from being captured. 
+		170		00:11:46		456		-->		00:11:48		254		Excuse me for being a little confused, Setal, but I thought you were defecting. 
+		172		00:11:50		293		-->		00:11:52		512		I am not a traitor. 
+		173		00:11:54		547		-->		00:11:59		269		All you can see is the opportunity to exploit me. Hmm. 
+		174		00:11:59		552		-->		00:12:02		726		The Federation credo, exploitation, heh. 
+		175		00:12:02		931		-->		00:12:05		980		Oh, you couldn't get aboard my ship fast enough, hmm? 
+		176		00:12:06		184		-->		00:12:07		936		Strip it down. 
+		177		00:12:08		144		-->		00:12:12		240		What secrets might it reveal that we can use? 
+		178		00:12:12		690		-->		00:12:14		943		You're short-sighted people. 
+		179		00:12:15		568		-->		00:12:17		286		Can't you understand? 
+		180		00:12:17		487		-->		00:12:18		784		I came to stop a war. 
+		181		00:12:18		988		-->		00:12:21		491		If you could just hold still. 
+		182		00:12:25		453		-->		00:12:29		299		With your metabolism, this will heal in a few moments. 
+		183		00:12:33		753		-->		00:12:34		845		Hmm. 
+		184		00:12:35		046		-->		00:12:36		923		Thank you, doctor. 
+		185		00:12:37		799		-->		00:12:40		848		How fortunate that you know something of Romulan medicine. 
+		186		00:12:42		262		-->		00:12:45		186		Yes, I had a chance to gain some experience recently. 
+		187		00:12:45		390		-->		00:12:49		361		Oh, yes, the incident at the Galorndon Core. 
+		188		00:12:49		560		-->		00:12:50		686		- Mm-hm. - The two officers. 
+		189		00:12:50		895		-->		00:12:54		866		You are aware of a great deal for a logistics clerk. 
+		190		00:12:57		235		-->		00:12:59		909		It was common knowledge. 
+		191		00:13:01		864		-->		00:13:03		081		I can show you my rating code. 
+		192		00:13:03		283		-->		00:13:06		958		Forged credentials are a simple matter for a spy. 
+		193		00:13:08		037		-->		00:13:14		886		How do you allow Klingon <i>pahtk</i> to walk around in a Star-fleet uniform? 
+		194		00:13:16		963		-->		00:13:19		341		You are lucky this is not a Klingon ship. 
+		195		00:13:19		549		-->		00:13:23		599		- We know how to deal with spies. - Remove this tohzah from my sight. 
+		196		00:13:24		470		-->		00:13:27		269		Your knowledge of Klingon curses is impressive. 
+		197		00:13:27		473		-->		00:13:28		599		But as a Romulan might say, only a veruu/ would use such language in public. 
+		199		00:13:33		021		-->		00:13:38		403		Mr. Worf, please see to the security arrangements for our guest's stay. 
+		200		00:13:38		609		-->		00:13:40		327		Aye, sir. 
+		201		00:13:45		825		-->		00:13:48		294		You find something amusing? 
+		202		00:13:49		203		-->		00:13:51		797		Lieutenant Worf. I like him. 
+		203		00:13:51		998		-->		00:13:54		126		To be more accurate, I understand him. 
+		204		00:13:54		334		-->		00:13:59		591		A warrior. Proud, fearless, living only for combat. 
+		205		00:14:01		174		-->		00:14:05		304		Exactly the type that will get us all killed if we're not careful. 
+		206		00:14:19		984		-->		00:14:21		406		This is the food station. 
+		207		00:14:21		611		-->		00:14:24		410		You can reach me through the companel. 
+		208		00:14:26		407		-->		00:14:29		331		Later we'd like to ask you a few more questions. 
+		209		00:14:33		998		-->		00:14:35		875		Computer, water. 
+		210		00:14:36		084		-->		00:14:38		178		<i>- Temperature?</i> <i>- Twelve onkians.</i> 
+		211		00:14:38		378		-->		00:14:42		474		<i>This system is calibrated to the Celsius metric system.</i> 
+		212		00:14:43		049		-->		00:14:46		644		Any temperature at all on the cold side of whatever your system is. 
+		213		00:15:23		840		-->		00:15:27		470		There is no unusual activity in the Nelvana system, sir. 
+		214		00:15:27		927		-->		00:15:31		227		Let's isolate and magnify that system. 
+		215		00:15:32		140		-->		00:15:34		188		Nothing on the sensors. 
+		216		00:15:37		061		-->		00:15:40		656		It's hard to believe in what we cannot see. 
+		217		00:15:41		649		-->		00:15:46		120		And yet conceivably, with their cloaking technology, a fleet of Romulan warbirds could be passing before our eyes. 
+		219		00:15:51		409		-->		00:15:54		504		There must be some way to neutralize this advantage. 
+		220		00:15:54		704		-->		00:15:57		457		<i>Captain Picard, priority-one message from Starﬂeet</i> 
+		221		00:15:57		665		-->		00:16:00		418		<i>coming in on secured channel.</i> 
+		222		00:16:01		002		-->		00:16:02		800		In my Ready Room. 
+		223		00:16:03		129		-->		00:16:04		597		Computer, delay time? 
+		224		00:16:04		797		-->		00:16:05		844		<i>Two hours, 22-minute</i> 
+		225		00:16:06		048		-->		00:16:10		428		<i>delay from time of transmission at Starﬂeet Command on Lya HI.</i> 
+		226		00:16:14		515		-->		00:16:18		315		Computer, key access 412-mark-80, Picard, Jean-Luc, 
+		227		00:16:18		519		-->		00:16:22		240		Starfleet priority code Gamma. Decode. 
+		228		00:16:23		065		-->		00:16:24		237		Begin message. 
+		229		00:16:24		442		-->		00:16:27		366		<i>Captain, we have received an official protest</i> 
+		230		00:16:27		570		-->		00:16:31		245		<i>from the Romufan Empire demanding the return of your defector.</i> 
+		231		00:16:31		741		-->		00:16:34		369		<i>Obviously, we are refusing to comply.</i> 
+		232		00:16:34		577		-->		00:16:39		003		<i>I join in your skepticism, but if it is a deception,</i> 
+		233		00:16:39		207		-->		00:16:42		177		<i>the Romulans are certainty making a good show of it.</i> 
+		234		00:16:42		376		-->		00:16:46		006		<i>The Federation Council has convened an emergency session.</i> 
+		235		00:16:48		132		-->		00:16:50		055		<i>There is no doubt in my mind</i> 
+		236		00:16:50		259		-->		00:16:53		263		<i>that this will eventually fall on your shoulders, Jean-Luc.</i> 
+		237		00:16:53		471		-->		00:16:54		643		<i>You've got him.</i> 
+		238		00:16:54		847		-->		00:16:57		225		<i>You must decide if he's telling the truth.</i> 
+		239		00:16:57		433		-->		00:17:01		404		<i>For now, I suggest you proceed along the Neutral Zone border</i> 
+		240		00:17:01		604		-->		00:17:06		280		<i>toward a Federation position proximate to Nelvana lii.</i> 
+		241		00:17:15		326		-->		00:17:17		670		- Picard to Lieutenant Worf. - Yes, captain? 
+		242		00:17:17		828		-->		00:17:19		296		Please, come to my Ready Room. 
+		243		00:17:19		497		-->		00:17:21		750		<i>Aye, sir. On my way.</i> 
+		244		00:17:24		001		-->		00:17:25		799		Slow playback. 
+		245		00:17:26		712		-->		00:17:29		932		Display engine logs and power data for both vessels. 
+		246		00:17:30		466		-->		00:17:33		766		Now watch what happens at 095433 on the clock. 
+		247		00:17:33		970		-->		00:17:35		450		The scout has sustained engine damage, forcing him to slow to .615 impulse power. 
+		249		00:17:38		307		-->		00:17:41		356		The warship should overtake him, but it doesn't. 
+		250		00:17:41		561		-->		00:17:44		064		Now, just 2.6 seconds later, the warship slows to precisely the same speed. 
+		252		00:17:46		899		-->		00:17:48		947		Three times, three speed fluctuations, the warship kept its distance every time. 
+		254		00:17:51		279		-->		00:17:52		781		I don't think they wanted to catch up. 
+		255		00:17:52		989		-->		00:17:56		209		And yet they fired on the scout ship. They could have killed him. 
+		256		00:17:56		409		-->		00:17:57		956		Not necessarily, doctor. 
+		257		00:17:58		160		-->		00:17:59		833		The Romulans have the same capability to direct the impact of their weapons <i>as</i> we do. 
+		259		00:18:02		456		-->		00:18:03		628		Hmm. 
+		260		00:18:03		833		-->		00:18:07		508		Is there a possibility the wound could be self-inﬂicted? 
+		261		00:18:08		546		-->		00:18:12		141		They're very bad burns. I hardly think... 
+		262		00:18:12		758		-->		00:18:14		135		A possibility? 
+		263		00:18:16		304		-->		00:18:17		351		Yes. 
+		264		00:18:18		306		-->		00:18:21		856		<i>Captain's log, stardate <stardate>43463</stardate>.7.</i> 
+		265		00:18:22		059		-->		00:18:24		107		<i>We are holding a position at the Neutral Zone border</i> 
+		266		00:18:24		312		-->		00:18:26		189		<i>proximate to Nelvana Ill.</i> 
+		267		00:18:26		397		-->		00:18:29		742		<i>If our guest is telling the truth, there are 21 hours left</i> 
+		268		00:18:29		942		-->		00:18:32		786		<i>before the Romulan base becomes functional.</i> 
+		269		00:18:32		987		-->		00:18:35		661		<i>The Monitor and the</i> Hood <i>are headed in your direction,</i> 
+		270		00:18:35		865		-->		00:18:38		118		<i>though they will arrive too late to be of assistance.</i> 
+		271		00:18:38		326		-->		00:18:41		375		<i>Warnings have gone out to ail outposts along the border</i> 
+		272		00:18:41		579		-->		00:18:45		049		<i>as well as several independent vessels in nearby sectors.</i> 
+		273		00:18:45		249		-->		00:18:47		217		<i>No one here wants a war, captain.</i> 
+		274		00:18:47		418		-->		00:18:50		171		<i>But we are prepared to take them on if that is what they want.</i> 
+		275		00:18:50		379		-->		00:18:54		600		<i>All Federation starshlps have been placed on yellow alert.</i> 
+		276		00:18:56		135		-->		00:18:57		182		Come. 
+		277		00:19:00		264		-->		00:19:01		516		You wanted to see me, captain. 
+		278		00:19:01		724		-->		00:19:04		352		Yes, Data, I want you to prepare a class-1 probe. 
+		279		00:19:04		560		-->		00:19:06		187		Set the sensors for maximum scan. 
+		280		00:19:06		395		-->		00:19:09		649		I want every meter of Nelvana Ill monitored. 
+		281		00:19:09		857		-->		00:19:13		737		- I will start my calibrations, sir. - Data. 
+		282		00:19:17		448		-->		00:19:19		826		Is there something else you require of me, captain? 
+		283		00:19:22		286		-->		00:19:24		380		Your clarity of thought. 
+		284		00:19:24		580		-->		00:19:27		299		Your objectivity, as always. 
+		285		00:19:27		500		-->		00:19:29		252		Sit down. 
+		286		00:19:32		963		-->		00:19:37		139		Data, it's very possible that we are about to go to war. 
+		287		00:19:38		052		-->		00:19:41		807		The repercussions of what we do during the next 24 hours may be felt for years to come. 
+		289		00:19:44		016		-->		00:19:47		111		I want you to keep a record of these events so that history will have the benefit of a dispassionate view. 
+		291		00:19:53		984		-->		00:19:56		453		I will begin immediately, sir. Is that all? 
+		292		00:19:57		154		-->		00:19:59		282		How is the crew's spirit? 
+		293		00:19:59		490		-->		00:20:03		495		They are concerned, of course, captain, but confident. 
+		294		00:20:03		994		-->		00:20:05		587		Do you not see that, sir? 
+		295		00:20:07		707		-->		00:20:09		709		Data, unlike King Henry, it is not easy for me to disguise myself and walk among my troops. 
+		297		00:20:16		132		-->		00:20:17		384		That'll be all. 
+		298		00:20:30		604		-->		00:20:33		574		Now if these men do not die well, it will be a black matter for the king who led them to it. 
+		300		00:20:42		742		-->		00:20:45		336		Why must we waste time playing this ridiculous game? 
+		301		00:20:45		536		-->		00:20:46		879		There's more here than you're telling us. 
+		302		00:20:47		079		-->		00:20:48		922		You're forcing yourself to hold back. 
+		303		00:20:49		123		-->		00:20:52		297		I have told you everything relevant about Nelvana Ill. 
+		304		00:20:52		501		-->		00:20:54		174		I'm not talking about the base. 
+		305		00:20:54		378		-->		00:20:56		221		The base is all that matters. 
+		306		00:20:56		422		-->		00:20:59		642		- You're lying, Setal. - Go to Nelvana Ill and you will see. 
+		307		00:20:59		842		-->		00:21:02		095		We're not going anywhere until we get to the truth. 
+		308		00:21:02		303		-->		00:21:03		850		<i>- You're a spy, aren't you'? - No.</i> 
+		309		00:21:04		054		-->		00:21:06		148		Then prove it. You can begin by telling me something about the location and the strength of the Romulan fleet. 
+		311		00:21:09		226		-->		00:21:11		320		- I don't know it. - You're a logistics officer. 
+		312		00:21:11		520		-->		00:21:12		646		For one sector only. 
+		313		00:21:12		855		-->		00:21:14		416		- Who is your superior officer? - Jarok. 
+		314		00:21:14		607		-->		00:21:16		951		The location of the Romulan bases along the Neutral Zone? 
+		315		00:21:17		151		-->		00:21:18		653		- I don't know. - In your sector? 
+		316		00:21:18		861		-->		00:21:20		261		- Irrelevant! - The number of troops 
+		317		00:21:20		446		-->		00:21:24		121		- under your admiral's command? - Irrelevant! Irrelevant! 
+		318		00:21:28		287		-->		00:21:29		880		I guess you're right. 
+		319		00:21:30		080		-->		00:21:32		299		It's not worth playing this game. 
+		320		00:21:32		500		-->		00:21:35		629		Oh, what a fool I've been, to come looking for courage in a lair of cowards. 
+		322		00:21:46		138		-->		00:21:47		230		<i>Captain Picard,</i> 
+		323		00:21:47		431		-->		00:21:51		106		<i>priority message from security officer, Klingon vessel Bums.</i> 
+		324		00:21:51		310		-->		00:21:54		359		Mr. Worf, will you handle this at Security Station Deck 9? 
+		325		00:21:54		563		-->		00:21:56		190		Aye, sir. 
+		326		00:21:57		066		-->		00:21:59		535		Sensors are configured for planetary probe, sir. 
+		327		00:21:59		735		-->		00:22:02		955		- Ready for launch. - Proceed. 
+		328		00:22:09		203		-->		00:22:11		046		Probe on course. 
+		329		00:22:11		247		-->		00:22:13		090		Sensors are functioning. 
+		330		00:22:13		290		-->		00:22:15		088		Coordinate your analysis with Mr. La Forge. 
+		331		00:22:15		292		-->		00:22:17		966		I want this report with dispatch. 
+		332		00:22:22		550		-->		00:22:25		269		I don't know, Data. My gut tells me we ought to be listening to what this guy's trying to tell us. 
+		334		00:22:27		346		-->		00:22:30		395		- Your gut? - It's just, uh, a feeling, you know. 
+		335		00:22:30		599		-->		00:22:32		476		An instinct, intuition. 
+		336		00:22:33		435		-->		00:22:36		780		But those qualities would interfere with rational judgment, would they not? 
+		337		00:22:36		981		-->		00:22:38		528		You're right, sometimes they do. 
+		338		00:22:39		149		-->		00:22:41		447		Then why not rely strictly on the facts? 
+		339		00:22:41		652		-->		00:22:44		906		Because you just can't rely on the plain and simple facts. 
+		340		00:22:45		114		-->		00:22:47		412		Sometimes they lie. 
+		341		00:22:48		826		-->		00:22:52		456		They can lead to the wrong conclusions, but they cannot lie. 
+		342		00:22:52		663		-->		00:22:54		631		Yeah? Well, what do you think? 
+		343		00:22:54		832		-->		00:22:56		505		Is he a defector or not? 
+		344		00:22:56		709		-->		00:22:59		929		The facts to date would lead to the objective conclusion that he is not. 
+		345		00:23:00		129		-->		00:23:02		427		Yeah, somehow I think we're gonna catch the Romulans with their pants down on Nelvana Ill just like he says. 
+		347		00:23:10		556		-->		00:23:13		275		- "With their pants..."? - A metaphor. 
+		348		00:23:13		475		-->		00:23:15		603		Catching them in the act. 
+		349		00:23:15		978		-->		00:23:19		198		- Because your gut tells you so? - Exactly. 
+		350		00:23:19		398		-->		00:23:22		743		But you can't always go with your gut either. It's... 
+		351		00:23:22		943		-->		00:23:25		822		Well, it's a combination, Data. 
+		352		00:23:26		030		-->		00:23:27		591		All right, I'll put it to you this way. 
+		353		00:23:27		781		-->		00:23:30		705		All these feelings that get in the way of human judgment, that confuse the hell out of us, that make us second-guess ourselves,  well, we need them. 
+		356		00:23:36		790		-->		00:23:40		590		We need them to help us fill in the missing pieces, because we almost never have all the facts. 
+		358		00:23:45		633		-->		00:23:49		888		So a person fills in the missing pieces of the puzzle with his own personality, resulting in a conclusion  based as much on instinct and intuition as on fact. 
+		361		00:23:58		354		-->		00:24:00		402		- Now you're getting it. - Hmm. 
+		362		00:24:03		317		-->		00:24:08		198		But what does one do if he has no instinct or intuition? 
+		363		00:24:09		615		-->		00:24:15		338		Data, look at this. The facts just took a left turn. 
+		364		00:24:16		121		-->		00:24:18		374		As the probe went into orbit around Nelvana III, it began picking up low-level subspace radio emissions. 
+		366		00:24:22		086		-->		00:24:24		839		- Could they be naturally occurring? - No, sir. 
+		367		00:24:25		047		-->		00:24:26		970		The patterns are clearly artificial. 
+		368		00:24:27		174		-->		00:24:30		303		The signal was so faint, ship sensors couldn't read it from this distance. 
+		369		00:24:30		511		-->		00:24:32		184		- Can we decode it? - We've tried. 
+		370		00:24:32		388		-->		00:24:34		641		It's probably Romulan, but we can't be sure. 
+		371		00:24:34		848		-->		00:24:37		226		We've also picked up ionization disturbances. 
+		372		00:24:37		434		-->		00:24:40		779		Cloaked Romulan ships could produce that effect. 
+		373		00:24:42		940		-->		00:24:44		283		What about the planet's surface? 
+		374		00:24:44		483		-->		00:24:47		157		Reading nothing but barren rock. I don't know. 
+		375		00:24:47		361		-->		00:24:50		911		They might be able to hide a base from our probe. Its capabilities are limited. 
+		376		00:24:51		115		-->		00:24:53		038		The only way we'll know for sure is if we go down and take a look for ourselves. 
+		378		00:24:57		871		-->		00:24:59		839		That will be all, gentlemen. 
+		379		00:25:20		811		-->		00:25:25		282		I take it you have never seen a Romulan before. 
+		380		00:25:25		607		-->		00:25:27		905		That would be an incorrect assumption. 
+		381		00:25:28		110		-->		00:25:31		284		Then why do you invade my privacy? 
+		382		00:25:31		488		-->		00:25:35		493		I was attempting to ascertain what my guts tell me about you. 
+		383		00:25:42		708		-->		00:25:44		836		You're the android. 
+		384		00:25:45		878		-->		00:25:48		927		I know a host of Romulan cyberneticists that would love to be this close to you. 
+		386		00:25:52		926		-->		00:25:56		021		I do not find that concept particularly appealing. 
+		387		00:25:57		097		-->		00:25:58		895		Nor should you. 
+		388		00:26:04		605		-->		00:26:06		482		I am told by various crew members that this viewport is their favorite on the ship. 
+		390		00:26:09		777		-->		00:26:11		199		Hmm. 
+		391		00:26:11		403		-->		00:26:14		122		I thought it would bring me some comfort. 
+		392		00:26:15		616		-->		00:26:17		960		But these are not my stars. 
+		393		00:26:19		203		-->		00:26:22		173		Even the heavens are denied me here. 
+		394		00:26:25		417		-->		00:26:27		920		Synthetic swill. 
+		395		00:26:30		214		-->		00:26:32		558		I don't suppose your food terminals would be capable of producing a Romulan ale. 
+		397		00:26:36		345		-->		00:26:37		545		I am afraid that would require the molecular structure of the beverage in question. 
+		399		00:26:40		390		-->		00:26:41		937		And as you are no doubt aware, our knowledge of your planet is quite limited. 
+		401		00:26:44		853		-->		00:26:47		481		The loss is yours. 
+		402		00:26:48		232		-->		00:26:52		408		For I have visited over a hundred different worlds and none possess the awesome beauty of Romulus. 
+		404		00:26:58		158		-->		00:27:02		129		Am I correct in assuming you regret your decision to come here? 
+		405		00:27:02		329		-->		00:27:04		423		What I did had to be done. 
+		406		00:27:07		709		-->		00:27:10		963		But never again to see the Firefalls at Gal'gathong  and the spires of my home <i>as</i> they rise above the Apnex Sea at dawn... 
+		409		00:27:26		603		-->		00:27:30		107		It's a bitter thing to be exiled from your own home. 
+		410		00:27:30		732		-->		00:27:34		782		It does appear unlikely you will ever be allowed to return to your planet. 
+		411		00:27:36		655		-->		00:27:39		875		The cold reaction of an android. 
+		412		00:27:44		538		-->		00:27:47		758		But perhaps we can bring Romulus to you. 
+		413		00:27:52		087		-->		00:27:53		589		<i>Program complete.</i> 
+		414		00:27:53		797		-->		00:27:55		720		Run program. 
+		415		00:27:58		427		-->		00:28:00		100		After you. 
+		416		00:28:17		112		-->		00:28:18		830		The Valley of Julah. 
+		417		00:28:19		031		-->		00:28:20		908		I know it well. 
+		418		00:28:22		618		-->		00:28:25		542		You are free to stay here as long as you wish. 
+		419		00:28:28		457		-->		00:28:30		835		I no longer live here. 
+		420		00:28:31		793		-->		00:28:33		511		Turn it off. 
+		421		00:28:36		131		-->		00:28:38		054		Cancel program. 
+		422		00:28:39		927		-->		00:28:41		895		This... 
+		423		00:28:43		138		-->		00:28:46		517		This is my home now, my future. 
+		424		00:28:46		725		-->		00:28:49		148		I have sacrificed everything. 
+		425		00:28:49		353		-->		00:28:52		482		It must not be in vain. 
+		426		00:28:54		191		-->		00:28:58		071		Arrange a meeting between myself and Captain Picard. 
+		427		00:29:02		491		-->		00:29:07		372		Tell him Admiral Jarok wants to see him. 
+		428		00:29:12		876		-->		00:29:18		007		<i>Captain, we have confirmed that you are holding Admiral Aiidar Jarok.</i> 
+		429		00:29:18		215		-->		00:29:19		735		<i>He has been identified as the commander</i> 
+		430		00:29:19		925		-->		00:29:22		178		<i>at the massacre of the Norkan Outposts.</i> 
+		431		00:29:22		386		-->		00:29:23		888		<i>The Council strongly advises</i> 
+		432		00:29:24		096		-->		00:29:29		148		<i>that you consider Jarok an unreliable source of information.</i> 
+		433		00:29:35		899		-->		00:29:37		651		Bring him in. 
+		434		00:29:40		862		-->		00:29:43		240		Ensign, will you wait outside? 
+		435		00:29:46		034		-->		00:29:50		756		- Have a seat, Admiral Jarok. - Captain, there is no more time. 
+		436		00:29:50		956		-->		00:29:53		084		Admiral, have a seat. 
+		437		00:29:59		423		-->		00:30:03		428		You see, I'm just not convinced that you are telling the truth. 
+		438		00:30:03		635		-->		00:30:06		605		What must I do? 
+		439		00:30:06		805		-->		00:30:09		274		You must convince me. 
+		440		00:30:11		476		-->		00:30:13		979		If I had irrefutable evidence... 
+		441		00:30:14		479		-->		00:30:16		823		But you did not bring irrefutable evidence. 
+		442		00:30:17		024		-->		00:30:18		617		You brought no evidence at all. 
+		443		00:30:18		817		-->		00:30:22		162		And now, here, you are not the man you claimed to be. 
+		444		00:30:22		362		-->		00:30:28		165		Admiral, your credibility is stretched beyond belief. 
+		445		00:30:28		869		-->		00:30:33		295		A Romulan defector is almost a contradiction in terms. 
+		446		00:30:33		707		-->		00:30:36		586		But Admiral Jarok crossing the lines? 
+		447		00:30:36		793		-->		00:30:39		797		I explained my motivations to your interrogators. 
+		448		00:30:40		005		-->		00:30:43		760		Yes, yes, yes. Peace in our galaxy. 
+		449		00:30:44		217		-->		00:30:47		096		Except, admiral, you are not a man of peace. 
+		450		00:30:47		304		-->		00:30:50		524		Your military record, what we know if it, is clear. 
+		451		00:30:50		724		-->		00:30:54		774		Which is precisely why I chose an alternate identity here. 
+		452		00:30:54		978		-->		00:30:58		278		The massacres at the Norkan Outposts, for example. 
+		453		00:30:59		649		-->		00:31:01		902		What you call massacres were called the Norkan Campaigns on my world, captain. 
+		455		00:31:08		033		-->		00:31:12		413		One world's butcher is another world's hero. 
+		456		00:31:12		621		-->		00:31:15		215		Perhaps I am neither one. 
+		457		00:31:19		002		-->		00:31:23		633		On what basis, admiral, am I to decide? 
+		458		00:31:24		049		-->		00:31:25		551		Hmm? 
+		459		00:31:27		344		-->		00:31:29		017		Your good word? 
+		460		00:31:30		972		-->		00:31:32		519		Are you willing to help us overpower the Romulan B-type warbirds we may encounter? 
+		462		00:31:35		685		-->		00:31:39		940		Are you prepared to help us detect them through their cloaking shields? 
+		463		00:31:44		027		-->		00:31:46		655		Well, you see my problem, admiral. 
+		464		00:31:48		365		-->		00:31:50		868		You ask us for faith in circumstances which are hardly possible to believe,  compounded by lies and your refusal to tell us what you know. 
+		467		00:31:58		375		-->		00:32:00		719		I cannot betray my people. 
+		468		00:32:00		919		-->		00:32:03		047		You've already betrayed your people, admiral! 
+		469		00:32:03		255		-->		00:32:05		804		You've made your choices, sir. You're a traitor. 
+		470		00:32:06		007		-->		00:32:10		979		Now, if the bitter taste of that is unpalatable to you, I am truly sorry. 
+		471		00:32:12		472		-->		00:32:13		974		But I will not risk my crew because you think you can dance on the edge of the Neutral Zone. 
+		473		00:32:19		396		-->		00:32:21		364		You've crossed over, admiral. 
+		474		00:32:22		315		-->		00:32:25		535		You make yourself comfortable with that. 
+		475		00:32:28		238		-->		00:32:32		584		Do you have any children, Captain Picard? A family? 
+		476		00:32:34		119		-->		00:32:35		371		No. 
+		477		00:32:35		996		-->		00:32:37		623		Hmm. 
+		478		00:32:37		831		-->		00:32:41		961		Then you have sacrificed too much for your career. 
+		479		00:32:42		169		-->		00:32:44		046		Yes, this is all very interesting... 
+		480		00:32:44		838		-->		00:32:49		560		There comes a time in a man's life that you cannot know when he looks down at the first smile of his baby girl  and realizes he must change the world for her,  for all children. 
+		484		00:33:02		272		-->		00:33:04		695		It is for her that I am here. 
+		485		00:33:04		900		-->		00:33:09		497		Not to destroy the Romulan Empire, but to save it. 
+		486		00:33:10		447		-->		00:33:14		998		For months, I tried desperately to persuade the High Command that another war would destroy the Empire. 
+		488		00:33:19		915		-->		00:33:22		213		They got tired of my arguments. 
+		489		00:33:22		417		-->		00:33:25		967		Finally I was censured, sent off to command some distant sector. 
+		490		00:33:26		171		-->		00:33:29		766		This was my only recourse. 
+		491		00:33:32		219		-->		00:33:33		641		<i>L...</i> will never see my child smile again. 
+		493		00:33:40		727		-->		00:33:45		574		She will grow up believing that her father is a traitor. 
+		494		00:33:48		109		-->		00:33:50		612		But she will grow up. 
+		495		00:33:51		196		-->		00:33:53		324		If you act, Picard. 
+		496		00:33:53		532		-->		00:33:57		082		If we stop this war before it begins. 
+		497		00:33:57		285		-->		00:33:59		037		I can't. 
+		498		00:33:59		246		-->		00:34:01		294		And I won't. 
+		499		00:34:01		665		-->		00:34:05		386		Unless I have unequivocal cooperation. 
+		500		00:34:22		727		-->		00:34:26		527		Admiral Jarok has provided me with the locations, strengths and tactical plans of the Romulan fleet. 
+		502		00:34:34		447		-->		00:34:36		165		Mr. La Forge, he is prepared to give you data regarding engines, weapons,  and the cloaking systems of the warbird-class starship. 
+		505		00:34:44		374		-->		00:34:48		004		But I believe his experience as a field commander will be more valuable for its strategic sense than in the technical areas. 
+		507		00:34:51		464		-->		00:34:53		637		- Any edge will help, captain. - Don't depend on it. 
+		508		00:34:53		842		-->		00:34:56		971		For all we know, he may still be lying, but we shall find that out soon enough. 
+		509		00:34:57		178		-->		00:35:00		648		Number One, set course for Nelvana Ill. 
+		510		00:35:06		813		-->		00:35:11		193		<i>Second officer's log, stardate <stardate>43465</stardate>.2.</i> 
+		511		00:35:11		401		-->		00:35:12		823		<i>We have entered the Neutral Zone</i> 
+		512		00:35:13		028		-->		00:35:15		372		<i>in direct violation of the Treaty of Algeron.</i> 
+		513		00:35:15		572		-->		00:35:18		416		<i>Presuming Romuian warships are cloaked and monitoring us,</i> 
+		514		00:35:18		617		-->		00:35:22		087		<i>we expect heavy resistance as we approach Nelvana Ill.</i> 
+		515		00:35:22		287		-->		00:35:25		086		- Tactical? - Nothing on sensors. 
+		516		00:35:25		582		-->		00:35:29		337		I don't like it. I would have expected a greeting party. 
+		517		00:35:30		086		-->		00:35:32		054		You echo another noteworthy commander in similar circumstances, Number One. 
+		519		00:35:34		257		-->		00:35:35		600		Countryman of yours. 
+		520		00:35:35		800		-->		00:35:37		677		George Armstrong Custer, when his Seventh Calvary arrived at the Little Bighorn. 
+		522		00:35:41		056		-->		00:35:42		603		May we have better luck. 
+		523		00:35:42		807		-->		00:35:44		559		Approaching Nelvana system. 
+		524		00:35:44		768		-->		00:35:47		021		Engage impulse engines. 
+		525		00:35:51		900		-->		00:35:53		698		Nelvana Ill on-screen. 
+		526		00:36:00		700		-->		00:36:03		294		Still no signs of them on sensors. 
+		527		00:36:03		787		-->		00:36:06		415		In a way I'd rather be fighting my way through this. 
+		528		00:36:06		623		-->		00:36:08		045		It's just too damned easy. 
+		529		00:36:08		249		-->		00:36:10		752		Prepare to enter standard orbit. 
+		530		00:36:17		050		-->		00:36:19		803		- Data? - Scanning the planet, sir. 
+		531		00:36:20		011		-->		00:36:23		311		No life forms, no power sources, no weapon systems. 
+		532		00:36:23		515		-->		00:36:26		644		- No indication of a base at all? - No, sir. 
+		533		00:36:26		851		-->		00:36:29		400		The subspace signal the probe detected? 
+		534		00:36:29		604		-->		00:36:31		322		The ionization disturbances? 
+		535		00:36:31		523		-->		00:36:36		279		I am picking them up, sir, but I cannot identify the source. 
+		536		00:36:36		653		-->		00:36:41		409		They seem to be moving in an orbital path with an 800-kilometer apogee. 
+		537		00:36:44		744		-->		00:36:47		122		Lieutenant Worf, bring the admiral up here. 
+		538		00:36:47		330		-->		00:36:49		048		Aye, sir. 
+		539		00:36:52		711		-->		00:36:55		840		Maybe they abandoned the planet after he defected. 
+		540		00:36:56		047		-->		00:36:57		765		There is no scarring on the planet surface that would denote heavy construction of any kind. 
+		542		00:37:00		760		-->		00:37:03		855		A cloaking device of some sort, to hide the entire base? 
+		543		00:37:04		055		-->		00:37:05		807		A cloaking device operating on the surface would be given away by visible distortion effects. 
+		545		00:37:15		024		-->		00:37:18		745		Perhaps you would care to explain why we are here, admiral. 
+		546		00:37:19		779		-->		00:37:22		077		There doesn't appear to be a base. 
+		547		00:37:26		286		-->		00:37:27		503		I don't understand. 
+		548		00:37:27		704		-->		00:37:30		002		Nelvana Ill, admiral. No base. 
+		549		00:37:30		206		-->		00:37:33		506		No weapons. No sign of any life at all. 
+		550		00:37:38		214		-->		00:37:43		345		But I saw the tactical communiqués. 
+		551		00:37:43		553		-->		00:37:47		603		The records, timetables for completion. 
+		552		00:37:47		807		-->		00:37:51		653		An entire legion was assigned to this section. 
+		553		00:37:52		270		-->		00:37:55		945		Is it possible they could have been feeding you disinformation? 
+		554		00:37:59		778		-->		00:38:03		499		You said that you had been censured, reassigned four months ago. 
+		555		00:38:03		698		-->		00:38:06		451		They knew of your dissatisfaction. 
+		556		00:38:06		951		-->		00:38:10		376		Could all this have been to test your loyalty? 
+		557		00:38:11		206		-->		00:38:12		674		No. 
+		558		00:38:14		459		-->		00:38:16		052		No. 
+		559		00:38:16		252		-->		00:38:18		095		It's impossible. 
+		560		00:38:28		890		-->		00:38:34		021		They let you escape with an arsenal of worthless secrets. 
+		561		00:38:34		562		-->		00:38:36		610		What other explanation is there? 
+		562		00:38:36		815		-->		00:38:39		238		Permission to withdraw from the Neutral Zone. 
+		563		00:38:40		610		-->		00:38:42		211		At your earliest convenience, Number One. 
+		564		00:38:42		403		-->		00:38:45		031		Helm, bring around 180 degrees. Geordi, get us out of here. 
+		565		00:38:45		240		-->		00:38:47		493		<i>I</i> hear you, commander. 
+		566		00:38:55		917		-->		00:38:58		045		Two Romulan warships uncloaking. 
+		567		00:38:58		253		-->		00:38:59		470		Coordinates... 
+		568		00:39:07		387		-->		00:39:09		139		- Shields holding. - Damage. 
+		569		00:39:09		347		-->		00:39:11		224		<i>Minor damage to the secondary hull.</i> 
+		570		00:39:11		432		-->		00:39:13		526		<i>Power transfer fields may be pinched off.</i> 
+		571		00:39:13		726		-->		00:39:15		444		<i>I'm working on it.</i> 
+		572		00:39:16		479		-->		00:39:19		278		- Captain? - Not yet, Mr. Worf. 
+		573		00:39:19		607		-->		00:39:22		907		This is just a tap on the shoulder, or we wouldn't be here talking about it. 
+		574		00:39:24		279		-->		00:39:26		122		The Romulans are hailing us. 
+		575		00:39:27		323		-->		00:39:28		575		On-screen. 
+		576		00:39:28		783		-->		00:39:30		376		Captain Picard, 
+		577		00:39:30		577		-->		00:39:33		672		<i>I hardly expected to see you again so soon.</i> 
+		578		00:39:34		205		-->		00:39:35		878		<i>It seems this time you are the one</i> 
+		579		00:39:36		082		-->		00:39:39		586		<i>who has made an aggressive move across the Neutral Zone.</i> 
+		580		00:39:39		794		-->		00:39:42		718		Commander Tomalak, as I'm sure you already know, we were responding to warnings of Romulan incursions at Nelvana Ill. 
+		582		00:39:47		594		-->		00:39:52		691		<i>But, captain, as you can see, there is no incursion.</i> 
+		583		00:39:52		891		-->		00:39:56		316		And the matter of the unidentified subspace radio emissions and the ionization disturbances? 
+		585		00:39:58		938		-->		00:40:02		613		<i>Ah, you must mean our orbiting probe.</i> 
+		586		00:40:02		817		-->		00:40:08		745		<i>We are studying Nelvana Ill for, uh, archaeological research.</i> 
+		587		00:40:09		741		-->		00:40:11		618		With a cloaked satellite? 
+		588		00:40:11		826		-->		00:40:13		578		Oh, really, captain, 
+		589		00:40:13		786		-->		00:40:16		915		<i>would you have us believe this satellite is an excuse</i> 
+		590		00:40:17		123		-->		00:40:19		501		<i>for your aggressive charge across the Neutral Zone?</i> 
+		591		00:40:19		709		-->		00:40:21		757		You can believe what you wish. 
+		592		00:40:21		961		-->		00:40:23		554		And we will be on our way. 
+		593		00:40:23		755		-->		00:40:26		725		<i>Without even an apology, captain?</i> 
+		594		00:40:27		091		-->		00:40:30		311		If an apology will do, then I offer it. 
+		595		00:40:30		511		-->		00:40:34		141		<i>I'm afraid it won't, so I will save you the humiliation.</i> 
+		596		00:40:34		349		-->		00:40:36		101		Get to it, Tomalak. 
+		597		00:40:37		060		-->		00:40:38		482		<i>You see, Picard,</i> 
+		598		00:40:38		686		-->		00:40:42		736		<i>after we dissect your Enterprise for every precious bit of information,</i> 
+		599		00:40:42		941		-->		00:40:45		490		<i>I intend to display its broken hull</i> 
+		600		00:40:45		693		-->		00:40:49		038		<i>in the center of the Romulan capital as a symbol of our victory.</i> 
+		601		00:40:49		238		-->		00:40:52		538		<i>It will inspire our armies for generations to come</i> 
+		602		00:40:52		742		-->		00:40:54		710		<i>and serve as a warning to any other traitor</i> 
+		603		00:40:54		911		-->		00:40:57		881		<i>who would create ripples of disloyalty.</i> 
+		604		00:41:03		211		-->		00:41:05		464		All the communiqués. 
+		605		00:41:06		464		-->		00:41:09		843		All the timetables, all the records. 
+		606		00:41:10		051		-->		00:41:14		773		They were all fiction, written for my benefit, a test. 
+		607		00:41:14		973		-->		00:41:17		442		A test of my loyalty. 
+		608		00:41:18		434		-->		00:41:24		567		And you used me to lure the <i>Enterprise</i> into the Neutral Zone. 
+		609		00:41:24		983		-->		00:41:29		830		<i>First, captain, you will return the traitor, Jarok.</i> 
+		610		00:41:30		822		-->		00:41:34		326		<i>Then you will surrender as prisoners of war.</i> 
+		611		00:41:34		534		-->		00:41:37		287		Do you seriously expect me to accept those terms? 
+		612		00:41:38		121		-->		00:41:44		504		<i>No, Captain Picard, I expect you won't.</i> 
+		613		00:41:45		169		-->		00:41:47		513		<i>You have 30 seconds to decide.</i> 
+		614		00:41:47		714		-->		00:41:50		467		I do not require one, Tomalak. 
+		615		00:41:50		675		-->		00:41:55		101		<i>1 urge you, Captain Picard, surrender.</i> 
+		616		00:41:55		430		-->		00:42:00		231		<i>Consider the men and women you would lead into</i> a <i>lost cause.</i> 
+		617		00:42:03		563		-->		00:42:07		318		If the cause is just and honorable, they are prepared to give their lives. 
+		619		00:42:09		986		-->		00:42:12		910		Are you prepared to die today, Tomalak? 
+		620		00:42:13		114		-->		00:42:18		245		<i>Ugh, I expected more from you than an idle threat, Picard.</i> 
+		621		00:42:19		245		-->		00:42:21		213		Then you shall have it. 
+		622		00:42:21		497		-->		00:42:22		919		Mr. Worf. 
+		623		00:42:23		541		-->		00:42:25		043		Aye, sir. 
+		624		00:42:33		801		-->		00:42:37		055		Klingon warships, armed and ready, sir. 
+		625		00:42:40		349		-->		00:42:42		522		What shall it be, Tomalak? 
+		626		00:42:42		894		-->		00:42:46		273		<i>You will still not survive our assault.</i> 
+		627		00:42:46		773		-->		00:42:49		117		You will not survive ours. 
+		628		00:42:49		776		-->		00:42:51		494		Shall we die together? 
+		629		00:42:54		614		-->		00:42:58		164		<i>I look forward to our next meeting, captain.</i> 
+		630		00:43:02		371		-->		00:43:05		341		Romulan disrupters are powering down, sir. 
+		631		00:43:11		589		-->		00:43:13		512		Cancel red alert. 
+		632		00:43:16		469		-->		00:43:19		939		Mr. Worf, will you extend the appreciation of the Federation and my personal gratitude to the Klingons? 
+		634		00:43:23		017		-->		00:43:24		394		Aye, sir. 
+		635		00:43:27		271		-->		00:43:29		319		Take us back, Number One. 
+		636		00:43:31		317		-->		00:43:33		740		I did it for nothing. 
+		637		00:43:34		821		-->		00:43:36		698		My home. 
+		638		00:43:37		406		-->		00:43:39		158		My family. 
+		639		00:43:40		326		-->		00:43:42		124		For nothing. 
+		640		00:43:54		257		-->		00:43:56		259		He ingested a Felodesine chip. 
+		641		00:43:56		467		-->		00:43:58		344		He must have brought it with him. 
+		642		00:43:58		553		-->		00:44:01		056		I'm sorry, captain. There was no antidote. 
+		643		00:44:01		764		-->		00:44:04		187		A letter to his wife and daughter. 
+		644		00:44:06		060		-->		00:44:11		237		Sir, he must have known it would be impossible for us to deliver it. 
+		645		00:44:13		359		-->		00:44:15		202		Today, perhaps. 
+		646		00:44:15		862		-->		00:44:19		537		But if there are others with the courage of Admiral Jarok, we may hope to see a day of peace  when we can take his letter home. 

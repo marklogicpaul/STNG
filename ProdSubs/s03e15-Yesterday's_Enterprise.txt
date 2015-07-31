@@ -1,0 +1,481 @@
+		1		00:00:06		256		-->		00:00:09		173		Alright. Try this. 
+		2		00:00:15		223		-->		00:00:17		679		- What is it? - Just try it. 
+		3		00:00:25		316		-->		00:00:29		148		You see? It's an Earth drink. Prune juice. 
+		4		00:00:30		697		-->		00:00:32		855		A warrior's drink. 
+		5		00:00:36		077		-->		00:00:38		533		You know, you always drink alone. 
+		6		00:00:38		663		-->		00:00:41		700		It wouldn't hurt you to seek out a little... 
+		7		00:00:42		917		-->		00:00:44		460		..companionship. 
+		8		00:00:47		297		-->		00:00:52		255		I would require a Klingon woman for... companionship. 
+		9		00:00:52		385		-->		00:00:55		719		- Earth females are too fragile. - Not all of them. 
+		10		00:00:56		222		-->		00:01:00		849		There are a few on this ship that would find you... tame. 
+		11		00:01:05		106		-->		00:01:06		565		Impossible. 
+		12		00:01:06		691		-->		00:01:11		318		- You never know till you try. - Then I'll never know. 
+		13		00:01:12		614		-->		00:01:17		442		- Coward! - I was merely concerned for the... safety of my crewmates. 
+		15		00:01:21		915		-->		00:01:23		373		Drink your prune juice. 
+		16		00:01:27		754		-->		00:01:30		589		Lt Worf, report to the bridge. 
+		17		00:01:30		715		-->		00:01:32		791		On my way. 
+		18		00:01:41		476		-->		00:01:42		887		No! 
+		19		00:01:48		316		-->		00:01:49		810		Analysis, Mr. Data. 
+		20		00:01:51		236		-->		00:01:54		023		Sensors read gravimetric fluctuations. 
+		21		00:01:54		155		-->		00:01:57		405		- Most unusual ones. - Unusual in what way? Specify. 
+		22		00:01:57		534		-->		00:01:59		989		Nothing I have seen before. 
+		23		00:02:02		580		-->		00:02:05		368		- Is it a wormhole? - Yes and no. 
+		24		00:02:05		500		-->		00:02:09		794		Like a time displacement. But it has no discernible event horizon. 
+		25		00:02:09		921		-->		00:02:13		539		Navigational subsystems are unable to give coordinates. 
+		26		00:02:13		675		-->		00:02:17		838		Confirmed. The phenomenon has no definable centre or outer edge. 
+		27		00:02:17		971		-->		00:02:20		177		You're saying it is and isn't there?! 
+		28		00:02:20		306		-->		00:02:24		351		I have insufficient information to make an analysis as yet. 
+		29		00:02:24		477		-->		00:02:27		229		- The dynamics of the radiation... - Captain! 
+		30		00:02:28		398		-->		00:02:30		640		Something's happening. 
+		31		00:02:30		775		-->		00:02:33		266		A new change in sensor readings. 
+		32		00:02:33		778		-->		00:02:36		316		- Mr. Data? - Scanning sensors. 
+		33		00:02:44		372		-->		00:02:48		868		Lieutenant, what are their sensor readings? Is that an enemy vessel? 
+		34		00:02:50		628		-->		00:02:53		380		I'm getting too much interference, Captain. 
+		35		00:02:57		177		-->		00:02:58		719		Now hear this. 
+		36		00:02:58		845		-->		00:03:02		463		Fleet formation briefing in main war room at 1500 hours. 
+		37		00:03:15		612		-->		00:03:17		688		This isn't right. 
+		38		00:03:18		573		-->		00:03:20		233		It's changed. 
+		39		00:03:26		706		-->		00:03:28		948		It's clearing now, Captain. 
+		40		00:03:29		751		-->		00:03:31		790		Definitely Federation starship. 
+		41		00:03:31		920		-->		00:03:33		959		Accessing registry. 
+		42		00:03:34		089		-->		00:03:35		998		Looks like they had a rough ride. 
+		43		00:03:36		132		-->		00:03:39		418		NCC... 1 701 ... 
+		44		00:03:40		512		-->		00:03:41		461		..C. 
+		45		00:03:46		059		-->		00:03:47		470		USS... 
+		46		00:03:48		561		-->		00:03:50		186		..Enterprise. 
+		47		00:05:46		302		-->		00:05:49		671		Military log, combat date 43625.2. 
+		48		00:05:49		806		-->		00:05:52		676		While investigating an unusual radiation anomaly, the Enterprise has encountered a ghost from its own past:  the Enterprise-C, the immediate predecessor to this battleship. 
+		51		00:06:03		403		-->		00:06:06		522		Sensors confirm design and specifications. 
+		52		00:06:06		656		-->		00:06:12		362		Hull and engine materials conform to methods of that time period. 
+		53		00:06:12		495		-->		00:06:15		911		But that cruiser was destroyed with all hands over 20 years ago. 
+		54		00:06:16		040		-->		00:06:20		832		Presumed destroyed. It was last seen near the Klingon outpost Narendra III exactly 22 years, three months and four days ago. 
+		56		00:06:23		840		-->		00:06:27		588		- And now they're here. - Has it been adrift for years 
+		57		00:06:27		719		-->		00:06:31		965		- or has it travelled through time? - It is a possibility, Captain. 
+		58		00:06:32		557		-->		00:06:34		300		If that hypothesis is correct, the phenomenon we have encountered is a temporal rift in space. 
+		60		00:06:37		979		-->		00:06:39		224		A rift? 
+		61		00:06:39		355		-->		00:06:42		605		Possibly a Kerr loop from superstring material. 
+		62		00:06:42		734		-->		00:06:47		479		It would require a high-energy interaction in the area to be formed. 
+		63		00:06:47		613		-->		00:06:50		899		It's certainly not stable. It could collapse at any time. 
+		64		00:06:51		034		-->		00:06:54		865		Captain. I'm able to scan the interior of the ship now, sir. 
+		65		00:06:56		205		-->		00:06:59		206		Damage to warp-field nacelles and hull-bearing struts. 
+		66		00:06:59		333		-->		00:07:01		540		Internal space frame is... 
+		67		00:07:01		669		-->		00:07:04		836		Life signs, Captain! Readings are sporadic. 
+		68		00:07:04		964		-->		00:07:07		538		Massive casualties, but some are still alive. 
+		69		00:07:07		675		-->		00:07:11		839		Bridge to sickbay. Emergency teams, stand by transporter rooms. 
+		70		00:07:12		138		-->		00:07:14		629		Belay that order, Doctor. 
+		71		00:07:15		516		-->		00:07:16		761		Respectfully... 
+		72		00:07:16		893		-->		00:07:20		807		Regardless of where they came from, they are here now and need our help. 
+		73		00:07:21		105		-->		00:07:23		264		If that ship travelled into the future, we could be dealing with variables that will alter the flow of history. 
+		75		00:07:28		321		-->		00:07:32		615		Enterprise-C is sending out a distress call, sir. Audio only. 
+		76		00:07:32		742		-->		00:07:35		909		This is Capt Garrett of the Starship Enterprise, to any Federation ship. 
+		78		00:07:38		164		-->		00:07:40		737		We have been attacked by Romulan warships and require immediate assistance. 
+		80		00:07:43		419		-->		00:07:46		586		We've lost warp drive. Life support is failing. 
+		81		00:07:46		714		-->		00:07:49		751		There's no record of a Romulan assault on that ship. 
+		82		00:07:49		884		-->		00:07:54		096		Voice message has ended, Captain. It's only an automated signal now. 
+		83		00:07:54		597		-->		00:07:58		761		Open a hailing frequency. This is Capt Picard of the Federation... of a Federation starship. Stand by to receive emergency teams. 
+		85		00:08:03		815		-->		00:08:06		270		We will handle this one step at a time. 
+		86		00:08:06		401		-->		00:08:08		939		Stabilize their power, tend their injured, and avoid all discussions of where and when they are. 
+		88		00:08:14		450		-->		00:08:16		822		Aye sir. Lieutenant... 
+		89		00:08:16		953		-->		00:08:20		203		Message coming in from Starfleet monitor stations. 
+		90		00:08:20		331		-->		00:08:22		407		Klingon battle ships approaching. 
+		91		00:08:22		542		-->		00:08:26		670		- Battle alert. Condition yellow. - Aye, sir. 
+		92		00:09:03		624		-->		00:09:05		664		- Capt Garrett? - Yes. 
+		93		00:09:05		793		-->		00:09:10		372		I'm Cmdr William Riker. Our emergency teams are on board. 
+		94		00:09:10		506		-->		00:09:12		131		Doctor? 
+		95		00:09:14		844		-->		00:09:17		169		The rest of the bridge crew is dead. 
+		96		00:09:17		305		-->		00:09:21		634		She has serious internal injuries. She must come back to the Enterprise. 
+		97		00:09:21		768		-->		00:09:23		594		- To where? - We'll explain later. 
+		98		00:09:23		728		-->		00:09:25		436		You'll explain now. 
+		99		00:09:25		563		-->		00:09:28		434		We're from a Federation ship. We answered your call. 
+		100		00:09:28		566		-->		00:09:32		184		Your ship is in good hands, but we need to get you to our sickbay. 
+		101		00:09:32		320		-->		00:09:33		944		Very well. 
+		102		00:09:36		366		-->		00:09:39		948		Crusher to transporter room. Two to beam directly to sickbay. 
+		103		00:09:40		078		-->		00:09:42		201		Stand by for transport. 
+		104		00:09:52		716		-->		00:09:55		752		It's pretty bad. Looks like they were in a hell of a fight. 
+		105		00:09:55		886		-->		00:09:59		800		If you can't stabilize life-support, we'll have to evacuate the ship. 
+		106		00:09:59		931		-->		00:10:02		636		I think I can do it. I'll have to get to Engineering. 
+		107		00:10:02		767		-->		00:10:06		267		Damage control team Alpha, meet me on level three. 
+		108		00:10:06		396		-->		00:10:07		724		Commander. 
+		109		00:10:17		991		-->		00:10:19		569		Thanks. 
+		110		00:10:20		619		-->		00:10:22		742		Cmdr William Riker. 
+		111		00:10:24		039		-->		00:10:26		874		Lt Castillo, helmsman. 
+		112		00:10:29		628		-->		00:10:32		629		- Away team reporting in, Captain. - On screen. 
+		113		00:10:34		007		-->		00:10:37		008		- Go ahead. - We've stabilized life-support. 
+		114		00:10:37		135		-->		00:10:41		631		Mr. La Forge is working on the main power couplings, but it'll take time. 
+		115		00:10:41		765		-->		00:10:43		223		It's a real mess down here. 
+		116		00:10:43		350		-->		00:10:46		220		- Survivors? - 125. 
+		117		00:10:46		770		-->		00:10:49		177		- Recommendations? - I'd hate to scrap her. 
+		118		00:10:49		314		-->		00:10:52		932		Starfleet could certainly use another ship, even if she is old. 
+		119		00:10:53		068		-->		00:10:56		104		Agreed. But we can't stay in this area too long. 
+		120		00:10:56		780		-->		00:11:00		824		If you get her under way in 9 hours we'll escort her to Starbase 1 05. 
+		121		00:11:00		951		-->		00:11:05		079		If not... we'll evacuate the survivors and destroy the ship. 
+		122		00:11:05		205		-->		00:11:08		408		- Understood, sir. - Keep me posted. Out. 
+		123		00:11:18		510		-->		00:11:19		969		Guinan? 
+		124		00:11:23		390		-->		00:11:25		098		We need to talk. 
+		125		00:11:25		225		-->		00:11:29		554		Somehow this... this is all wrong. 
+		126		00:11:29		688		-->		00:11:32		013		This is not the way it's supposed to be. 
+		127		00:11:42		857		-->		00:11:44		897		How do you think things have changed? 
+		128		00:11:45		026		-->		00:11:49		854		I look at things, people, and... they just don't feel right. 
+		129		00:11:49		990		-->		00:11:52		777		What things? What people? 
+		130		00:11:53		451		-->		00:11:57		117		You. Your uniform. The bridge... 
+		131		00:11:57		247		-->		00:11:59		453		What's the matter with the bridge? 
+		132		00:11:59		583		-->		00:12:02		418		- It's not right! - Nothing has changed. 
+		133		00:12:02		544		-->		00:12:06		542		I know that. I also know it's wrong. 
+		134		00:12:10		343		-->		00:12:13		095		- What else? - Families. 
+		135		00:12:13		221		-->		00:12:16		471		- There should be children on board. - What? 
+		136		00:12:16		600		-->		00:12:18		676		Children on the Enterprise? 
+		137		00:12:20		353		-->		00:12:23		520		- Guinan, we're at war! - No, we're not. 
+		138		00:12:24		608		-->		00:12:27		608		At least, we're not supposed to be. 
+		139		00:12:27		736		-->		00:12:32		777		This is not a ship of war. This is a ship of peace. 
+		140		00:12:44		377		-->		00:12:47		414		- What you're suggesting... - I am not suggesting. 
+		141		00:12:47		547		-->		00:12:52		968		That ship from the past is not meant to be here. It's got to go back. 
+		142		00:12:59		017		-->		00:13:01		425		Run a full electrolyte report. 
+		143		00:13:06		691		-->		00:13:09		147		Boost the level of tricordrazine. 
+		144		00:13:09		277		-->		00:13:11		317		Try to relax. 
+		145		00:13:12		030		-->		00:13:15		613		Dr Selar, report to ward stat. 
+		146		00:13:15		742		-->		00:13:19		241		Dr Selar, report to ward stat. 
+		147		00:13:22		123		-->		00:13:24		579		I'm Capt Jean-Luc Picard. 
+		148		00:13:24		709		-->		00:13:27		331		Rachel Garrett. How's my ship? 
+		149		00:13:27		963		-->		00:13:31		581		The support systems are being restored. 
+		150		00:13:31		716		-->		00:13:33		756		Continuing repairs. 
+		151		00:13:34		219		-->		00:13:38		881		Where did you come from? We didn't pick up any other Federation ships. 
+		152		00:13:42		727		-->		00:13:45		562		What's the last thing you remember? 
+		153		00:13:45		689		-->		00:13:47		847		We were answering the distress signal. 
+		154		00:13:47		983		-->		00:13:51		601		- Distress signal? - You must have heard it. 
+		155		00:13:51		736		-->		00:13:55		520		From the Klingon outpost. Narendra III. 
+		156		00:13:59		703		-->		00:14:03		119		But you didn't... did you? 
+		157		00:14:06		668		-->		00:14:09		455		This... sickbay, I've never seen anything like it, even on a starbase. And your uniform. What ship is this, Captain? 
+		159		00:14:19		556		-->		00:14:21		595		Please try to be still. 
+		160		00:14:22		809		-->		00:14:25		265		I must insist. What ship? 
+		161		00:14:29		816		-->		00:14:32		272		You're aboard the Enterprise. 
+		162		00:14:32		402		-->		00:14:35		605		1 701 ... D. 
+		163		00:14:40		201		-->		00:14:43		119		You have come 22 years into the future. 
+		164		00:14:44		748		-->		00:14:46		705		22 years... 
+		165		00:14:49		002		-->		00:14:51		244		- Does my crew know yet? - No. 
+		166		00:14:51		379		-->		00:14:53		372		I must tell them. I owe them that. 
+		167		00:14:53		506		-->		00:14:56		377		If you wish, they'll be informed. 
+		168		00:14:56		718		-->		00:14:58		675		Any reason they should not be told? 
+		169		00:14:58		803		-->		00:15:03		465		If you return to your own time with knowledge of the future... 
+		170		00:15:03		600		-->		00:15:09		934		We barely escaped with our lives. If we returned, we'd be destroyed. 
+		171		00:15:11		274		-->		00:15:14		441		Have you any idea how this happened? 
+		172		00:15:15		028		-->		00:15:20		105		There were... There was a... fierce volley of photon torpedoes. 
+		173		00:15:20		242		-->		00:15:22		115		We were hit. 
+		174		00:15:22		244		-->		00:15:24		913		A bright light, and then here. 
+		175		00:15:25		038		-->		00:15:27		446		It is possible that this exchange of fire was the catalyst for the formation of a temporal rift. 
+		177		00:15:32		170		-->		00:15:36		547		History has no record of your battle with the Romulans. 
+		178		00:15:36		675		-->		00:15:39		248		We were responding to a distress call from the Klingon outpost on Narendra Ill. 
+		180		00:15:43		056		-->		00:15:46		923		The Romulans were attacking it. We engaged them. 
+		181		00:15:47		060		-->		00:15:49		100		But there were four war birds. 
+		182		00:15:49		229		-->		00:15:55		647		The outpost was destroyed. It is regrettable you did not succeed. 
+		183		00:15:56		570		-->		00:16:00		484		A Federation starship rescuing a Klingon outpost... 
+		184		00:16:01		575		-->		00:16:04		694		..might have averted 20 years of war. 
+		185		00:16:15		672		-->		00:16:18		044		I still can't quite make myself believe it. 
+		186		00:16:18		174		-->		00:16:20		463		22 years! 
+		187		00:16:20		594		-->		00:16:22		752		I have 40 percent on forward shields. 
+		188		00:16:22		887		-->		00:16:25		639		- What do you have on aft? - 40 percent. 
+		189		00:16:25		765		-->		00:16:27		758		That won't cut it. Commander, advise Lt La Forge that shields are below minimum. 
+		191		00:16:31		104		-->		00:16:31		934		Acknowledged. 
+		192		00:16:36		109		-->		00:16:39		941		We'll never see our homes again. Our families. 
+		193		00:16:40		071		-->		00:16:43		357		How do you know your family's not still alive? 
+		194		00:16:43		491		-->		00:16:46		161		You're right. I don't. 
+		195		00:16:47		203		-->		00:16:52		708		But imagine coming home after 22 years. Would I recognize them? 
+		196		00:16:52		834		-->		00:16:55		290		What are the stats on the main phaser banks? 
+		197		00:16:55		420		-->		00:16:59		548		Emitters available, 60 percent forward, 52 percent aft. 
+		198		00:16:59		674		-->		00:17:03		624		Good. Let's take a look at the torpedo launchers. 
+		199		00:17:17		776		-->		00:17:20		349		I guess I'm lucky to be alive at all. 
+		200		00:17:20		487		-->		00:17:24		698		You may not like the future. It's been a long war. 
+		201		00:17:24		824		-->		00:17:29		451		The Federation has lost more than half of Starfleet to the Klingons. 
+		202		00:17:29		579		-->		00:17:32		746		We were negotiating a peace treaty when I left. 
+		203		00:17:32		874		-->		00:17:37		251		A lot of changes, Lieutenant. A lot of changes. 
+		204		00:17:40		340		-->		00:17:44		468		When we get a break, maybe you could fill me in on some of them. 
+		205		00:17:47		597		-->		00:17:50		053		Photon banks are depleted. 
+		206		00:17:50		183		-->		00:17:52		721		Auxiliary fusion generators are down. 
+		207		00:17:56		273		-->		00:18:00		566		It is highly probable that the temporal rift is symmetrical. 
+		208		00:18:00		694		-->		00:18:04		561		What would happen if the Enterprise-C were to fly back through it? 
+		209		00:18:04		698		-->		00:18:06		571		Back, sir? 
+		210		00:18:06		700		-->		00:18:11		196		She would emerge in her own time at almost the same instant she left. 
+		211		00:18:11		329		-->		00:18:15		030		Right in the middle of the battle with the Romulans. 
+		212		00:18:15		166		-->		00:18:19		663		- Any possibility she could survive? - None, sir. 
+		213		00:18:20		255		-->		00:18:24		418		Then sending them back would be a death sentence. 
+		214		00:18:37		529		-->		00:18:41		692		She was the first galaxy-class warship built by the Federation. 
+		215		00:18:41		825		-->		00:18:46		736		42 decks. Capable of transporting over 6,000 troops. 
+		216		00:18:46		871		-->		00:18:49		706		- How long have you been on board? - Four years. 
+		217		00:18:49		833		-->		00:18:52		371		Straight out of the Academy. 
+		218		00:18:53		044		-->		00:18:56		330		- I was lucky to get the Enterprise. - Yeah, me too. 
+		219		00:18:56		464		-->		00:18:58		587		I mean... my Enterprise. 
+		220		00:19:13		273		-->		00:19:15		764		Lieutenant, how's the ship? 
+		221		00:19:15		900		-->		00:19:19		186		We've restored minimal shields in the forward phaser banks. 
+		222		00:19:19		320		-->		00:19:21		858		Still no photon launchers or warp drive. 
+		223		00:19:22		490		-->		00:19:24		898		Concentrate on the weapons system. 
+		224		00:19:25		035		-->		00:19:28		450		From what I hear, the Federation can use all the help it can get. 
+		225		00:19:28		580		-->		00:19:32		827		And soon. Our sensors have picked up Klingon warships in the sector. 
+		226		00:19:32		959		-->		00:19:35		580		- Why wasn't I informed? - You shouldn't... 
+		227		00:19:35		712		-->		00:19:41		418		As senior officer, I want you to be my liaison to the Enterprise-D. 
+		228		00:19:41		551		-->		00:19:43		544		Where do you think you're going? 
+		229		00:19:43		678		-->		00:19:47		510		- I'm resuming my duties. - You need at least another 24 hours. 
+		230		00:19:47		640		-->		00:19:50		214		Nonsense. Doctors overprotect patients. 
+		231		00:19:50		351		-->		00:19:52		843		And captains push themselves too hard. 
+		232		00:19:53		271		-->		00:19:57		185		Doctor, my ship and my crew need me now. 
+		233		00:19:57		317		-->		00:20:00		271		24 hours might as well be 24 years. 
+		234		00:20:10		663		-->		00:20:13		830		- I need more. - There is no more. 
+		235		00:20:14		459		-->		00:20:16		452		I wish there were. 
+		236		00:20:16		586		-->		00:20:19		124		I wish I could prove it. But I can't. 
+		237		00:20:21		132		-->		00:20:24		750		- Then I can't ask them to go back. - You've got to. 
+		238		00:20:26		763		-->		00:20:30		214		Guinan, they will die moments after they return. 
+		239		00:20:30		350		-->		00:20:34		217		How can I ask them to sacrifice themselves solely on your intuition? 
+		240		00:20:34		687		-->		00:20:39		848		I don't know. But I do know that this is a mistake. 
+		241		00:20:39		984		-->		00:20:43		733		Every fibre in my being says this is a mistake. 
+		242		00:20:43		863		-->		00:20:49		652		I can't even explain it to myself. I only know that I'm right. 
+		243		00:20:51		830		-->		00:20:56		326		Who is to say that this history is any less proper than the other? 
+		244		00:20:56		459		-->		00:20:59		745		- I suppose I am. - Not good enough, dammit! 
+		245		00:21:00		171		-->		00:21:04		003		- I will not ask them to die. - 40 billion people already have. 
+		246		00:21:04		259		-->		00:21:08		588		This war's not meant to be happening. Send those people back to correct it. 
+		247		00:21:08		722		-->		00:21:13		051		What is to guarantee that if they go back they will succeed? 
+		248		00:21:15		395		-->		00:21:19		642		Every instinct is telling me this is wrong, dangerous, futile! 
+		249		00:21:22		026		-->		00:21:25		193		We've known each other a long time. 
+		250		00:21:25		321		-->		00:21:29		153		You have never known me to impose myself on anyone or take a stance based on trivial or whimsical perceptions. 
+		252		00:21:34		205		-->		00:21:37		574		This timeline must not be allowed to continue. 
+		253		00:21:37		959		-->		00:21:40		830		I've told you what you must do. 
+		254		00:21:40		962		-->		00:21:45		291		You have only your trust in me to help you decide to do it. 
+		255		00:21:55		769		-->		00:21:58		307		I mean, deflector shield technology has advanced considerably during the war. 
+		257		00:22:01		649		-->		00:22:05		778		Our heat-dissipation rates are double those of the Enterprise-C. 
+		258		00:22:05		904		-->		00:22:09		403		Which means we can hang in a firefight... a lot longer. 
+		259		00:22:13		495		-->		00:22:17		160		- Guinan? - Have you ordered yet, Tasha? 
+		260		00:22:17		916		-->		00:22:19		955		No, not yet. 
+		261		00:22:21		836		-->		00:22:24		506		- Is anything wrong? - Not a thing. 
+		262		00:22:25		757		-->		00:22:28		841		- What can I get for you? - Just a couple of TKLs. 
+		263		00:22:28		968		-->		00:22:32		219		I'm in a hurry. This is Lt Castillo. 
+		264		00:22:45		402		-->		00:22:48		356		- First time for everything. - First time? 
+		265		00:22:51		032		-->		00:22:53		321		I've never seen anything bother her before. 
+		266		00:22:55		161		-->		00:22:58		744		- What's a TKL? - Standard rations. 
+		267		00:22:58		873		-->		00:23:00		996		Food replicators are on minimum power so everything else is diverted to the defensive systems. So where was l? 
+		269		00:23:06		673		-->		00:23:09		045		You've told me more about tactical in an hour than I learned in a year at the Academy. 
+		271		00:23:11		302		-->		00:23:13		212		You'll need it, Lieutenant! 
+		272		00:23:15		265		-->		00:23:17		507		I've known you a whole day now, Lieutenant. 
+		273		00:23:17		642		-->		00:23:22		185		I won't salute if you won't. What did she call you? Tasha. 
+		274		00:23:22		313		-->		00:23:23		724		Yeah. 
+		275		00:23:25		567		-->		00:23:29		232		Almost everyone calls me Castillo. My mother calls me Richard. 
+		276		00:23:30		071		-->		00:23:32		064		OK, Castillo. 
+		277		00:23:34		659		-->		00:23:39		866		No... I think maybe I'd like it better if you called me Richard. 
+		278		00:23:43		126		-->		00:23:44		324		Richard. 
+		279		00:23:44		461		-->		00:23:49		123		This is the captain. Senior officers, report to my ready room immediately. 
+		280		00:23:49		257		-->		00:23:51		795		So much for lunch. 
+		281		00:24:09		402		-->		00:24:13		614		Are you suggesting we let them return and try to complete their mission? 
+		282		00:24:13		740		-->		00:24:18		201		- I am, Doctor. - Based on Guinan's intuition? 
+		283		00:24:18		328		-->		00:24:21		329		It won't achieve anything. They can't save Narendra Ill. 
+		284		00:24:21		456		-->		00:24:26		332		There are four Romulan war birds. The Enterprise-C would be outgunned. 
+		285		00:24:26		461		-->		00:24:29		497		- Unless we were to rearm them. - We can't do that. 
+		286		00:24:29		631		-->		00:24:32		418		If we did, we'd be altering the past. 
+		287		00:24:32		550		-->		00:24:35		172		That's what you're talking about anyway. 
+		288		00:24:35		303		-->		00:24:37		509		We're talking about restoring the past. 
+		289		00:24:37		639		-->		00:24:41		637		How could Guinan know history's been altered if she's been altered too? 
+		290		00:24:41		768		-->		00:24:45		516		Her species may have a perception that goes beyond linear time. 
+		291		00:24:45		647		-->		00:24:48		648		There are many inexplicable things about her species. 
+		292		00:24:48		775		-->		00:24:54		279		Yet she may be correct. A ship from the past has travelled through time. 
+		293		00:24:54		406		-->		00:25:00		775		How can we know the effects of that? We will never know if she is correct. 
+		294		00:25:00		912		-->		00:25:05		907		But the consequences of that possibility are too grave to ignore. 
+		295		00:25:06		751		-->		00:25:09		669		- Dismissed. - If you'd like my opinion... 
+		296		00:25:09		796		-->		00:25:14		588		I'm aware of your opinion. This is a briefing. I don't seek your consent. 
+		297		00:25:15		176		-->		00:25:20		134		With respect, you'd be asking 1 25 people to die a meaningless death. 
+		298		00:25:20		265		-->		00:25:24		891		Not necessarily meaningless. Klingons regard honour above all else. 
+		299		00:25:25		019		-->		00:25:29		681		If the crew of the Enterprise-C had died defending a Klingon outpost, it would be considered an act of honour by the Klingon empire. 
+		301		00:25:33		737		-->		00:25:37		485		Even their deaths could have prevented this war. 
+		302		00:25:37		615		-->		00:25:39		691		If the Enterprise-C returns to battle and its mission is a success, history will be changed. 
+		304		00:25:43		621		-->		00:25:49		956		This timeline will cease to exist. I've considered the alternatives. 
+		305		00:25:50		837		-->		00:25:54		288		I'll go with Guinan's recommendation. Dismissed. 
+		306		00:25:56		134		-->		00:25:59		005		If she's right, we may not even be in another timeline. 
+		307		00:25:59		137		-->		00:26:02		173		Who knows if we're even dead or alive? 
+		308		00:26:14		402		-->		00:26:16		110		Engineering. 
+		309		00:26:17		614		-->		00:26:20		235		Is Engineering your destination as well? 
+		310		00:26:21		326		-->		00:26:22		322		What? 
+		311		00:26:23		119		-->		00:26:25		610		Deck six. Sorry. 
+		312		00:26:29		459		-->		00:26:32		460		If I interpret your facial expressions correctly, you are preoccupied with something... unpleasant. 
+		314		00:26:35		590		-->		00:26:38		876		No, l... I was just thinking. 
+		315		00:26:39		594		-->		00:26:42		797		About a lot of things. 
+		316		00:26:42		931		-->		00:26:43		761		I... 
+		317		00:26:43		890		-->		00:26:48		303		I've been working with one of the officers on the Enterprise-C. 
+		318		00:26:48		436		-->		00:26:50		512		He's nice. I like him. 
+		319		00:26:50		647		-->		00:26:53		352		I'm worried about what's going to happen to him. 
+		320		00:26:53		483		-->		00:26:55		226		We may never know. 
+		321		00:26:55		360		-->		00:27:00		022		If they succeed, we will not even realize that these events occurred. 
+		322		00:27:07		539		-->		00:27:09		531		Shields are up to 72 percent. 
+		323		00:27:09		666		-->		00:27:11		705		- That's better. - Good. 
+		324		00:27:13		586		-->		00:27:15		828		Do you believe this Guinan? 
+		325		00:27:19		134		-->		00:27:24		009		I discovered long ago that she has a special wisdom. I trust it. 
+		326		00:27:25		014		-->		00:27:28		430		I could arrange for you to speak with her, if you wish. 
+		327		00:27:29		310		-->		00:27:32		845		I would be lying to you if I said there was a chance in hell of coming out of this alive. 
+		329		00:27:36		109		-->		00:27:38		232		Why not bring your ship back with us? 
+		330		00:27:38		361		-->		00:27:42		229		- The Romulans are no match for you. - I can't do that. 
+		331		00:27:43		658		-->		00:27:45		698		No, I suppose not. 
+		332		00:27:46		745		-->		00:27:50		956		You don't belong in our time any more than we belong in yours. 
+		333		00:27:51		082		-->		00:27:54		747		To be honest with you, a significant number of my crew have expressed a desire to return, even knowing the odds. 
+		335		00:27:59		424		-->		00:28:02		959		Some because they can't bear to live without their loved ones, some because they don't like slipping out in the middle of a fight. 
+		337		00:28:07		557		-->		00:28:10		641		But I have told them that in the here and now the Federation needs another ship against the Klingons. 
+		339		00:28:14		731		-->		00:28:17		815		And we'd better get used to being in the here and now. 
+		340		00:28:17		942		-->		00:28:21		987		But if you go back, it could be a great deal more helpful. 
+		341		00:28:25		658		-->		00:28:27		651		The war is going very badly for us, far worse than is generally known. 
+		343		00:28:31		164		-->		00:28:34		118		Starfleet Command believes defeat is inevitable. 
+		344		00:28:34		250		-->		00:28:39		790		Within six months, we may have no choice but to surrender. 
+		345		00:28:40		590		-->		00:28:43		710		And all this may be a result of our arrival here? 
+		346		00:28:44		260		-->		00:28:47		427		One more ship will make no difference in the here and now. 
+		347		00:28:47		555		-->		00:28:54		092		But 22 years ago, one ship could have stopped this war before it started. 
+		348		00:28:57		857		-->		00:29:01		606		- Mr. Castillo. - Yes, Captain? 
+		349		00:29:01		736		-->		00:29:05		816		- Inform the crew we're going back. - Yes, Captain. 
+		350		00:29:07		158		-->		00:29:10		243		The Romulans will get a good fight! 
+		351		00:29:10		370		-->		00:29:12		825		We'll make it one for the history books. 
+		352		00:29:14		207		-->		00:29:16		330		I know you will, Captain. 
+		353		00:29:19		587		-->		00:29:23		537		- Lt Yar? - Permission to remain a moment, sir? 
+		354		00:29:23		675		-->		00:29:25		549		Granted. 
+		355		00:29:26		636		-->		00:29:30		420		Transporter room, Capt Picard is ready to return to his ship. 
+		356		00:29:30		557		-->		00:29:32		596		Aye, Captain. 
+		357		00:29:33		768		-->		00:29:36		224		I just wanted to say good luck. 
+		358		00:29:38		815		-->		00:29:42		433		I'll put your tactical briefing to good use when we get back. 
+		359		00:29:42		569		-->		00:29:47		195		Your ship has more manoeuvrability than the Romulans of that era. 
+		360		00:29:47		323		-->		00:29:49		363		If you could just isolate... 
+		361		00:29:52		704		-->		00:29:54		743		You'll do fine. 
+		362		00:29:57		959		-->		00:29:59		916		If you get back to Earth, and you see a man, say, in his late 50s,  taking a hard, long look across a crowded room... 
+		365		00:30:10		805		-->		00:30:13		806		Hey, you never know. 
+		366		00:30:18		021		-->		00:30:20		263		Goodbye, Lieutenant. 
+		367		00:30:23		818		-->		00:30:27		187		- Red alert! Full power to shields. - Shields are up. 
+		368		00:30:27		322		-->		00:30:31		320		- Initiating evasive manoeuvres. - Ready phasers. 
+		369		00:30:31		868		-->		00:30:34		324		Enterprise-D, has your captain returned? 
+		370		00:30:34		454		-->		00:30:37		027		Acknowledged. Capt Picard is safely aboard. 
+		371		00:30:37		165		-->		00:30:39		621		- Fire phasers. - Firing phasers. 
+		372		00:30:41		586		-->		00:30:42		701		Report. 
+		373		00:30:42		837		-->		00:30:45		755		One Klingon bird of prey off the starboard bow. 
+		374		00:30:50		053		-->		00:30:53		837		- Firing phasers. - Load torpedo bays. 
+		375		00:31:06		319		-->		00:31:09		355		The Klingon vessel has recloaked. I have no readings. 
+		376		00:31:09		781		-->		00:31:12		236		Capt Garrett, damage report. 
+		377		00:31:14		202		-->		00:31:18		366		- Capt Garrett? - This is Lt Yar, sir. 
+		378		00:31:21		167		-->		00:31:23		207		Capt Garrett is dead. 
+		379		00:31:33		646		-->		00:31:37		145		I'm prepared to lead the Enterprise back myself, Capt Picard. 
+		380		00:31:37		274		-->		00:31:40		643		Lt Castillo is the last surviving senior officer. 
+		381		00:31:40		778		-->		00:31:44		989		He will have limited ops support, reduced staff in Engineering... 
+		382		00:31:45		115		-->		00:31:48		116		I have good people willing to do their best. 
+		383		00:31:48		244		-->		00:31:51		529		History never meant you to go into battle without a captain. 
+		384		00:31:52		039		-->		00:31:56		997		I cannot speak to that, but I can get us back to where we're meant to be. 
+		385		00:31:57		127		-->		00:31:59		915		That's what Capt Garrett would want me to do. 
+		386		00:32:00		047		-->		00:32:02		918		- Cmdr Data to Capt Picard. - Go ahead. 
+		387		00:32:03		050		-->		00:32:06		336		Sensors show additional instability in the time rift, possibly the result of the battle with the Klingons. 
+		389		00:32:09		807		-->		00:32:12		345		- Any signs of other Klingon vessels? - No, sir. 
+		390		00:32:12		476		-->		00:32:15		228		Our coordinates have been sent to the Klingons. 
+		391		00:32:15		354		-->		00:32:19		055		- We mustn't remain here. - Sir, it is my intention to return. 
+		392		00:32:19		567		-->		00:32:21		025		Unless you order me not to. 
+		393		00:32:23		988		-->		00:32:28		317		- How soon can your ship be ready? - We sustained moderate damage. 
+		394		00:32:28		450		-->		00:32:32		828		- We can be under way in a few hours. - Make it so. We'll give you cover. 
+		395		00:32:41		213		-->		00:32:43		289		One to beam to the Enterprise-C. 
+		396		00:32:45		759		-->		00:32:48		713		We keep saying goodbye, don't we? 
+		397		00:32:50		139		-->		00:32:53		638		- I wish we had more time. - More time? 
+		398		00:32:53		767		-->		00:32:57		136		I think we have all the time we can handle as it is! 
+		399		00:33:20		127		-->		00:33:21		871		Lieutenant. 
+		400		00:33:43		901		-->		00:33:46		356		Can I get you something, Tasha? 
+		401		00:33:48		155		-->		00:33:52		817		I have to know something. What happens to me in the other timeline? 
+		402		00:33:54		578		-->		00:33:57		828		I don't have alternate biographies of the crew. 
+		403		00:33:57		957		-->		00:34:02		665		And as I said to the captain, it's just a feeling. 
+		404		00:34:03		212		-->		00:34:07		292		But there's something more when you look at me, isn't there? 
+		405		00:34:07		424		-->		00:34:11		505		I can see it in your eyes, Guinan. We've known each other too long. 
+		406		00:34:11		637		-->		00:34:14		554		We weren't meant to know each other at all! 
+		407		00:34:14		682		-->		00:34:18		098		At least that's what I sense when I look at you. 
+		408		00:34:21		605		-->		00:34:24		690		Tasha, you're not supposed to be here. 
+		409		00:34:25		818		-->		00:34:29		685		- Where am I supposed to be? - Dead. 
+		410		00:34:33		409		-->		00:34:35		152		Do you know how? 
+		411		00:34:36		120		-->		00:34:37		863		No. 
+		412		00:34:37		997		-->		00:34:42		457		But I do know it was an empty death. A death without purpose. 
+		413		00:34:54		388		-->		00:34:56		215		Come. 
+		414		00:34:58		309		-->		00:35:00		348		Yes, Lieutenant? 
+		415		00:35:02		938		-->		00:35:06		853		Captain, I request to transfer to the Enterprise-C. 
+		416		00:35:11		530		-->		00:35:14		697		- For what reason? - They need someone at Tactical. 
+		417		00:35:14		825		-->		00:35:19		202		- We need you here. - I'm not supposed to be here, sir. 
+		418		00:35:27		087		-->		00:35:28		712		Sit down, Lieutenant. 
+		419		00:35:33		677		-->		00:35:35		717		What did she say to you? 
+		420		00:35:39		058		-->		00:35:42		676		I don't belong here, sir. 
+		421		00:35:42		811		-->		00:35:46		809		I'm... I'm... supposed to be dead. 
+		422		00:35:49		860		-->		00:35:52		861		She felt it necessary to reveal that to you? 
+		423		00:35:53		447		-->		00:35:57		445		- I felt it was necessary. - I see. 
+		424		00:36:01		956		-->		00:36:06		664		You realize that it's very possible the Enterprise-C will fail? 
+		425		00:36:06		794		-->		00:36:13		675		We will continue in this timeline, in which case your life, hopefully, will continue for a long while. 
+		427		00:36:15		970		-->		00:36:21		130		I know how important it is that they don't fail. It's why I request this. 
+		428		00:36:21		392		-->		00:36:26		018		- You don't belong on that ship. - No, Capt Garrett belongs on it. 
+		429		00:36:26		146		-->		00:36:31		105		But she's dead. And I think there's a certain logic in this request. 
+		430		00:36:31		235		-->		00:36:34		271		There's no logic in this at all! 
+		431		00:36:34		405		-->		00:36:36		943		Whether they succeed or not,... 
+		432		00:36:41		370		-->		00:36:44		075		..the Enterprise-C will be destroyed. 
+		433		00:36:44		206		-->		00:36:46		876		But at least with someone at Tactical, they will have a chance to defend themselves well. 
+		435		00:36:51		130		-->		00:36:56		670		It may be a matter of seconds, but those could change history. 
+		436		00:36:57		344		-->		00:37:00		760		Guinan says I died a senseless death in the other timeline. 
+		437		00:37:00		890		-->		00:37:03		890		I didn't like the sound of that, Captain. 
+		438		00:37:06		228		-->		00:37:10		522		I've always known the risks that come with the Starfleet uniform. 
+		439		00:37:13		444		-->		00:37:15		483		If I'm to die in one,... 
+		440		00:37:17		031		-->		00:37:20		150		..I'd like my death to count for something. 
+		441		00:37:20		910		-->		00:37:22		368		Lieutenant... 
+		442		00:37:25		706		-->		00:37:27		663		Permission granted. 
+		443		00:37:36		008		-->		00:37:38		048		Thank you, sir. 
+		444		00:37:48		086		-->		00:37:52		499		I've got phaser banks at 70 percent efficiency. We've got an hour left. 
+		445		00:37:52		633		-->		00:37:55		799		- Let's try and get them up to 90. - Aye, sir. 
+		446		00:37:57		304		-->		00:38:02		180		Parker, you've got ops. Fredericks, take the conn. 
+		447		00:38:02		309		-->		00:38:07		137		I'll handle Tactical. Lt Tasha Yar reporting for duty, sir. 
+		448		00:38:14		196		-->		00:38:16		023		- You're not in my crew. - I am now. 
+		449		00:38:16		156		-->		00:38:19		857		Capt Picard approved my request for transfer. 
+		450		00:38:22		245		-->		00:38:24		452		This isn't a joke, Tasha. 
+		451		00:38:24		581		-->		00:38:28		164		We're going back into the rift, into battle. We're not coming back. 
+		452		00:38:28		293		-->		00:38:31		876		I know the mission. These are my orders, Lieutenant. 
+		453		00:38:33		674		-->		00:38:36		378		- But I don't want you here. - You need me here. 
+		454		00:38:36		677		-->		00:38:40		010		Can someone in your crew do the job better than I can? 
+		455		00:38:45		811		-->		00:38:47		850		Welcome aboard. 
+		456		00:38:50		274		-->		00:38:53		310		- Take your station, Lieutenant. - Aye, sir. 
+		457		00:39:05		621		-->		00:39:07		329		Military log, supplemental. 
+		458		00:39:07		456		-->		00:39:10		956		Lt Tasha Yar has transferred to the Enterprise-C, where she has taken over tactical duties. 
+		460		00:39:13		754		-->		00:39:18		297		Meanwhile we have picked up Klingon cruisers on an intercept course. 
+		461		00:39:18		801		-->		00:39:23		712		- Number and type of ships? - Three K'vort-class battle cruisers. 
+		462		00:39:23		848		-->		00:39:27		181		- Not even cloaking themselves. - They shouldn't be so confident, after the pasting they got on Archer IV. 
+		464		00:39:30		563		-->		00:39:32		602		Attention all hands. 
+		465		00:39:33		274		-->		00:39:36		275		As you know, we could outrun the Klingon vessels, but we must protect the Enterprise-C until she enters the temporal rift,  and we must succeed. 
+		468		00:39:44		493		-->		00:39:48		242		Let's make sure history never forgets the name... 
+		469		00:39:49		498		-->		00:39:52		334		..Enterprise. Picard out. 
+		470		00:40:04		388		-->		00:40:06		132		- Mr. Data? - Shields are holding. 
+		471		00:40:06		265		-->		00:40:07		925		Hold fire. 
+		472		00:40:08		059		-->		00:40:12		886		Mr. Crusher, come about to course 1 48 003. 
+		473		00:40:13		022		-->		00:40:15		691		- Aye, sir. - Photon torpedoes are ready. 
+		474		00:40:15		816		-->		00:40:19		980		Dispersal pattern... sierra. And fire! 
+		475		00:40:25		660		-->		00:40:27		368		One enemy target hit, sir. 
+		476		00:40:27		495		-->		00:40:30		365		Moderate damage to their forward shields. 
+		477		00:40:32		083		-->		00:40:35		416		Shields still holding. Minor damage to secondary hull. 
+		478		00:40:41		050		-->		00:40:43		292		Course 1 48... 
+		479		00:40:43		427		-->		00:40:48		006		Correction, course 1 70 mark 01 4. 
+		480		00:40:48		140		-->		00:40:51		509		Sir, one ship is breaking off towards the Enterprise-C. 
+		481		00:40:51		644		-->		00:40:54		680		Mr. Crusher, keep us within 200 km of the Enterprise-C. 
+		482		00:40:54		814		-->		00:40:59		357		Coming to 217 mark 115, increasing to two-thirds impulse. 
+		483		00:41:12		290		-->		00:41:14		697		Damage control teams, deck 1 4! 
+		484		00:41:14		834		-->		00:41:18		084		Engineering to bridge. Starboard power coupling is down. 
+		485		00:41:18		212		-->		00:41:21		877		Field generator three is damaged. Attempting to bypass. 
+		486		00:41:23		342		-->		00:41:25		880		- If we lose antimatter... - Acknowledged. 
+		487		00:41:26		012		-->		00:41:29		381		The Klingons are attempting to draw us away from Enterprise-C. 
+		488		00:41:29		515		-->		00:41:32		966		Hold course. Continual fire, all phasers. 
+		489		00:41:41		110		-->		00:41:43		150		One enemy target destroyed, sir. 
+		490		00:41:52		830		-->		00:41:56		116		- Damage report? - Casualty in the secondary hull. 
+		491		00:41:56		250		-->		00:41:58		919		Navigational sensor array inoperative. 
+		492		00:42:03		674		-->		00:42:06		711		Antimatter containment fields are failing. 
+		493		00:42:06		844		-->		00:42:09		880		I may have to dump the reactor core or she'll blow! 
+		494		00:42:12		600		-->		00:42:14		842		Shields buckling. They will not... 
+		495		00:42:16		395		-->		00:42:21		141		I can't hold the containment fields. Initiating emergency shutdown! 
+		496		00:42:30		660		-->		00:42:34		242		Coolant leak in the engine core. I can't shut it down. 
+		497		00:42:34		372		-->		00:42:37		456		I estimate two minutes to a warp core breach! 
+		498		00:42:41		504		-->		00:42:43		543		Go! Go! Go! 
+		499		00:42:46		425		-->		00:42:49		759		- How long till they enter the rift? - 52 seconds, sir. 
+		500		00:42:52		807		-->		00:42:55		594		All remaining power to the defence systems. 
+		501		00:42:55		726		-->		00:43:00		020		Power couplings severed in forward phaser banks. Attempting to bypass. 
+		502		00:43:01		440		-->		00:43:03		480		Controls not responding. 
+		503		00:43:10		408		-->		00:43:15		283		Federation ship Enterprise, surrender and prepare to be boarded. 
+		504		00:43:15		413		-->		00:43:17		619		That will be the day! 
+		505		00:43:43		608		-->		00:43:45		730		Report, Lieutenant. 
+		506		00:43:45		860		-->		00:43:50		356		Readings fluctuated. It appeared to be a ship, but then it vanished. 
+		507		00:43:50		823		-->		00:43:53		029		The phenomenon is closing in on itself. 
+		508		00:43:53		451		-->		00:43:56		120		Very well. Prepare a class-one sensor probe. 
+		509		00:43:56		245		-->		00:43:59		329		We'll leave it behind to monitor the final closure. 
+		510		00:43:59		457		-->		00:44:01		864		Lay in a course for Archer IV. 
+		511		00:44:02		501		-->		00:44:04		708		Captain, this is Guinan. 
+		512		00:44:04		837		-->		00:44:08		586		- Is everything alright up there? - Guinan?! 
+		513		00:44:10		134		-->		00:44:14		346		Yes, everything's fine. Something wrong? 
+		514		00:44:17		516		-->		00:44:21		431		No. No, everything's fine. Sorry to bother you. 
+		515		00:44:31		530		-->		00:44:33		570		Geordi, tell me about... 
+		516		00:44:35		242		-->		00:44:37		282		..Tasha Yar. 

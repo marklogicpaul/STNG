@@ -1,0 +1,659 @@
+		1		00:00:06		031		-->		00:00:08		556		You were like a brother to me. 
+		2		00:00:08		633		-->		00:00:09		964		Do you remember? 
+		3		00:00:10		001		-->		00:00:11		992		We used to play in the park near the lake. 
+		4		00:00:12		037		-->		00:00:13		561		Yes, of course. 
+		5		00:00:13		605		-->		00:00:16		199		Every summer, you would come to Bergerac. 
+		6		00:00:16		241		-->		00:00:18		766		You used to make swords out of the reeds. 
+		7		00:00:18		810		-->		00:00:20		437		And when you'd cut your hand you would come running to me, and I would say 
+		9		00:00:23		281		-->		00:00:25		875		"Let me see." 
+		10		00:00:25		917		-->		00:00:27		509		Oh, how did you do that? 
+		11		00:00:27		552		-->		00:00:29		952		Playing near the Porte de Nesle. 
+		12		00:00:31		423		-->		00:00:33		948		And how many did you play against? 
+		13		00:00:33		992		-->		00:00:35		960		No more than a hundred. 
+		14		00:00:35		994		-->		00:00:37		859		Tell me. 
+		15		00:00:38		863		-->		00:00:40		626		No. 
+		16		00:00:44		969		-->		00:00:46		459		Let it go. 
+		17		00:00:46		504		-->		00:00:48		096		What? 
+		18		00:00:48		139		-->		00:00:49		436		Let it go. 
+		19		00:00:49		474		-->		00:00:50		441		Oh! 
+		20		00:00:50		475		-->		00:00:51		840		Let it go. 
+		21		00:00:51		876		-->		00:00:53		810		Let... let it go. 
+		22		00:00:53		845		-->		00:00:57		906		You... you tell me what you were going to say. 
+		23		00:00:57		949		-->		00:00:59		940		Do you dare? 
+		24		00:00:59		984		-->		00:01:01		918		I do dare. 
+		25		00:01:01		953		-->		00:01:03		443		I love someone. 
+		26		00:01:03		488		-->		00:01:04		455		Ah. 
+		27		00:01:04		489		-->		00:01:05		456		He does not know. 
+		28		00:01:05		490		-->		00:01:06		457		Ah. 
+		29		00:01:06		491		-->		00:01:07		549		Not yet. 
+		30		00:01:07		659		-->		00:01:13		029		But he is proud noble, brave and beautiful. 
+		31		00:01:13		064		-->		00:01:15		032		Oh, beautiful. 
+		32		00:01:15		066		-->		00:01:16		556		What's the matter? 
+		33		00:01:16		601		-->		00:01:17		932		With me? Nothing. 
+		34		00:01:17		969		-->		00:01:19		061		It is my hand. 
+		35		00:01:19		104		-->		00:01:20		401		He is in the guards? 
+		36		00:01:20		438		-->		00:01:21		666		Since this morning. 
+		37		00:01:21		706		-->		00:01:25		574		Baron Christian de Neuvillette in your own regiment. 
+		38		00:01:25		610		-->		00:01:26		770		Ah. 
+		39		00:01:26		811		-->		00:01:29		507		Promise me... promise me to be his friend. 
+		41		00:01:31		983		-->		00:01:33		951		I promise. 
+		42		00:01:33		985		-->		00:01:34		952		Oh! 
+		43		00:01:34		986		-->		00:01:36		715		Oh, I love you. 
+		44		00:01:36		755		-->		00:01:40		054		I must go now. 
+		45		00:01:40		091		-->		00:01:42		889		Oh, and tell him to write me. 
+		46		00:01:44		629		-->		00:01:49		293		A hundred men... what courage! 
+		47		00:01:50		435		-->		00:01:52		630		Oh, but I... 
+		48		00:01:54		806		-->		00:01:57		639		I ha... I have done better since. 
+		49		00:02:03		481		-->		00:02:04		539		Bravo! 
+		50		00:02:04		616		-->		00:02:06		743		Very good. 
+		51		00:02:06		785		-->		00:02:08		116		Bravo. 
+		52		00:02:08		153		-->		00:02:10		144		Wonderful, wonderful. 
+		53		00:02:10		188		-->		00:02:12		213		Bravo. 
+		54		00:02:12		257		-->		00:02:14		555		Lieutenant Barclay's performance was adequate but clearly not rooted in the method approach. 
+		56		00:02:17		629		-->		00:02:19		096		I do not understand why... 
+		57		00:02:19		130		-->		00:02:21		325		Data, because it's polite. 
+		58		00:02:21		366		-->		00:02:23		231		- Bravo. - Encore. 
+		59		00:02:23		268		-->		00:02:24		860		Bravo! 
+		60		00:02:24		903		-->		00:02:26		461		Good job, Reg. 
+		61		00:02:26		504		-->		00:02:28		802		And only, what? Six weeks worth of lessons? 
+		62		00:02:28		840		-->		00:02:30		569		Good job, period. l, well, we...  we have a patient teacher. 
+		65		00:02:33		778		-->		00:02:35		075		Uh, Worf? 
+		66		00:02:35		113		-->		00:02:38		514		I have an opening in my workshop. 
+		67		00:02:45		156		-->		00:02:47		420		Well done. 
+		68		00:02:47		458		-->		00:02:50		586		Thank you, uh... Counselor. 
+		69		00:02:50		628		-->		00:02:52		858		You've come a long way, Reg. 
+		70		00:02:52		897		-->		00:02:56		264		After, uh, more... more rehearsals than I can count. 
+		72		00:03:01		139		-->		00:03:05		007		I don't just mean your acting ability. 
+		73		00:03:05		043		-->		00:03:06		738		It takes a great deal of courage to put yourself on display like that. 
+		75		00:03:09		414		-->		00:03:12		076		You... you think... think so? 
+		76		00:03:12		116		-->		00:03:15		643		There was a time when nothing could have dragged you onto a stage in front of an audience. 
+		78		00:03:18		223		-->		00:03:20		691		You've made tremendous progress. l-I... I guess. 
+		80		00:03:24		863		-->		00:03:26		694		Don't you think so? 
+		81		00:03:26		731		-->		00:03:30		223		Well, I just feel more comfortable... playing somebody else. 
+		83		00:03:32		337		-->		00:03:35		306		Maybe all of this is... is... is not any better than escaping into... into a holodeck fantasy. 
+		85		00:03:39		110		-->		00:03:40		338		I disagree. 
+		86		00:03:40		378		-->		00:03:42		573		This isn't fantasy. 
+		87		00:03:42		647		-->		00:03:44		877		It's theater. 
+		88		00:03:44		916		-->		00:03:47		908		You used to withdraw onto the holodeck. 
+		89		00:03:47		952		-->		00:03:51		046		You isolated yourself inside your own imagination avoiding contact with real people. 
+		91		00:03:53		057		-->		00:03:54		581		Look at yourself now. 
+		92		00:03:54		659		-->		00:03:57		719		Look at all the other people you're with. 
+		93		00:03:57		762		-->		00:04:01		493		You're not just acting, you're interacting. 
+		94		00:04:03		568		-->		00:04:06		867		Give yourself some credit, Mr. Barclay. 
+		95		00:04:09		240		-->		00:04:12		107		Maybe you're right. 
+		96		00:04:32		397		-->		00:04:36		561		Captain's Log, stardate <stardate>44704</stardate>.2. 
+		97		00:04:36		601		-->		00:04:38		694		We have arrived at the Argus Array a remote subspace telescope  at the very edge of Federation space. 
+		100		00:04:43		741		-->		00:04:47		074		The unmanned structure mysteriously stopped relaying its data nearly two months ago. 
+		102		00:04:49		147		-->		00:04:51		707		The fusion reactors that power the array are extremely unstable. 
+		104		00:04:52		917		-->		00:04:54		509		There is a high risk of overload. 
+		105		00:04:54		552		-->		00:04:56		110		What about the computer systems? 
+		106		00:04:56		154		-->		00:04:59		146		They do not seem to be functioning at all, sir. 
+		107		00:04:59		190		-->		00:05:02		284		Captain, I am picking up an unidentified device 
+		108		00:05:02		327		-->		00:05:05		057		1.8 kilometers from the array. 
+		109		00:05:05		096		-->		00:05:07		064		On screen. 
+		110		00:05:10		001		-->		00:05:11		969		Magnify. 
+		111		00:05:14		505		-->		00:05:17		235		That's some kind of probe. 
+		112		00:05:17		275		-->		00:05:19		140		I'll bet that's what damaged the array. 
+		113		00:05:19		177		-->		00:05:22		374		Is it emitting any signals, Lieutenant? 
+		114		00:05:22		413		-->		00:05:23		710		Negative, sir. 
+		115		00:05:23		748		-->		00:05:25		181		I show no activity. 
+		116		00:05:25		216		-->		00:05:27		946		Mr. La Forge, why not go out and take a closer look? 
+		117		00:05:27		986		-->		00:05:29		351		Aye, sir. 
+		118		00:05:29		387		-->		00:05:32		447		Lieutenant Barclay, report to the Main Shuttle Bay. 
+		119		00:05:41		532		-->		00:05:43		557		Enterprise,  this is Shuttle 5 in position. 
+		120		00:05:43		634		-->		00:05:45		568		Ready to begin a short-range scan. 
+		121		00:05:45		603		-->		00:05:47		070		Proceed, Shuttle 5. 
+		122		00:05:47		105		-->		00:05:48		834		Reg, why don't we begin with the passive high-res series, all right? 
+		124		00:05:50		541		-->		00:05:51		940		Electromagnetic band? 
+		125		00:05:51		976		-->		00:05:53		603		Give it a try. 
+		126		00:05:56		080		-->		00:05:58		742		I'm picking up visual wavelengths only between 45, uh... 4,500 and 7,000 angstroms. 
+		128		00:06:02		987		-->		00:06:05		285		Let's try the neutron densitometer. 
+		129		00:06:11		562		-->		00:06:12		859		Nothing. 
+		130		00:06:12		897		-->		00:06:14		364		Hmm. 
+		131		00:06:14		399		-->		00:06:16		765		Doesn't want to give up any of its secrets. 
+		132		00:06:16		801		-->		00:06:18		291		Let's go to an active scan. 
+		133		00:06:21		305		-->		00:06:23		967		No... no modulation. 
+		134		00:06:24		008		-->		00:06:25		373		Really? 
+		135		00:06:25		410		-->		00:06:29		039		Boy, you are definitely not from our neighborhood. 
+		136		00:06:29		080		-->		00:06:33		380		Increase to 3.0. 
+		137		00:06:33		418		-->		00:06:34		544		Commander? 
+		138		00:06:34		585		-->		00:06:36		212		Yeah, Reg? 
+		139		00:06:36		254		-->		00:06:40		520		Thanks for assigning me to this mission. 
+		140		00:06:40		558		-->		00:06:43		083		Don't mention it. 
+		141		00:06:43		127		-->		00:06:44		788		You're one of my top engineers. 
+		142		00:06:44		829		-->		00:06:48		560		It's about time you got in on some of the interesting stuff. 
+		143		00:06:48		599		-->		00:06:50		260		This... this is why I'm in Starfleet. 
+		145		00:06:56		107		-->		00:06:58		735		There's still no, uh... no modulation. 
+		146		00:06:58		776		-->		00:07:03		338		Well, hit it with a positron emission. 
+		147		00:07:05		116		-->		00:07:06		174		Ooh. 
+		148		00:07:06		217		-->		00:07:07		809		What was that? 
+		149		00:07:07		852		-->		00:07:10		514		Computer's down, Reg. 
+		150		00:07:10		555		-->		00:07:11		647		Re... 
+		151		00:07:14		559		-->		00:07:16		049		Reg? 
+		152		00:07:48		059		-->		00:07:52		553		Space, the final frontier. 
+		153		00:07:52		663		-->		00:07:56		497		These are the voyages of the Starship Enterprise. 
+		154		00:07:56		534		-->		00:07:58		502		Its continuing mission... to explore strange new worlds  to seek out new life and new civilizations  to boldly go where no one has gone before. 
+		158		00:09:08		372		-->		00:09:10		431		Captain's Log, supplemental. 
+		159		00:09:10		474		-->		00:09:13		068		An intense energy surge from the alien probe has severely disabled the shuttle's onboard computer. 
+		161		00:09:16		113		-->		00:09:17		774		The away team has been transported directly to Sick Bay, where Lieutenant Barclay  remains under observation. 
+		164		00:09:22		386		-->		00:09:25		844		Any indication of the probe's energy source, Data? 
+		165		00:09:25		890		-->		00:09:27		482		No, sir. 
+		166		00:09:27		525		-->		00:09:30		517		Power emissions do not match any known radiation patterns. 
+		167		00:09:30		595		-->		00:09:33		325		We have not encountered this technology before, sir. 
+		168		00:09:33		364		-->		00:09:35		992		Very well. Isolate the probe and place it in tow. 
+		169		00:09:36		033		-->		00:09:39		161		We'll take it to Science Station 402 in the Kohlan system. 
+		170		00:09:39		203		-->		00:09:40		727		Captain, the probe has begun to move. 
+		171		00:09:40		771		-->		00:09:42		170		It is approaching the Enterprise. 
+		172		00:09:42		206		-->		00:09:43		673		Shields up. 
+		173		00:09:43		708		-->		00:09:45		300		Aye, sir. 
+		174		00:09:53		084		-->		00:09:55		177		There was enough energy in that flash to overload your optic nerves. 
+		176		00:09:56		554		-->		00:09:58		112		It knocked you unconscious. 
+		177		00:09:58		155		-->		00:10:00		123		My VISOR must have filtered it out. 
+		178		00:10:00		157		-->		00:10:02		421		Exactly. But there was no apparent retinal damage and the cornea looks fine  but I'm still waiting for a full sero-amino readout. 
+		181		00:10:07		031		-->		00:10:09		056		I'll call you when it comes in. 
+		182		00:10:09		100		-->		00:10:12		194		I'd like this done as quickly as possible, Ensign. 
+		183		00:10:14		238		-->		00:10:17		469		You shouldn't have to wait too long for the results. 
+		184		00:10:18		609		-->		00:10:20		440		What do you mean? 
+		185		00:10:20		478		-->		00:10:22		742		Couldn't you use a global mode in your scanner? 
+		186		00:10:22		780		-->		00:10:24		270		It would be a lot faster. 
+		187		00:10:24		315		-->		00:10:25		873		That's not possible. 
+		188		00:10:25		916		-->		00:10:29		511		We're talking about human cells here, not isolinear circuits. 
+		189		00:10:29		553		-->		00:10:32		579		I think you'd better stick to engineering, Lieutenant. 
+		190		00:10:32		657		-->		00:10:34		989		A cell has an electromagnetic signature just as a circuit element does. 
+		192		00:10:37		094		-->		00:10:38		891		Theoretically, it should work with just a few adjustments. 
+		194		00:10:42		733		-->		00:10:46		191		I could set it up for you, if you'd like. 
+		195		00:10:52		661		-->		00:10:56		153		Probe now closing at 15.3 meters per second. 
+		196		00:10:56		198		-->		00:10:58		325		Collision course. 
+		197		00:10:58		367		-->		00:11:00		733		Captain, sensors are reading no particulate emissions or subspace field distortions. 
+		199		00:11:02		304		-->		00:11:04		204		Then how is it able to move? 
+		200		00:11:04		239		-->		00:11:06		707		Method of propulsion is unknown, sir. 
+		201		00:11:11		246		-->		00:11:13		077		Ensign, take us away from it. 
+		202		00:11:13		115		-->		00:11:14		412		One quarter impulse. 
+		203		00:11:14		450		-->		00:11:15		439		Aye, sir. 
+		204		00:11:25		494		-->		00:11:28		224		The probe is matching our speed and course. 
+		205		00:11:28		263		-->		00:11:32		893		Captain, an energy field is forming around the device. 
+		206		00:11:32		935		-->		00:11:36		462		Intensity is 3.2 terawatts and increasing. 
+		207		00:11:36		505		-->		00:11:38		405		Sir, the shuttlecraft shields did not provide sufficient protection for its computer. 
+		209		00:11:40		109		-->		00:11:41		576		Our computer may also be vulnerable. 
+		210		00:11:41		677		-->		00:11:44		475		I recommend withdrawal to a safe distance. 
+		211		00:11:44		513		-->		00:11:46		538		Ensign Anaya, full about. 
+		212		00:11:46		582		-->		00:11:47		571		Half impulse. 
+		213		00:11:47		683		-->		00:11:49		480		One half impulse. 
+		214		00:12:01		597		-->		00:12:04		225		The probe is following. 
+		215		00:12:04		266		-->		00:12:05		756		Options, Number One? 
+		216		00:12:05		801		-->		00:12:07		632		We can't use photon torpedoes. 
+		217		00:12:07		670		-->		00:12:10		434		An explosion this close could cripple us. 
+		218		00:12:10		472		-->		00:12:12		133		Sir, recommend full phasers. 
+		219		00:12:12		174		-->		00:12:14		734		Proceed. 
+		220		00:12:16		111		-->		00:12:17		908		Firing phasers. 
+		221		00:12:23		485		-->		00:12:25		043		No effect, Captain. 
+		222		00:12:25		087		-->		00:12:28		454		The probe's field intensity is continuing to build, sir. 
+		223		00:12:28		490		-->		00:12:29		787		We are in danger. 
+		224		00:12:29		825		-->		00:12:30		792		Riker to La Forge. 
+		225		00:12:30		826		-->		00:12:32		350		Can you increase phaser power? 
+		226		00:12:32		394		-->		00:12:35		124		Attempting to now, Commander. 
+		227		00:12:35		164		-->		00:12:36		563		Isolate phasers 80 to 120. 
+		228		00:12:36		598		-->		00:12:38		429		Shunt all the plasma to the... 
+		229		00:12:38		467		-->		00:12:40		458		To the emitters. Yes, sir, I'm already on it. 
+		230		00:12:40		502		-->		00:12:42		629		Ready. 
+		231		00:12:44		540		-->		00:12:46		804		Phasers are as hot as we can make them, Captain. 
+		232		00:12:46		842		-->		00:12:48		469		Mr. Worf? 
+		233		00:12:48		510		-->		00:12:49		977		Aye, sir. 
+		234		00:12:54		016		-->		00:12:55		347		Nothing. 
+		235		00:12:55		384		-->		00:12:56		817		Go to warp two. 
+		236		00:12:56		852		-->		00:12:59		116		Aye, sir. 
+		237		00:12:59		154		-->		00:13:01		054		Warp two. 
+		238		00:13:06		028		-->		00:13:07		427		The probe is still with us, sir. 
+		239		00:13:08		464		-->		00:13:09		522		At warp two? 
+		240		00:13:09		631		-->		00:13:10		723		Yes, sir. 
+		241		00:13:10		766		-->		00:13:12		393		Captain, the probe's energy output is overloading our shields. 
+		243		00:13:14		236		-->		00:13:16		466		Failure anticipated in 47 seconds. 
+		244		00:13:22		478		-->		00:13:25		140		I'm willing to entertain suggestions. 
+		245		00:13:25		180		-->		00:13:27		239		Captain, we are dropping to impulse. 
+		246		00:13:32		187		-->		00:13:34		917		Commander, warp power has been transferred to the shield grid. 
+		247		00:13:34		957		-->		00:13:37		858		Yeah, but by whom? 
+		248		00:13:41		363		-->		00:13:42		421		Barclay?! 
+		249		00:13:42		464		-->		00:13:44		125		What are you doing? 
+		250		00:13:44		166		-->		00:13:45		827		Lieutenant Barclay to Captain Picard. 
+		251		00:13:45		868		-->		00:13:47		358		You can fire photon torpedoes. 
+		252		00:13:47		402		-->		00:13:48		460		Maximum yield. 
+		253		00:13:48		504		-->		00:13:50		472		Full spread. 
+		254		00:13:50		506		-->		00:13:52		133		We're too close. 
+		255		00:13:52		174		-->		00:13:55		143		I'm certain the shields will hold. 
+		256		00:13:55		177		-->		00:13:56		166		Mr. La Forge? 
+		257		00:13:57		880		-->		00:13:59		472		I don't know how he did it but shield strength has been increased by 300%%% . 
+		259		00:14:04		119		-->		00:14:06		053		It should be enough, Captain. 
+		260		00:14:08		590		-->		00:14:10		148		Mr. Worf, photon torpedoes. 
+		261		00:14:10		192		-->		00:14:11		819		Maximum yield, full spread. 
+		262		00:14:11		860		-->		00:14:13		794		Aye. 
+		263		00:14:34		316		-->		00:14:36		409		Thank you, Mr. Barclay. 
+		264		00:14:36		451		-->		00:14:39		215		You're welcome, Captain. 
+		265		00:14:39		254		-->		00:14:41		950		Barclay out. 
+		266		00:14:49		031		-->		00:14:52		694		I'm sorry if I overstepped my authority. 
+		267		00:15:01		009		-->		00:15:03		273		Don't mention it. 
+		268		00:15:07		282		-->		00:15:10		615		Captain's Log, stardate <stardate>44705</stardate>.3. 
+		269		00:15:10		652		-->		00:15:13		348		The Enterprise has destroyed the alien probe but now we are left with the difficult task  of repairing the Argus telescope. 
+		272		00:15:17		392		-->		00:15:21		920		Failure to do so would represent an incalculable scientific loss. 
+		273		00:15:21		964		-->		00:15:23		932		Mr. Barclay. 
+		274		00:15:23		966		-->		00:15:25		524		Everyone's still trying to figure out exactly how you did it. 
+		276		00:15:26		635		-->		00:15:28		102		Well, it-it just occurred to me that I could set up a frequency harmonic  between the deflector and the shield grid  using the warp field generator as a power flow antiattenuator. 
+		280		00:15:35		644		-->		00:15:37		407		And that, of course, naturally created an amplification of the inherent energy output. 
+		282		00:15:39		648		-->		00:15:41		878		Uh-huh. I see that. 
+		283		00:15:46		989		-->		00:15:49		480		I'm glad you could join us, Mr. Barclay. 
+		284		00:15:49		524		-->		00:15:51		253		Your report, Mr. La Forge. 
+		285		00:15:54		596		-->		00:15:56		723		Each of the telescope's subspace antenna clusters is powered by its own fusion reactor  but a single computer controls them all. 
+		288		00:16:00		235		-->		00:16:01		793		So all 18 reactors were affected when the computer was damaged? 
+		290		00:16:03		772		-->		00:16:05		000		Mm-hmm. That's right. 
+		291		00:16:05		040		-->		00:16:06		337		They're starting to overload and could eventually go critical. 
+		293		00:16:07		910		-->		00:16:09		605		The explosion would destroy the array and I wouldn't want to be next door when that happens. 
+		295		00:16:12		214		-->		00:16:15		012		A standard isolation procedure would be advisable. 
+		296		00:16:15		050		-->		00:16:16		677		I agree. We'll cut off each reactor from the damaged control system, and repair them one by one. 
+		298		00:16:19		588		-->		00:16:20		987		How long will that take? 
+		299		00:16:21		023		-->		00:16:22		388		Two to three weeks, at least. 
+		300		00:16:22		424		-->		00:16:24		517		All right, Mr. La Forge... 
+		301		00:16:24		593		-->		00:16:26		254		I don't agree. 
+		302		00:16:32		267		-->		00:16:35		134		We could repair all of the reactors simultaneously, instead of one by one. 
+		304		00:16:38		040		-->		00:16:40		941		Simultaneously? All 18? 
+		305		00:16:40		976		-->		00:16:42		136		Yes, sir. 
+		306		00:16:42		177		-->		00:16:44		236		But the Argus' computer is inoperable. 
+		307		00:16:44		279		-->		00:16:46		543		Not entirely. The core memory is still intact. 
+		308		00:16:46		615		-->		00:16:49		448		And we could program a completely new control system. 
+		309		00:16:49		484		-->		00:16:51		247		An interesting suggestion, Lieutenant. 
+		310		00:16:51		286		-->		00:16:54		551		However, that approach would require much more time than our original plan. 
+		312		00:16:56		191		-->		00:16:57		749		At least seven weeks. 
+		313		00:16:57		793		-->		00:17:00		125		I could have it ready for you in two days. 
+		314		00:17:00		162		-->		00:17:01		254		What?! 
+		315		00:17:01		296		-->		00:17:04		857		If you could assist me in the morning, Commander. 
+		316		00:17:04		900		-->		00:17:06		891		Sure, Reg. 
+		317		00:17:19		247		-->		00:17:20		874		The moon... yes, that'll be my home. 
+		319		00:17:24		219		-->		00:17:27		677		My... paradise. 
+		320		00:17:27		723		-->		00:17:31		215		I shall find there all the souls that I love... 
+		321		00:17:31		259		-->		00:17:33		193		Socrates 
+		322		00:17:33		228		-->		00:17:35		162		Galileo. 
+		323		00:17:35		197		-->		00:17:38		530		And when I arrive, they will question my worthiness. 
+		324		00:17:38		567		-->		00:17:41		627		"What the devil is he doing there among us?" 
+		325		00:17:41		670		-->		00:17:44		798		Philosopher, scientist poet, musician, duelist. 
+		327		00:17:46		942		-->		00:17:51		936		Here lies Hercule Savinien de Cyrano de Bergerac. 
+		328		00:17:59		287		-->		00:18:02		279		I would not have you weep any less for that charming, good and handsome Christian. 
+		330		00:18:07		729		-->		00:18:09		492		I only ask this: 
+		331		00:18:09		564		-->		00:18:13		591		That as the great cold surrounds my bones you allow a double meaning for your mourning veil. 
+		333		00:18:18		807		-->		00:18:23		767		And when you let fall your tears for him some few will be...  for me. 
+		336		00:18:40		095		-->		00:18:42		393		That was a real improvement. 
+		337		00:18:42		431		-->		00:18:45		525		Same time, day after tomorrow? 
+		338		00:18:45		600		-->		00:18:47		693		Same time. 
+		339		00:19:11		713		-->		00:19:13		203		Reg? 
+		340		00:19:13		248		-->		00:19:15		876		May I join you? 
+		341		00:19:15		917		-->		00:19:17		179		Oh, of course. Please. 
+		342		00:19:17		219		-->		00:19:19		380		Sit down, Counselor. 
+		343		00:19:20		922		-->		00:19:22		355		Hard at work? 
+		344		00:19:22		390		-->		00:19:23		721		I'm getting prepared for tomorrow's meeting in Engineering. 
+		346		00:19:26		228		-->		00:19:28		458		We're planning our repair strategy. 
+		347		00:19:30		398		-->		00:19:33		856		I really enjoyed the scene you just performed. 
+		348		00:19:35		470		-->		00:19:37		700		You're a very forgiving audience. 
+		349		00:19:37		739		-->		00:19:40		003		Not at all. 
+		350		00:19:40		041		-->		00:19:42		202		I thought you were brilliant. 
+		351		00:19:44		446		-->		00:19:46		880		You've changed. 
+		352		00:19:46		915		-->		00:19:48		940		Is that a professional opinion? 
+		353		00:19:48		984		-->		00:19:51		384		Pure observation. 
+		354		00:19:54		256		-->		00:19:56		224		You know, it's true. 
+		355		00:19:56		258		-->		00:19:58		226		I can't explain it. 
+		356		00:19:58		260		-->		00:20:02		219		In the past few days, I've found a confidence 
+		357		00:20:02		264		-->		00:20:05		062		I never knew was there. 
+		358		00:20:06		434		-->		00:20:09		164		I'm proud of you, Reg. 
+		359		00:20:09		204		-->		00:20:11		297		I'm glad for you, too. 
+		360		00:20:14		943		-->		00:20:16		672		Well... 
+		361		00:20:16		711		-->		00:20:17		678		I'd better be going. 
+		362		00:20:17		712		-->		00:20:18		770		Must you? 
+		363		00:20:20		815		-->		00:20:22		407		I think so. 
+		364		00:20:22		450		-->		00:20:25		248		Wouldn't you like to take a walk with me through the arboretum? 
+		366		00:20:26		788		-->		00:20:28		915		The zalnias should be in bloom. 
+		367		00:20:30		425		-->		00:20:34		759		Reg, as your former Counselor 
+		368		00:20:34		796		-->		00:20:37		094		I don't think it would be appropriate. 
+		369		00:20:37		132		-->		00:20:38		895		I don't need a Counselor. 
+		370		00:20:38		934		-->		00:20:41		562		What I need is the company of a charming, intelligent woman. 
+		372		00:20:49		911		-->		00:20:51		811		Good night, Mr. Barclay. 
+		373		00:21:23		979		-->		00:21:26		709		Where's Lieutenant Barclay? 
+		374		00:21:26		748		-->		00:21:29		546		I stopped by his quarters on my way over. 
+		375		00:21:29		584		-->		00:21:31		381		He wasn't there. 
+		376		00:21:33		054		-->		00:21:35		921		Computer, location of Lieutenant Barclay. 
+		377		00:21:35		957		-->		00:21:39		290		Lieutenant Barclay is on Holodeck Three. 
+		378		00:21:44		165		-->		00:21:47		931		"G" sub "l" 
+		379		00:21:47		969		-->		00:21:50		802		"J" of "t" as "t" approaches  infinity... 
+		382		00:21:57		112		-->		00:21:58		443		Hmm? 
+		383		00:21:59		781		-->		00:22:01		180		"G" of "t" over G-naught. 
+		385		00:22:05		053		-->		00:22:07		419		So it is. So it is. 
+		386		00:22:07		455		-->		00:22:10		253		Well, I still don't see how you're going to incorporate quantum principle into general relativity  without adjusting the cosmological constant  a lot more than you're doing here. 
+		390		00:22:16		731		-->		00:22:19		495		Well, if we increase the value, as you suggest we must face the possibility  of 26 dimensions, instead of ten. 
+		393		00:22:24		205		-->		00:22:26		537		I don't think I could deal with that. 
+		394		00:22:26		574		-->		00:22:28		269		I certainly could not. 
+		395		00:22:28		309		-->		00:22:33		042		If the semiset curved into the subatomic the infinities might cancel each other out. 
+		397		00:22:37		318		-->		00:22:41		015		Gruss Gott. They just might. 
+		398		00:22:42		657		-->		00:22:45		125		We had a meeting at 0700. 
+		399		00:22:46		127		-->		00:22:47		424		I'm sorry, Commander. 
+		400		00:22:47		462		-->		00:22:48		952		Thank you, Professor. 
+		401		00:22:48		997		-->		00:22:49		964		Hmm. 
+		402		00:22:49		998		-->		00:22:51		625		End program. 
+		403		00:22:58		807		-->		00:23:00		206		What was that all about? 
+		404		00:23:00		241		-->		00:23:01		799		I had some ideas late last night. 
+		405		00:23:01		843		-->		00:23:03		708		I needed to consult with the computer about some quantum electrodynamic calculations. 
+		407		00:23:05		914		-->		00:23:08		280		A holodeck Einstein program seemed like the best way. 
+		408		00:23:08		316		-->		00:23:09		840		I guess I went a little overboard. 
+		409		00:23:09		884		-->		00:23:11		818		A little? Most of the stuff on that blackboard was way out of my league, and yours, too. 
+		411		00:23:13		588		-->		00:23:15		021		Not really. I just haven't thought along those lines before. 
+		413		00:23:16		157		-->		00:23:17		522		It's all really pretty evident now and if you were to put your mind to it, I'm sure... 
+		415		00:23:19		861		-->		00:23:21		726		Reg, ever since our run-in with that probe something's different about you. 
+		417		00:23:23		598		-->		00:23:25		190		What? Because I'm beginning to behave like the rest of the crew? 
+		419		00:23:26		434		-->		00:23:28		402		With confidence in what I'm doing? 
+		420		00:23:28		436		-->		00:23:30		404		You just spent the entire night arguing grand unification theories  with Albert Einstein. 
+		423		00:23:33		775		-->		00:23:35		242		Yes, but... 
+		424		00:23:35		276		-->		00:23:39		542		Reg, something's happened to you and we can't ignore that. 
+		425		00:23:39		614		-->		00:23:41		172		Yes, I've finally become the person I've always wanted to be. 
+		427		00:23:43		618		-->		00:23:45		245		Do we have to ask why? 
+		428		00:23:45		286		-->		00:23:48		619		Yeah, I think we do. 
+		429		00:23:56		598		-->		00:23:58		566		Incredible! 
+		430		00:23:58		633		-->		00:24:00		260		The production of neurotransmitters in your brain has jumped by over 500%%% . 
+		432		00:24:03		238		-->		00:24:06		036		Pre and postsynaptic membranes have increased permeability to match it. 
+		434		00:24:07		709		-->		00:24:10		678		I couldn't even guess at your IQ level now. 
+		435		00:24:10		712		-->		00:24:13		647		Probably somewhere between 1,200 and 1,450. 
+		436		00:24:13		681		-->		00:24:14		943		But that isn't all. 
+		437		00:24:14		983		-->		00:24:16		848		The corpus callosum... the connecting bridge between both sides of the brain...  it is so active now that the hemispheres  are essentially behaving as one. 
+		441		00:24:22		157		-->		00:24:23		886		So, it's not just raw intelligence we're talking about here. 
+		443		00:24:25		460		-->		00:24:30		056		No. Creativity, resourcefulness, inspiration, imagination... they've all been enhanced. 
+		445		00:24:32		600		-->		00:24:35		068		Lieutenant, you could very well be the most advanced human being who has ever lived. 
+		447		00:24:52		587		-->		00:24:55		385		Whatever that alien probe did to him 
+		448		00:24:55		423		-->		00:24:56		651		Barclay now seems to know more about the internal workings of the Enterprise  than anyone else on board. 
+		451		00:25:00		261		-->		00:25:01		353		The question is how are we going to deal with it? 
+		453		00:25:03		031		-->		00:25:04		999		We could confine him to his quarters. 
+		454		00:25:05		033		-->		00:25:07		160		How can we do that? 
+		455		00:25:07		202		-->		00:25:09		067		What's he done? I mean, we're talking about 
+		456		00:25:09		103		-->		00:25:10		730		Iocking a man up for being too smart. 
+		457		00:25:10		772		-->		00:25:12		330		If he's been influenced by an alien wouldn't that put us all at risk? 
+		459		00:25:13		842		-->		00:25:14		900		Not necessarily. 
+		460		00:25:14		943		-->		00:25:16		501		It might be something as simple as an allergic reaction to a bee sting. 
+		462		00:25:18		580		-->		00:25:21		276		Has Mr. Barclay done anything that could be considered potentially threatening? 
+		464		00:25:28		323		-->		00:25:31		656		Well, he did make a pass at me last night. 
+		465		00:25:33		127		-->		00:25:35		152		A good one. 
+		466		00:25:35		196		-->		00:25:37		858		I'd hardly consider that a threat. 
+		467		00:25:37		899		-->		00:25:41		130		No, but it's certainly unusual behavior for Barclay. 
+		468		00:25:41		169		-->		00:25:43		364		There's something else, Captain. 
+		469		00:25:43		404		-->		00:25:46		840		He taught violin technique at the music school last night. 
+		470		00:25:46		875		-->		00:25:49		105		I didn't know Barclay played the violin. 
+		471		00:25:49		143		-->		00:25:50		110		He didn't. 
+		472		00:25:50		144		-->		00:25:52		169		Not until last night. 
+		473		00:25:52		213		-->		00:25:54		545		Look, if we want to save the array, we need Barclay. 
+		474		00:25:54		649		-->		00:25:56		310		It's as simple as that. 
+		475		00:25:57		585		-->		00:25:59		917		Until he does something more menacing 
+		476		00:25:59		954		-->		00:26:02		548		I see no reason why we should prevent him from continuing his work. 
+		478		00:26:04		325		-->		00:26:06		725		Larson to Commander La Forge. 
+		479		00:26:06		761		-->		00:26:08		490		Go ahead, Lieutenant. 
+		480		00:26:08		596		-->		00:26:10		996		We're having trouble containing reactor nine, sir. 
+		481		00:26:11		032		-->		00:26:12		158		It's starting to chain. 
+		482		00:26:12		200		-->		00:26:13		326		I'm on my way. 
+		483		00:26:14		702		-->		00:26:17		330		You said he made a pass at you, but you failed to mention whether he was successful or not. 
+		485		00:26:29		183		-->		00:26:30		480		Thermal level's up 177%%% . 
+		486		00:26:30		518		-->		00:26:32		509		Comparable increase in neutron emissions. 
+		487		00:26:32		620		-->		00:26:35		111		Is the interface between the computer and our array still in operation? 
+		489		00:26:36		724		-->		00:26:39		158		Yes, but our computer is too slow to direct the repairs. 
+		490		00:26:39		193		-->		00:26:41		718		The parameters are changing too quickly for it to keep up. 
+		491		00:26:41		763		-->		00:26:44		789		Then we'll have to try a remote shutdown from here. 
+		492		00:26:44		832		-->		00:26:46		697		Transmitting commands to the array now, sir. 
+		493		00:26:46		734		-->		00:26:48		531		Starting close-down sequence. 
+		494		00:26:48		569		-->		00:26:50		537		Brower, increase the intake of liquid helium three into the reactor wall. 
+		496		00:26:51		572		-->		00:26:53		199		We've got to cool this off. 
+		497		00:26:53		241		-->		00:26:54		674		Transmitting commands. 
+		498		00:26:54		709		-->		00:26:56		199		Thermal level's increasing, sir. 
+		499		00:26:56		244		-->		00:26:57		541		What happened? 
+		500		00:26:57		612		-->		00:26:58		943		Unclear! 
+		501		00:26:58		980		-->		00:27:00		971		The interface isn't fast enough. 
+		502		00:27:01		015		-->		00:27:02		277		Commander La Forge. 
+		503		00:27:02		317		-->		00:27:03		807		Overload indications on Argus generator five, seven and 14. 
+		505		00:27:06		354		-->		00:27:07		582		Damn! 
+		506		00:27:07		622		-->		00:27:09		317		Well, I can't do anything from here. 
+		507		00:27:09		357		-->		00:27:11		086		I have to find a better interface. 
+		508		00:27:12		961		-->		00:27:14		485		La Forge to Bridge. 
+		509		00:27:14		529		-->		00:27:16		979		We're looking at a cascade reactor failure on the Argus. 
+		510		00:27:17		112		-->		00:27:19		239		I don't think we're going to pull this one out. 
+		511		00:27:19		281		-->		00:27:21		408		Reactor nine will reach critical in ten minutes, 43 seconds. 
+		513		00:27:23		285		-->		00:27:26		186		The subsequent explosion will create a chain reaction along the entire length of the array, sir. 
+		515		00:27:34		863		-->		00:27:37		161		Ensign, stand by for a jump to warp two. 
+		516		00:27:37		199		-->		00:27:38		496		Yes, sir. 
+		517		00:27:38		534		-->		00:27:40		161		La Forge, you've got ten minutes. 
+		518		00:27:40		202		-->		00:27:41		328		Mr. Worf, Red Alert. 
+		519		00:27:41		370		-->		00:27:42		530		Aye, Commander. 
+		520		00:27:49		378		-->		00:27:51		903		Computer, begin new program. 
+		521		00:27:51		947		-->		00:27:53		471		Create as follows: 
+		522		00:27:53		515		-->		00:27:56		177		Work station chair. 
+		523		00:27:56		218		-->		00:27:58		413		Now, create a standard, alphanumeric console positioned for the left hand. 
+		525		00:27:59		855		-->		00:28:03		416		Now an iconic display console positioned for the right hand. 
+		526		00:28:03		459		-->		00:28:05		620		Tie both consoles into the Enterprise main computer core, utilizing neural scan interface. 
+		528		00:28:09		598		-->		00:28:11		566		There is no such device on file. 
+		529		00:28:11		600		-->		00:28:14		228		No problem. Here's how you build it. 
+		530		00:28:14		269		-->		00:28:15		998		Argus reactor nine... 
+		531		00:28:16		038		-->		00:28:17		232		28 seconds to critical. 
+		532		00:28:17		272		-->		00:28:18		261		Get us out of here. 
+		533		00:28:18		307		-->		00:28:19		274		Warp two, Ensign. 
+		534		00:28:19		308		-->		00:28:20		297		Yes, sir. 
+		535		00:28:21		443		-->		00:28:24		606		Helm's not responding, sir. 
+		536		00:28:30		552		-->		00:28:32		782		Captain, we have lost computer control. 
+		537		00:28:32		821		-->		00:28:34		049		What? 
+		538		00:28:34		089		-->		00:28:35		613		12 seconds to critical. 
+		539		00:28:35		657		-->		00:28:36		749		Go to manual. 
+		540		00:28:36		792		-->		00:28:38		760		I'm attempting that, sir, but... 
+		541		00:28:38		794		-->		00:28:40		056		There's not enough time. 
+		542		00:28:44		566		-->		00:28:46		966		Computer is coming back on-line, sir. 
+		543		00:28:49		972		-->		00:28:55		342		Captain, the Argus reactors are shutting down. 
+		544		00:28:57		379		-->		00:28:59		370		We are no longer in danger, sir. 
+		545		00:28:59		414		-->		00:29:01		348		What happened? 
+		546		00:29:01		383		-->		00:29:03		908		Unknown, sir. 
+		547		00:29:03		952		-->		00:29:06		250		Geordi, what did you do? 
+		548		00:29:06		288		-->		00:29:09		086		It wasn't me, sir. 
+		549		00:29:09		124		-->		00:29:12		582		Computer, how were the Argus reactors shut down? 
+		550		00:29:12		628		-->		00:29:16		758		A neural interface was created, to expedite the repairs. 
+		551		00:29:16		798		-->		00:29:18		891		Barclay? 
+		552		00:29:20		602		-->		00:29:22		069		Computer, respond. 
+		553		00:29:22		104		-->		00:29:24		470		I am responding, sir. 
+		554		00:29:24		506		-->		00:29:26		269		I'm sorry if I caused you any alarm. 
+		555		00:29:26		308		-->		00:29:28		640		It was necessary in order to secure the array. 
+		556		00:29:28		677		-->		00:29:30		372		Barclay? 
+		557		00:29:32		748		-->		00:29:34		238		Barclay? 
+		558		00:29:34		283		-->		00:29:36		274		What's going on? 
+		559		00:29:36		318		-->		00:29:38		218		Barclay?! 
+		560		00:29:38		253		-->		00:29:40		153		Yes, Commander. 
+		561		00:29:40		189		-->		00:29:42		453		It's me. 
+		562		00:29:48		197		-->		00:29:50		290		I'm sorry, Captain. 
+		563		00:29:50		332		-->		00:29:51		458		I was only trying to help. 
+		564		00:29:51		500		-->		00:29:53		161		Our computer was too slow to compensate for the overload on the array  so I created an interface that communicated my thoughts  directly to the central processing unit. 
+		568		00:30:00		442		-->		00:30:03		104		Exactly what does that mean? 
+		569		00:30:03		145		-->		00:30:05		409		My body is as you see it here but much of my higher brain functions and memory  have been transferred to the starboard computer core. 
+		572		00:30:10		619		-->		00:30:13		611		Mr. Barclay, remove yourself from the computer system. 
+		573		00:30:13		655		-->		00:30:14		815		Leave the holodeck. 
+		574		00:30:16		291		-->		00:30:17		986		I'm afraid I can't do that, sir. 
+		575		00:30:19		328		-->		00:30:20		818		And why not? 
+		576		00:30:20		862		-->		00:30:23		524		My primary cerebral functions are now operating almost entirely from within the computer. 
+		578		00:30:26		001		-->		00:30:27		992		They have expanded to such a degree that it would be impossible  to return to the confines of my human brain. 
+		581		00:30:32		941		-->		00:30:36		069		Any attempt to do so would mean my death. 
+		582		00:30:53		595		-->		00:30:54		892		That's it. 
+		583		00:30:54		930		-->		00:30:57		660		I've disconnected the audio and visual pickups. 
+		584		00:30:57		699		-->		00:31:00		793		We can talk without being monitored by the computer. 
+		585		00:31:00		836		-->		00:31:01		962		By Barclay. 
+		586		00:31:02		004		-->		00:31:03		733		Report, Mr. La Forge. 
+		587		00:31:03		772		-->		00:31:05		603		It is now almost impossible to tell where Barclay ends and the computer begins. 
+		589		00:31:08		944		-->		00:31:10		969		He's actually rewriting the isolinear chips each time he extends himself a little further. 
+		591		00:31:13		282		-->		00:31:15		250		How do we get him out of there? 
+		592		00:31:15		284		-->		00:31:16		512		We don't. 
+		593		00:31:16		618		-->		00:31:18		313		Not without killing him. 
+		594		00:31:18		353		-->		00:31:21		379		This is an intolerable situation. 
+		595		00:31:21		423		-->		00:31:23		186		I have no wish to harm him but I cannot allow Mr. Barclay  to continue to act as the computer. 
+		598		00:31:26		895		-->		00:31:28		624		I don't care how smart he is. 
+		599		00:31:28		664		-->		00:31:31		098		Lieutenant Barclay has not yet extended himself into the engineering subsystems. 
+		601		00:31:32		801		-->		00:31:34		234		It may be possible to establish an ODN bypass directly to the Bridge. 
+		603		00:31:36		204		-->		00:31:38		832		But that still won't give us control of the ship. 
+		604		00:31:38		874		-->		00:31:42		366		No, but it would give us access to the propulsion systems enough to get us to the next Starbase. 
+		606		00:31:44		479		-->		00:31:46		538		How long would it take to set that up? 
+		607		00:31:46		648		-->		00:31:48		775		A few hours. 
+		608		00:31:48		817		-->		00:31:50		307		Make it so. 
+		609		00:31:57		025		-->		00:31:58		993		Commander La Forge? 
+		610		00:32:00		996		-->		00:32:02		554		Yeah, Reg? 
+		611		00:32:02		597		-->		00:32:05		498		I thought you would be in your quarters. 
+		612		00:32:05		600		-->		00:32:07		500		No, I'm, uh... just catching up on some work, you know. 
+		614		00:32:11		873		-->		00:32:15		741		That, uh, level-3 diagnostic we talked about. 
+		615		00:32:17		746		-->		00:32:19		680		How are you doing? 
+		616		00:32:19		715		-->		00:32:23		412		I wish I could convey to you what it's like for me now... what I've become. 
+		618		00:32:25		520		-->		00:32:27		715		Yeah? 
+		619		00:32:27		756		-->		00:32:30		224		Try. 
+		620		00:32:30		258		-->		00:32:32		749		I can conceive almost infinite possibilities and can fully explore each of them in a nanosecond. 
+		622		00:32:35		797		-->		00:32:39		631		I perceive the universe as a single equation and it is so simple. 
+		624		00:32:41		837		-->		00:32:43		634		I understand. 
+		625		00:32:43		672		-->		00:32:45		765		You understand? 
+		626		00:32:45		807		-->		00:32:47		968		Everything. 
+		627		00:32:49		478		-->		00:32:50		968		Hmm. 
+		628		00:32:53		915		-->		00:32:56		213		Well... do you understand how this happened to you? 
+		630		00:33:01		790		-->		00:33:04		054		I believe it is a gift... that I have been chosen to fulfill a great purpose. 
+		632		00:33:07		929		-->		00:33:10		159		Uh-huh. 
+		633		00:33:10		198		-->		00:33:12		166		Do you suppose all of this has changed the way people think about me? 
+		635		00:33:16		938		-->		00:33:20		999		To tell you the truth, Reg, we don't know what to think. 
+		636		00:33:21		042		-->		00:33:23		067		I've been concerned about that but soon everyone will understand  what I can do for humanity. 
+		639		00:33:30		318		-->		00:33:32		479		What do you mean? 
+		640		00:33:32		521		-->		00:33:34		512		We have always perceived the maximum speed of the Enterprise as a function of warp  but I know now there are no limits. 
+		643		00:33:39		694		-->		00:33:41		662		We will explore new worlds that we could never before have reached in our lifetime. 
+		645		00:33:44		833		-->		00:33:46		630		I will take us to them. 
+		646		00:33:57		245		-->		00:33:59		736		Captain, I am picking up subspace distortion. 
+		647		00:33:59		781		-->		00:34:01		305		Mr. Data? 
+		648		00:34:03		218		-->		00:34:05		277		This disturbance is the result of a highly-charged graviton field  emanating from our warp nacelles. 
+		651		00:34:09		124		-->		00:34:13		060		It is creating a severe bias in the subspace continuum. 
+		652		00:34:13		094		-->		00:34:14		789		Mr. Barclay, are you responsible for this graviton field disturbance? 
+		654		00:34:16		731		-->		00:34:18		596		Yes, sir. I'm altering subspace in a way that's never been conceived of before. 
+		656		00:34:21		603		-->		00:34:23		298		I'm fairly certain it will allow us to travel halfway across the galaxy in a matter of... 
+		658		00:34:25		941		-->		00:34:28		910		Mr. Barclay, I want you to stop this experiment for now. 
+		659		00:34:28		944		-->		00:34:31		071		Captain, if you'd only allow me to sh... 
+		660		00:34:31		112		-->		00:34:33		512		Mr. Barclay, this is a direct order. 
+		661		00:34:33		615		-->		00:34:35		515		Discontinue whatever it is you are doing. 
+		662		00:34:35		617		-->		00:34:37		107		I really would rather not, sir. 
+		663		00:34:37		152		-->		00:34:39		347		I am positive that you'll be pleased with the result once I've finished showing... 
+		665		00:34:41		490		-->		00:34:43		048		Audio is disconnected. 
+		666		00:34:43		091		-->		00:34:44		422		You may speak freely. 
+		667		00:34:44		459		-->		00:34:46		689		How long before the ODN process is in place? 
+		668		00:34:46		728		-->		00:34:48		628		I have been monitoring Geordi's progress. 
+		669		00:34:48		663		-->		00:34:50		961		It will be operational in 17 minutes. 
+		670		00:34:50		999		-->		00:34:52		364		Captain? 
+		671		00:34:52		400		-->		00:34:55		198		Let me go to the holodeck and try and talk to him. 
+		672		00:34:55		237		-->		00:34:59		105		Sir, the subspace distortion continues to increase. 
+		673		00:35:20		513		-->		00:35:22		845		Hello, Deanna. 
+		674		00:35:22		882		-->		00:35:25		248		Reg. 
+		675		00:35:25		285		-->		00:35:27		776		I'm sorry that we can't take that walk in the arboretum. 
+		677		00:35:29		722		-->		00:35:31		212		So am I. 
+		678		00:35:33		526		-->		00:35:36		859		Reg, you've frightened all of us. 
+		679		00:35:36		896		-->		00:35:39		694		I'm sure that wasn't your intent. 
+		680		00:35:39		732		-->		00:35:42		200		Young children are sometimes frightened of the world. 
+		681		00:35:42		235		-->		00:35:44		362		That doesn't mean that their parents should let them stay in their cribs. 
+		683		00:35:46		606		-->		00:35:49		837		Are we children to you now? 
+		684		00:35:49		876		-->		00:35:53		403		I can see so much more than you are capable of. 
+		685		00:35:53		446		-->		00:35:55		004		You should trust that. 
+		686		00:35:55		048		-->		00:35:58		108		Deanna, I've always wanted to earn your respect. 
+		687		00:36:00		019		-->		00:36:02		317		You've got it. 
+		688		00:36:02		355		-->		00:36:04		823		From all of us. 
+		689		00:36:04		857		-->		00:36:09		021		We don't need any more convincing. 
+		690		00:36:09		062		-->		00:36:12		862		Please, obey the Captain's orders. 
+		691		00:36:12		899		-->		00:36:16		391		Stop whatever it is you're doing. 
+		692		00:36:16		436		-->		00:36:18		404		You must trust me. 
+		693		00:36:18		438		-->		00:36:23		273		How can we trust an officer who doesn't follow orders? 
+		694		00:36:23		309		-->		00:36:25		641		Trust me. 
+		695		00:36:33		319		-->		00:36:38		347		The Captain will do everything in his power to stop you. 
+		696		00:36:52		572		-->		00:36:55		302		Picard to La Forge. Status? 
+		697		00:36:57		610		-->		00:36:59		043		Ready, Captain. 
+		698		00:36:59		078		-->		00:37:00		375		Proceed. 
+		699		00:37:00		413		-->		00:37:02		643		Acknowledged. 
+		700		00:37:02		682		-->		00:37:05		014		Commander? 
+		701		00:37:05		051		-->		00:37:06		416		What? 
+		702		00:37:06		519		-->		00:37:08		851		You're too late. 
+		703		00:37:16		696		-->		00:37:19		426		Captain, we have not regained control of the propulsion systems. 
+		705		00:37:21		334		-->		00:37:23		996		The ODN bypass to the Bridge has been blocked. 
+		706		00:37:24		037		-->		00:37:25		061		Barclay! 
+		707		00:37:25		104		-->		00:37:26		435		Yes, Commander Riker? 
+		708		00:37:26		539		-->		00:37:29		440		Whatever it is you're doing out there you've got to stop it. 
+		710		00:37:34		314		-->		00:37:36		544		Sir, we're going in. 
+		711		00:37:53		966		-->		00:37:57		663		Mr. Barclay, respond at once! 
+		712		00:38:02		275		-->		00:38:04		368		Audio is disconnected. 
+		713		00:38:04		410		-->		00:38:06		640		Lieutenant, take a security team to Holodeck Three. 
+		714		00:38:06		679		-->		00:38:09		204		Disconnect Mr. Barclay from the computer. 
+		715		00:38:10		416		-->		00:38:12		111		Aye, Captain. 
+		716		00:38:32		405		-->		00:38:34		635		I want you to know, Lieutenant Worf that I understand your duty in this matter... 
+		718		00:38:37		677		-->		00:38:39		440		Phasers... maximum setting. 
+		719		00:38:39		479		-->		00:38:40		673		...and that I will in no way take your actions personally. 
+		721		00:38:44		183		-->		00:38:45		946		The conduits. 
+		722		00:38:59		265		-->		00:39:02		962		La Forge, initiate stabilization procedure. 
+		723		00:39:05		405		-->		00:39:08		966		Resetting stabilizers to match subspace flow matrix. 
+		724		00:39:09		008		-->		00:39:10		999		Stand by. 
+		725		00:39:13		579		-->		00:39:16		139		He is protected by a force field. 
+		726		00:39:16		182		-->		00:39:18		082		We could not disconnect him. 
+		727		00:39:18		117		-->		00:39:19		516		Mr. Data! 
+		728		00:39:19		552		-->		00:39:21		417		We are experiencing a quantum level oscillation delay  doubling in intensity every 12.3 seconds. 
+		731		00:39:30		329		-->		00:39:35		232		Biocellular disruption is imminent. 
+		732		00:39:36		469		-->		00:39:37		458		Sir! 
+		733		00:39:54		921		-->		00:39:57		355		Where are we, Ensign? 
+		734		00:39:57		390		-->		00:40:00		416		Unless something's wrong with our sensors, sir we're almost 30,000 light-years from where we were. 
+		736		00:40:06		666		-->		00:40:09		658		The center of the galaxy. 
+		737		00:40:09		702		-->		00:40:11		897		Sir, our heading's been altered. 
+		738		00:40:11		938		-->		00:40:13		462		Approaching planetary cluster. 
+		739		00:40:13		539		-->		00:40:17		635		Captain, all systems are back under helm control. 
+		740		00:40:17		677		-->		00:40:20		544		The computer has returned to normal functioning. 
+		741		00:40:22		014		-->		00:40:23		038		Hmm. 
+		742		00:40:23		082		-->		00:40:24		049		Captain! 
+		743		00:40:26		519		-->		00:40:28		146		Emotive. 
+		744		00:40:28		187		-->		00:40:31		486		Electrochemical stimulus response. 
+		745		00:40:31		524		-->		00:40:34		755		Cranial plate. 
+		746		00:40:34		794		-->		00:40:36		659		Bipedal locomotion. 
+		747		00:40:36		696		-->		00:40:38		061		Endoskeletal. 
+		748		00:40:38		097		-->		00:40:42		090		Contiguous external integument. 
+		749		00:40:42		134		-->		00:40:43		965		Hmm. 
+		750		00:40:48		040		-->		00:40:50		907		I am Captain Jean-Luc Picard of the Federation Starship Enterprise. 
+		752		00:40:53		746		-->		00:40:57		341		Hierarchical collective command structure. 
+		753		00:40:57		383		-->		00:40:59		351		Who are you? 
+		754		00:40:59		385		-->		00:41:01		046		Interrogative. 
+		755		00:41:01		087		-->		00:41:04		454		I am interrogative, yes and I would appreciate an explanation. 
+		757		00:41:07		360		-->		00:41:09		089		I think I can help you, with that, Captain. 
+		758		00:41:10		329		-->		00:41:11		296		Mr. Barclay? 
+		759		00:41:11		330		-->		00:41:12		888		I thought it would be fatal if you left the holodeck. 
+		761		00:41:14		734		-->		00:41:17		259		The Cytherians have reintegrated me, sir. 
+		762		00:41:17		303		-->		00:41:19		863		Cytherians. 
+		763		00:41:19		906		-->		00:41:22		898		The probe was designed to instruct outsiders on how to reach the system. 
+		765		00:41:24		243		-->		00:41:26		211		But technologies are not always compatible. 
+		766		00:41:26		245		-->		00:41:27		872		They failed with the Argus computer and with the computer on board the shuttle. 
+		768		00:41:30		917		-->		00:41:34		751		But they were able to reprogram me. 
+		769		00:41:36		589		-->		00:41:38		489		What do you want of us? 
+		770		00:41:38		591		-->		00:41:41		754		The same as you. 
+		771		00:41:41		794		-->		00:41:43		728		Mr. Barclay? 
+		772		00:41:43		763		-->		00:41:45		890		You're both on the same mission, Captain. 
+		773		00:41:45		932		-->		00:41:46		899		Mission? 
+		774		00:41:46		933		-->		00:41:48		161		Yes, sir. 
+		775		00:41:48		200		-->		00:41:50		725		The Cytherians are exploring the galaxy just as we are. 
+		777		00:41:51		771		-->		00:41:52		965		The only difference is that they never leave their home. 
+		779		00:41:56		075		-->		00:41:58		509		They bring others here. 
+		780		00:41:58		544		-->		00:42:03		004		Their only wish... an exchange of knowledge. 
+		781		00:42:03		049		-->		00:42:05		244		They want to know us. 
+		782		00:42:18		264		-->		00:42:22		098		Captain's Log, stardate <stardate>44721</stardate>.9. 
+		783		00:42:22		134		-->		00:42:24		932		After ten days in the company of the Cytherians the Enterprise has been safely returned to Federation space. 
+		785		00:42:28		641		-->		00:42:31		872		We bring back knowledge of their race that will take our scholars decades to examine. 
+		787		00:42:35		047		-->		00:42:37		675		Lieutenant Barclay is apparently no worse for his experience. 
+		789		00:42:39		685		-->		00:42:42		620		So, how much do you remember? l-I remember doing everything. 
+		791		00:42:44		924		-->		00:42:47		722		I just don't remember how or why. 
+		792		00:42:47		760		-->		00:42:49		728		How do you feel now? 
+		793		00:42:50		930		-->		00:42:52		056		Smaller. 
+		794		00:42:52		098		-->		00:42:54		089		Just plain old Barclay, huh? 
+		795		00:42:54		133		-->		00:42:58		229		It always seems to come back to that, doesn't it? 
+		796		00:42:58		270		-->		00:43:02		263		You know, almost everyone has a moment in their lives when they exceed their own limits  achieve what seems to be impossible. 
+		799		00:43:08		047		-->		00:43:11		778		The tricky part is what happens afterwards. 
+		800		00:43:11		817		-->		00:43:14		445		You almost always feel a sense of loss but it is possible to carry something of that experience  through the rest of your life  in ways that you aren't even aware of now.  l, uh... I think I know what you're saying. 
+		805		00:43:27		633		-->		00:43:29		328		Either way, Reg you're an important part of this crew. 
+		807		00:43:31		170		-->		00:43:33		070		In fact, I could really use your help with that level-3 diagnostic. 
+		809		00:43:34		674		-->		00:43:35		698		Sure. 
+		810		00:43:35		741		-->		00:43:37		003		Excuse me, Commander but, um, I believe Mr. Barclay and I  had a date scheduled... for a walk in the arboretum? 
+		813		00:43:46		752		-->		00:43:48		049		The diagnostic can wait. 
+		814		00:43:48		087		-->		00:43:49		577		I'll see you later. 
+		815		00:43:49		622		-->		00:43:51		715		You really... you really don't have to do that. 
+		816		00:43:51		757		-->		00:43:53		088		I know. 
+		817		00:43:59		098		-->		00:44:00		429		Oh, that was a good move. 
+		818		00:44:00		466		-->		00:44:01		763		May I? 
+		819		00:44:03		602		-->		00:44:05		536		Checkmate in nine moves. 
+		820		00:44:08		874		-->		00:44:10		341		I didn't know you played chess. 
+		821		00:44:10		376		-->		00:44:12		037		I don't. 

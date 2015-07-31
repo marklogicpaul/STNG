@@ -1,0 +1,251 @@
+<export><workspace name="Paul Demo Cert"><query name="Get Subtitles" focus="false" active="true" content-source="as:898341991681797167:" mode="xquery">xquery version "1.0-ml";
+declare namespace html = "http://www.w3.org/1999/xhtml";
+  (: grab file locations :)
+  let $eps-subs := xdmp:filesystem-directory("/Volumes/TAHOE/ProdSubs")    
+  
+  (: choose well-formed subtitle files :)
+  let $eps-subs-fs := $eps-subs//dir:pathname[starts-with(.,'/Volumes/TAHOE/ProdSubs/s0')]/text()
+  
+  (: build out character strings for faceting :)
+  let $char-ors := cts:or-query(
+                    (
+                      cts:word-query("Data"),
+                      cts:word-query("Crusher"),
+                      cts:word-query("Picard"),
+                      cts:word-query("Riker"),
+                      cts:word-query("Troi"),
+                      cts:word-query("Worf"),
+                      cts:word-query("La Forge"),
+                      cts:word-query("Computer"),                     
+                      cts:word-query("Yar"),                      
+                      cts:word-query("O'Brien"),                      
+                      cts:word-query("Guinan"),                      
+                      cts:word-query("Spock"),                      
+                      cts:word-query("Sarek"),                     
+                      cts:word-query("Borg"),                      
+                      cts:word-query("Romulan"),                      
+                      cts:word-query("Ferengi"),                      
+                      cts:word-query("Q ")                      
+                    ))
+                    
+  for $ep-subs-fs in $eps-subs-fs
+    (: Determine the episode name and use it to infer the episode video file name :)
+    let $ep-name := fn:substring-after($ep-subs-fs,"/ProdSubs/")
+    let $ep-name := fn:substring-before($ep-name,".txt")
+    let $ep-file := fn:concat("/",$ep-name,".mov")
+    let $ep-title := fn:substring-after($ep-name,"-")
+    
+    (: Pretty-up the episode name and extract season number and episode number :)
+    let $ep-pretty := fn:replace($ep-title,"_"," ")
+    let $ep-season := fn:substring($ep-name,3,1)
+    let $ep-number := fn:substring-after(fn:substring($ep-name,5,2),"0")
+    
+    (: Capture the content of the subtitle file and make a document for each on-screen text string :)
+    let $ep-subs-list := xdmp:document-get($ep-subs-fs)
+    let $ep-subs-lines := fn:tokenize($ep-subs-list,"\n")
+
+    for $ep-subs-line in $ep-subs-lines
+      let $ep-subs-items := fn:tokenize($ep-subs-line,"\t\t")
+      let $ep-subs-content := element sub_content {$ep-subs-items[8]}
+      let $ep-subs-content := cts:highlight($ep-subs-content, $char-ors, &lt;span character="{$cts:text}"&gt;&lt;i&gt;{$cts:text}&lt;/i&gt;&lt;/span&gt;)
+      let $ep-subs-start-set := fn:tokenize($ep-subs-items[3],":")
+      let $ep-subs-start-full := ((fn:number($ep-subs-start-set[2])*60) + fn:number($ep-subs-start-set[3]) - 2)
+      let $ep-subs-end-full := $ep-subs-start-full + 10
+      let $ep-sub-uri := fn:concat("/",$ep-name,"/Timestamp-",$ep-subs-start-full,".xml")
+      let $doc := element sub 
+            
+            { 
+              element sub_abstract {$ep-subs-content},
+              element episode {
+                                element episode_name {$ep-pretty}, 
+                                element season_number {$ep-season}, 
+                                element episode_number {$ep-number}
+                              },
+              element episode_uri {$ep-file}, 
+(:              
+              element episode_fs {
+                                element a {
+                                            attribute href {
+                                                            fn:concat("http://localhost:8017/v1/documents?uri=",$ep-file,"#t=",$ep-subs-start-full)
+                                                           }, 
+                                            "Play ", element i {$ep-pretty}," Now"
+                                 },
+:)                                 
+              element timestamp {$ep-subs-start-full}, 
+              element video { 
+                              attribute controls {},
+                              attribute id {
+                                            "video"
+                                            },
+                              attribute width {
+                                                "640"
+                                                },
+                              attribute height {
+                                                "360"
+                                                },                                                
+              element source { 
+                              attribute src { 
+                                              fn:concat("http://macair-2408.local:8017/v1/documents?uri=",$ep-file,"#t=",$ep-subs-start-full,",",$ep-subs-end-full,"&amp;amp;transform=byteranging")
+                                              },
+                                              
+                              attribute type {
+                                              "video/mp4"
+                                              }
+                                          }
+                             }
+            }
+
+      return xdmp:document-insert($ep-sub-uri,$doc,(),(fn:concat("Season ",$ep-season),$ep-pretty))</query><query name="Delete FS indexes" focus="false" active="true" content-source="as:14582803846462521214:" mode="xquery">xquery version "1.0-ml";
+declare namespace html = "http://www.w3.org/1999/xhtml";
+xdmp:document-delete(cts:uri-match("*.xml"))</query><query name="Load Files" focus="false" active="true" content-source="as:9385052811162150940:" mode="xquery">xdmp:document-load("/Users/poneill/Downloads/slush-marklogic-node-master-3/enterprise/src/transform/to-json.xqy",
+    &lt;options xmlns="xdmp:document-load"&gt;
+      &lt;uri&gt;/transform/to-json.xqy&lt;/uri&gt;
+      &lt;repair&gt;none&lt;/repair&gt;
+      &lt;permissions&gt;{xdmp:default-permissions()}&lt;/permissions&gt;
+    &lt;/options&gt;)</query><query name="Query 1" focus="false" active="true" content-source="as:4757384341441144484:" mode="xquery">xdmp:document-load("/Users/poneill/Desktop/Desktop May/s03e07-TheEnemy.mov",
+    &lt;options xmlns="xdmp:document-load"&gt;
+      &lt;uri&gt;/s03e07-TheEnemy.mov&lt;/uri&gt;
+      &lt;repair&gt;none&lt;/repair&gt;
+      &lt;permissions&gt;{xdmp:default-permissions()}&lt;/permissions&gt;
+    &lt;/options&gt;)</query><query name="Query 2" focus="false" active="true" content-source="as:13739487793114107571:" mode="xquery">xquery version "1.0-ml";
+declare namespace html = "http://www.w3.org/1999/xhtml";
+  (: grab file locations :)
+  let $eps-subs := xdmp:filesystem-directory("/Users/poneill/Documents/episodes3")    
+  
+  (: choose well-formed subtitle files :)
+  let $eps-subs-fs := $eps-subs//dir:pathname[starts-with(.,'/Users/poneill/Documents/episodes3/s0')]
+  (: build out character strings for faceting :)
+                    
+  for $ep-subs-fs in $eps-subs-fs[1]
+  let $eps-name := fn:substring-after($ep-subs-fs,"/episodes3")
+    (: Determine the episode name and use it to infer the episode video file name :)
+    
+    (: Pretty-up the episode name and extract season number and episode number :)
+    
+    (: Capture the content of the subtitle file and make a document for each on-screen text string :)
+    let $ep-subs-list := xdmp:document-get($ep-subs-fs)
+
+      return xdmp:document-insert($eps-name,$ep-subs-list,(),"episode")</query><query name="Make RIDXs" focus="false" active="true" content-source="as:4757384341441144484:" mode="xquery">xquery version "1.0-ml";     
+declare namespace html = "http://www.w3.org/1999/xhtml";     
+import module namespace admin = "http://marklogic.com/xdmp/admin" at "/MarkLogic/admin.xqy";     
+     
+(:     
+  Queries &amp; joins will rely on range-element indexes added below.     
+  This should be run on the database prior to any queries being done.     
+:)     
+     
+let $config := admin:get-configuration()     
+let $dbid := xdmp:database("wesley-content")     
+let $rangespecs := (    
+
+admin:database-range-element-index("int" ,    () , "season_number" , "", fn:true(),"ignore" ),
+admin:database-range-element-index("int" ,    () , "episode_number" , "", fn:true(),"ignore" ),
+admin:database-range-element-index("string" ,    () , "episode_name" , "http://marklogic.com/collation/", fn:true(),"ignore" ),
+admin:database-range-element-index("int" ,    () , "timestamp" , "", fn:true(),"ignore" )
+
+  )     
+     
+let $newConfig := admin:database-add-range-element-index($config, $dbid, $rangespecs)     
+return     
+  admin:save-configuration($newConfig)     
+   (: returns the new configuration element -- use admin:save-configuration     
+     to save the changes to the configuration or pass the configuration     
+     to other Admin API functions to make other changes.  :)       </query><query name="Get Subtitles for Apache Web Server" focus="true" active="true" content-source="as:13739487793114107571:" mode="xquery">xquery version "1.0-ml";
+declare namespace html = "http://www.w3.org/1999/xhtml";
+  (: grab file locations :)
+  let $eps-subs := xdmp:filesystem-directory("/Volumes/TAHOE/ProdSubs")    
+  
+  (: choose well-formed subtitle files :)
+  let $eps-subs-fs := $eps-subs//dir:pathname[starts-with(.,'/Volumes/TAHOE/ProdSubs/s0')]/text()
+  
+  (: build out character strings for faceting :)
+  let $char-ors := cts:or-query(
+                    (
+                      cts:word-query("Data"),
+                      cts:word-query("Crusher"),
+                      cts:word-query("Picard"),
+                      cts:word-query("Riker"),
+                      cts:word-query("Troi"),
+                      cts:word-query("Worf"),
+                      cts:word-query("La Forge"),
+                      cts:word-query("Computer"),                     
+                      cts:word-query("Yar"),                      
+                      cts:word-query("O'Brien"),                      
+                      cts:word-query("Guinan"),                      
+                      cts:word-query("Spock"),                      
+                      cts:word-query("Sarek"),                     
+                      cts:word-query("Borg"),                      
+                      cts:word-query("Romulan"),                      
+                      cts:word-query("Ferengi"),                      
+                      cts:word-query("Q ")                      
+                    ))
+                    
+  for $ep-subs-fs in $eps-subs-fs
+    (: Determine the episode name and use it to infer the episode video file name :)
+    let $ep-name := fn:substring-after($ep-subs-fs,"/ProdSubs/")
+    let $ep-name := fn:substring-before($ep-name,".txt")
+    let $ep-file := fn:concat("/",$ep-name,".mov")
+    let $ep-title := fn:substring-after($ep-name,"-")
+    
+    (: Pretty-up the episode name and extract season number and episode number :)
+    let $ep-pretty := fn:replace($ep-title,"_"," ")
+    let $ep-season := fn:substring($ep-name,3,1)
+    let $ep-number := fn:substring-after(fn:substring($ep-name,5,2),"0")
+    
+    (: Capture the content of the subtitle file and make a document for each on-screen text string :)
+    let $ep-subs-list := xdmp:document-get($ep-subs-fs)
+    let $ep-subs-lines := fn:tokenize($ep-subs-list,"\n")
+
+    for $ep-subs-line in $ep-subs-lines
+      let $ep-subs-items := fn:tokenize($ep-subs-line,"\t\t")
+      let $ep-subs-content := element sub_content {$ep-subs-items[8]}
+      let $ep-subs-content := cts:highlight($ep-subs-content, $char-ors, &lt;span character="{$cts:text}"&gt;&lt;i&gt;{$cts:text}&lt;/i&gt;&lt;/span&gt;)
+      let $ep-subs-start-set := fn:tokenize($ep-subs-items[3],":")
+      let $ep-subs-start-full := ((fn:number($ep-subs-start-set[2])*60) + fn:number($ep-subs-start-set[3]) - 2)
+      let $ep-subs-end-full := $ep-subs-start-full + 10
+      let $ep-sub-uri := fn:concat("/",$ep-name,"/Timestamp-",$ep-subs-start-full,".xml")
+      let $doc := element sub 
+            
+            { 
+              element sub_abstract {$ep-subs-content},
+              element episode {
+                                element episode_name {$ep-pretty}, 
+                                element season_number {$ep-season}, 
+                                element episode_number {$ep-number}
+                              },
+              element episode_uri {$ep-file}, 
+              element episode_title {$ep-pretty},
+(:              
+              element episode_fs {
+                                element a {
+                                            attribute href {
+                                                            fn:concat("http://localhost:8017/v1/documents?uri=",$ep-file,"#t=",$ep-subs-start-full)
+                                                           }, 
+                                            "Play ", element i {$ep-pretty}," Now"
+                                 },
+:)                                 
+              element timestamp {$ep-subs-start-full}, 
+              element video { 
+                              attribute controls {},
+                              attribute id {
+                                            "video"
+                                            },
+                              attribute width {
+                                                "640"
+                                                },
+                              attribute height {
+                                                "360"
+                                                },                                                
+              element source { 
+                              attribute src { 
+                                              fn:concat("http://localhost",$ep-file,"#t=",$ep-subs-start-full,",",$ep-subs-end-full)
+                                              },
+                                              
+                              attribute type {
+                                              "video/mp4"
+                                              }
+                                          }
+                             }
+            }
+
+      return xdmp:document-insert($ep-sub-uri,$doc,(),(fn:concat("Season ",$ep-season),$ep-pretty))</query></workspace></export>

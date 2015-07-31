@@ -1,0 +1,558 @@
+		1		00:00:03		195		-->		00:00:06		164		Captain's Log, stardate <stardate>44307</stardate>.3. 
+		2		00:00:06		198		-->		00:00:09		292		I am preparing to leave by shuttlecraft for Pentarus V where I've been asked to mediate a dispute  among the salenite miners, a contentious group  unfortunately, prone to violence. 
+		6		00:00:17		209		-->		00:00:20		178		But first, I must deal with a situation of a far more personal nature. 
+		8		00:00:22		547		-->		00:00:24		071		Sir? 
+		9		00:00:28		220		-->		00:00:32		418		Mr. Crusher, I summoned you almost ten minutes ago. 
+		10		00:00:32		457		-->		00:00:34		084		Yes, sir, I'm sorry. 
+		11		00:00:34		126		-->		00:00:36		151		I was in the middle of a very important experiment. 
+		12		00:00:36		194		-->		00:00:37		786		I was using some very volatile compounds. 
+		13		00:00:37		829		-->		00:00:39		023		I couldn't just leave them... 
+		14		00:00:39		064		-->		00:00:40		031		Excuses, Mr. Crusher? 
+		15		00:00:40		065		-->		00:00:41		896		No, sir. I was just attempting to offer... 
+		16		00:00:41		933		-->		00:00:42		991		Because I can assure you that will not go down well at Starfleet Academy. 
+		18		00:00:45		203		-->		00:00:47		728		Yes, sir, I'm aware of that. 
+		19		00:00:53		078		-->		00:00:54		875		The Academy? 
+		20		00:00:54		913		-->		00:00:58		212		I just received a message from Admiral Nsomeka. 
+		21		00:00:58		250		-->		00:01:01		219		She expects you to report in two weeks. 
+		22		00:01:01		286		-->		00:01:03		982		A position has opened up in this year's class. 
+		23		00:01:04		022		-->		00:01:05		649		Thank you. 
+		24		00:01:05		691		-->		00:01:07		886		Now, you're going to have to work overtime in order to catch up  but I have assured the Admiral that you are capable of it. 
+		27		00:01:12		664		-->		00:01:14		564		Please, don't make a liar out of me. 
+		28		00:01:14		599		-->		00:01:15		759		Oh, no, sir, I won't. 
+		29		00:01:15		801		-->		00:01:18		736		Well, for your final mission on board the <i>Enterprise</i> you will accompany me to Pentarus V  while I try to sort out the problems with the miners. 
+		32		00:01:23		942		-->		00:01:27		139		Commander Riker has told me that you have been studying the effects of outpost judiciary decisions  on Federation law. 
+		35		00:01:30		716		-->		00:01:33		344		What better way to get first-hand experience? 
+		36		00:01:33		385		-->		00:01:34		852		Captain, I am picking up a general distress signal from Gamelan V. 
+		38		00:01:37		456		-->		00:01:39		219		On screen. 
+		39		00:01:40		826		-->		00:01:43		386		Please, does anyone read us? 
+		40		00:01:43		428		-->		00:01:45		362		Open a channel. 
+		41		00:01:45		397		-->		00:01:48		195		I am Captain Jean-Luc Picard of the Federation Starship <i>Enterprise. </i> 
+		43		00:01:51		236		-->		00:01:54		535		Captain, I am Chairman Songi of Gamelan V. 
+		44		00:01:54		573		-->		00:01:56		598		An unidentified spacecraft has entered orbit above our planet. 
+		46		00:01:59		378		-->		00:02:01		972		Radiation levels in our atmosphere have increased by 3,000 percent. 
+		48		00:02:04		516		-->		00:02:07		576		We can only assume we are under attack but the ship will not answer our hails. 
+		50		00:02:10		255		-->		00:02:11		916		We are a peaceful planet. 
+		51		00:02:11		957		-->		00:02:14		585		We have no ability to defend ourselves. 
+		52		00:02:14		626		-->		00:02:17		254		Please, can you help us? 
+		53		00:02:17		295		-->		00:02:19		855		Mr. Data, are we close enough for a scan? 
+		54		00:02:19		898		-->		00:02:22		628		No, sir, we are out of range. 
+		55		00:02:22		667		-->		00:02:24		828		Any other ships in that sector? 
+		56		00:02:24		870		-->		00:02:26		497		Negative, Commander. 
+		57		00:02:26		538		-->		00:02:29		803		Chairman Songi, we'll proceed immediately to your planet. 
+		58		00:02:29		841		-->		00:02:31		866		Thank you, Captain. 
+		59		00:02:31		910		-->		00:02:33		605		Commander Riker, take the <i>Enterprise</i> and investigate the problem. 
+		61		00:02:35		013		-->		00:02:37		345		Ensign Crusher and I will proceed to Pentarus V. 
+		62		00:02:37		382		-->		00:02:38		872		The miners have sent a shuttle. 
+		63		00:02:38		917		-->		00:02:40		350		We shall leave in ten minutes. 
+		64		00:02:40		385		-->		00:02:42		216		Yes, sir. 
+		65		00:02:49		895		-->		00:02:53		922		You know, I've noticed here that your maneuvering thrusters are rigged in a configuration I've never seen before. 
+		67		00:02:57		436		-->		00:03:00		200		It's my own modification. 
+		68		00:03:00		305		-->		00:03:02		398		It's more efficient. 
+		69		00:03:02		441		-->		00:03:04		875		You can study it if you want. 
+		70		00:03:06		077		-->		00:03:07		772		Excuse me, Captain. 
+		71		00:03:09		848		-->		00:03:11		839		I've run safety and operational inspections, Captain. 
+		72		00:03:11		883		-->		00:03:13		043		Everything checks out all right but I won't make any claims as to its comfort. 
+		74		00:03:14		886		-->		00:03:16		513		Captain Picard. 
+		75		00:03:16		555		-->		00:03:19		285		Captain Dirgo of the Shuttlecraft <i>Nenebek. </i> 
+		76		00:03:19		324		-->		00:03:21		315		Ah, Captain. 
+		77		00:03:21		359		-->		00:03:23		520		It's good to meet you. 
+		78		00:03:30		068		-->		00:03:33		094		Captain? Of a mining shuttle? 
+		79		00:03:33		138		-->		00:03:35		003		Yes, Ensign, Captain. 
+		80		00:03:35		040		-->		00:03:36		473		My ship isn't pretty. 
+		81		00:03:36		508		-->		00:03:37		770		She isn't big. 
+		82		00:03:37		809		-->		00:03:40		676		But we've logged almost 10,000 hours together. 
+		83		00:03:40		712		-->		00:03:42		339		Oh, yes. 
+		84		00:03:42		380		-->		00:03:44		348		She seems a very... a very sturdy craft. 
+		86		00:03:46		384		-->		00:03:48		045		We should go. 
+		87		00:03:50		222		-->		00:03:52		520		Captain, will you take Ops? 
+		88		00:03:52		557		-->		00:03:55		526		I'll let Ensign Crusher perform that task. 
+		89		00:03:55		560		-->		00:03:58		723		I have to study up on Regalian law. 
+		90		00:04:08		273		-->		00:04:10		639		Shuttlecraft has cleared the bay, sir. 
+		91		00:04:10		675		-->		00:04:13		303		Ensign Allenby, set a course for the Gamelan system. 
+		92		00:04:13		345		-->		00:04:14		471		Warp six. 
+		93		00:04:14		513		-->		00:04:15		741		Aye, sir. 
+		94		00:04:21		786		-->		00:04:23		811		You've done this before. 
+		95		00:04:23		855		-->		00:04:25		823		Yes. 
+		96		00:04:25		857		-->		00:04:29		258		Your Captain back there, if he isn't tougher than he looks those miners will tear him apart. 
+		98		00:04:31		229		-->		00:04:33		163		Don't worry about Captain Picard. 
+		99		00:04:33		231		-->		00:04:34		323		He'll handle them. 
+		100		00:04:36		735		-->		00:04:37		929		I've lost navigation. 
+		101		00:04:37		969		-->		00:04:41		097		The port thruster quad's gone. 
+		102		00:04:41		139		-->		00:04:44		597		Guidance coupling system severed. 
+		103		00:04:44		643		-->		00:04:47		011		I can't stabilize her. 
+		104		00:05:18		442		-->		00:05:22		845		Space, the final frontier. 
+		105		00:05:22		880		-->		00:05:26		714		These are the voyages of the Starship <i>Enterprise. </i> 
+		106		00:05:26		750		-->		00:05:28		718		Its continuing mission... to explore strange new worlds  to seek out new life and new civilizations  to boldly go where no one has gone before. 
+		110		00:06:43		691		-->		00:06:46		660		The port thruster module blew. 
+		111		00:06:46		694		-->		00:06:49		128		<i>Nenebek</i> to <i>Enterprise. </i> Emergency. 
+		112		00:06:49		163		-->		00:06:50		152		Do you read? 
+		113		00:06:51		265		-->		00:06:54		234		Pentarus Station, come in. 
+		114		00:06:54		268		-->		00:06:57		032		Communication's gone. 
+		115		00:06:57		071		-->		00:06:59		335		Is your navigational system functioning? 
+		116		00:06:59		373		-->		00:07:01		102		Negative. Switching to manual. 
+		117		00:07:01		141		-->		00:07:04		076		50 million kilometers to Pentarus V. 
+		118		00:07:04		144		-->		00:07:06		442		We may have to put down somewhere else. 
+		119		00:07:06		480		-->		00:07:09		972		Mr. Crusher, scan for a Class-M environment. 
+		120		00:07:10		017		-->		00:07:11		746		Aye, sir. 
+		121		00:07:13		087		-->		00:07:14		850		I'm going to have to throttle back on the main impulse engines. 
+		123		00:07:18		659		-->		00:07:21		093		Sir, one of the moons around Pentarus Ill... it registers as Class-M  barely. 
+		126		00:07:23		597		-->		00:07:25		087		The mean surface temperature is 55 degrees Celsius. 
+		128		00:07:26		600		-->		00:07:27		931		Life-forms indicated? 
+		129		00:07:27		968		-->		00:07:30		562		Uh, negative, but scanning is limited. 
+		130		00:07:30		604		-->		00:07:33		038		There's a very strong magnetic field around the surface. 
+		131		00:07:33		073		-->		00:07:35		064		We don't have a choice. 
+		132		00:07:42		649		-->		00:07:45		948		Save the impulse engine for controlled entry. 
+		133		00:07:45		986		-->		00:07:49		513		Mr. Crusher, reconfigure working thrusters to manual input. 
+		135		00:07:50		758		-->		00:07:53		386		I'll try, sir, but this grid looks about 100 years old. 
+		136		00:07:53		427		-->		00:07:56		089		We don't have the Federation's resources. 
+		137		00:07:56		130		-->		00:07:57		927		Captain, take the helm. 
+		138		00:07:59		266		-->		00:08:02		133		I'm re-routing the deuterium flow. 
+		139		00:08:04		104		-->		00:08:06		072		Hull temperature 700 degrees. 
+		140		00:08:06		140		-->		00:08:07		937		Beginning braking maneuver. 
+		141		00:08:09		610		-->		00:08:11		544		We're below Mach One. 
+		142		00:08:11		578		-->		00:08:13		773		Bypass to thrusters now. 
+		143		00:08:15		649		-->		00:08:18		447		Brace yourselves for impact. 
+		144		00:08:43		977		-->		00:08:45		103		Dear God. 
+		145		00:08:46		280		-->		00:08:48		805		Let's salvage what we can. 
+		146		00:08:55		823		-->		00:08:59		418		The first thing we'll need is shelter from the sun. 
+		147		00:09:05		432		-->		00:09:09		926		In this heat, the shuttle will act like an oven. 
+		148		00:09:11		438		-->		00:09:13		531		All the systems are out. 
+		149		00:09:13		574		-->		00:09:16		509		Can't get a communication channel. 
+		150		00:09:16		543		-->		00:09:19		410		Location transponder's gone, too. 
+		151		00:09:19		446		-->		00:09:21		414		Let's check the craft for something to protect our heads and eyes. 
+		153		00:09:24		718		-->		00:09:28		085		And, Captain, please recover your medical supplies food and water rations. 
+		155		00:09:30		123		-->		00:09:31		590		Well, the medical supplies are all right. 
+		156		00:09:33		760		-->		00:09:36		538		Food and water? 
+		157		00:09:36		671		-->		00:09:39		731		The replicator... damaged beyond repair. 
+		159		00:09:42		444		-->		00:09:45		538		Surely you have emergency supplies. 
+		160		00:09:45		580		-->		00:09:48		344		This isn't a starship. 
+		161		00:09:48		383		-->		00:09:52		080		I have to choose what I carry. 
+		162		00:09:52		120		-->		00:09:55		317		Are you telling me there's no water? 
+		163		00:10:19		781		-->		00:10:21		646		Scanning. 
+		164		00:10:21		683		-->		00:10:24		117		The vessel reads as an unmanned sublight freighter. 
+		165		00:10:24		152		-->		00:10:25		779		Origin? 
+		166		00:10:25		820		-->		00:10:27		447		Indeterminate. 
+		167		00:10:27		489		-->		00:10:31		482		Propulsion appears to employ a gaseous-core fission reactor but it is not functioning. 
+		169		00:10:33		361		-->		00:10:36		296		The radiation levels from that ship are off the scale. 
+		170		00:10:36		331		-->		00:10:38		128		Could that be leakage from their engines? 
+		171		00:10:38		233		-->		00:10:39		564		No, sir. 
+		172		00:10:39		601		-->		00:10:42		695		Engine reactor elements appear to have been inactive for approximately 300 years. 
+		174		00:10:44		472		-->		00:10:47		771		The vessel is carrying various unstable waste products. 
+		175		00:10:47		809		-->		00:10:49		868		You mean it's a garbage scow. 
+		176		00:10:49		911		-->		00:10:51		276		Precisely. 
+		177		00:10:51		312		-->		00:10:53		337		Mr. Worf, open a hailing frequency. 
+		178		00:10:53		381		-->		00:10:55		815		Chairman Songi, this is Commander Riker on board the <i>Enterprise. </i> 
+		180		00:10:57		819		-->		00:10:59		446		Yes, Commander. 
+		181		00:10:59		487		-->		00:11:02		718		It appears you have inherited someone else's problem... an old waste vessel  caught by your planet's gravitational pull. 
+		184		00:11:06		561		-->		00:11:10		088		Have your people begun to suffer from radiation sickness? 
+		185		00:11:10		198		-->		00:11:12		098		Not yet, but some areas are already detecting dangerous levels. 
+		187		00:11:15		036		-->		00:11:16		799		We'll do our best to get it out of here as quickly as possible. 
+		189		00:11:17		972		-->		00:11:19		769		Thank you, Commander. 
+		190		00:11:19		808		-->		00:11:23		005		We're going to push that barge into the Gamelan sun. 
+		191		00:11:23		044		-->		00:11:27		504		Sir, the Meltasion asteroid belt lies between here and the sun. 
+		192		00:11:27		549		-->		00:11:28		675		Then we'll take it in ourselves. 
+		193		00:11:28		717		-->		00:11:29		684		We'll use our deflectors to clear a path through the asteroids. 
+		195		00:11:31		119		-->		00:11:33		110		I don't like the idea of getting close enough to that barge to tow it. 
+		197		00:11:34		189		-->		00:11:35		918		The radiation levels are so high, we'd be risking the contamination of the entire crew. 
+		199		00:11:37		325		-->		00:11:39		122		Do you have a better idea, Geordi? 
+		200		00:11:39		227		-->		00:11:41		422		We could send a construction module over to attach thrusters to it. 
+		202		00:11:42		997		-->		00:11:44		123		Then we could direct it through the asteroid belt from a safe distance. 
+		204		00:11:46		601		-->		00:11:47		590		Commander, a message from the mining settlement on Pentarus V. 
+		206		00:11:49		738		-->		00:11:51		797		The shuttlecraft carrying Captain Picard has not yet arrived. 
+		208		00:11:53		208		-->		00:11:55		108		They left here at 0800 hours. 
+		209		00:11:55		143		-->		00:11:58		135		They have asked if we are beginning a search. 
+		210		00:12:01		382		-->		00:12:03		373		Tell them we have an emergency situation. 
+		211		00:12:03		418		-->		00:12:06		080		We will begin a search as soon as we've completed that. 
+		212		00:12:06		187		-->		00:12:07		245		Aye, sir. 
+		213		00:12:07		288		-->		00:12:09		722		Mr. La Forge, prepare to launch the construction module. 
+		214		00:12:09		758		-->		00:12:12		784		I'd like to get this over with as fast as possible. 
+		215		00:12:19		400		-->		00:12:20		697		Any luck with the tricorder, Ensign? 
+		216		00:12:20		735		-->		00:12:22		362		I think so, sir. 
+		217		00:12:22		403		-->		00:12:24		098		The scanning range may be a bit limited but it's better than nothing. 
+		219		00:12:26		574		-->		00:12:28		667		These were on board, Captain. They're working. 
+		220		00:12:28		710		-->		00:12:30		337		Excellent. 
+		221		00:12:30		378		-->		00:12:33		973		Our communicators may not be able to get a signal through this strong a magnetic field. 
+		223		00:12:36		651		-->		00:12:39		984		I'm fashioning an arrow. 
+		224		00:12:40		021		-->		00:12:43		218		If a search party finds the wreckage they'll know that we've headed for those mountains. 
+		226		00:12:47		762		-->		00:12:48		729		Are you crazy? 
+		227		00:12:48		763		-->		00:12:49		923		They're too far away. 
+		228		00:12:49		964		-->		00:12:51		158		We'll never make it. 
+		229		00:12:53		334		-->		00:12:56		030		We can't survive in this sun. 
+		230		00:12:56		070		-->		00:13:00		598		Where there's mountains, there's shelter. 
+		231		00:13:00		642		-->		00:13:02		974		You've got no right to make the decisions. 
+		232		00:13:03		011		-->		00:13:04		740		I'm the Captain of this ship. 
+		233		00:13:04		779		-->		00:13:06		076		If you want to get out of this 
+		234		00:13:06		181		-->		00:13:08		012		I suggest you listen to Captain Picard. 
+		235		00:13:08		049		-->		00:13:10		017		He's the one who's going to keep us alive. 
+		236		00:13:10		051		-->		00:13:11		609		Thank you, Ensign. That's enough. 
+		237		00:13:16		791		-->		00:13:19		760		Captain Dirgo, you're an able pilot. 
+		238		00:13:19		794		-->		00:13:21		591		I welcome your input. 
+		239		00:13:21		629		-->		00:13:24		029		Do you feel that there is an alternative we're overlooking? 
+		241		00:13:32		140		-->		00:13:33		767		No. 
+		242		00:13:33		808		-->		00:13:35		776		Very well. 
+		243		00:13:35		810		-->		00:13:39		576		I suggest a steady pace, not a brisk one. 
+		244		00:13:39		614		-->		00:13:41		309		We need to ration our energy. 
+		245		00:13:41		349		-->		00:13:43		249		Try breathing through your nose. 
+		246		00:13:43		284		-->		00:13:45		252		That way, it will help to prevent dehydration. 
+		247		00:13:45		286		-->		00:13:46		378		I'll lead. 
+		248		00:13:46		421		-->		00:13:48		616		Captain Dirgo, will you bring up the rear? 
+		249		00:14:45		146		-->		00:14:49		139		And you were worried about how tough the Captain is? 
+		250		00:15:26		454		-->		00:15:28		251		Did you find water? 
+		251		00:15:28		289		-->		00:15:29		551		No, not yet. 
+		252		00:15:29		590		-->		00:15:31		888		What are you doing with that? 
+		253		00:15:31		926		-->		00:15:32		915		Mr. Crusher? 
+		254		00:15:36		130		-->		00:15:38		462		I'm not sure, sir. 
+		255		00:15:40		468		-->		00:15:42		436		It's an energy reading. 
+		256		00:15:42		470		-->		00:15:44		938		Energy reading? What kind? 
+		257		00:15:44		973		-->		00:15:46		941		Low frequency EM. 
+		258		00:15:46		975		-->		00:15:48		408		It's been getting stronger the closer we get to those mountains. 
+		260		00:15:50		478		-->		00:15:54		107		What are you saying? There's something over there? 
+		261		00:15:54		148		-->		00:15:55		775		Waiting for us? 
+		262		00:15:55		817		-->		00:15:58		047		I'm not sure what it is. 
+		263		00:15:58		086		-->		00:16:02		386		It just keeps registering as a repeating energy pattern. 
+		264		00:16:02		423		-->		00:16:04		050		Ensign, are you suggesting that this energy is not naturally occurring? 
+		266		00:16:07		095		-->		00:16:08		960		These readings could be indicative of some electromagnetic properties in the rocks  but I don't think so. 
+		269		00:16:13		735		-->		00:16:15		362		A life-form? 
+		270		00:16:15		403		-->		00:16:17		030		It's possible. 
+		271		00:16:17		071		-->		00:16:19		699		The pattern is fairly organized. 
+		272		00:16:22		777		-->		00:16:26		076		Well, we can't go back. 
+		273		00:16:26		114		-->		00:16:29		413		We can't stay here. 
+		274		00:16:29		450		-->		00:16:34		251		We've got to keep going for those mountains... no matter what is waiting for us. 
+		276		00:17:17		650		-->		00:17:20		448		There has to be water in here. 
+		277		00:17:20		486		-->		00:17:22		454		Aren't caves formed by water? 
+		278		00:17:22		488		-->		00:17:24		956		Not necessarily. 
+		279		00:17:24		990		-->		00:17:27		959		This could be created by volcanic activity... lava flow... these walls are dry. 
+		281		00:17:30		462		-->		00:17:32		953		Mr. Crusher, do you have any moisture reading? 
+		282		00:17:32		998		-->		00:17:34		124		No, sir. 
+		283		00:17:34		166		-->		00:17:36		134		But that EM reading... the pattern's changed. 
+		285		00:17:38		170		-->		00:17:41		003		The frequency's peaking a lot higher. 
+		286		00:17:46		245		-->		00:17:48		475		You have water! 
+		287		00:17:48		514		-->		00:17:50		311		I wouldn't hide water. 
+		288		00:17:52		418		-->		00:17:54		249		That's called <i>dresci. </i> 
+		289		00:17:54		286		-->		00:17:56		277		It's from my planet. 
+		290		00:18:00		292		-->		00:18:01		884		It's alcohol. 
+		291		00:18:01		927		-->		00:18:03		588		It's medicinal. 
+		292		00:18:03		629		-->		00:18:04		789		It's for emergencies. 
+		293		00:18:04		830		-->		00:18:06		297		I was going to share it with you. 
+		294		00:18:06		332		-->		00:18:07		822		This wouldn't quench your thirst. 
+		295		00:18:07		866		-->		00:18:08		958		It would make it worse. 
+		296		00:18:09		001		-->		00:18:10		992		Well, I'll take my chances. 
+		297		00:18:11		070		-->		00:18:12		799		I'm not going to let you waste this. 
+		298		00:18:12		838		-->		00:18:14		829		This is more valuable to us as a coolant a disinfectant. 
+		300		00:18:15		908		-->		00:18:17		000		It's mine. 
+		301		00:18:17		042		-->		00:18:19		010		Mr. Crusher, stow that with the medical supplies. 
+		302		00:18:19		044		-->		00:18:20		011		Keep your eye on it. 
+		303		00:18:20		045		-->		00:18:21		740		All right, we're going to explore the cave. 
+		304		00:18:21		780		-->		00:18:24		010		Mr. Crusher, look out for any signs of water no matter how faint. 
+		306		00:18:25		217		-->		00:18:28		550		Captain Dirgo, will you lead the way? 
+		307		00:18:48		474		-->		00:18:50		840		We're projecting that the bulk of the radiation will affect three small island groups. 
+		309		00:18:54		913		-->		00:18:57		575		Fortunately, they're very sparsely populated. 
+		310		00:18:57		616		-->		00:18:59		345		We'll begin replicating hyronalin now and be ready to transport it to them, if it becomes necessary. 
+		312		00:19:02		421		-->		00:19:05		481		Please coordinate with all the medical personnel on the planet. 
+		313		00:19:05		524		-->		00:19:06		821		Beverly. 
+		314		00:19:10		529		-->		00:19:13		225		We've contacted the nearest Starbase for a search vessel. 
+		316		00:19:14		867		-->		00:19:16		892		I'm afraid the closest one is almost a week away. 
+		318		00:19:18		804		-->		00:19:20		271		I see. 
+		319		00:19:20		306		-->		00:19:22		001		Thank you. 
+		320		00:19:22		107		-->		00:19:24		940		But we have asked the mining settlement to send any vessels they might have. 
+		322		00:19:27		980		-->		00:19:30		505		You know, there are many reasons why the shuttlecraft may have been delayed. 
+		324		00:19:34		153		-->		00:19:38		613		Deanna, thank you, but I'm all right. 
+		325		00:19:38		657		-->		00:19:41		785		And right now, I have work to do. 
+		326		00:19:49		134		-->		00:19:50		465		Commander, the miners report they have very few operable shuttlecraft. 
+		328		00:19:52		438		-->		00:19:54		929		They want to know when we will be joining the search. 
+		329		00:19:54		973		-->		00:19:56		031		Tell them to stand by. 
+		330		00:19:56		075		-->		00:19:57		702		If this works, we'll be on our way. 
+		331		00:19:57		743		-->		00:19:58		732		Aye, sir. 
+		332		00:19:58		777		-->		00:20:00		608		Thrusters are attached and ready, Commander. 
+		333		00:20:00		646		-->		00:20:02		307		Initiate prefire sequence. 
+		334		00:20:02		348		-->		00:20:03		645		Prefire sequence transmitted. 
+		335		00:20:03		682		-->		00:20:05		343		Thrusters to standby. 
+		336		00:20:05		384		-->		00:20:06		476		Fire thrusters. 
+		337		00:20:15		394		-->		00:20:16		691		We've lost one module. 
+		338		00:20:16		729		-->		00:20:18		424		Correcting thrust vectors to compensate. 
+		339		00:20:18		464		-->		00:20:20		056		Structural integrity of the barge has been compromised. 
+		341		00:20:21		266		-->		00:20:22		790		Disintegration is continuing. 
+		342		00:20:22		835		-->		00:20:24		325		Shut down thrusters. 
+		343		00:20:24		370		-->		00:20:28		067		Ensign, take us to 1,000 meters ahead of the barge and hold. 
+		344		00:20:28		173		-->		00:20:30		004		External radiation levels increasing, sir. 
+		345		00:20:30		042		-->		00:20:31		600		Coming into position at 1,000 meters. 
+		346		00:20:31		643		-->		00:20:33		440		Worf, extend the shields around the ship. 
+		347		00:20:33		479		-->		00:20:34		571		Lock on the tractor beam. 
+		348		00:20:34		613		-->		00:20:35		602		Aye, sir. 
+		349		00:20:41		653		-->		00:20:45		851		Warning. Radiation levels at 70 millirads per minute and rising. 
+		351		00:20:47		126		-->		00:20:48		218		Allenby, set a new course. 
+		352		00:20:48		260		-->		00:20:50		057		We'll take it through the asteroid belt ourselves. 
+		353		00:20:50		095		-->		00:20:51		062		One quarter impulse. 
+		354		00:20:51		096		-->		00:20:52		063		Aye, sir. 
+		355		00:20:52		097		-->		00:20:53		359		Dr. Crusher, to the Bridge. 
+		356		00:20:53		399		-->		00:20:54		627		On my way. 
+		357		00:20:54		666		-->		00:20:55		758		Mr. Data, I'll need a projection of the radiation's impact on the crew. 
+		359		00:20:57		202		-->		00:21:00		933		Mr. Worf, contact the mining settlement. 
+		360		00:21:00		973		-->		00:21:04		409		Tell them we won't be joining the search for a while. 
+		361		00:21:34		949		-->		00:21:36		678		I knew there had to be water. 
+		362		00:21:42		557		-->		00:21:43		524		What was that? 
+		363		00:21:43		558		-->		00:21:45		150		It seems to be a tightly-confined annular force field, sir. 
+		365		00:21:46		494		-->		00:21:49		258		Placed there to protect the water. 
+		366		00:21:49		297		-->		00:21:51		765		Yes. There has to be a way to deactivate it, sir. 
+		367		00:21:51		800		-->		00:21:53		859		We can, with our phasers. 
+		368		00:21:53		902		-->		00:21:57		030		Mr. Dirgo, I think it would be wiser... 
+		369		00:21:57		105		-->		00:21:58		868		Captain, the EM reading... the power level's really spiking now. 
+		371		00:22:01		109		-->		00:22:02		576		I think it's working. 
+		372		00:22:02		610		-->		00:22:04		202		Dirgo... 
+		373		00:22:11		486		-->		00:22:12		646		Stop firing! 
+		374		00:22:15		523		-->		00:22:16		615		Wesley! 
+		375		00:22:33		475		-->		00:22:35		966		Apply pressure to that wound. 
+		376		00:22:47		889		-->		00:22:49		948		This is the worst break. 
+		377		00:22:49		991		-->		00:22:51		891		What was that thing? 
+		378		00:22:51		926		-->		00:22:53		917		Keep the pressure constant! 
+		379		00:23:09		944		-->		00:23:12		071		Ensign... how bad is it? 
+		381		00:23:13		615		-->		00:23:16		345		Your right leg is broken. 
+		382		00:23:16		384		-->		00:23:19		080		You have a fracture in your left arm and you took a blow to the head. 
+		384		00:23:21		289		-->		00:23:24		690		But we're getting the bleeding under control. 
+		385		00:23:24		726		-->		00:23:27		752		Well done. 
+		386		00:23:27		796		-->		00:23:29		491		I'm going to be fine. 
+		387		00:23:29		531		-->		00:23:33		467		I just... just need... to get my breath. 
+		389		00:23:35		570		-->		00:23:38		767		Will you tell him the truth? 
+		390		00:23:38		807		-->		00:23:40		434		What truth? 
+		391		00:23:40		475		-->		00:23:42		102		He's bleeding inside. 
+		392		00:23:42		143		-->		00:23:43		610		I've seen it before. 
+		393		00:23:43		645		-->		00:23:45		772		He's never going to survive. 
+		394		00:23:45		814		-->		00:23:48		544		You don't know what you're talking about. 
+		395		00:23:50		585		-->		00:23:52		382		You're wasting your time. 
+		396		00:23:52		420		-->		00:23:54		547		Will you save that <i>dresci</i> for us? 
+		397		00:23:54		589		-->		00:23:57		217		Mr. Dirgo, I would appreciate it if you didn't bury me before I'm gone. 
+		399		00:24:13		741		-->		00:24:16		869		The trouble is he could be right. 
+		400		00:24:16		911		-->		00:24:18		071		No, he's not, sir. 
+		401		00:24:18		112		-->		00:24:19		875		You're going to be fine. 
+		402		00:24:19		914		-->		00:24:25		580		Wesley, you are going to have to keep a... a rein on Dirgo. 
+		403		00:24:25		620		-->		00:24:28		111		He's willful, stubborn. 
+		404		00:24:28		156		-->		00:24:30		090		That's dangerous. 
+		405		00:24:30		124		-->		00:24:31		921		You'll handle him, sir. 
+		406		00:24:31		960		-->		00:24:33		484		Wesley, listen to me. 
+		407		00:24:33		528		-->		00:24:38		591		I have no feeling in my right leg. 
+		408		00:24:38		633		-->		00:24:41		602		My vision is blurred. 
+		409		00:24:41		636		-->		00:24:44		469		I'm going to get worse, not better. 
+		410		00:24:46		441		-->		00:24:49		205		I'm not going to be able to help you. 
+		411		00:24:49		244		-->		00:24:53		544		No, you are going to have to stand up to Dirgo on your own. 
+		412		00:24:57		752		-->		00:24:59		117		Yes, sir. 
+		413		00:24:59		153		-->		00:25:02		589		Hey... good man. 
+		414		00:25:10		623		-->		00:25:14		582		First Officer's Log, stardate <stardate>44307</stardate>.6. 
+		415		00:25:14		627		-->		00:25:18		256		Radiation levels on the <i>Enterprise</i> continue to rise. 
+		416		00:25:18		298		-->		00:25:21		267		The ventilation system has started pumping hyronalin into our air supply to counteract the effects. 
+		418		00:25:24		003		-->		00:25:26		631		At the rate the radiation levels are increasing the hyronalin additive will only be effective  for another 38 minutes. 
+		421		00:25:30		610		-->		00:25:32		202		Crusher to Medical Unit One. 
+		422		00:25:32		245		-->		00:25:34		611		Evacuate and seal off all non-operational areas. 
+		423		00:25:34		647		-->		00:25:36		171		Group the crew and their families in the interior corridors of decks nine and ten. 
+		425		00:25:38		585		-->		00:25:40		712		Radiation exposure protocol. 
+		426		00:25:40		753		-->		00:25:41		811		Acknowledged, Doctor. 
+		427		00:25:41		854		-->		00:25:44		152		Mr. Data, at our current speed, how long will it take us to get through the asteroid belt? 
+		429		00:25:45		592		-->		00:25:47		719		51 Minutes, 14 seconds, sir. 
+		430		00:25:47		760		-->		00:25:49		159		There's going to be a lot of casualties if we can't get there any faster. 
+		432		00:25:50		430		-->		00:25:52		898		Mr. La Forge, how much more can we get out of that tractor beam? 
+		433		00:25:52		932		-->		00:25:54		263		We're already at the maximum limits of our towing speed, Commander. 
+		435		00:25:55		568		-->		00:25:57		968		Let's see if we can establish a new upper limit. 
+		436		00:25:58		037		-->		00:25:59		334		Yes, sir. 
+		437		00:25:59		372		-->		00:26:01		499		Data, monitor the shearing effect on the beam. 
+		438		00:26:01		541		-->		00:26:03		065		Increasing to one-half impulse. 
+		439		00:26:10		016		-->		00:26:11		677		Tractor beam is holding. 
+		440		00:26:11		718		-->		00:26:14		516		Shearing force, 80 metric tons per meter. 
+		441		00:26:14		554		-->		00:26:17		853		Increasing to three-quarters impulse. 
+		442		00:26:22		895		-->		00:26:25		659		Shearing force, 92 metric tons. 
+		443		00:26:25		698		-->		00:26:27		495		Ninety-three. 
+		444		00:26:27		533		-->		00:26:29		057		Tractor beam is destabilizing. 
+		445		00:26:29		102		-->		00:26:31		332		We are going to lose the barge, Commander. 
+		446		00:26:31		371		-->		00:26:33		532		Reduce power. 
+		447		00:26:33		573		-->		00:26:35		768		One-half impulse. 
+		448		00:26:35		808		-->		00:26:37		867		Geordi, you've got to stabilize that tractor beam. 
+		449		00:26:37		910		-->		00:26:39		605		I can't divert any more power to the shields. 
+		450		00:26:39		646		-->		00:26:41		546		We're already hitting our maximum thermal limits. 
+		451		00:26:41		581		-->		00:26:42		639		Only other choice is to bring some other fusion reactors on-line  but we're running at peak coolant pressure. 
+		454		00:26:46		919		-->		00:26:48		546		Do it. 
+		455		00:26:48		588		-->		00:26:51		523		Warning. Radiation levels at 150 millirads per minute, and rising. 
+		457		00:26:54		994		-->		00:26:57		622		Lethal exposure in 35 minutes. 
+		458		00:27:03		870		-->		00:27:05		167		Look at that. 
+		459		00:27:05		204		-->		00:27:07		536		The phaser. 
+		460		00:27:22		221		-->		00:27:23		848		How did this happen? 
+		461		00:27:23		890		-->		00:27:25		755		That thing did it. 
+		462		00:27:29		896		-->		00:27:34		560		These are selenium fibers... electrically deposited. 
+		463		00:27:42		075		-->		00:27:44		566		The EM pattern is back down. 
+		464		00:27:48		981		-->		00:27:53		645		It only peaks when we move towards the water. 
+		465		00:27:53		686		-->		00:27:57		144		Whatever we saw must act like... a sentry to try to guard the fountain. 
+		467		00:27:59		792		-->		00:28:02		352		When we're not moving towards the water the wave pattern stays low...  right here between five and 15 megahertz. 
+		470		00:28:09		268		-->		00:28:10		792		Dirgo, move toward the fountain. 
+		471		00:28:14		574		-->		00:28:15		871		Dirgo. 
+		472		00:28:26		219		-->		00:28:27		516		There. 
+		473		00:28:27		553		-->		00:28:29		544		It just went to 40. 
+		474		00:28:31		557		-->		00:28:33		184		What is this getting us? 
+		475		00:28:33		226		-->		00:28:35		319		We've got to get to the water. 
+		476		00:28:35		361		-->		00:28:38		558		If I can figure out how to manipulate the frequency maybe I can control it. 
+		478		00:28:40		099		-->		00:28:43		933		Now, the sentry first appeared when you used your phaser. 
+		479		00:28:43		970		-->		00:28:46		370		That means it could respond to heat or collinated energy... 
+		480		00:28:46		405		-->		00:28:47		531		If you're right we can use a phaser to lure it away. 
+		482		00:28:49		308		-->		00:28:50		605		Hold on. We need to know what we're dealing with before we do anything. 
+		484		00:28:52		578		-->		00:28:53		875		No, enough talking, enough thinking. 
+		485		00:28:53		913		-->		00:28:55		141		It's time to do something. 
+		486		00:28:55		181		-->		00:28:56		307		I'll start firing. 
+		487		00:28:56		349		-->		00:28:59		079		When it comes, you fire and draw it away. 
+		488		00:28:59		118		-->		00:29:00		085		Dirgo, I can't. 
+		489		00:29:00		119		-->		00:29:01		245		Put your phaser on automatic leave it on that ledge and take cover. 
+		491		00:29:03		523		-->		00:29:06		424		And what makes you think it's going to go for my phaser and not for yours? 
+		493		00:29:07		527		-->		00:29:09		358		Because I'll be firing at the lowest setting. 
+		494		00:29:09		395		-->		00:29:10		362		You use maximum. 
+		495		00:29:10		396		-->		00:29:11		454		There is no evidence that it responds differently to higher settings. 
+		497		00:29:13		399		-->		00:29:15		196		We have to figure out our options before we just... 
+		498		00:29:15		234		-->		00:29:17		794		While we are doing that, your Captain is dying. 
+		499		00:29:17		837		-->		00:29:22		171		Wounds like that, most men would be dead already. 
+		500		00:29:22		208		-->		00:29:24		540		If he doesn't get water... 
+		501		00:29:26		546		-->		00:29:29		947		When I start firing, you better do your part. 
+		502		00:30:31		075		-->		00:30:33		669		First Officer's Log, supplemental. 
+		503		00:30:33		711		-->		00:30:36		908		Mr. La Forge has diverted power from auxiliary fusion generators in an attempt to stabilize the tractor beam. 
+		505		00:30:39		550		-->		00:30:42		178		This is the only hope of increasing our towing speed so we can clear the asteroid belt  before radiation levels become fatal. 
+		508		00:30:46		457		-->		00:30:47		947		Warning. Radiation levels at 300 millirads per minute, and rising. 
+		510		00:30:51		128		-->		00:30:53		221		Lethal exposure in one minute. 
+		511		00:30:53		263		-->		00:30:54		423		Ready, Commander. 
+		512		00:30:54		465		-->		00:30:56		558		I'll be rotating the output of the auxiliary reactors but it should still give us the power we need. 
+		514		00:30:58		502		-->		00:30:59		491		Proceed, Mr. La Forge. 
+		515		00:30:59		536		-->		00:31:01		333		Increasing to three quarters impulse. 
+		516		00:31:01		372		-->		00:31:04		808		Shearing force is at 103 metric tons. 
+		517		00:31:04		842		-->		00:31:05		934		Tractor beam is stable. 
+		518		00:31:05		976		-->		00:31:07		603		Full impulse. 
+		519		00:31:12		650		-->		00:31:14		277		Tractor beam is holding. 
+		520		00:31:14		318		-->		00:31:16		946		Warning. Lethal radiation exposure in 30 seconds. 
+		521		00:31:17		021		-->		00:31:20		479		We are within visual range of the asteroid belt. 
+		522		00:31:20		524		-->		00:31:21		548		On screen. 
+		523		00:31:22		893		-->		00:31:25		054		Warning. 
+		524		00:31:25		095		-->		00:31:28		155		Lethal radiation exposure in 15 seconds. 
+		525		00:31:28		198		-->		00:31:30		496		Prepare to cut the barge loose. 
+		526		00:31:30		534		-->		00:31:34		368		Warning. Lethal radiation exposure in ten seconds. 
+		527		00:31:35		406		-->		00:31:36		805		We have cleared the asteroids, sir. 
+		528		00:31:36		840		-->		00:31:38		865		Let it go. 
+		529		00:31:52		289		-->		00:31:53		950		Cold. 
+		530		00:31:56		960		-->		00:32:00		794		When the sun went down, the temperature really dropped. 
+		531		00:32:00		831		-->		00:32:02		822		This should help. 
+		532		00:32:07		671		-->		00:32:10		504		Oh, good. 
+		533		00:32:10		541		-->		00:32:11		838		Thank you. 
+		534		00:32:15		846		-->		00:32:19		213		I'm not much good to you, Wesley. 
+		535		00:32:19		249		-->		00:32:21		479		Sir... 
+		536		00:32:21		518		-->		00:32:24		351		Dirgo is dead. 
+		537		00:32:24		388		-->		00:32:27		983		I should have tried harder to stop him, but he... 
+		538		00:32:30		194		-->		00:32:33		163		Captain? 
+		539		00:32:33		197		-->		00:32:35		859		Captain Picard? 
+		540		00:32:35		899		-->		00:32:38		868		Sir, stay with me. 
+		541		00:32:41		205		-->		00:32:42		934		I'm trying. 
+		542		00:32:46		210		-->		00:32:47		973		Sir... 
+		543		00:32:50		881		-->		00:32:54		840		Do you remember when we took the shuttlecraft together to Starbase 515? 
+		545		00:32:58		555		-->		00:33:00		921		Oh, I was dreading it. 
+		546		00:33:00		958		-->		00:33:03		290		Six hours alone with you? 
+		547		00:33:07		331		-->		00:33:09		799		But it didn't turn out the way that I thought. 
+		548		00:33:12		836		-->		00:33:15		930		You opened up to me. 
+		549		00:33:16		039		-->		00:33:18		906		I... I kind of got to know you. 
+		550		00:33:18		942		-->		00:33:21		809		Wesley, it's my fault that you're here. 
+		551		00:33:21		845		-->		00:33:24		245		I shouldn't have asked you. 
+		552		00:33:24		281		-->		00:33:27		341		Sir, I'm honored that you wanted me along. 
+		553		00:33:27		384		-->		00:33:28		476		I was selfish. 
+		554		00:33:28		519		-->		00:33:32		956		I thought I... wouldn't see you again. 
+		555		00:33:33		056		-->		00:33:34		387		I'm sorry. 
+		556		00:33:35		926		-->		00:33:37		587		Sir in the past three years, I've lived more  than most people do in a lifetime. 
+		559		00:33:49		406		-->		00:33:55		777		I think I'm very lucky, no matter what happens. 
+		560		00:33:55		813		-->		00:34:00		477		How many people get to serve with Jean-Luc Picard? 
+		561		00:34:05		355		-->		00:34:06		481		Sir... 
+		562		00:34:09		159		-->		00:34:12		185		You don't know this... no one knows this, because I've never told anyone. 
+		564		00:34:21		405		-->		00:34:25		136		All of the things that I've worked for... school, my science projects...  getting into the Academy... 
+		567		00:34:37		988		-->		00:34:41		583		I've done it all because I want you to be proud of me. 
+		568		00:34:49		199		-->		00:34:53		192		If there is one thing that I've learned from you it's that you don't quit, and I'm not going to quit now. 
+		570		00:34:57		975		-->		00:34:59		704		I've seen you think yourself out of worse situations than this  and I'm going to think us out of this. 
+		573		00:35:09		786		-->		00:35:12		482		You're not going to die. 
+		574		00:35:12		522		-->		00:35:16		618		I'm not going to let you die. 
+		575		00:35:16		660		-->		00:35:20		152		I'll get to the water and I'll keep you alive until they find us. 
+		577		00:35:24		735		-->		00:35:26		259		I promise. 
+		578		00:35:36		592		-->		00:35:39		152		First Officer's Log, supplemental. 
+		579		00:35:39		195		-->		00:35:42		426		The <i>Enterprise</i> is returning to the last known location of the missing shuttlecraft. 
+		581		00:35:44		033		-->		00:35:45		125		Are you certain? 
+		582		00:35:45		167		-->		00:35:46		191		It is definitely debris. 
+		583		00:35:46		235		-->		00:35:48		396		The primary material is duranium with smaller proportions of sonodamite and ermanium. 
+		585		00:35:52		107		-->		00:35:54		200		Most shuttlecraft hulls are made of duranium. 
+		586		00:35:54		243		-->		00:35:55		608		Then, they're gone. 
+		587		00:35:55		644		-->		00:35:56		872		Not necessarily, Doctor. 
+		588		00:35:56		912		-->		00:35:58		345		There is far too little debris to account for an entire shuttlecraft. 
+		590		00:36:00		216		-->		00:36:01		183		So what is it? 
+		591		00:36:01		217		-->		00:36:02		241		You know, Dirgo had his maneuvering thrusters rigged a funny way. 
+		593		00:36:04		019		-->		00:36:05		145		Claimed it was more efficient. 
+		594		00:36:05		187		-->		00:36:06		245		If one of them blew it might have left debris that looks like this. 
+		596		00:36:08		023		-->		00:36:09		684		If only one of his thrusters was out he still could have set down somewhere. 
+		598		00:36:11		627		-->		00:36:15		654		The only Class-M planets in the system are Pentarus II and V. 
+		599		00:36:15		698		-->		00:36:16		858		Both of which have been thoroughly searched by the miners. 
+		601		00:36:18		701		-->		00:36:20		225		Then we'll search them again. 
+		602		00:36:20		269		-->		00:36:21		634		Sir, there are also four moons in the Pentarus system that could support life. 
+		604		00:36:23		906		-->		00:36:25		464		Have the miners searched them? 
+		605		00:36:25		507		-->		00:36:26		872		Not yet, sir. 
+		606		00:36:26		942		-->		00:36:29		638		Which one is closest to the debris coordinates? 
+		607		00:36:29		678		-->		00:36:33		079		Lambda Paz, one of the moons of Pentarus III. 
+		608		00:36:33		115		-->		00:36:35		276		Set a course, Ensign. 
+		609		00:37:00		943		-->		00:37:05		243		Ensign, where are we? 
+		610		00:37:11		420		-->		00:37:14		048		We crashed, sir. 
+		611		00:37:14		089		-->		00:37:16		717		We're in a cave. 
+		612		00:37:16		759		-->		00:37:19		250		Need water. 
+		613		00:37:22		398		-->		00:37:25		333		Sir, we don't have any water. 
+		614		00:37:25		367		-->		00:37:27		358		Don't you remember? 
+		615		00:37:27		403		-->		00:37:31		100		We tried to get to the fountain and Captain Dirgo... 
+		616		00:37:33		442		-->		00:37:37		276		Yes... I remember. 
+		617		00:37:37		313		-->		00:37:39		577		I think I'm onto something. 
+		618		00:37:39		615		-->		00:37:43		176		I've analyzed the sentry's energy patterns. 
+		619		00:37:43		218		-->		00:37:47		086		Wesley, I may not make it. 
+		620		00:37:47		122		-->		00:37:48		885		I've taken the transponder element from my communicator  and I've used it to modify my tricorder. 
+		623		00:37:52		394		-->		00:37:53		361		No. No, Wesley... 
+		624		00:37:53		395		-->		00:37:54		589		I think I can use it to interrupt the sentry's electrical pattern. 
+		626		00:37:55		864		-->		00:37:56		831		Listen... 
+		627		00:37:56		865		-->		00:37:58		355		Stop it, maybe slow it down. 
+		628		00:37:58		400		-->		00:37:59		594		Listen to me. 
+		629		00:38:01		737		-->		00:38:03		295		Yes, sir. 
+		630		00:38:06		075		-->		00:38:09		738		There's so much I wanted to tell you. 
+		631		00:38:12		081		-->		00:38:14		049		The Academy... there's someone...  someone who meant a great deal to me. 
+		634		00:38:21		557		-->		00:38:26		859		He's been there for... oh, forever. 
+		635		00:38:26		929		-->		00:38:30		558		Someone you must get to know. 
+		636		00:38:30		599		-->		00:38:33		067		His name is Boothby. 
+		637		00:38:33		102		-->		00:38:38		768		Now, you tell him that you and I were friends. 
+		638		00:38:38		807		-->		00:38:43		335		When I was there, he... he helped me. 
+		639		00:38:43		379		-->		00:38:45		210		Listen to him. 
+		640		00:38:45		247		-->		00:38:47		807		What does he teach? 
+		641		00:38:47		850		-->		00:38:51		217		He's the groundskeeper. 
+		642		00:38:51		253		-->		00:38:54		484		He's one of the wisest men I ever knew. 
+		643		00:38:57		559		-->		00:39:02		394		Oh, I envy you, Wesley Crusher. 
+		644		00:39:08		237		-->		00:39:11		035		You're just at the beginning of the adventure. 
+		645		00:39:17		579		-->		00:39:20		047		Go on. 
+		646		00:39:20		082		-->		00:39:22		744		Get the water, stay alive. 
+		647		00:39:24		753		-->		00:39:26		414		They'll find you. 
+		648		00:39:37		099		-->		00:39:39		727		I'll be back soon. 
+		649		00:39:39		768		-->		00:39:41		429		Of course. 
+		650		00:39:53		115		-->		00:39:54		582		Wesley. 
+		651		00:40:01		457		-->		00:40:03		448		You remember... 
+		652		00:40:06		462		-->		00:40:09		454		I was always proud of you. 
+		653		00:41:42		652		-->		00:41:44		745		It worked! 
+		654		00:41:56		766		-->		00:41:58		097		Captain? 
+		655		00:42:00		103		-->		00:42:03		595		Captain Picard, wake up. 
+		656		00:42:07		811		-->		00:42:09		802		Captain? 
+		657		00:42:36		306		-->		00:42:38		399		Wesley? 
+		658		00:42:40		810		-->		00:42:42		835		Wesley? 
+		659		00:42:44		080		-->		00:42:45		741		Wesley? 
+		660		00:42:52		922		-->		00:42:55		152		Mom? 
+		661		00:43:00		096		-->		00:43:01		290		Yes. 
+		662		00:43:01		331		-->		00:43:03		595		Oh, Mom. 
+		663		00:43:10		273		-->		00:43:12		764		Wesley, thank God. 
+		664		00:43:17		781		-->		00:43:20		944		I'm so happy to see you. 
+		665		00:43:24		454		-->		00:43:25		751		You're okay. 
+		666		00:43:25		789		-->		00:43:26		778		Come on. 
+		667		00:43:28		124		-->		00:43:30		092		How did you find us? 
+		668		00:43:30		126		-->		00:43:31		753		We found the wreckage and the arrow which indicated your direction. 
+		670		00:43:34		464		-->		00:43:37		092		We'll take Wesley by stretcher, as well. 
+		671		00:43:37		133		-->		00:43:39		465		No. I can walk. 
+		672		00:43:42		138		-->		00:43:43		730		Doctor? 
+		673		00:43:45		575		-->		00:43:48		510		We're taking you back to the <i>Enterprise. </i> 
+		674		00:43:48		545		-->		00:43:51		036		We've stabilized your vital signs. 
+		675		00:43:51		080		-->		00:43:54		447		All right, let's go now. 
+		676		00:43:54		484		-->		00:43:56		042		One moment. 
+		677		00:43:56		085		-->		00:43:57		848		Mr. Crusher? 
+		678		00:43:57		887		-->		00:43:59		184		Yes, sir? 
+		679		00:43:59		222		-->		00:44:03		249		What are you doing in such a filthy uniform? 
+		680		00:44:06		262		-->		00:44:09		789		You don't look so ship-shape yourself, sir. 
+		681		00:44:13		937		-->		00:44:19		151		Wesley, you will be missed. 

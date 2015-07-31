@@ -1,0 +1,474 @@
+		1		00:00:33		450		-->		00:00:34		908		Repulse shuttle has cleared. 
+		2		00:00:35		076		-->		00:00:37		161		Docking bay free. 
+		3		00:00:49		007		-->		00:00:50		215		Open hailing frequencies. 
+		4		00:00:50		425		-->		00:00:52		009		Hailing frequencies open. 
+		5		00:00:52		218		-->		00:00:54		011		Repulse, this is the Enterprise. 
+		6		00:00:54		220		-->		00:00:55		262		We are getting underway. 
+		7		00:00:55		472		-->		00:00:57		139		Acknowledged, Enterprise. 
+		8		00:00:57		348		-->		00:00:59		516		Transfer complete. Good luck on your mission. 
+		9		00:00:59		726		-->		00:01:00		768		And to you. 
+		10		00:01:00		977		-->		00:01:02		603		Give my regards to your captain. 
+		11		00:01:02		812		-->		00:01:04		605		Repulse out. 
+		12		00:01:04		814		-->		00:01:06		023		Shuttlebay secure, sir. 
+		13		00:01:06		232		-->		00:01:07		775		Thank you, Mr. Crusher. 
+		14		00:01:07		984		-->		00:01:10		027		Make all preparations to get underway. 
+		15		00:01:10		195		-->		00:01:12		154		We're constructing the enclosure on Cargo Deck 5. 
+		16		00:01:13		490		-->		00:01:14		782		Come. 
+		17		00:01:14		991		-->		00:01:16		366		The transfer has been completed. 
+		18		00:01:16		576		-->		00:01:18		410		Dr. Pulaski is being shown to her quarters. 
+		19		00:01:18		620		-->		00:01:20		913		- We're ready to get underway. - Grand. 
+		20		00:01:21		122		-->		00:01:24		374		Take a look at the containment module our chief engineer has designed. 
+		21		00:01:25		168		-->		00:01:28		545		Chief engineer. lt still has a nice ring to it. 
+		22		00:01:28		755		-->		00:01:31		215		Each of these units will have total environmental control. 
+		23		00:01:31		424		-->		00:01:35		094		Gravity, temperature, atmosphere, light, all in a protective stasis field. 
+		24		00:01:35		428		-->		00:01:37		721		And these get put into the large containment unit? 
+		25		00:01:37		931		-->		00:01:41		850		Right. See, these modules will keep the specimens alive, but it's this large containment area that's gonna keep us alive. 
+		27		00:01:46		147		-->		00:01:48		273		Now l have to go and replicate this 51 2 times, which means l'll have to divert power  from the warp engines to the replicator for a while. 
+		30		00:01:52		654		-->		00:01:54		988		Oh. How long will we be on impulse power? 
+		31		00:01:55		198		-->		00:01:57		074		A couple of hours. lt can't be helped. 
+		32		00:01:57		283		-->		00:01:58		492		When we leave 'aucdet lX, l'll need all the power in those warp engines. 
+		34		00:02:00		870		-->		00:02:02		496		You'll have it. 
+		35		00:02:02		705		-->		00:02:06		625		Number One, l'll relieve you at 0300. 
+		36		00:02:09		629		-->		00:02:11		004		Take us out of orbit, Mr. Crusher. 
+		37		00:02:11		214		-->		00:02:13		340		Set course for 'aucdet lX. 
+		38		00:02:13		550		-->		00:02:16		802		Aye, sir. Course for 'aucdet lX has been input. 
+		39		00:02:17		011		-->		00:02:18		804		Maximum impulse velocity. 
+		40		00:02:19		013		-->		00:02:20		389		Aye, sir. 
+		41		00:02:20		598		-->		00:02:22		391		Engage. 
+		42		00:02:39		826		-->		00:02:41		743		Engineering, this is Science One. l have just observed what appeared to be a random energy transference. 
+		44		00:02:46		040		-->		00:02:47		374		- Where? - Aft. 
+		45		00:02:47		542		-->		00:02:49		126		Outboard of the port nacelle. 
+		46		00:02:49		335		-->		00:02:51		336		Hold on, l'll check. 
+		47		00:02:57		510		-->		00:02:59		720		No, l show nothing here, Data. 
+		48		00:03:00		138		-->		00:03:02		306		- Problem, commander? - Possibility, sir. 
+		49		00:03:02		515		-->		00:03:05		434		An unexplained power fluctuation. 
+		50		00:03:05		810		-->		00:03:08		687		- You let me know if it reoccurs. - Aye, sir. 
+		51		00:03:33		296		-->		00:03:34		755		Huh. 
+		52		00:04:51		291		-->		00:04:55		544		Space, the final frontier. 
+		53		00:04:56		087		-->		00:05:00		048		These are the voyages ofthe starship Enterprise. to explore strange new worlds,  to seek out new life and new civilizations,  to boldly go where no one has gone before. 
+		57		00:06:11		996		-->		00:06:15		624		Captain's log, stardate <stardate>42073</stardate>.1 . 
+		58		00:06:15		833		-->		00:06:20		128		There's been an outbreak of plasma plague in the Rachelis System. 
+		59		00:06:20		296		-->		00:06:23		131		We're on a run to collect specimens of the deadly plague and transport them to Science Station Tango Sierra,  where, hopefully, an antidote can be produced. 
+		62		00:06:30		473		-->		00:06:31		515		How's it going? 
+		63		00:06:31		724		-->		00:06:34		976		Finished. Just waiting to insert the modules. 
+		64		00:06:38		940		-->		00:06:40		607		Number One. 
+		65		00:06:41		401		-->		00:06:42		943		Lieutenant La Forge says we will be able to engage the warp drive within the hour. 
+		67		00:06:44		987		-->		00:06:46		279		Grand. Mr. Data, when we have a complete list  of all the specimens we will be carrying,  l want you and Doctor, uh... 
+		71		00:06:53		162		-->		00:06:54		496		Pulaski, sir. 
+		72		00:06:54		705		-->		00:06:56		581		Dr. Pulaski. l want you to go through them. 
+		73		00:06:56		791		-->		00:06:58		125		Aye, sir. 
+		74		00:07:00		503		-->		00:07:02		295		By the way, where is our new doctor? 
+		75		00:07:02		505		-->		00:07:05		632		- Has she reported in? - Not yet. 
+		76		00:07:06		884		-->		00:07:08		760		Sickbay, this is the captain. 
+		77		00:07:08		970		-->		00:07:10		303		Sickbay, aye. ls Dr. Pulaski there? 
+		79		00:07:12		056		-->		00:07:15		976		Uh, no, sir, the doctor is in Ten-Forward. 
+		80		00:07:18		813		-->		00:07:20		355		- Thank you. - Aye, sir. 
+		81		00:07:23		109		-->		00:07:26		278		A few hours onboard and already she's found Ten-Forward. 
+		82		00:07:26		487		-->		00:07:28		738		- l'll go get her. - No. l'll go. 
+		84		00:07:36		080		-->		00:07:38		498		Not the best way to meet your new captain. 
+		85		00:07:41		335		-->		00:07:43		628		Deck Ten, Forward Station One. 
+		86		00:07:44		714		-->		00:07:46		548		Hello, captain. 
+		87		00:07:47		467		-->		00:07:49		092		Ensign. l'm, uh, sorry this mission will delay your reunion with your mother. 
+		89		00:08:03		316		-->		00:08:04		691		That's all right. lt'll give me the time to finish some projects l have to do.  lt's going to be hard leaving the Enterprise. 
+		92		00:08:22		418		-->		00:08:24		878		Mixed feelings for all of us. lt's always hard leaving any ship. 
+		94		00:08:29		217		-->		00:08:31		051		Just as it was for your mother when she left to become head of Starfleet Medical. 
+		96		00:08:34		222		-->		00:08:37		057		But moving from one assignment to another is part of the life which you are choosing.  l know. 
+		99		00:08:41		020		-->		00:08:43		605		But this isn't any ship. 
+		100		00:08:46		234		-->		00:08:48		109		How true. 
+		101		00:09:02		792		-->		00:09:04		292		- Guinan. - Captain. 
+		102		00:09:04		502		-->		00:09:06		920		Where is Dr. Pulaski? 
+		103		00:09:10		132		-->		00:09:11		716		Thank you. 
+		104		00:09:18		349		-->		00:09:20		058		Dr. Katherine Pulaski? 
+		105		00:09:20		226		-->		00:09:24		646		- Ah. You must be Captain Picard. - Doctor, protocol may have been lax on your last assignment, but here on the Enterprise-- 
+		107		00:09:27		108		-->		00:09:29		442		Sit down, captain, you'd better listen to this. 
+		108		00:09:43		583		-->		00:09:45		041		Lieutenant La Forge, status report. 
+		109		00:09:45		209		-->		00:09:47		544		The containment area is completed and the last of the modules are being inserted. 
+		111		00:09:49		714		-->		00:09:51		172		Take us to warp 6 as soon as possible. 
+		112		00:09:51		340		-->		00:09:53		883		- Acknowledged. - This is Dr. Katherine Pulaski. 
+		113		00:09:54		093		-->		00:09:56		886		We'll handle the formal introductions later. 
+		114		00:10:01		142		-->		00:10:03		518		Counselor Deanna Troi is pregnant. 
+		115		00:10:03		728		-->		00:10:05		270		She... 
+		116		00:10:05		771		-->		00:10:08		815		- She is going to have a baby. - Baby? 
+		117		00:10:13		654		-->		00:10:15		113		This is a surprise. 
+		118		00:10:16		490		-->		00:10:18		366		More so for me. 
+		119		00:10:18		576		-->		00:10:21		411		This pregnancy is unlike anything l have ever encountered. 
+		120		00:10:21		621		-->		00:10:23		747		Since she came to me a few hours ago, l have done two complete examinations of Counselor Troi. 
+		122		00:10:30		046		-->		00:10:32		047		Now, this is the first examination. 
+		123		00:10:32		256		-->		00:10:36		051		The fetus is about halfway through the first trimester, about six weeks old. 
+		124		00:10:36		260		-->		00:10:37		510		Now, understand, we believe that conception took place 1 1 hours ago. 
+		126		00:10:41		265		-->		00:10:43		224		- What? lt gets better. 
+		127		00:10:44		143		-->		00:10:46		561		This is the second exam, one hour later. 
+		128		00:10:46		771		-->		00:10:48		772		Now, it's consistent, except for the fact that it appears that the fetus is several weeks older. 
+		130		00:10:51		984		-->		00:10:56		946		At this growth rate, Counselor Troi will have her baby in about 36 hours. 
+		131		00:10:57		323		-->		00:11:01		868		The normal gestation rate for a Betazoid is 1 0 months. l don't mean to be indelicate,  but who's the father? 
+		134		00:11:09		710		-->		00:11:13		254		Last night while l slept, something which l can only describe as a presence  entered my body. 
+		137		00:11:20		221		-->		00:11:23		932		A life-form of unknown origin and intent is breeding right now inside Counselor Troi. 
+		139		00:11:26		227		-->		00:11:27		936		Our purpose here is to determine what is to be done about this. Discussion. 
+		141		00:11:30		272		-->		00:11:32		190		No, wait, now let me get this straight. 
+		142		00:11:32		400		-->		00:11:35		694		Deanna was impregnated by what? 
+		143		00:11:35		986		-->		00:11:39		239		Doctor, what do the tests show? ls it a humanoid? An alien? lt's a male human. 
+		145		00:11:40		991		-->		00:11:43		743		Or in this case, half human, half Betazoid. 
+		146		00:11:43		953		-->		00:11:45		412		Exactly the same as Deanna. ln every way. 
+		148		00:11:48		124		-->		00:11:50		375		There is nothing to indicate any genetic patterns other than hers.  l don't think this is random.  l think there's a purpose here, a reason. What, l don't know. 
+		152		00:11:58		884		-->		00:12:02		971		The pregnancy must be terminated. 
+		153		00:12:03		180		-->		00:12:05		432		For the safety of the ship and the crew. 
+		154		00:12:05		641		-->		00:12:08		393		Worf, you can't assume the intent was belligerent. 
+		155		00:12:08		602		-->		00:12:10		478		That is the safest assumption. 
+		156		00:12:10		688		-->		00:12:13		440		Captain, this is a life-form. 
+		157		00:12:13		649		-->		00:12:15		734		Not to allow it to develop naturally would deny us the opportunity to study it.  lf the fetus is aborted, laboratory analysis is still possible. 
+		160		00:12:24		118		-->		00:12:27		454		Doctor, is there any health risk to Counselor Troi if the fetus is aborted? 
+		162		00:12:30		708		-->		00:12:31		916		Captain. 
+		163		00:12:35		129		-->		00:12:39		966		Do whatever you feel is necessary to protect the ship and the crew. 
+		164		00:12:40		217		-->		00:12:42		218		But know this. l'm going to have this baby. 
+		166		00:12:50		895		-->		00:12:54		564		Then it seems that the discussion is over. 
+		167		00:13:03		783		-->		00:13:05		283		Captain's log, supplemental. 
+		168		00:13:05		493		-->		00:13:07		619		We have finally arrived at 'aucdet lX, where we will pick up the specimens of plasma plague  for transport to Rachelis. 
+		171		00:13:11		999		-->		00:13:14		709		It is only because so many lives are at stake that l'm willing to put this ship and crew at such great risk. 
+		173		00:13:18		923		-->		00:13:22		592		Meanwhile, Counselor Troi's pregnancy continues to progress at an astonishing rate. 
+		175		00:13:33		854		-->		00:13:35		104		How are you feeling? l should be feeling uncomfortable with all the changes in my body,  but l don't. l feel fine. 
+		178		00:13:41		821		-->		00:13:44		322		Better than fine. Wonderful. 
+		179		00:13:44		532		-->		00:13:45		824		Standard orbit. 
+		180		00:13:46		867		-->		00:13:49		035		Standard orbit, sir. 
+		181		00:13:49		537		-->		00:13:51		120		Open hailing frequencies. 
+		182		00:13:51		330		-->		00:13:53		039		Hailing frequencies open. 
+		183		00:13:53		249		-->		00:13:56		668		'aucdet lX, this is Captain Jean-Luc Picard of the USS Enterprise. 
+		184		00:13:56		836		-->		00:14:01		130		Ah, the Enterprise, here at last. Well, good, let's get going. 
+		185		00:14:01		340		-->		00:14:03		007		Excuse me, to whom am l speaking? 
+		186		00:14:03		217		-->		00:14:04		551		To whom are you speaking? l'm Lieutenant Commander Hester Dealt. 
+		188		00:14:06		971		-->		00:14:10		473		Medical trustee. Federation Medical Collection Station. 
+		189		00:14:10		683		-->		00:14:12		308		Are the specimens ready for transfer? 
+		190		00:14:12		518		-->		00:14:15		103		Yes, but with your permission, l would like to inspect the containment area before we proceed. 
+		192		00:14:17		690		-->		00:14:21		234		Now, it's not that I doubt the ability of your crew, captain, but we cannot afford a mistake.  l appreciate your caution.  ln the like vein, l want a complete detailed manifest  of everything you intend to bring aboard my ship. 
+		197		00:14:31		245		-->		00:14:35		039		Very good. l will allow you access to my computer banks, okay? 
+		198		00:14:37		626		-->		00:14:39		210		Mr. Data, download the inventory, cross-reference it with the medical computer. 
+		200		00:14:41		297		-->		00:14:44		549		Number One, arrange to have Hester Dealt transported up. 
+		201		00:14:45		259		-->		00:14:46		676		Captain's log, supplemental. 
+		202		00:14:46		886		-->		00:14:50		179		Although it's been nearly 14 hours since we arrived at 'aucdet lX, 
+		203		00:14:50		389		-->		00:14:54		309		Hester Dealt has still not completed his inspection of the containment unit. 
+		204		00:14:54		518		-->		00:14:56		060		A transfer will not be permitted until he's assured of zero growth during our voyage. 
+		206		00:14:59		857		-->		00:15:03		526		Meanwhile, the desperate pleas from the Rachelis System continue. 
+		207		00:15:03		736		-->		00:15:06		446		Captain, the final manifest has been received. 
+		208		00:15:06		655		-->		00:15:07		780		At last. 
+		209		00:15:07		990		-->		00:15:10		825		Review it with Dr. Pulaski. l want you to be completely familiar with it. 
+		210		00:15:11		035		-->		00:15:12		410		Aye, sir. 
+		211		00:15:16		832		-->		00:15:20		793		Data, would you help me get to Sickbay? 
+		212		00:15:26		216		-->		00:15:28		801		- lt's time. - Oh, you bet it is. 
+		213		00:15:29		011		-->		00:15:30		637		Let's get you to Maternity. 
+		214		00:15:30		846		-->		00:15:33		014		Worf, assemble your security team in Sickbay. 
+		215		00:15:33		223		-->		00:15:36		142		- ls that necessary? - Yes, doctor. Captain's orders. 
+		216		00:15:36		352		-->		00:15:40		563		Well, it's strange to need armed guards in a delivery room. 
+		217		00:15:41		231		-->		00:15:42		607		This way. 
+		218		00:15:43		984		-->		00:15:46		527		- How frequent are your contractions? - Very close together. 
+		219		00:15:46		737		-->		00:15:48		655		Oh, in my other deliveries, except for a couple, the father was always present. 
+		221		00:15:50		324		-->		00:15:51		908		Difficult under the circumstances. 
+		222		00:15:52		117		-->		00:15:53		701		Perhaps l could serve in that capacity. 
+		223		00:15:53		911		-->		00:15:56		579		Counselor Troi is going to need the comfort of a human touch and not the cold hand of technology. 
+		225		00:15:58		624		-->		00:16:01		668		Doctor, l think Commander Data will do very nicely. 
+		226		00:16:01		877		-->		00:16:03		169		Your choice. 
+		227		00:16:09		426		-->		00:16:11		844		You don't have to do anything, Data. 
+		228		00:16:12		054		-->		00:16:13		096		Just be with me. 
+		229		00:16:13		305		-->		00:16:15		556		There's nothing to be nervous about. 
+		230		00:16:15		766		-->		00:16:17		183		Nervous? l find this very interesting. 
+		232		00:16:21		563		-->		00:16:25		358		Although l understand, in technical terms, how life is formed, there is still a part of the process which eludes me. 
+		234		00:16:28		946		-->		00:16:31		030		The child inside you. 
+		235		00:16:31		240		-->		00:16:33		700		Are you able to access his thought process? 
+		236		00:16:33		909		-->		00:16:35		243		Does he have thoughts? 
+		237		00:16:35		452		-->		00:16:37		370		You are aware of him. ls he aware of you? 
+		238		00:16:37		579		-->		00:16:39		163		When does that awareness begin? lt's happening. 
+		240		00:16:40		791		-->		00:16:42		417		- How does it feel? - Data. 
+		241		00:16:42		626		-->		00:16:43		793		- Yes? - Now. 
+		242		00:16:44		003		-->		00:16:47		547		Now. Now, now. Doctor. Doctor. Doctor. 
+		243		00:16:47		756		-->		00:16:49		424		This is an impatient baby. 
+		244		00:16:49		633		-->		00:16:52		969		He's eager to make his appearance. 
+		245		00:16:53		178		-->		00:16:54		887		Now, do you want something for the pain? lt will in no way diminish the experience.  l have felt no pain. 
+		248		00:17:00		686		-->		00:17:05		773		- None? - No. None at all. 
+		249		00:17:06		984		-->		00:17:09		027		Have your security men stand back. l understand the importance of having you here,  but keep out from underfoot. 
+		252		00:17:18		954		-->		00:17:22		999		- Fetal pulse? - One thirty-seven. 
+		253		00:17:29		173		-->		00:17:32		050		The baby is showing healthy respiratory movements. 
+		254		00:17:32		259		-->		00:17:35		136		The action of the heart rate is good. 
+		255		00:17:39		141		-->		00:17:41		851		The baby's doing wonderfully, Troi. 
+		256		00:17:43		479		-->		00:17:45		897		Breathe slowly. 
+		257		00:17:48		358		-->		00:17:50		902		You're doing great. Stay calm. 
+		258		00:17:52		905		-->		00:17:55		615		That's it. There it is. l've got him. You can relax. 
+		260		00:18:34		738		-->		00:18:38		199		There, there. That's a good boy. 
+		261		00:18:39		493		-->		00:18:40		535		Okay. 
+		262		00:18:42		496		-->		00:18:45		456		Oh, my, he's beautiful. 
+		263		00:18:59		346		-->		00:19:02		306		Are easy births the norm for Betazoids? 
+		264		00:19:02		975		-->		00:19:05		518		Not according to my mother. 
+		265		00:19:08		522		-->		00:19:10		523		You can come in the rest of the way now. 
+		266		00:19:18		031		-->		00:19:20		700		There's no threat, lieutenant. You and your men can relax. lt's just a baby. 
+		268		00:19:36		508		-->		00:19:38		801		Thank you for allowing me to participate. lt was remarkable. 
+		270		00:19:46		226		-->		00:19:47		393		Do you have a name? lan Andrew, after my father. 
+		272		00:20:03		744		-->		00:20:07		121		- Were you here all along? - Yes. 
+		273		00:20:08		081		-->		00:20:10		374		He's beautiful, Deanna. 
+		274		00:20:10		918		-->		00:20:13		085		Just like his mother. 
+		275		00:20:18		592		-->		00:20:20		384		How do you feel? 
+		276		00:20:21		428		-->		00:20:23		179		Fine. 
+		277		00:20:24		014		-->		00:20:25		932		Wonderful. 
+		278		00:20:26		475		-->		00:20:29		185		Thank you, doctor, for everything. 
+		279		00:20:30		437		-->		00:20:32		355		Amazing. 
+		280		00:20:48		538		-->		00:20:49		956		Captain. 
+		281		00:20:50		165		-->		00:20:52		625		Doctor, welcome to the Bridge. 
+		282		00:20:52		834		-->		00:20:54		001		Please, sit down. 
+		283		00:20:54		211		-->		00:20:56		045		How is Counselor Troi? 
+		284		00:20:56		255		-->		00:20:57		964		Did she have a good night? l've delivered dozens of babies, but none like this. 
+		286		00:21:01		468		-->		00:21:03		886		- There was no pain. No trauma. lt's true. lt was effortless for both of them.  l'm not sure of your point. 
+		289		00:21:09		351		-->		00:21:11		477		She had her baby yesterday. lf l were to examine her now,  l would not be able to tell she had a baby,  or had ever had a baby.  lt was as if the incident never happened. 
+		294		00:21:23		615		-->		00:21:25		783		Data, how long before we begin the transfer? 
+		295		00:21:25		993		-->		00:21:27		618		Two hours 1 9 minutes, sir. 
+		296		00:21:27		828		-->		00:21:29		078		Number One, you have the Bridge. 
+		297		00:21:29		288		-->		00:21:30		413		Aye, sir. 
+		298		00:21:31		540		-->		00:21:33		291		You will accompany me, doctor, please? l think it's time l paid my respects. 
+		300		00:21:44		636		-->		00:21:46		220		Come in. 
+		301		00:21:49		683		-->		00:21:50		766		Deanna? l wanted to see how you were and have a look at your... 
+		303		00:21:55		814		-->		00:21:58		357		Baby. My goodness. 
+		304		00:22:03		030		-->		00:22:05		990		- How old is he? - ln actuality, a day. 
+		305		00:22:08		577		-->		00:22:10		119		- Yes, but... - ln appearance, almost 4 Earth years old.  lan,  say hello to Captain Picard. 
+		309		00:22:18		420		-->		00:22:19		962		You mean he can talk? 
+		310		00:22:21		798		-->		00:22:23		382		Hello. 
+		311		00:22:28		055		-->		00:22:30		014		Hello, lan. 
+		312		00:22:31		183		-->		00:22:34		143		Please don't worry. Everything is okay. 
+		313		00:22:43		820		-->		00:22:45		404		Captain's log, supplemental. 
+		314		00:22:45		614		-->		00:22:48		240		We are faced with two major problems: 
+		315		00:22:48		450		-->		00:22:49		867		Troi's child and the deadly cargo we are about to take on.  ln the hours since his birth, 
+		318		00:22:54		706		-->		00:22:57		208		Troi's baby has continued his rapid growth and now appears physically and mentally to be a child of 8. 
+		320		00:23:01		630		-->		00:23:05		508		Still there is no indication as to who he is or why he's here. 
+		321		00:23:05		717		-->		00:23:07		093		Sickbay, this is the Bridge. 
+		322		00:23:07		302		-->		00:23:08		844		We are ready to begin loading. 
+		323		00:23:09		054		-->		00:23:11		055		We need a little more time. lt's taking longer than we anticipated to categorize these specimens. 
+		325		00:23:14		810		-->		00:23:17		395		Data, look at this. 
+		326		00:23:19		856		-->		00:23:22		274		- "Data." - What? 
+		327		00:23:22		567		-->		00:23:26		654		- My name. lt is pronounced "Data." - Oh? 
+		328		00:23:26		822		-->		00:23:28		155		You called me Data. 
+		329		00:23:28		365		-->		00:23:30		699		Ha, ha. What's the difference? 
+		330		00:23:32		327		-->		00:23:35		413		One is my name. The other is not. ls this possible? 
+		332		00:23:41		711		-->		00:23:45		589		With all your neural nets, algorithms and heuristics? ls there some combination that makes up a circuit for bruised feelings? 
+		334		00:23:52		347		-->		00:23:54		056		Possible? l am unfamiliar with this symbol.  lt indicates a genetically engineered biological life-form. 
+		337		00:24:08		572		-->		00:24:12		533		About 20 percent of the specimens fall into that category. 
+		338		00:24:12		742		-->		00:24:14		702		Some eager beaver at play. 
+		339		00:24:16		204		-->		00:24:17		830		Query. 
+		340		00:24:18		790		-->		00:24:19		957		Eager beaver? 
+		341		00:24:20		500		-->		00:24:22		668		Well, in this case, eager beaver refers to some overachieving genetic engineer  who, probably because of lack of anything better to do,  has forced this strain of virus to mutate,  just so he can see how bad bad can get. 
+		346		00:24:39		102		-->		00:24:40		352		Captain Picard. 
+		347		00:24:40		770		-->		00:24:42		396		Picard. l just wanted you to know what risks we're about to take. 
+		349		00:24:46		276		-->		00:24:47		318		Go on. lf the most innocuous specimen on the manifest list gets loose,  it will destroy all life on the Enterprise in a matter of hours.  l understand, doctor. 
+		353		00:24:58		497		-->		00:24:59		747		Do you have a recommendation? 
+		354		00:24:59		956		-->		00:25:03		375		Considering how desperately this is needed, no, l don't. l just wanted you to know what we were carrying. 
+		356		00:25:06		421		-->		00:25:10		216		Thank you. Commander Data, if you've completed your review, you're needed in Transporter Room 3. 
+		358		00:25:13		053		-->		00:25:14		970		Aye, sir. Excuse me, doctor. 
+		359		00:25:15		180		-->		00:25:16		680		That's all right, Data. 
+		360		00:25:16		890		-->		00:25:19		391		"Data." Whatever. lan?  lan. 
+		363		00:25:44		251		-->		00:25:45		668		He's a very tactile child. 
+		364		00:25:45		877		-->		00:25:48		045		He wants to touch and feel everything. lt's time to go, sweetheart. 
+		366		00:25:53		426		-->		00:25:56		053		Unbelievable. l think he's actually grown since you dropped him off.  l like it here, Mommy.  l thought you would. 
+		370		00:26:04		354		-->		00:26:06		146		Say thank you to Miss Gladstone for having you and let's go get something to eat. 
+		372		00:26:08		108		-->		00:26:09		692		Thank you. 
+		373		00:26:09		901		-->		00:26:11		026		Bye. 
+		374		00:26:11		236		-->		00:26:12		861		Thank you. 
+		375		00:26:17		409		-->		00:26:20		703		Bio-transport authorization complete. 
+		376		00:26:24		624		-->		00:26:27		126		Cargo Deck 5, we will commence transportation on your command. 
+		378		00:26:28		962		-->		00:26:31		880		Transporter 3, we are ready to receive. 
+		379		00:26:48		940		-->		00:26:50		232		Mm-hm. 
+		380		00:26:51		943		-->		00:26:55		696		Data, the first batch is in place and we're ready for the next. 
+		381		00:27:01		411		-->		00:27:04		038		You'll inform me when loading is complete and the cargo secure? 
+		382		00:27:04		247		-->		00:27:05		664		Aye, sir. 
+		383		00:27:17		677		-->		00:27:19		345		Come in. l wanted to stop by and see how lan was doing. 
+		385		00:27:23		933		-->		00:27:27		269		We're doing fine. l was just about to get him his supper. 
+		386		00:27:27		479		-->		00:27:29		313		Do you want your supper now too? 
+		387		00:27:29		522		-->		00:27:33		359		Um, no, lan. But thank you for the invitation. 
+		388		00:27:33		568		-->		00:27:35		277		You're welcome. 
+		389		00:27:44		871		-->		00:27:46		872		Have you ever played with puppies? 
+		390		00:27:47		082		-->		00:27:50		042		They had a litter today in the nursery. 
+		391		00:27:50		502		-->		00:27:53		128		No, lan, l don't think l've played with puppies. 
+		392		00:27:53		338		-->		00:27:56		340		You should come to the nursery while the puppies are still there. 
+		393		00:27:56		549		-->		00:27:57		758		Perhaps later. 
+		394		00:28:04		766		-->		00:28:08		143		Ow! Mom! Ow. 
+		395		00:28:08		687		-->		00:28:11		146		Oh, let me see it. 
+		396		00:28:15		985		-->		00:28:18		570		That's not so bad. 
+		397		00:28:24		953		-->		00:28:26		620		My face is wet. ls that better, sweetheart? 
+		399		00:28:31		543		-->		00:28:34		211		Everything's going to be fine. 
+		400		00:28:34		963		-->		00:28:37		005		He allowed himself to be burned. 
+		401		00:28:37		173		-->		00:28:38		841		Mm-hm. For the experience. 
+		402		00:28:39		050		-->		00:28:40		217		Who is he? 
+		403		00:28:41		302		-->		00:28:42		636		Why is he here? 
+		404		00:28:42		846		-->		00:28:44		680		What does he want? lan, could you tell us why you're here? 
+		406		00:28:52		230		-->		00:28:54		356		Because Mommy said it was time to eat. 
+		407		00:28:56		109		-->		00:28:59		903		No. l mean, why are you here on this ship? 
+		408		00:29:00		363		-->		00:29:03		449		- l live here. - lan, l think the captain wants to know if you're ready to tell us why you came here. 
+		410		00:29:06		202		-->		00:29:09		079		No. Not yet. 
+		411		00:29:18		006		-->		00:29:20		507		The answer is within him. 
+		412		00:29:20		717		-->		00:29:23		302		When his cognitive powers have sufficiently developed, he will be able to articulate it.  l hope he will tell us soon. 
+		415		00:29:30		560		-->		00:29:33		020		Cargo has been loaded and is secure. 
+		416		00:29:33		229		-->		00:29:34		730		Then take us out of orbit, Number One. 
+		417		00:29:34		939		-->		00:29:37		900		Set a course for Rachelis, warp 6. 
+		418		00:30:03		593		-->		00:30:05		427		Excuse me. 
+		419		00:30:10		308		-->		00:30:12		351		Can l get you something? 
+		420		00:30:13		019		-->		00:30:16		230		No, nothing. l just like to stand here. l don't blame you. lt's beautiful. 
+		422		00:30:20		610		-->		00:30:22		110		Yeah. 
+		423		00:30:22		570		-->		00:30:25		113		How about a nice cup of Mareuvian tea? 
+		424		00:30:25		323		-->		00:30:28		075		No, nothing. Thank you. 
+		425		00:30:31		538		-->		00:30:34		081		You'll be leaving soon. 
+		426		00:30:36		668		-->		00:30:38		168		Yeah. 
+		427		00:30:54		769		-->		00:30:57		729		What do you see when you look out there? 
+		428		00:31:00		191		-->		00:31:02		734		The Lorenze cluster, and there's Arneb,  and there's Epsilon lndi. 
+		431		00:31:06		656		-->		00:31:08		365		That's not what l mean. l mean, when you look out there, don't you see your future? 
+		433		00:31:14		247		-->		00:31:17		291		- lt'll still be there. - Ah. 
+		434		00:31:20		003		-->		00:31:23		380		What about a cup of nectar direct from Prometheus? 
+		435		00:31:23		590		-->		00:31:25		632		No, nothing. 
+		436		00:31:26		134		-->		00:31:28		635		That's the third time you've asked me. lt's what l'm expected to do. 
+		438		00:31:31		848		-->		00:31:34		224		Don't you always do what's expected? l try. 
+		440		00:31:36		936		-->		00:31:39		771		Even if it's not what you really want? 
+		441		00:31:40		773		-->		00:31:42		608		Sometimes. 
+		442		00:31:43		610		-->		00:31:47		946		Sometimes it's more important to consider others before yourself. 
+		443		00:31:48		281		-->		00:31:49		489		Yes. 
+		444		00:31:49		699		-->		00:31:51		116		But sometimes the game is to know when to consider yourself before others. 
+		446		00:31:54		621		-->		00:31:57		414		Give yourself permission to be selfish. 
+		447		00:32:16		851		-->		00:32:18		226		Something's wrong. 
+		448		00:32:19		312		-->		00:32:21		355		- What is it? - Growth. 
+		449		00:32:21		773		-->		00:32:25		150		- Where? - L-73. 
+		450		00:32:26		361		-->		00:32:28		153		Bridge, this is Cargo Deck 5. 
+		451		00:32:28		363		-->		00:32:29		446		Yes, La Forge. 
+		452		00:32:29		656		-->		00:32:31		823		Captain, we have a malfunction in the containment area. 
+		454		00:32:34		452		-->		00:32:37		579		- How serious? - Very. 
+		455		00:32:40		792		-->		00:32:42		501		Captain's log, supplemental. 
+		456		00:32:42		710		-->		00:32:44		336		For reasons as yet unknown, one of the deadly specimens of plasma plague has begun to grow. 
+		458		00:32:49		550		-->		00:32:50		968		Report, Mr. La Forge. 
+		459		00:32:51		386		-->		00:32:52		719		Captain, we've checked everything. 
+		460		00:32:52		929		-->		00:32:54		721		There's no reason for this to be happening. l can't even isolate the cause of the problem. 
+		462		00:32:57		517		-->		00:33:00		352		Come on, Data. We'd better get down there. 
+		463		00:33:01		312		-->		00:33:03		313		- Dr. Pulaski. - Yes? 
+		464		00:33:03		523		-->		00:33:05		983		They're having a little difficulty on Cargo Deck 5. 
+		465		00:33:06		192		-->		00:33:07		401		Your presence is requested. 
+		466		00:33:07		610		-->		00:33:08		944		I'm on my way. 
+		467		00:33:15		785		-->		00:33:18		161		You never talk about yourself. 
+		468		00:33:19		163		-->		00:33:22		666		Sure l do. All the time. 
+		469		00:33:22		875		-->		00:33:25		502		- People say you're very old. - Oh? 
+		470		00:33:25		670		-->		00:33:27		212		And that you knew Captain Picard when he was on the Stargazer. 
+		472		00:33:30		008		-->		00:33:33		468		No, l never knew the captain till l came onboard. 
+		473		00:33:33		886		-->		00:33:35		887		Well, everyone's very curious about you. 
+		474		00:33:36		848		-->		00:33:38		265		Yes, l'll bet they are. 
+		475		00:33:39		475		-->		00:33:41		935		Yeah, they wanna know where you're from. 
+		476		00:33:43		563		-->		00:33:45		147		And where do they say? 
+		477		00:33:45		857		-->		00:33:48		608		Well, they say that you're from Nova Kron, and that-- 
+		478		00:33:48		818		-->		00:33:51		653		Mr. Crusher, report to the Bridge. 
+		479		00:33:51		904		-->		00:33:53		488		Aye, sir. Gotta go. 
+		480		00:34:01		831		-->		00:34:03		457		Thanks. 
+		481		00:34:04		375		-->		00:34:07		044		For a dish of Dovlarian soufflé? 
+		482		00:34:07		462		-->		00:34:10		088		No, not for the soufflé. l meant for the rest. 
+		484		00:34:15		386		-->		00:34:17		220		That's why l'm here. 
+		485		00:34:18		389		-->		00:34:19		681		Thanks. 
+		486		00:34:21		142		-->		00:34:22		601		Bye. 
+		487		00:34:27		231		-->		00:34:29		441		Why this module and not the others? 
+		488		00:34:29		650		-->		00:34:34		988		Computer, run diagnostic on module L-73. 
+		489		00:34:35		198		-->		00:34:37		574		All circuits functional. 
+		490		00:34:38		034		-->		00:34:39		785		The environment's as programmed. 
+		491		00:34:40		161		-->		00:34:42		204		Temperature 97 degrees Kelvin. 
+		492		00:34:42		413		-->		00:34:45		248		Radiation flux zero. Stasis field nominal. 
+		493		00:34:45		458		-->		00:34:48		293		Everything exactly the way it should be, right down the line. 
+		494		00:34:48		920		-->		00:34:51		213		Perhaps it is a sensor malfunction. 
+		495		00:34:51		422		-->		00:34:53		090		Computer, inquiry. ls growth actually occurring in module L-73? 
+		497		00:34:58		054		-->		00:34:59		554		Confirmed. 
+		498		00:34:59		764		-->		00:35:02		265		Doctor, one of the specimens is growing. 
+		499		00:35:02		475		-->		00:35:04		810		- Destroy it now. - l can't. 
+		500		00:35:05		144		-->		00:35:07		646		Data, prepare to jettison the module. 
+		501		00:35:07		855		-->		00:35:09		106		We can't do that either. lt will go into a spore and remain  until it comes into contact with a planet or another ship. 
+		504		00:35:13		820		-->		00:35:15		612		And the results would be disastrous. 
+		505		00:35:15		822		-->		00:35:18		865		Commander, your attitude tells me that no matter how bad l think it is, it's actually worse? 
+		507		00:35:20		493		-->		00:35:22		786		- This is not gonna hold it. - Go on. 
+		508		00:35:22		995		-->		00:35:25		163		The rate of growth is increasing so rapidly, within 30 minutes, it's gonna push out of its module. 
+		510		00:35:27		708		-->		00:35:30		043		Within two hours, it'll break out of the containment area. 
+		511		00:35:30		253		-->		00:35:31		962		No, no, it can't break through this. 
+		512		00:35:32		171		-->		00:35:33		797		Yes, it will. 
+		513		00:35:35		967		-->		00:35:39		719		Captain, we may not be able to get control of this situation. l recommend we arrange transfer of all nonessential personnel  to the saucer section.  lf we lose containment,  we should be prepared to separate. 
+		518		00:35:48		104		-->		00:35:49		146		Make it so. 
+		519		00:35:49		480		-->		00:35:52		315		Why this one specimen and none of the others? 
+		520		00:35:52		525		-->		00:35:54		818		Something is stimulating it. 
+		521		00:35:55		027		-->		00:35:56		319		Do you have the etiology? 
+		522		00:35:56		529		-->		00:35:58		613		- Do you know how it was developed? - Yes. lt's right over here.  lt's a mutated strain developed by Dr. Susan Nuress  during an outbreak of plasma plague 70 years ago in the Oby system.  lt was number nine in a series of 58 tests. 
+		527		00:36:15		173		-->		00:36:20		385		This particular one bombarded by low levels of Eichner radiation. 
+		528		00:36:23		723		-->		00:36:26		933		Could exposure to Eichner radiation stimulate growth? lt could, but l...  l've got some. 
+		531		00:36:33		566		-->		00:36:35		442		Why didn't you detect this before? l don't know. lt wasn't here before. 
+		533		00:36:37		820		-->		00:36:38		945		Well, it is now. 
+		534		00:36:39		155		-->		00:36:41		031		What emits that type of radiation? 
+		535		00:36:41		240		-->		00:36:42		657		A subspace phase inverter. 
+		536		00:36:42		867		-->		00:36:43		992		We don't have one. 
+		537		00:36:44		202		-->		00:36:47		412		- Certain cyanoacrylates. - Also not on this ship. What else? 
+		538		00:36:47		622		-->		00:36:49		581		Because it's here, and we'd better find it. l can feel that some of the people are very worried. 
+		540		00:37:08		059		-->		00:37:12		103		Yes. l feel it too, but don't you worry. lt's me, Mommy.  l'm the reason. 
+		543		00:37:16		984		-->		00:37:18		109		What? lt's me. 
+		545		00:37:21		781		-->		00:37:23		698		- You? - Yes. l have to leave you now, or it'll be very bad for everyone. 
+		547		00:37:28		287		-->		00:37:30		038		What are you saying? l have to leave now. 
+		549		00:37:35		044		-->		00:37:36		878		Leave? 
+		550		00:37:38		130		-->		00:37:40		340		You're going to die. 
+		551		00:37:40		675		-->		00:37:42		342		No, you can't! 
+		552		00:37:42		551		-->		00:37:44		219		Sickbay, this is Counselor Troi. l need the doctor in my quarters now!  lan! lan, no! lan!  lt's lan. Hurry! 
+		556		00:37:58		734		-->		00:38:00		485		What happened? 
+		557		00:38:00		695		-->		00:38:03		113		- Did he eat anything? Did he fall? - No. 
+		558		00:38:04		532		-->		00:38:07		242		Commander, the child is the source of the unusual radiation. lan said he's the reason the ship is in danger. 
+		560		00:38:10		121		-->		00:38:11		997		That analysis is correct. l'm losing lifesigns. 
+		562		00:38:15		459		-->		00:38:18		253		You must save him. l'm sorry. 
+		564		00:39:52		723		-->		00:39:54		391		Commander Riker, the containment field has stabilized. 
+		566		00:39:57		395		-->		00:39:58		728		Thank you, lieutenant. 
+		567		00:40:01		232		-->		00:40:03		566		Then lan was right. 
+		568		00:40:03		818		-->		00:40:05		485		He was the cause. 
+		569		00:40:05		945		-->		00:40:07		570		Apparently so. 
+		570		00:40:15		788		-->		00:40:20		041		He is a life-force entity. 
+		571		00:40:21		085		-->		00:40:25		130		When we passed each other in space, he was curious about us. 
+		572		00:40:25		339		-->		00:40:29		426		So he decided the best way to learn was to go through the process. 
+		573		00:40:30		010		-->		00:40:35		390		To be born, to live as one of us, and in that way to understand us. 
+		574		00:40:36		642		-->		00:40:39		227		He never meant any harm. 
+		575		00:40:39		437		-->		00:40:42		605		There was a moment when you smiled. 
+		576		00:40:46		777		-->		00:40:49		070		He said, "Thank you." l told him we will miss him. 
+		578		00:40:57		079		-->		00:40:59		414		And l will. 
+		579		00:41:21		020		-->		00:41:22		812		Standard station orbit, Mr. Crusher. 
+		580		00:41:23		022		-->		00:41:24		272		Aye, sir, standard orbit. 
+		581		00:41:24		482		-->		00:41:26		024		Transporter Room 3, this is the captain. 
+		582		00:41:26		233		-->		00:41:27		275		We have arrived. 
+		583		00:41:27		610		-->		00:41:30		862		Let's make this transfer with all deliberate speed. 
+		584		00:41:31		071		-->		00:41:32		655		Aye, sir. l'll be glad to be relieved of this cargo. 
+		586		00:41:37		077		-->		00:41:39		370		You have the Bridge, Number One. 
+		587		00:41:40		247		-->		00:41:41		831		Captain? 
+		588		00:41:42		917		-->		00:41:44		584		Could l see you when you have a moment? ln my Ready Room when your duties permit. 
+		590		00:41:46		754		-->		00:41:48		087		Thank you, sir. 
+		591		00:41:48		547		-->		00:41:51		007		How long is it gonna take to develop a vaccine? 
+		592		00:41:51		217		-->		00:41:53		593		We may never develop one. 
+		593		00:41:53		802		-->		00:41:55		720		Then all of this might have been in vain? 
+		594		00:41:55		930		-->		00:41:56		971		No, let's hope not. 
+		595		00:41:57		181		-->		00:41:59		724		Stand by to energize. 
+		596		00:42:00		100		-->		00:42:01		809		Good luck. 
+		597		00:42:06		982		-->		00:42:11		277		Data, you can lock onto the first group and begin transporting on my mark. 
+		598		00:42:13		239		-->		00:42:14		572		Come. 
+		599		00:42:16		742		-->		00:42:20		203		Captain Picard, l've thought about this a lot. l want to remain on the Enterprise. 
+		601		00:42:28		420		-->		00:42:30		004		Have you discussed this with your mother? 
+		602		00:42:30		589		-->		00:42:31		839		No, sir. 
+		603		00:42:32		049		-->		00:42:34		300		Before l do that, l'd like your permission to stay. 
+		604		00:42:35		636		-->		00:42:39		264		Wesley, it's a little more complicated than that. 
+		605		00:42:39		473		-->		00:42:43		851		Captain, this is where l want to be. 
+		606		00:42:44		353		-->		00:42:46		813		This is where l feel l belong. 
+		607		00:42:47		022		-->		00:42:49		148		Captain. Transfer complete. 
+		608		00:42:49		358		-->		00:42:50		608		We are ready to leave orbit. 
+		609		00:42:50		818		-->		00:42:52		068		Make it so, Number One. 
+		610		00:42:52		278		-->		00:42:54		237		Return to your position. 
+		611		00:43:11		255		-->		00:43:12		839		All systems secure. 
+		612		00:43:13		048		-->		00:43:14		841		Take us out of orbit, Mr. Crusher. 
+		613		00:43:15		050		-->		00:43:16		884		Lay in a course for the Morgana Quadrant. 
+		614		00:43:17		094		-->		00:43:18		428		Yes, sir. 
+		615		00:43:18		637		-->		00:43:21		848		Ensign Crusher has requested to remain on the Enterprise. l'm not surprised. How did you respond?  l haven't as yet, Number One.  l didn't think that it was my responsibility alone. 
+		619		00:43:28		022		-->		00:43:30		607		His remaining will create difficulties for all of us. 
+		620		00:43:30		816		-->		00:43:33		693		Yes, indeed. With his mother gone, who will see to his studies? 
+		621		00:43:33		902		-->		00:43:35		695		Exactly. 
+		622		00:43:35		904		-->		00:43:39		032		Of course, that duty will fall to Commander Data. 
+		623		00:43:39		241		-->		00:43:40		950		And who will tuck him in at night? 
+		624		00:43:41		160		-->		00:43:42		869		Come on, commander. l will accept that responsibility. 
+		626		00:43:46		457		-->		00:43:49		250		Well, we know he'll get his sleep. 
+		627		00:43:49		460		-->		00:43:51		586		Well, then that takes care of the practical, but there's more to growing up than that. 
+		629		00:43:56		091		-->		00:43:57		383		Now, it's my belief, Number One, that you're best qualified to supervise that. 
+		631		00:43:59		678		-->		00:44:01		554		You willing to serve? 
+		632		00:44:02		056		-->		00:44:04		098		Difficult decision. 
+		633		00:44:07		144		-->		00:44:08		561		Yes, l can do that. 
+		634		00:44:09		104		-->		00:44:11		022		Mr. Crusher, communicate with your mother at Starfleet Medical Headquarters. Give her my regards and tell her  you have my permission to remain on the Enterprise. 
+		637		00:44:16		487		-->		00:44:19		697		But l will abide by her wishes. 
+		638		00:44:19		907		-->		00:44:23		242		Yes, sir. Thank you, sir. l know she'll agree. 
+		639		00:44:23		452		-->		00:44:25		787		Now, if you have course and speed laid in... 
+		640		00:44:25		996		-->		00:44:27		497		Yes, sir, they are. 
+		641		00:44:27		706		-->		00:44:31		209		Then, Mr. Crusher, engage. 

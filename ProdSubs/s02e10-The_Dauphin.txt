@@ -1,0 +1,505 @@
+		1		00:00:07		591		-->		00:00:10		010		Sir, we are approaching Klavdia III. 
+		2		00:00:10		719		-->		00:00:14		431		- Take us to impulse power. - Aye, sir, impulse power. 
+		3		00:00:22		523		-->		00:00:25		567		- Bridge, Engineering. - Yes, Lieutenant? 
+		4		00:00:25		734		-->		00:00:28		028		Out of warp. I'd like to use this time to make some routine adjustments. We're overdue. 
+		6		00:00:31		657		-->		00:00:36		745		- How long will that take? - A couple of hours, sir. 
+		7		00:00:37		871		-->		00:00:41		124		Proceed, Lt La Forge. Standard orbit, Ensign. 
+		8		00:00:50		342		-->		00:00:55		055		Wes, I need an SCM Model 3 from ship's stores. Can you handle that? 
+		9		00:00:55		222		-->		00:00:56		723		- Right away. - Alright. 
+		10		00:01:01		395		-->		00:01:03		021		Magnify, Mr Worf. 
+		11		00:01:06		567		-->		00:01:10		320		Hardly an inviting planet, even for a research establishment. 
+		12		00:01:10		487		-->		00:01:14		449		I would have thought Daled IV would send a future leader to a more hospitable environment. 
+		14		00:01:16		827		-->		00:01:19		872		For some, security is more important than comfort. 
+		15		00:01:20		622		-->		00:01:24		501		- Yes, but 16 years. - Captain, we're being hailed. 
+		16		00:01:24		668		-->		00:01:27		546		- Hailing frequencies, Mr Worf. - Open. 
+		17		00:01:28		422		-->		00:01:31		508		This is Capt Picard of the USS Enterprise. 
+		18		00:01:31		675		-->		00:01:33		218		I am Anya... 
+		19		00:01:36		388		-->		00:01:38		932		The troposphere is distorting our signal. 
+		20		00:01:39		099		-->		00:01:43		020		- Can you clean it up, Mr Worf? - I'll try. Now. 
+		21		00:01:43		937		-->		00:01:48		525		This is Picard of the Enterprise. Please will you repeat your message? 
+		22		00:01:48		692		-->		00:01:52		905		I am Anya. Have you come for Salia of Daled IV? 
+		23		00:01:53		071		-->		00:01:54		489		That is correct. 
+		24		00:01:54		656		-->		00:01:57		034		- What species are you? - Human. 
+		25		00:01:57		201		-->		00:01:58		410		Excellent. 
+		26		00:01:58		577		-->		00:02:00		996		Bring us aboard. That is all. 
+		27		00:02:01		914		-->		00:02:03		081		Friendly, isn't she? 
+		28		00:02:03		248		-->		00:02:06		710		Friendly or not, Salia has the rank of Head of State, so let's treat them accordingly. 
+		30		00:02:09		046		-->		00:02:12		007		Number One, Mr Worf, let's go greet our visitors. 
+		31		00:02:12		174		-->		00:02:14		885		- You have the bridge, Mr Data. - Aye, sir. 
+		32		00:02:29		149		-->		00:02:32		361		Welcome to the Enterprise. I'm Capt Picard. 
+		33		00:02:32		528		-->		00:02:35		239		This is Salia of Daled IV. 
+		34		00:02:35		405		-->		00:02:39		076		I didn't feel a thing. Is that normal when one is transported? 
+		35		00:02:39		243		-->		00:02:40		702		Yes, it is. 
+		36		00:02:40		869		-->		00:02:43		830		May I see your matter-energy conversion controls? 
+		37		00:02:43		997		-->		00:02:45		582		Of course. 
+		38		00:02:47		835		-->		00:02:49		545		I can arrange a tour of the ship. 
+		39		00:02:49		711		-->		00:02:53		173		- I'd love that. - That will not be necessary. 
+		40		00:02:53		340		-->		00:02:56		009		Just show us to our quarters, Capt Picard. 
+		41		00:03:00		222		-->		00:03:01		807		Very well. 
+		42		00:03:05		018		-->		00:03:09		773		Your quarters are normally reserved for Starfleet admiralty. 
+		43		00:03:19		032		-->		00:03:21		869		That's a superconducting magnet, isn't it? 
+		44		00:03:22		035		-->		00:03:26		331		Yeah, it's an SCM model. How did you know that? 
+		45		00:03:26		498		-->		00:03:28		625		Study. For the last 16 years I've... 
+		46		00:03:28		792		-->		00:03:31		879		Please, Salia, walk ahead with me. 
+		47		00:03:32		921		-->		00:03:36		466		Be careful, those can rip the iron out of your blood cells. 
+		48		00:03:45		601		-->		00:03:47		311		Commander, who is she? 
+		49		00:03:48		645		-->		00:03:50		272		I think she's a governess. 
+		50		00:03:50		439		-->		00:03:52		316		No! The girl? 
+		51		00:03:52		900		-->		00:03:55		444		I don't know if she'll have time for you, Wes. 
+		52		00:03:55		611		-->		00:03:58		197		She's destined to rule an entire world. 
+		53		00:04:21		136		-->		00:04:24		473		Space, the final frontier. 
+		54		00:04:25		641		-->		00:04:29		686		These are the voyages of the Starship Enterprise. 
+		55		00:04:29		853		-->		00:04:33		941		Its continuing mission, to explore strange new worlds,... 
+		56		00:04:35		776		-->		00:04:39		446		..to seek out new life and new civilizations,... 
+		57		00:04:40		364		-->		00:04:44		034		..to boldly go where no one has gone before. 
+		58		00:05:42		926		-->		00:05:44		303		Come in. 
+		59		00:05:47		806		-->		00:05:49		016		You wanted to see me? 
+		60		00:05:49		183		-->		00:05:52		811		Yes. Data, the girl who came on board? 
+		61		00:05:52		978		-->		00:05:54		521		Salia of Daled IV. 
+		62		00:05:54		688		-->		00:05:56		273		Who is she? 
+		63		00:05:56		440		-->		00:05:59		693		Little is known. She was born on Daled IV, to parents from opposite sides in a centuries-old civil war. 
+		65		00:06:03		739		-->		00:06:06		116		Both died shortly after her birth. 
+		66		00:06:06		283		-->		00:06:09		745		A Federation ship brought her and her governess to Klavdia III, to raise her in a neutral environment. 
+		68		00:06:12		289		-->		00:06:13		957		And now she's returning? 
+		69		00:06:14		124		-->		00:06:17		669		It is hoped she will unite the factions and bring peace. 
+		70		00:06:17		836		-->		00:06:20		339		Ensign Crusher, report. Are you alright? 
+		71		00:06:22		132		-->		00:06:25		802		- Yeah, I'm fine, I just... - We're waiting for that magnet! 
+		72		00:06:27		095		-->		00:06:28		388		I'm on my way. 
+		73		00:06:38		607		-->		00:06:41		276		Captain, we've laid in a course for Daled IV. 
+		74		00:06:41		401		-->		00:06:45		739		We'll remain on impulse power until Lt La Forge finishes his adjustments. 
+		75		00:06:45		906		-->		00:06:49		368		Mr Worf, did the quarters meet with our passengers' approval? 
+		76		00:06:49		535		-->		00:06:53		205		I doubt anything meets with that woman's approval, sir. 
+		77		00:06:53		372		-->		00:06:57		835		Captain, I'm concerned about our new passengers. 
+		78		00:06:58		627		-->		00:07:02		422		Their emotions do not fit who they are and what they're doing. 
+		79		00:07:02		589		-->		00:07:05		384		Do you suggest they're not who they say they are? 
+		80		00:07:05		551		-->		00:07:09		888		Actually, it's more like they're not what they say they are. 
+		81		00:07:11		765		-->		00:07:13		767		Picard to Salia's quarters. 
+		82		00:07:13		934		-->		00:07:16		019		- Yes? - May we turn on the viewer? 
+		83		00:07:16		186		-->		00:07:17		729		Yes, of course. 
+		84		00:07:18		397		-->		00:07:21		984		- Are your quarters satisfactory? - Yes, very. 
+		85		00:07:23		610		-->		00:07:27		406		Tell me, Captain, who was the young man I met before? 
+		86		00:07:27		573		-->		00:07:30		242		That was Ensign Wesley Crusher. 
+		87		00:07:32		369		-->		00:07:33		996		Thank you for checking on us. 
+		88		00:07:34		162		-->		00:07:37		875		I only hope our quarters on Daled IV will be this luxurious. 
+		89		00:07:39		084		-->		00:07:42		963		Please feel free to contact me at any time. Picard out. 
+		90		00:07:53		765		-->		00:07:55		893		What I sensed hasn't changed. 
+		91		00:07:56		059		-->		00:07:59		938		What puzzles me is how she is expected to bring peace to Daled IV. 
+		92		00:08:00		105		-->		00:08:03		192		Its inhabitants have fought throughout their history. 
+		93		00:08:03		358		-->		00:08:06		195		What do we know about the cause of these wars? 
+		94		00:08:06		361		-->		00:08:09		323		Only that it is the difference between night and day. 
+		95		00:08:09		489		-->		00:08:11		575		Data, you used a colloquialism. 
+		96		00:08:11		742		-->		00:08:13		744		Did I? 
+		97		00:08:14		369		-->		00:08:18		582		What I meant is that Daled IV rotates only once per revolution. 
+		98		00:08:18		749		-->		00:08:23		128		So one side is constantly dark and the other is constantly light. 
+		99		00:08:23		295		-->		00:08:27		174		One might surmise that the two have developed disparate cultures, which is a major cause of most wars. 
+		101		00:08:30		594		-->		00:08:33		347		This child is supposed to bring them together. 
+		102		00:08:33		514		-->		00:08:36		683		She seems too delicate for such a task. 
+		103		00:08:36		850		-->		00:08:39		520		Do not be fooled by her looks. 
+		104		00:08:40		312		-->		00:08:42		314		The body is just a shell. 
+		105		00:08:45		734		-->		00:08:49		196		How can I be a leader if I don't know anything about my people? 
+		106		00:08:49		363		-->		00:08:52		407		You'll lead because you were accepted by both sides. 
+		107		00:08:52		574		-->		00:08:56		537		- And because it is in your blood. - What is expected of me there? 
+		108		00:08:56		703		-->		00:08:58		288		- You will know. - How? 
+		109		00:08:58		455		-->		00:09:00		040		You just will. 
+		110		00:09:00		624		-->		00:09:03		293		Salia, you must arrive with an open mind, without preconceived ideas of what you will find,  or the people on either side. 
+		113		00:09:10		634		-->		00:09:12		052		It's very frustrating. 
+		114		00:09:12		219		-->		00:09:14		888		You feel the weight of so much responsibility, you're not sure you'll live up to the expectations. 
+		116		00:09:18		308		-->		00:09:20		310		It's not only that. 
+		117		00:09:26		275		-->		00:09:29		069		Nobody even asked me if this is something I want. 
+		118		00:09:29		653		-->		00:09:31		363		It is your duty. 
+		119		00:09:31		947		-->		00:09:33		782		And I have no choice. 
+		120		00:09:35		826		-->		00:09:38		203		It won't be as bad as you think. 
+		121		00:09:39		746		-->		00:09:42		040		In fact, it could be quite wonderful. 
+		122		00:09:42		207		-->		00:09:46		211		Besides, ... you are the last and only chance. 
+		123		00:10:00		225		-->		00:10:02		269		Won't I need more than instinct to do whatever is expected of me on Daled IV? 
+		125		00:10:08		150		-->		00:10:10		068		Energy depletion level? 
+		126		00:10:10		235		-->		00:10:12		905		.04 percent and increasing. 
+		127		00:10:16		491		-->		00:10:19		244		Wesley, have you found that defocused area yet? 
+		128		00:10:19		411		-->		00:10:20		787		I'm looking. 
+		129		00:10:23		415		-->		00:10:25		584		Yeah, I see the way you're looking. 
+		130		00:10:27		920		-->		00:10:29		296		What? 
+		131		00:10:30		756		-->		00:10:34		301		Sorry, I've got my mind on something. 
+		132		00:10:34		468		-->		00:10:36		053		I can see that. 
+		133		00:10:37		930		-->		00:10:43		852		It's this girl they beamed up. She's perfect. Absolutely perfect. 
+		134		00:10:45		312		-->		00:10:47		648		Now I know why you can't concentrate. 
+		135		00:10:49		274		-->		00:10:51		443		- I'll do better. - OK. 
+		136		00:10:58		116		-->		00:11:00		827		Warning. Resonant field applied. 
+		137		00:11:01		912		-->		00:11:04		122		- What is it? What happened? - Nothing. 
+		138		00:11:04		289		-->		00:11:06		083		I had it on the wrong setting. 
+		139		00:11:07		918		-->		00:11:11		213		I suppose it had to happen. It usually does at this age. 
+		140		00:11:11		380		-->		00:11:13		131		What usually does? 
+		141		00:11:13		298		-->		00:11:16		885		Glands erupting with hormones. It happens to all of us. 
+		142		00:11:17		052		-->		00:11:19		847		Just because I said I think she's interesting? 
+		143		00:11:20		013		-->		00:11:22		099		You said she was perfect. 
+		144		00:11:23		058		-->		00:11:25		519		Come down. You're no use here for now. 
+		145		00:11:25		686		-->		00:11:30		482		Come on down from there. Go... talk to her. Use the ladder. 
+		146		00:11:38		448		-->		00:11:40		075		That's silly, Geordi. 
+		147		00:11:40		242		-->		00:11:43		996		But since you recommended it, how should I approach her? 
+		148		00:11:44		162		-->		00:11:47		749		- What should I say? - "Hi, I'm Wesley Crusher." 
+		149		00:11:47		916		-->		00:11:50		377		- "I'd like to talk to you." - And then what? 
+		150		00:11:50		544		-->		00:11:52		296		Whatever occurs to you. 
+		151		00:11:52		462		-->		00:11:55		507		- What if nothing does? - I don't have time for this! 
+		152		00:11:55		674		-->		00:11:59		219		- You'll have to ask somebody else. - OK. 
+		153		00:12:07		060		-->		00:12:09		730		That is how the Klingon lures a mate. 
+		154		00:12:11		190		-->		00:12:15		319		- Are you telling me to yell at her? - No. Men do not roar. 
+		155		00:12:15		485		-->		00:12:17		487		Women roar. 
+		156		00:12:17		738		-->		00:12:20		574		Then they hurl heavy objects. 
+		157		00:12:22		367		-->		00:12:24		244		And claw at you. 
+		158		00:12:25		204		-->		00:12:26		496		What does the man do? 
+		159		00:12:27		331		-->		00:12:29		541		He reads love poetry. 
+		160		00:12:33		754		-->		00:12:35		464		He ducks a lot. 
+		161		00:12:35		631		-->		00:12:38		467		Worf, sounds like it works great for Klingons, but I think I need to try something a little less... dangerous. 
+		163		00:12:44		640		-->		00:12:47		976		Then go to her door. Beg like a human. 
+		164		00:12:48		143		-->		00:12:52		105		It should be that simple, Wesley. Judging by her appearance, it is likely you are biologically compatible. 
+		166		00:12:55		484		-->		00:12:59		571		You may lack histocompatibility of the cell membrane, but... 
+		167		00:12:59		738		-->		00:13:04		201		Data, ... I want to meet her, not dissect her. 
+		168		00:13:10		666		-->		00:13:13		252		- Picard to Salia's quarters. - Yes, Captain? 
+		169		00:13:13		418		-->		00:13:15		170		May I activate the view screen? 
+		170		00:13:16		296		-->		00:13:17		673		Hurry! Go! 
+		171		00:13:19		383		-->		00:13:20		843		Certainly. 
+		172		00:13:22		511		-->		00:13:25		013		We've invited Anya to take a tour of the ship. 
+		173		00:13:25		180		-->		00:13:28		141		- Maybe you'd like to join her? - Very much. 
+		174		00:13:28		308		-->		00:13:31		520		Your escort will be with you shortly. Picard out. 
+		175		00:13:33		897		-->		00:13:35		357		I think I'll go on the tour. 
+		176		00:13:39		152		-->		00:13:40		362		Why can't I? 
+		177		00:13:41		780		-->		00:13:45		576		This is the only chance I'll ever have to see a vessel like this. 
+		178		00:13:47		870		-->		00:13:53		041		No. You must remain here where it is safe. 
+		179		00:13:57		754		-->		00:14:03		385		Salia, do an old woman a favour and obey me for the rest of this trip. 
+		180		00:14:03		552		-->		00:14:07		139		You are no more an old woman than I am a leader. 
+		181		00:14:08		891		-->		00:14:10		475		Yes. Come in. 
+		182		00:14:11		351		-->		00:14:13		562		I'm here to escort you on your tour. 
+		183		00:14:14		605		-->		00:14:18		358		Salia will remain behind. I will be right there. 
+		184		00:14:19		693		-->		00:14:21		445		You are a leader. 
+		185		00:14:21		612		-->		00:14:25		490		And I... am older than you could ever imagine. 
+		186		00:14:37		127		-->		00:14:40		797		What should I say? How do I act? What do I do? 
+		187		00:14:43		050		-->		00:14:45		385		Guinan, could you step over here? 
+		188		00:14:47		513		-->		00:14:49		515		Sounds simple enough. 
+		189		00:14:55		562		-->		00:14:58		524		Your first words are the most important. 
+		190		00:14:58		690		-->		00:15:00		859		You may want to start like this. 
+		191		00:15:03		570		-->		00:15:06		782		You are the most beautiful woman in the galaxy. 
+		192		00:15:10		953		-->		00:15:13		872		But that might not work. 
+		193		00:15:14		039		-->		00:15:15		624		Yes, it would. 
+		194		00:15:19		336		-->		00:15:23		215		- I've longed to tell you that. - But you were afraid? Of me? 
+		195		00:15:23		382		-->		00:15:26		426		- Of us. Of what we might become. - Commander? 
+		196		00:15:26		593		-->		00:15:30		514		- Or that you'd think it was a line. - Maybe I do think it's a line. 
+		197		00:15:30		681		-->		00:15:32		266		You think I'm not sincere? 
+		198		00:15:32		432		-->		00:15:36		603		I didn't say that. It's a nice line, like a knock at the door. 
+		199		00:15:36		770		-->		00:15:39		606		- You're inviting me in? - I'm not sending you away. 
+		200		00:15:39		773		-->		00:15:42		651		- That's more than I expected. - Is it all you hoped? 
+		201		00:15:42		818		-->		00:15:46		697		To hope is to recognize the possibility. I had only dreams. 
+		202		00:15:46		864		-->		00:15:49		074		- Dreams can be dangerous. - Not these. 
+		203		00:15:49		241		-->		00:15:52		494		I dream of a galaxy where your eyes are the stars and the universe worships the night. 
+		205		00:15:56		039		-->		00:16:01		044		Careful. Putting me on a pedestal, you may not be able to reach me. 
+		206		00:16:01		211		-->		00:16:03		589		Then I'll learn how to fly. 
+		207		00:16:03		755		-->		00:16:07		634		You are the heart in my day and the soul in my night. 
+		208		00:16:07		801		-->		00:16:09		511		I don't think this is my style. 
+		209		00:16:10		095		-->		00:16:11		889		Shut up, kid. 
+		210		00:16:12		556		-->		00:16:15		851		Tell me more about my eyes. 
+		211		00:16:19		646		-->		00:16:22		024		This is the dilithium crystal chamber. 
+		212		00:16:23		233		-->		00:16:25		319		Our Chief Engineer, Geordi La Forge. 
+		213		00:16:25		485		-->		00:16:27		613		What is that? What are you doing? 
+		214		00:16:29		615		-->		00:16:34		161		Nothing to be concerned about. Just some routine adjustments. 
+		215		00:16:34		328		-->		00:16:38		582		I wasn't aware that the deuterium control conduit required adjustment. 
+		216		00:16:56		475		-->		00:16:59		770		I run periodic inspections on all engineering systems. 
+		217		00:16:59		937		-->		00:17:03		774		- And you've found a malfunction. - It's not a malfunction. 
+		218		00:17:03		941		-->		00:17:07		736		Just a minute defocused area. It lowers operating efficiency. 
+		219		00:17:07		903		-->		00:17:12		199		- It may also produce excess prions. - Our computer would detect that. 
+		220		00:17:12		366		-->		00:17:15		953		Unless, of course, it too is malfunctioning. 
+		221		00:17:18		121		-->		00:17:21		083		Look, I really have to get this finished. 
+		222		00:17:23		418		-->		00:17:24		962		Please come with me. 
+		223		00:17:31		885		-->		00:17:34		596		I will be back to check your progress. 
+		224		00:17:44		731		-->		00:17:47		317		Ensign Crusher, what can I do for you? 
+		225		00:17:48		277		-->		00:17:49		361		Nothing. 
+		226		00:17:56		326		-->		00:17:58		996		- Is there a problem? - No. 
+		227		00:18:01		456		-->		00:18:04		126		Can you show me how to work the food dispenser? 
+		228		00:18:05		335		-->		00:18:07		087		Sure. 
+		229		00:18:12		593		-->		00:18:14		344		Really, it's quite simple. 
+		230		00:18:14		511		-->		00:18:18		098		You tell the computer what you want and it prepares it for you. 
+		231		00:18:20		142		-->		00:18:21		476		What should I order? 
+		232		00:18:23		395		-->		00:18:25		647		I don't know. What do you like? 
+		233		00:18:26		815		-->		00:18:28		817		I'd like something sweet. 
+		234		00:18:31		653		-->		00:18:33		197		I know. 
+		235		00:18:33		947		-->		00:18:36		992		Computer, Thalian chocolate mousse. 
+		236		00:18:56		762		-->		00:18:59		306		It's a wonderful sensation. 
+		237		00:19:00		265		-->		00:19:03		435		On Thalos VII, they age the beans 400 years. 
+		238		00:19:03		602		-->		00:19:06		522		- You've been there? - It's one of my favourite places. 
+		239		00:19:06		688		-->		00:19:09		608		It must be fun to visit a planet like that. 
+		240		00:19:09		775		-->		00:19:12		236		It's the best part of being on the Enterprise. 
+		241		00:19:12		945		-->		00:19:17		866		I've studied about some of them. But to see them would be wonderful. 
+		242		00:19:18		033		-->		00:19:20		494		Tell me about the other places you've been. 
+		243		00:19:20		661		-->		00:19:22		663		There's too many. 
+		244		00:19:22		829		-->		00:19:25		040		The only world I've known is Klavdia III. 
+		245		00:19:28		627		-->		00:19:30		504		It's about time we changed that. 
+		246		00:19:30		671		-->		00:19:32		047		How? 
+		247		00:19:32		965		-->		00:19:34		967		Come with me. 
+		248		00:19:46		687		-->		00:19:48		480		I'll be with you in a moment. 
+		249		00:19:49		857		-->		00:19:53		902		- What's wrong with him? - Andronesian encephalitis. 
+		250		00:19:54		069		-->		00:19:56		280		That disease is contagious! 
+		251		00:19:56		446		-->		00:19:59		157		Very unlikely. Our air-filtering system... 
+		252		00:19:59		324		-->		00:20:01		076		But there is a chance! 
+		253		00:20:01		243		-->		00:20:05		372		If you mean mathematically, yes, the probability is not zero. 
+		254		00:20:05		539		-->		00:20:10		335		I cannot rely on your primitive technologies! Kill the patient. 
+		255		00:20:13		380		-->		00:20:14		673		What? 
+		256		00:20:14		840		-->		00:20:18		051		Destroy the patient. Immediately! 
+		257		00:20:18		218		-->		00:20:19		928		Now, you calm down. 
+		258		00:20:20		095		-->		00:20:22		764		If you won't take action, then I will! 
+		259		00:20:33		483		-->		00:20:35		819		Security to sickbay! Hurry! 
+		260		00:20:44		745		-->		00:20:47		164		Wait! Hold your fire! 
+		261		00:20:50		918		-->		00:20:52		127		Worf! 
+		262		00:20:52		294		-->		00:20:54		171		What is she? Keep her away. 
+		263		00:20:54		338		-->		00:20:56		131		Do not interfere. 
+		264		00:20:56		298		-->		00:20:57		925		She wants to kill Hennesey. 
+		265		00:20:58		091		-->		00:21:00		427		His disease threatens Salia. 
+		266		00:21:00		594		-->		00:21:03		639		Captain, there is no chance of contagion. 
+		267		00:21:05		766		-->		00:21:09		228		- The situation is under control. - That's not good enough! 
+		268		00:21:09		394		-->		00:21:10		896		Well, it will have to be. 
+		269		00:21:12		272		-->		00:21:16		610		Your powers are infinitesimal compared to mine. 
+		270		00:21:19		821		-->		00:21:23		575		Yes, that may be, but you will obey my orders. 
+		271		00:21:24		368		-->		00:21:27		746		You will remain in your quarters, and in your present form, for the rest of this voyage. Is that clear? 
+		273		00:21:32		501		-->		00:21:35		754		- Very! - Keep her under guard. 
+		274		00:21:35		921		-->		00:21:37		589		Aye, sir. 
+		275		00:21:39		383		-->		00:21:40		968		Wait for me. 
+		276		00:21:43		887		-->		00:21:48		100		- What kind of creature is she? - I've never seen anything like her. 
+		277		00:21:48		267		-->		00:21:51		436		There is mention in the galactic zoological catalogue of a species called allasomorph,  which possess the power to alter their molecular structure  into other life forms. 
+		281		00:22:01		238		-->		00:22:04		241		Such a creature would make a perfect protector. 
+		282		00:22:04		408		-->		00:22:07		411		I want a Security team stationed outside sickbay. 
+		283		00:22:07		578		-->		00:22:11		707		Aye, sir. Captain, what if Anya transforms? 
+		284		00:22:16		253		-->		00:22:17		838		Improvise. 
+		285		00:22:21		175		-->		00:22:24		761		Can a place so remarkable truly exist? 
+		286		00:22:24		928		-->		00:22:27		598		Yes. There are many more. 
+		287		00:22:27		723		-->		00:22:29		391		All of them are different. 
+		288		00:22:29		558		-->		00:22:31		560		I've learned about them. 
+		289		00:22:31		727		-->		00:22:34		688		That's all I did on Klavdia III was learn. 
+		290		00:22:34		855		-->		00:22:38		901		I know so much, ... but I've seen so little. 
+		291		00:22:40		444		-->		00:22:43		322		Think of all you have to look forward to. 
+		292		00:22:44		031		-->		00:22:46		074		This is a great time to be alive. 
+		293		00:22:47		284		-->		00:22:49		620		- For you. - For both of us. 
+		294		00:22:49		786		-->		00:22:52		247		This is all just beginning. 
+		295		00:22:52		414		-->		00:22:57		628		We've only charted 19% of our galaxy. The rest is out there just waiting. 
+		296		00:22:57		794		-->		00:23:00		464		Look what we've already discovered. 
+		297		00:23:02		716		-->		00:23:05		385		I have never seen anything so wondrous. 
+		298		00:23:05		511		-->		00:23:07		513		Wait. 
+		299		00:23:08		138		-->		00:23:11		183		Computer, Rousseau V. 
+		300		00:23:17		981		-->		00:23:19		525		It's breathtaking! 
+		301		00:23:21		151		-->		00:23:23		237		And you've been to this place? 
+		302		00:23:24		821		-->		00:23:27		157		Someday, you'll visit Rousseau V, and many other places, all more spectacular. 
+		304		00:23:31		620		-->		00:23:33		622		If only it were possible. 
+		305		00:23:35		332		-->		00:23:36		834		Listen. 
+		306		00:23:39		586		-->		00:23:42		256		- What is it? - In a moment, the resonance from the neutrino clouds will become synchronous. 
+		308		00:23:54		309		-->		00:23:56		311		It's so beautiful! 
+		309		00:23:56		895		-->		00:24:01		108		It's like this place has a voice and is trying to speak to us. 
+		310		00:24:03		443		-->		00:24:05		612		Thank you for sharing all this with me. 
+		311		00:24:06		530		-->		00:24:09		491		Someday, you'll see it for yourself. 
+		312		00:24:10		617		-->		00:24:12		619		Look over there. 
+		313		00:24:25		841		-->		00:24:28		552		Remain here. You are restricted to quarters for the remainder of this voyage. 
+		315		00:24:30		929		-->		00:24:33		599		You are the protector of this ship, are you not? 
+		316		00:24:33		765		-->		00:24:35		434		I am in charge of Security. 
+		317		00:24:36		685		-->		00:24:39		813		You must understand my duties as well. 
+		318		00:24:39		980		-->		00:24:43		317		If you confine me to this cell, I cannot protect Salia. 
+		319		00:24:43		483		-->		00:24:47		613		There is no need for concern. She is safe on this ship. 
+		320		00:24:47		779		-->		00:24:51		700		You must understand that I cannot make such an assumption. 
+		321		00:24:51		867		-->		00:24:53		368		You haven't any choice. 
+		322		00:24:55		621		-->		00:24:58		165		- You must trust me to protect her. - No! 
+		323		00:24:58		332		-->		00:25:04		087		A protector cannot have two charges. Your responsibility is to the ship. 
+		324		00:25:04		254		-->		00:25:06		256		My duty is to Salia. 
+		325		00:25:06		423		-->		00:25:10		260		My responsibility to the ship includes protecting Salia. 
+		326		00:25:11		720		-->		00:25:13		597		You know I'm stronger than you. 
+		327		00:25:15		849		-->		00:25:17		226		I was unprepared. 
+		328		00:25:17		392		-->		00:25:22		981		You underestimated me in your sickbay. That is usually fatal. 
+		329		00:25:24		441		-->		00:25:28		278		Still, you are here, confined to your room. 
+		330		00:25:28		445		-->		00:25:32		616		I ceased my struggle by choice, not because of you or your Captain. 
+		331		00:25:32		783		-->		00:25:36		036		I would have stopped you. If not me, someone else. 
+		332		00:25:36		203		-->		00:25:40		165		No. You cannot control me. 
+		333		00:25:42		292		-->		00:25:44		044		We will see. 
+		334		00:25:51		426		-->		00:25:54		596		We've brought a very dangerous life form on board. 
+		335		00:25:54		763		-->		00:25:57		558		I want to minimize the chance of any incident. 
+		336		00:25:57		724		-->		00:26:03		272		Whatever life form Anya is, emotionally she's Salia's mother. 
+		337		00:26:05		607		-->		00:26:08		861		The most dangerous animal is a mother protecting her young. 
+		338		00:26:09		027		-->		00:26:11		947		- Exactly. - Captain, this is Anya. 
+		339		00:26:12		114		-->		00:26:15		659		- Yes? - Salia is gone. Where is she? 
+		340		00:26:15		826		-->		00:26:20		622		This has all been so wonderful. I'm not even sure it's real. 
+		341		00:26:20		789		-->		00:26:23		876		Believe me, ten-forward isn't an illusion. 
+		342		00:26:24		042		-->		00:26:25		544		Not that. 
+		343		00:26:25		711		-->		00:26:28		172		I mean the way I feel. 
+		344		00:26:30		382		-->		00:26:33		719		You won't find a better dish of chocolate anywhere. 
+		345		00:26:37		556		-->		00:26:39		141		I'm sure I won't. 
+		346		00:26:42		269		-->		00:26:44		271		Is something wrong? 
+		347		00:26:46		064		-->		00:26:48		609		I've had a great time being with you, Wesley. 
+		348		00:26:48		775		-->		00:26:50		986		And that makes you sad? 
+		349		00:26:54		781		-->		00:26:56		950		When I was on Klavdia III, all I could think about was leaving that isolation. 
+		351		00:27:01		538		-->		00:27:03		749		It makes me sad having to face it again after seeing what else is possible. 
+		353		00:27:07		127		-->		00:27:10		589		Is that what awaits you on Daled IV? Isolation? 
+		354		00:27:15		177		-->		00:27:19		890		I thought you were going there to reunite two warring parties. 
+		355		00:27:20		057		-->		00:27:22		059		What else do you know? 
+		356		00:27:22		851		-->		00:27:26		813		Very little. The ship's computer doesn't have that much on Daled IV. 
+		357		00:27:26		980		-->		00:27:29		399		How will you stop the fighting? 
+		358		00:27:29		566		-->		00:27:35		030		I'm not certain. I only know I will have many responsibilities. 
+		359		00:27:35		197		-->		00:27:38		742		Your language has no word for the position I'll hold. 
+		360		00:27:39		535		-->		00:27:43		288		In many ways, I'll have even less freedom than on Klavdia III. 
+		361		00:27:51		713		-->		00:27:53		966		You could stay. 
+		362		00:27:54		132		-->		00:27:57		302		- On the Enterprise? - Why not? 
+		363		00:28:08		230		-->		00:28:09		523		Because I can't. 
+		364		00:28:13		569		-->		00:28:15		112		Just because a girl runs out doesn't mean she doesn't wish you to follow. 
+		366		00:28:20		576		-->		00:28:23		078		What is it? What happened? 
+		367		00:28:25		122		-->		00:28:26		707		Stay away from me! 
+		368		00:28:31		461		-->		00:28:33		130		I'm sorry. 
+		369		00:28:34		590		-->		00:28:35		883		I don't understand. 
+		370		00:28:36		049		-->		00:28:38		552		I can't stay here! 
+		371		00:28:38		719		-->		00:28:40		804		I can't have this life! 
+		372		00:28:40		971		-->		00:28:45		058		I want it more than anything, but I can't have it! 
+		373		00:28:47		144		-->		00:28:49		021		Salia, nothing is impossible. 
+		374		00:28:51		231		-->		00:28:52		524		Not for you. 
+		375		00:28:52		691		-->		00:28:55		819		There's a way! I know there is! 
+		376		00:28:57		821		-->		00:28:59		823		Leave her alone! 
+		377		00:29:01		366		-->		00:29:03		368		Ensign, step away from her. 
+		378		00:29:05		996		-->		00:29:07		998		Come with me. 
+		379		00:29:43		742		-->		00:29:45		452		Energy depletion level? 
+		380		00:29:45		619		-->		00:29:47		621		Zero. 
+		381		00:29:49		540		-->		00:29:51		834		- La Forge to bridge. - Yes, Lieutenant? 
+		382		00:29:52		000		-->		00:29:55		879		I've completed my final adjustments. Thanks for the time. 
+		383		00:29:56		046		-->		00:29:59		049		- Warp engines are now available. - Very good. 
+		384		00:29:59		216		-->		00:30:02		135		Number One, get us to Daled as quickly as possible. 
+		385		00:30:02		302		-->		00:30:04		847		Ensign Gibson, go to warp 8.8. 
+		386		00:30:05		013		-->		00:30:08		767		- Warp 8.8, sir. - Estimated time? 
+		387		00:30:08		934		-->		00:30:11		270		Three hours, nine minutes. 
+		388		00:30:11		436		-->		00:30:15		274		Crusher, when you're done in Engineering, report to my ready room. 
+		389		00:30:15		440		-->		00:30:17		860		- Yes, sir. - Take the bridge, Number One. 
+		390		00:30:18		026		-->		00:30:19		319		Aye, sir. 
+		391		00:30:27		035		-->		00:30:31		373		The woman, Anya, is not what she appears to be. 
+		392		00:30:32		249		-->		00:30:36		086		She is... an allasomorph. 
+		393		00:30:37		045		-->		00:30:38		589		A shape-shifter? 
+		394		00:30:41		175		-->		00:30:46		555		She's not only a governess, she's also the girl's... protector. 
+		395		00:30:49		766		-->		00:30:52		936		Now, I don't care to interfere in the personal relationships of those under my command. 
+		397		00:31:00		027		-->		00:31:01		612		But in this case... 
+		398		00:31:02		446		-->		00:31:04		781		You want me to stay away from Salia? 
+		399		00:31:04		948		-->		00:31:09		786		Yes, I do. For the good of the ship and the safety of everyone on board. 
+		400		00:31:22		216		-->		00:31:24		259		I will do as you ask. 
+		401		00:31:35		437		-->		00:31:38		148		Why won't you let me have a friend? 
+		402		00:31:38		315		-->		00:31:41		026		It is my duty to protect you from danger. 
+		403		00:31:41		193		-->		00:31:43		153		There's no danger here. 
+		404		00:31:43		320		-->		00:31:46		907		There is always danger from one who is not your kind. 
+		405		00:31:47		074		-->		00:31:51		662		Salia, he's confusing you. Remember your responsibilities. 
+		406		00:31:51		828		-->		00:31:55		249		Whether or not I see Wesley is for me to decide. 
+		407		00:31:55		415		-->		00:31:57		793		It is not! 
+		408		00:31:57		960		-->		00:32:00		337		I raised you, I protected you, and I intend to deliver you to Daled IV! 
+		410		00:32:03		340		-->		00:32:06		510		Maybe what you want doesn't matter any more. 
+		411		00:32:08		095		-->		00:32:09		847		Salia, please. 
+		412		00:32:10		681		-->		00:32:12		850		I know it's difficult for you. 
+		413		00:32:13		851		-->		00:32:17		396		But you must do what you're destined to do. 
+		414		00:32:27		197		-->		00:32:29		741		- Standard orbit. - Aye, sir. 
+		415		00:32:39		543		-->		00:32:41		712		Hailing frequencies, Mr Worf. 
+		416		00:32:43		172		-->		00:32:47		467		Captain, I'm encountering the same interference as on Klavdia III. 
+		417		00:32:47		634		-->		00:32:50		304		The troposphere must be distorting our signals. 
+		418		00:32:50		470		-->		00:32:52		472		It is fascinating, Captain. 
+		419		00:32:52		639		-->		00:32:56		727		Klavdia III and Daled IV have almost identical atmospheres. 
+		420		00:32:56		894		-->		00:32:59		980		Magnify. Times 20. 
+		421		00:33:06		737		-->		00:33:08		447		How could anyone exist in an environment so totally hostile toward human life? 
+		423		00:33:11		992		-->		00:33:16		663		Mr Data, override the interference. Let's complete our mission. 
+		424		00:33:23		128		-->		00:33:24		505		Come in. 
+		425		00:33:30		177		-->		00:33:33		013		- You shouldn't have come. - You want me to leave? 
+		426		00:33:33		180		-->		00:33:35		849		- I didn't say that. - Then you want me to stay. 
+		427		00:33:35		974		-->		00:33:39		603		- Does Anya know you're here? - That doesn't matter. 
+		428		00:33:39		770		-->		00:33:43		023		I'm glad you came. I thought Anya would keep you with her. 
+		429		00:33:43		190		-->		00:33:46		693		- I have certain rights. - So you slipped out. 
+		430		00:33:46		860		-->		00:33:51		990		While she was asleep. I hope you didn't get trouble from your Captain. 
+		431		00:33:52		157		-->		00:33:54		326		No, I haven't gotten in trouble yet. 
+		432		00:33:55		327		-->		00:33:59		206		- Anya thought you would corrupt me. - With my wild way of life? 
+		433		00:34:00		541		-->		00:34:01		917		Maybe. 
+		434		00:34:03		669		-->		00:34:08		882		With the normal things people do... when they like each other. 
+		435		00:34:28		318		-->		00:34:30		737		- Wesley, get out of here! - What's going on? 
+		436		00:34:30		904		-->		00:34:33		156		- Just go! - Security, crew quarters! 
+		437		00:34:51		300		-->		00:34:54		928		- You should not have disobeyed me. - I had to. 
+		438		00:34:56		430		-->		00:34:58		599		I warned you to leave her alone. 
+		439		00:35:06		356		-->		00:35:09		776		Captain's log, stardate <stardate>42568</stardate>.8. 
+		440		00:35:09		943		-->		00:35:15		407		Since Anya's powers enabled her to escape her guards unnoticed, we have sealed her quarters with a force field  that will contain her no matter how small a form she may take. 
+		443		00:35:21		955		-->		00:35:25		876		- I'm receiving an audio signal. - Audio on. 
+		444		00:35:26		043		-->		00:35:29		796		Enterprise, this is command headquarters of Daled IV. 
+		445		00:35:29		963		-->		00:35:33		800		- We have been expecting you. - Sir, the communication originated from a terawatt source on the planet. 
+		447		00:35:36		011		-->		00:35:39		306		That's more power than our entire ship could generate. 
+		448		00:35:39		473		-->		00:35:41		892		It is needed to penetrate the atmosphere. 
+		449		00:35:42		059		-->		00:35:45		521		Which means we lack the ability to respond, sir. 
+		450		00:35:45		687		-->		00:35:49		483		Sir, beam-down coordinates are encoded in the carrier signal. 
+		451		00:35:50		776		-->		00:35:52		152		Splendid. 
+		452		00:35:52		319		-->		00:35:54		988		I'll arrange for our guests to beam down. 
+		453		00:35:59		159		-->		00:36:00		744		Force field off. 
+		454		00:36:04		289		-->		00:36:05		666		Come in. 
+		455		00:36:07		292		-->		00:36:08		502		We have arrived. 
+		456		00:36:09		294		-->		00:36:12		089		Salia will be with you in just a moment. 
+		457		00:36:17		135		-->		00:36:19		805		- You're not going? - No. 
+		458		00:36:21		807		-->		00:36:23		767		My duties have been completed. 
+		459		00:36:23		934		-->		00:36:26		645		I have done all that I could. 
+		460		00:36:28		105		-->		00:36:30		107		I hope it was enough. 
+		461		00:36:31		191		-->		00:36:34		528		You've raised me well, and I thank you for that. 
+		462		00:36:35		487		-->		00:36:40		367		I would not have harmed the boy. I only wanted to frighten him. 
+		463		00:36:41		869		-->		00:36:43		245		I know. 
+		464		00:36:45		455		-->		00:36:48		667		You are ready for what awaits you and you will do well. 
+		465		00:36:49		459		-->		00:36:51		420		I know I've been hard on you, but I wanted to prepare you for anything you might have to do. 
+		467		00:36:56		091		-->		00:36:58		635		Will I ever be able to leave Daled IV? 
+		468		00:36:59		720		-->		00:37:01		138		Probably not. 
+		469		00:37:02		598		-->		00:37:04		600		But anything is possible. 
+		470		00:37:05		934		-->		00:37:07		603		That's what Wes said. 
+		471		00:37:08		562		-->		00:37:10		189		I hope he's right. 
+		472		00:37:11		648		-->		00:37:12		983		Where will you go? 
+		473		00:37:13		150		-->		00:37:18		113		The third moon is within range of these transporters. I'll go there. 
+		474		00:37:18		280		-->		00:37:20		741		It was my home before we went away. 
+		475		00:37:22		284		-->		00:37:24		077		I'm going to miss you. 
+		476		00:37:28		081		-->		00:37:29		666		I know. 
+		477		00:37:49		728		-->		00:37:51		480		I am ready now. 
+		478		00:37:59		154		-->		00:38:02		199		I will escort you to transporter room six. 
+		479		00:38:06		161		-->		00:38:08		455		You will be happy to see me leave. 
+		480		00:38:08		622		-->		00:38:12		125		No. You are a worthy opponent. 
+		481		00:38:12		292		-->		00:38:16		088		Thank you. At heart, we are very much alike. 
+		482		00:38:17		589		-->		00:38:19		508		Yes, we are. 
+		483		00:38:19		675		-->		00:38:22		010		Perhaps we shall fight again. 
+		484		00:38:23		387		-->		00:38:25		430		On the same side. 
+		485		00:38:26		306		-->		00:38:27		933		It would be an honour. 
+		486		00:38:28		725		-->		00:38:30		352		Shall we go? 
+		487		00:38:39		403		-->		00:38:40		988		Come in. 
+		488		00:38:46		743		-->		00:38:48		745		Wesley, I have to go now. 
+		489		00:38:51		915		-->		00:38:53		542		Was it fun? 
+		490		00:38:54		168		-->		00:38:56		378		What do you mean? 
+		491		00:38:58		505		-->		00:39:01		049		Playing humanoid. Was it fun? 
+		492		00:39:02		050		-->		00:39:04		303		Wesley, look at me. 
+		493		00:39:04		469		-->		00:39:09		725		Right now, this minute, this is what I am. A humanoid girl. 
+		494		00:39:10		642		-->		00:39:12		144		What are you really? 
+		495		00:39:13		270		-->		00:39:16		064		- Does it matter? - Yes! 
+		496		00:39:17		858		-->		00:39:20		986		Our natural state is unlike anything you can imagine. 
+		497		00:39:22		029		-->		00:39:24		364		So, you took this form for our benefit? 
+		498		00:39:25		866		-->		00:39:28		535		That's why you asked what species we are. 
+		499		00:39:29		411		-->		00:39:32		581		I'm sorry I hurt you. I didn't mean to. 
+		500		00:39:36		126		-->		00:39:37		336		I loved you. 
+		501		00:39:37		503		-->		00:39:39		338		I love you, too! 
+		502		00:39:40		839		-->		00:39:42		090		Can you? 
+		503		00:39:42		257		-->		00:39:44		551		Yes! 
+		504		00:39:44		718		-->		00:39:47		596		I have the same feelings, the same emotions as you. 
+		505		00:39:47		763		-->		00:39:49		389		You must believe me! 
+		506		00:39:53		268		-->		00:39:54		853		Please go. 
+		507		00:39:56		188		-->		00:39:59		775		Wesley, let's not say goodbye like this. 
+		508		00:40:23		715		-->		00:40:26		927		Prepare to beam Salia to the specified coordinates. 
+		509		00:40:27		094		-->		00:40:30		264		Our world is grateful for the courtesy you have extended. 
+		510		00:40:30		430		-->		00:40:34		017		I hope someday the Federation and Daled IV will have formal contact. 
+		511		00:40:34		184		-->		00:40:35		561		That is my wish as well. 
+		512		00:40:35		727		-->		00:40:38		438		- Coordinates input, sir. - Proceed. 
+		513		00:40:42		776		-->		00:40:43		735		Wait. 
+		514		00:40:51		952		-->		00:40:53		954		A taste to remember me by. 
+		515		00:40:58		876		-->		00:41:01		461		I wish there was something I could give you. 
+		516		00:41:02		588		-->		00:41:03		964		You already have. 
+		517		00:41:04		715		-->		00:41:06		842		I'm glad you came to say goodbye. 
+		518		00:41:07		676		-->		00:41:10		053		Thank you, for everything. 
+		519		00:41:13		599		-->		00:41:17		394		- I want you to leave now. - Why? 
+		520		00:41:17		561		-->		00:41:20		522		I cannot arrive on my planet in this form. 
+		521		00:41:20		689		-->		00:41:23		275		And I want you to remember me as I am now. 
+		522		00:41:24		860		-->		00:41:27		613		Don't worry, I will. 
+		523		00:41:58		435		-->		00:41:59		603		Energize. 
+		524		00:42:46		859		-->		00:42:52		197		Seeing her on the transporter pad, it was like seeing pure light. 
+		525		00:42:56		827		-->		00:42:58		829		I miss her. 
+		526		00:43:00		539		-->		00:43:03		417		I feel... empty. 
+		527		00:43:09		131		-->		00:43:11		175		I know that sensation. 
+		528		00:43:14		845		-->		00:43:19		141		But there'll come a time when all you remember is the love. 
+		529		00:43:22		102		-->		00:43:25		355		I'm never going to feel this way about anyone else. 
+		530		00:43:28		275		-->		00:43:29		693		You're right. 
+		531		00:43:33		864		-->		00:43:35		824		I didn't expect you to say that. 
+		532		00:43:38		202		-->		00:43:44		708		There'll be others. But every time you feel love, it'll be different. 
+		533		00:43:45		417		-->		00:43:47		628		Every time, it's different. 
+		534		00:43:53		258		-->		00:43:56		220		Knowing that doesn't make it any easier. 
+		535		00:43:58		138		-->		00:44:00		390		It's not supposed to. 

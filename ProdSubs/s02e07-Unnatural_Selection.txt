@@ -1,0 +1,491 @@
+		1		00:00:02		794		-->		00:00:06		590		Captain's log, stardate <stardate>42494</stardate>.8. 
+		2		00:00:06		757		-->		00:00:09		593		The Enterprise is bound for Star Station India, to rendezvous with a Starfleet medical courier. 
+		4		00:00:12		596		-->		00:00:16		308		We've been told only that our presence is imperative. 
+		5		00:00:16		475		-->		00:00:19		144		Hopefully it will give me further opportunities to assess the performance of our new Chief Medical Officer. 
+		7		00:00:23		774		-->		00:00:25		317		Come. 
+		8		00:00:28		654		-->		00:00:32		950		- You wanted to see me, Captain? - Yes, Counsellor. 
+		9		00:00:33		951		-->		00:00:36		161		Come, sit down. 
+		10		00:00:39		289		-->		00:00:42		876		Counsellor, ... you've had the opportunity to observe Dr Pulaski for some time now. 
+		12		00:00:47		005		-->		00:00:50		592		How would you evaluate her as a Chief Medical Officer? 
+		13		00:00:50		759		-->		00:00:53		971		I've never met a more dedicated physician. 
+		14		00:00:54		137		-->		00:00:57		975		I would say she has a passion for her work. 
+		15		00:00:58		976		-->		00:01:00		686		Yes, of course. 
+		16		00:01:02		020		-->		00:01:03		397		I entirely agree. 
+		17		00:01:04		940		-->		00:01:07		693		Is it possible that such consuming dedication could interfere with her judgement? 
+		19		00:01:11		113		-->		00:01:14		491		I feel your concern, Captain, but I don't share it. 
+		20		00:01:15		492		-->		00:01:19		162		Perhaps because I've been able to spend more time with her, and get to know her better. 
+		22		00:01:22		457		-->		00:01:24		459		Yes, perhaps you're right. 
+		23		00:01:24		626		-->		00:01:27		379		Captain, we're picking up a faint distress signal on an open subspace frequency. 
+		25		00:01:29		715		-->		00:01:32		509		It appears to be from an adjacent sector. 
+		26		00:01:32		676		-->		00:01:35		095		Respond on the same frequency. 
+		27		00:01:41		226		-->		00:01:43		645		- Are we locked on? - Aye, sir. 
+		28		00:01:43		812		-->		00:01:48		025		A voice transmission from the USS Lantree, a Federation supply ship. 
+		29		00:01:48		734		-->		00:01:52		404		USS Lantree, this is Picard of the Enterprise. 
+		30		00:01:52		571		-->		00:01:54		281		What is your emergency? 
+		31		00:01:54		448		-->		00:01:56		575		Can't hold out any more... 
+		32		00:01:56		742		-->		00:02:00		120		People dying... Too many to help... 
+		33		00:02:00		787		-->		00:02:04		333		Still receiving their signal, but there is no message. 
+		34		00:02:05		626		-->		00:02:09		922		Lantree, are you under attack? 
+		35		00:02:37		115		-->		00:02:40		202		Space, the final frontier. 
+		36		00:02:41		912		-->		00:02:45		832		These are the voyages of the Starship Enterprise. 
+		37		00:02:45		999		-->		00:02:50		087		Its continuing mission, to explore strange new worlds,... 
+		38		00:02:51		922		-->		00:02:55		592		..to seek out new life and new civilizations,... 
+		39		00:02:56		510		-->		00:03:00		180		..to boldly go where no one has gone before. 
+		40		00:04:03		243		-->		00:04:07		122		USS Lantree, this is the Enterprise. 
+		41		00:04:09		625		-->		00:04:11		210		Come in, Lantree. 
+		42		00:04:14		922		-->		00:04:16		715		Replay that last transmission. 
+		43		00:04:17		966		-->		00:04:23		305		Can't hold out any more... People dying... Too many to help... 
+		44		00:04:25		265		-->		00:04:26		225		Have we a fix on her? 
+		45		00:04:27		059		-->		00:04:31		939		2.2 milli-parsecs, bearing 3-0 at 145 degrees, sir. 
+		46		00:04:32		105		-->		00:04:33		315		Number One? 
+		47		00:04:33		482		-->		00:04:36		652		We'd better take a look. What kind of vessel is she? 
+		48		00:04:36		818		-->		00:04:41		448		A class-6 Federation supply ship, assigned to the Gamma 7 Sector. 
+		49		00:04:41		615		-->		00:04:46		411		Capt LI Telaka commanding. Normal complement, 26 officers and crew. 
+		50		00:04:47		037		-->		00:04:49		206		- Armed? - Class-3, defensive only. 
+		51		00:04:49		957		-->		00:04:51		875		- Is she still underway? - Aye, sir. 
+		52		00:04:52		668		-->		00:04:55		003		Adjust course to intercept. Warp seven. 
+		53		00:04:55		170		-->		00:04:57		840		Adjusting course to intercept. Warp seven, sir. 
+		54		00:05:07		891		-->		00:05:10		102		Engineering, transfer to bridge. 
+		55		00:05:11		562		-->		00:05:13		355		Closing on the Lantree, Captain. 
+		56		00:05:13		522		-->		00:05:18		151		Take us out of warp. Establish parallel course. Match speed. 
+		57		00:05:18		318		-->		00:05:19		278		Yes, sir. 
+		58		00:05:27		077		-->		00:05:30		080		- Hailing frequencies. - Open. 
+		59		00:05:30		539		-->		00:05:32		541		Lantree, this is the Enterprise. 
+		60		00:05:36		753		-->		00:05:41		466		Capt Telaka, this is Picard of the Enterprise. Do you read me? 
+		61		00:05:43		552		-->		00:05:44		970		No life signs, Captain. 
+		62		00:05:46		054		-->		00:05:49		099		- Counsellor? - Nothing, Captain. 
+		63		00:05:49		600		-->		00:05:51		685		What else have we got nearby? 
+		64		00:05:52		603		-->		00:05:55		689		No other vessels of any kind within two parsecs. 
+		65		00:05:56		273		-->		00:05:57		357		No battle damage. 
+		66		00:05:57		858		-->		00:06:02		613		All systems seem functional, sir. Everything is in perfect order. 
+		67		00:06:03		530		-->		00:06:08		660		- We have to board her, Captain. - Possibly, Mr Worf. Number One? 
+		68		00:06:08		994		-->		00:06:11		288		If we gain control of her remotely, we could activate the view screen and at least look at the bridge. 
+		70		00:06:15		667		-->		00:06:16		627		Agreed. 
+		71		00:06:24		760		-->		00:06:27		429		Computer, security override request. 
+		72		00:06:27		554		-->		00:06:28		514		Identify. 
+		73		00:06:28		680		-->		00:06:31		850		Picard, Jean-Luc. Captain, USS Enterprise. 
+		74		00:06:32		017		-->		00:06:36		730		Request control access Starfleet ship USS Lantree, 
+		75		00:06:36		897		-->		00:06:38		232		Isao Telaka commanding. 
+		76		00:06:38		398		-->		00:06:39		691		Enter access code. 
+		77		00:06:39		858		-->		00:06:43		737		Omicron omicron alpha yellow daystar 2-7. Enable. 
+		78		00:06:47		366		-->		00:06:50		619		I have verified receipt of the Lantree's access codes. 
+		79		00:06:50		786		-->		00:06:52		371		Grand. Commence operations. 
+		80		00:06:52		538		-->		00:06:55		749		- First, shut down the engines. - Standing by. 
+		81		00:06:55		916		-->		00:07:00		546		The Lantree computer reports access codes received and accepted, sir. 
+		82		00:07:02		130		-->		00:07:06		552		- Sickbay on alert, Captain. - The Lantree is responding, sir. 
+		83		00:07:07		302		-->		00:07:09		972		We have override control of her bridge, Captain. 
+		84		00:07:10		097		-->		00:07:12		307		Alright. Let's have a look. 
+		85		00:07:12		808		-->		00:07:15		769		Lantree bridge monitor engaging. 
+		86		00:07:19		731		-->		00:07:20		899		Read anything, Doctor? 
+		87		00:07:21		441		-->		00:07:23		443		Still no signs of life, Captain. 
+		88		00:07:25		529		-->		00:07:26		530		Magnify. 
+		89		00:07:33		579		-->		00:07:37		541		That must be Capt Telaka on the left. Let's look at him. 
+		90		00:07:43		463		-->		00:07:44		298		Closer. 
+		91		00:07:53		140		-->		00:07:54		725		My God. 
+		92		00:07:57		019		-->		00:07:59		771		Looks like they had a battle with time. 
+		93		00:07:59		938		-->		00:08:01		231		And lost. 
+		94		00:08:03		066		-->		00:08:06		403		Heart, lungs, liver... Everything. 
+		95		00:08:06		820		-->		00:08:09		948		- What is it? - They died of natural causes. 
+		96		00:08:10		574		-->		00:08:15		162		Natural causes? What in nature could cause that? 
+		97		00:08:16		830		-->		00:08:19		541		For the record, they died of old age. 
+		98		00:08:33		096		-->		00:08:35		641		We've downloaded the Lantree's log, sir. 
+		99		00:08:35		807		-->		00:08:37		809		Play back the Captain's last entry. 
+		100		00:08:38		810		-->		00:08:45		275		Captain's log, stardate <stardate>42493</stardate>.1. There are only six of us left. 
+		101		00:08:45		442		-->		00:08:48		570		We've set course for the nearest Federation outpost, but I'm afraid it's too late. 
+		103		00:08:50		906		-->		00:08:53		742		Attempts to analyze what is happening have failed. 
+		104		00:08:54		284		-->		00:08:58		789		In the last few hours I've watched friends grow old and die, and it's happening to me. 
+		106		00:09:01		250		-->		00:09:04		711		Capt LI Telaka, USS Lantree... 
+		107		00:09:08		841		-->		00:09:10		884		Capt Telaka was my age, sir. 
+		108		00:09:13		804		-->		00:09:14		805		Doctor? 
+		109		00:09:15		514		-->		00:09:19		017		Every member of the Lantree crew had a complete examination eight weeks ago. They were in perfect health. 
+		111		00:09:23		564		-->		00:09:25		274		Nothing else since? 
+		112		00:09:25		440		-->		00:09:26		817		A single medical entry noting that the first officer had Thelusian flu five days ago. 
+		114		00:09:32		739		-->		00:09:34		032		Thelusian flu? 
+		115		00:09:34		199		-->		00:09:37		911		An exotic but harmless rhinal virus. It couldn't have caused this. 
+		116		00:09:38		912		-->		00:09:41		290		The Lantree's last port of call was the Darwin Genetic Research Station on Gagarin IV,  three days ago. 
+		119		00:09:46		920		-->		00:09:51		800		It could be something the crew had or it could've come from Gagarin. 
+		120		00:09:51		967		-->		00:09:56		180		At the very least, the people from Darwin Station deserve a warning. 
+		121		00:09:56		346		-->		00:09:58		599		We may have to consider quarantine. 
+		122		00:10:00		601		-->		00:10:04		563		- We should quarantine the Lantree. - Absolutely. 
+		123		00:10:04		730		-->		00:10:08		233		Lieutenant, initiate the Lantree's quarantine transmitters, and activate marker beacons. We'll need to find her again. 
+		125		00:10:11		737		-->		00:10:12		905		Aye, sir. 
+		126		00:10:26		210		-->		00:10:29		505		Quarantine warnings active on all frequencies, Captain. 
+		127		00:10:29		671		-->		00:10:30		714		Extreme caution. 
+		128		00:10:30		881		-->		00:10:35		385		USS Lantree is a quarantined vessel by order of Starfleet Command. 
+		129		00:10:35		552		-->		00:10:37		930		Set course for Gagarin IV. Warp seven. 
+		130		00:10:39		014		-->		00:10:40		933		Course and speed set, sir. 
+		131		00:10:42		267		-->		00:10:43		644		Engage. 
+		132		00:10:54		821		-->		00:10:56		532		Captain's log, supplemental. 
+		133		00:10:56		698		-->		00:11:00		369		We're en route to the Federation Research Station on Gagarin IV. 
+		134		00:11:00		536		-->		00:11:04		122		The mere thought of a connection between the Lantree tragedy and a genetic-research facility fills me with great apprehension. 
+		136		00:11:12		589		-->		00:11:16		426		- Approaching Gagarin IV, sir. - Standard orbit. 
+		137		00:11:16		593		-->		00:11:19		137		- Hailing frequencies. - Open. 
+		138		00:11:19		304		-->		00:11:24		309		Darwin, this is Capt Jean-Luc Picard of the USS Enterprise. 
+		139		00:11:25		352		-->		00:11:28		814		Enterprise, this is Darwin Station. I'm Dr Kingsley. 
+		140		00:11:28		981		-->		00:11:32		526		We've just declared a medical emergency. We need your help. 
+		141		00:11:33		485		-->		00:11:37		406		Dr Kingsley, what is the nature of your emergency? 
+		142		00:11:37		948		-->		00:11:42		327		- To whom am I speaking, please? - Dr Pulaski, Chief Medical Officer. 
+		143		00:11:42		870		-->		00:11:46		707		Katherine Pulaski, author of "Models of Viral Propagation"? 
+		144		00:11:47		291		-->		00:11:50		210		- That was long ago. - But still the standard. 
+		145		00:11:50		377		-->		00:11:53		130		I can't think of anyone better to deal with. 
+		146		00:11:53		297		-->		00:11:57		926		We're experiencing the rapid onset of geriatric phenomena. 
+		147		00:11:58		093		-->		00:12:01		972		The first symptom is sudden, acute arthritic inflammation. 
+		148		00:12:02		139		-->		00:12:05		058		Then the ageing process accelerates. 
+		149		00:12:05		517		-->		00:12:06		685		The Lantree. 
+		150		00:12:06		852		-->		00:12:11		398		Dr Pulaski, I celebrated my 35th birthday a week ago. 
+		151		00:12:14		568		-->		00:12:17		738		We know Darwin Station is involved in genetic research. 
+		152		00:12:17		905		-->		00:12:19		698		Is there a possible connection? 
+		153		00:12:19		865		-->		00:12:21		909		Our research is on human genetics. 
+		154		00:12:22		075		-->		00:12:25		162		This is not something that got away from us. 
+		155		00:12:25		329		-->		00:12:29		625		We believe we were infected by a supply ship three days ago. 
+		156		00:12:30		083		-->		00:12:34		838		If you're speaking of the Lantree, we encountered it a few hours ago. 
+		157		00:12:35		005		-->		00:12:36		840		All the crew were dead. 
+		158		00:12:37		883		-->		00:12:39		843		Which would confirm our suspicion. 
+		159		00:12:40		010		-->		00:12:42		471		Could you establish a pathology, Doctor? 
+		160		00:12:42		638		-->		00:12:47		559		Doctor, did you hear me? All the 26 men and women aboard were dead. 
+		161		00:12:47		726		-->		00:12:50		771		I heard you, Captain. The prognosis is alarming, but my concern is our children. 
+		163		00:12:52		981		-->		00:12:54		024		Children? 
+		164		00:12:54		191		-->		00:12:59		321		They represent years of genetic research. You must evacuate them. 
+		165		00:12:59		488		-->		00:13:02		616		I'm sorry, but until we know what's going on, 
+		166		00:13:02		783		-->		00:13:05		536		I'm imposing a full quarantine on Darwin Station. 
+		167		00:13:05		911		-->		00:13:09		248		But the children have been in protective isolation. 
+		168		00:13:09		414		-->		00:13:12		793		They show no symptoms. You cannot leave them to die. 
+		169		00:13:12		960		-->		00:13:17		130		Doctor, our options in a quarantine situation are very limited. 
+		170		00:13:17		631		-->		00:13:22		135		We will consider the possibilities. I suggest you do the same. 
+		171		00:13:25		264		-->		00:13:27		432		I recommend against contact. 
+		172		00:13:27		599		-->		00:13:28		851		Number One? 
+		173		00:13:29		768		-->		00:13:32		813		I have to agree. The risk is too great. 
+		174		00:13:32		980		-->		00:13:34		481		Doctor? 
+		175		00:13:34		648		-->		00:13:38		569		If the children are free of disease, they should be evacuated. 
+		176		00:13:38		735		-->		00:13:44		074		I'd like to bring one aboard in a force field for an examination. 
+		177		00:13:44		241		-->		00:13:46		243		Counsellor, do you sense anything? 
+		178		00:13:47		077		-->		00:13:50		664		Dr Kingsley sincerely believes the children are not a threat. 
+		179		00:13:50		831		-->		00:13:54		668		But she's not telling the whole truth. I recommend caution. 
+		180		00:13:57		171		-->		00:14:01		383		We have only Dr Kingsley's assurance that the children are not infected, whereas we have seen the results of this disease first-hand. 
+		182		00:14:06		180		-->		00:14:10		434		In a case like this, I think we should err on the side of caution. 
+		183		00:14:11		852		-->		00:14:12		811		Alright. 
+		184		00:14:13		645		-->		00:14:17		733		We could beam up one child encased in styrolite in suspended animation. 
+		185		00:14:18		233		-->		00:14:21		236		That way I could scan for possible infection without danger to ourselves or the child. 
+		187		00:14:24		156		-->		00:14:27		075		- We don't know what to look for. - Exactly. 
+		188		00:14:27		242		-->		00:14:29		953		And we won't until we start gathering data. 
+		189		00:14:30		120		-->		00:14:35		042		- Captain, that's worth some risk. - There's always risk, Doctor. 
+		190		00:14:39		713		-->		00:14:43		091		Undertake an examination. But I shall need positive proof that these children are harmless before I place my crew in jeopardy. 
+		192		00:14:55		979		-->		00:14:58		815		- The force field's ready, Captain. - Activate it. 
+		193		00:15:03		487		-->		00:15:05		405		Transporter? 
+		194		00:15:05		572		-->		00:15:08		116		This is Chief O'Brien, sir. Almost ready. 
+		195		00:15:08		283		-->		00:15:11		119		- Is there a problem? - It's the styrolite. 
+		196		00:15:11		286		-->		00:15:16		166		I'm altering the delta-T so it materializes two microseconds ahead. 
+		197		00:15:16		834		-->		00:15:20		295		- It has to be right. - Take your time. 
+		198		00:15:20		462		-->		00:15:22		005		Entering corrections now. 
+		199		00:15:23		715		-->		00:15:24		758		Ready, Captain. 
+		200		00:15:27		261		-->		00:15:31		139		Dr Kingsley, are you ready to transport? 
+		201		00:15:31		640		-->		00:15:36		353		You have the coordinates. We have a 12-year-old male in styrolite. 
+		202		00:15:37		896		-->		00:15:41		358		Transporter, ... energize. 
+		203		00:15:46		154		-->		00:15:47		489		- A trick! - Reverse... 
+		204		00:15:47		656		-->		00:15:50		367		One moment. He's still in stasis. 
+		205		00:15:54		329		-->		00:15:56		456		The styrolite is intact, Captain. 
+		206		00:15:58		333		-->		00:15:59		418		Force field down. 
+		207		00:16:15		434		-->		00:16:21		273		Captain, there's a definite presence, a distinct personality. 
+		208		00:16:21		440		-->		00:16:26		528		Even in stasis it's quite strong. The child is certainly telepathic. 
+		209		00:16:26		695		-->		00:16:28		989		A child this mature? 
+		210		00:16:29		781		-->		00:16:32		701		We could be looking at the future of humanity. 
+		211		00:16:35		120		-->		00:16:37		664		At least Dr Kingsley's vision of it. 
+		212		00:17:09		613		-->		00:17:11		907		He's in better health than we are. 
+		213		00:17:12		074		-->		00:17:17		204		His immune system is so advanced he may be unable to contract disease. 
+		214		00:17:17		371		-->		00:17:19		915		I want to free him from the styrolite. 
+		215		00:17:20		082		-->		00:17:21		750		That seems rather risky. 
+		216		00:17:21		917		-->		00:17:24		586		I can do no further tests until he's out. 
+		217		00:17:25		712		-->		00:17:29		842		But what if you're wrong? You saw what happened on the Lantree. 
+		218		00:17:30		217		-->		00:17:33		136		- I know I'm right. - I can't expose us. 
+		219		00:17:33		303		-->		00:17:36		098		Not till we know more about the disease. 
+		220		00:17:36		473		-->		00:17:40		185		Naturally, we'll establish a force-field containment. 
+		221		00:17:40		352		-->		00:17:43		605		But if we lose the force field, we lose the ship. 
+		222		00:17:43		772		-->		00:17:47		776		- Force fields can fail and... - We don't have much time. 
+		223		00:17:47		943		-->		00:17:51		572		The children can't survive in the lab once their parents die. 
+		224		00:17:52		364		-->		00:17:53		949		Look at him, Captain. 
+		225		00:17:55		576		-->		00:17:58		328		He's a human being who needs help. 
+		226		00:17:58		495		-->		00:18:00		497		- But the risk is... - Minimal! 
+		227		00:18:04		418		-->		00:18:07		462		If you can show that he's biologically harmless, without risk to the crew, I'll do everything in my power to assist. 
+		229		00:18:14		511		-->		00:18:18		182		And, Doctor, God knows, I'm not one to discourage input, but I would appreciate it if you let me finish my sentences occasionally. 
+		231		00:18:37		409		-->		00:18:39		453		Deanna, do you have a minute? 
+		232		00:18:40		454		-->		00:18:44		333		You've known the Captain for some time. I need some advice. 
+		233		00:18:44		499		-->		00:18:47		711		- I don't deal with him well. - Meaning? 
+		234		00:18:47		878		-->		00:18:53		592		My arguments don't have any effect. We just end up quoting regulations. 
+		235		00:18:53		759		-->		00:18:56		428		He has such a dedication to his ship, he doesn't seem able to see the human side of things. 
+		237		00:19:02		059		-->		00:19:03		060		What's the matter? 
+		238		00:19:03		227		-->		00:19:06		230		Kate, I don't think he'd be where he is if he couldn't see the human side. 
+		240		00:19:09		358		-->		00:19:13		487		- Perhaps the two of you are similar. - What do you mean? 
+		241		00:19:14		571		-->		00:19:20		202		Let's just say, you both have well-established personalities. 
+		242		00:19:34		591		-->		00:19:37		553		Dr Kingsley, this is Kate Pulaski. 
+		243		00:19:38		136		-->		00:19:40		013		Do you have a decision? 
+		244		00:19:40		347		-->		00:19:43		976		- I'm afraid it's bad news. - How can that be? 
+		245		00:19:44		393		-->		00:19:46		687		The risk is too great. 
+		246		00:19:46		854		-->		00:19:49		523		Until we know the cause of the disease... 
+		247		00:19:49		690		-->		00:19:51		191		The children are harmless. 
+		248		00:19:52		401		-->		00:19:54		736		Every test on them has been negative. 
+		249		00:19:55		946		-->		00:20:00		617		I demand that you do something to save them. Please, Doctor. 
+		250		00:20:02		327		-->		00:20:06		123		For God's sake, we haven't got much time. 
+		251		00:20:07		040		-->		00:20:08		917		Stand by. I'll get back to you. 
+		252		00:20:12		754		-->		00:20:15		090		Geordi, I need your help. 
+		253		00:20:15		257		-->		00:20:16		967		What is it? 
+		254		00:20:17		134		-->		00:20:21		972		I need to prove the children are harmless in a fail-safe environment. 
+		255		00:20:22		139		-->		00:20:27		269		There's no area of the ship that can be sealed off with certainty. 
+		256		00:20:27		436		-->		00:20:29		354		Sickbay has an isolated system. 
+		257		00:20:29		521		-->		00:20:32		816		But it's not possible to totally cut it off. 
+		258		00:20:33		275		-->		00:20:38		030		The only independent environment would be, say, a shuttlecraft. 
+		259		00:20:38		197		-->		00:20:41		450		A shuttlecraft. Why didn't you say so? 
+		260		00:20:49		458		-->		00:20:50		209		Come. 
+		261		00:20:51		752		-->		00:20:55		339		Captain, I'd like permission to put the boy in a shuttlecraft. 
+		262		00:20:55		506		-->		00:20:58		467		I can study him there without risk to anyone. 
+		263		00:20:58		634		-->		00:21:00		969		- What about you? - I'll take that risk. 
+		264		00:21:01		345		-->		00:21:05		432		Someone has to breathe the same air he breathes, to touch him. 
+		265		00:21:05		599		-->		00:21:08		685		I'm volunteering to make that test myself. 
+		266		00:21:09		353		-->		00:21:12		648		Doctor, you have a responsibility to this ship which... 
+		267		00:21:12		814		-->		00:21:16		193		I also have a responsibility to humanity. 
+		268		00:21:16		360		-->		00:21:19		112		The guidelines about contact with quarantined... 
+		269		00:21:19		279		-->		00:21:22		074		You don't have to quote the rule book. 
+		270		00:21:25		953		-->		00:21:27		538		You were saying...? 
+		271		00:21:28		747		-->		00:21:29		957		Request approved. 
+		272		00:21:30		123		-->		00:21:32		793		Captain, you said if I... 
+		273		00:21:33		836		-->		00:21:34		837		Approved? 
+		274		00:21:35		754		-->		00:21:39		341		I recognize that you're trying to satisfy my condition. 
+		275		00:21:41		677		-->		00:21:42		636		Thank you. 
+		276		00:21:54		898		-->		00:21:57		234		- You sent for me? - I did. 
+		277		00:21:57		401		-->		00:21:59		903		You're qualified to pilot this shuttlecraft? 
+		278		00:22:00		070		-->		00:22:03		156		Certainly. I had training in auxiliary space vessels at Starfleet Academy. I received... 
+		280		00:22:05		659		-->		00:22:10		581		A more than passing grade, no doubt. Come aboard. We don't have much time. 
+		281		00:22:13		417		-->		00:22:16		336		Shuttle bay three force field activated. 
+		282		00:22:34		897		-->		00:22:37		065		The Captain definitely approved this? 
+		283		00:22:37		232		-->		00:22:41		111		You'll take us a few hundred meters out and hold position. 
+		284		00:22:41		862		-->		00:22:44		072		Begin shuttlecraft launch sequence. 
+		285		00:23:06		470		-->		00:23:07		846		Good luck, Doctor. 
+		286		00:23:19		816		-->		00:23:21		527		We are in position, Doctor. 
+		287		00:23:22		110		-->		00:23:24		947		It's the only way to prove they're harmless. 
+		288		00:23:25		906		-->		00:23:27		533		And if they are not? 
+		289		00:23:28		784		-->		00:23:32		871		I hate to keep reminding you, but you are a machine. You'll be safe. 
+		290		00:23:34		414		-->		00:23:38		210		That is by no means certain, but I was referring to you. 
+		291		00:23:40		254		-->		00:23:43		090		Medical research is sometimes a risky business. 
+		292		00:23:45		259		-->		00:23:48		929		It's all part of being human. Shall we proceed? 
+		293		00:23:51		098		-->		00:23:52		599		Ready to transport. 
+		294		00:23:53		183		-->		00:23:55		602		You have the coordinates, Chief O'Brien. 
+		295		00:23:55		769		-->		00:23:59		147		- Maintain position. Stand by. - Standing by. 
+		296		00:24:09		241		-->		00:24:12		828		- Control, what's our status? - We have a green panel. 
+		297		00:24:13		829		-->		00:24:16		248		- Stand by to transport. - Aye, sir. 
+		298		00:24:17		165		-->		00:24:18		041		Energize. 
+		299		00:24:54		703		-->		00:24:58		332		Yes... I do. 
+		300		00:24:58		498		-->		00:25:00		459		I understand you perfectly. 
+		301		00:25:02		002		-->		00:25:05		464		How could you, Doctor? He has not said anything. 
+		302		00:25:06		256		-->		00:25:10		969		Yes, he has. Troi is right. He's telepathic. 
+		303		00:25:31		406		-->		00:25:34		993		- Time? - 0322 exactly. 
+		304		00:25:36		411		-->		00:25:40		290		She's been in direct contact with the boy for 18 minutes. 
+		305		00:25:47		548		-->		00:25:50		801		All systems functioning within normal specifications. 
+		306		00:25:50		968		-->		00:25:53		053		The manufacturer will be pleased. 
+		307		00:25:53		804		-->		00:25:57		266		I appreciate your help, but your bedside manner needs work. 
+		308		00:25:57		432		-->		00:25:58		392		Bedside manner? 
+		309		00:26:02		479		-->		00:26:04		064		Doctor? 
+		310		00:26:18		328		-->		00:26:21		164		Doctor, I don't understand. What has happened? 
+		311		00:26:22		916		-->		00:26:24		209		There was no warning. 
+		312		00:26:24		376		-->		00:26:28		172		- Explain. - Arthritic inflammation. 
+		313		00:26:28		338		-->		00:26:30		465		The first symptom of the disease. 
+		314		00:26:31		800		-->		00:26:34		720		- What can we do? - Return the boy. 
+		315		00:26:34		887		-->		00:26:37		723		Apparently the children are carriers. 
+		316		00:26:43		896		-->		00:26:46		190		Chief O'Brien, are you ready? 
+		317		00:26:48		775		-->		00:26:51		737		I have the coordinates of the isolation lab. 
+		318		00:26:51		904		-->		00:26:55		157		- Quickly. - Shuttle One, hold position. 
+		319		00:26:56		909		-->		00:26:58		285		Holding. 
+		320		00:27:01		496		-->		00:27:03		498		Stand by to transport. 
+		321		00:27:04		833		-->		00:27:06		752		It wasn't your fault. 
+		322		00:27:16		386		-->		00:27:18		305		Tell us what you need, Doctor. 
+		323		00:27:18		972		-->		00:27:21		350		There's nothing you can do. 
+		324		00:27:21		517		-->		00:27:25		103		I won't make myself an exception to the Darwin quarantine. 
+		325		00:27:25		270		-->		00:27:26		813		Shuttle One out. 
+		326		00:27:28		899		-->		00:27:33		028		- What is your condition, Doctor? - Not exactly up to factory specs. 
+		327		00:27:34		238		-->		00:27:38		325		I'm sorry. The pain is tolerable, thank you. 
+		328		00:27:38		492		-->		00:27:41		161		Shall I set course for Darwin? 
+		329		00:27:41		286		-->		00:27:45		582		We're already under quarantine. What do we have to lose? 
+		330		00:27:49		670		-->		00:27:53		841		The Darwin Station crisis is no longer our most immediate concern, although Dr Pulaski's condition is linked with that emergency. 
+		332		00:28:00		097		-->		00:28:05		185		Her safe return and that of Cmdr Data must take priority, please. 
+		333		00:28:05		602		-->		00:28:08		188		Shouldn't Dr Pulaski be involved in this? 
+		334		00:28:08		355		-->		00:28:12		109		Dr Pulaski may not have time to help herself. 
+		335		00:28:12		651		-->		00:28:15		404		I suggest we beam them both back here. 
+		336		00:28:15		571		-->		00:28:19		616		Cmdr Data is most likely immune, and surely the biofilter will... 
+		337		00:28:19		783		-->		00:28:22		035		The biofilter won't protect us. 
+		338		00:28:22		202		-->		00:28:25		873		The boy was transported twice, and still infected Dr Pulaski. 
+		339		00:28:26		498		-->		00:28:28		542		Couldn't we adjust the biofilter? 
+		340		00:28:28		709		-->		00:28:32		045		Alter it to screen out the cause of the disease? 
+		341		00:28:32		212		-->		00:28:34		381		But we don't know the cause. 
+		342		00:28:34		548		-->		00:28:37		676		We can't protect ourselves against the unknown. 
+		343		00:28:37		843		-->		00:28:42		723		We need a filter that doesn't depend on known biological factors. 
+		344		00:28:44		391		-->		00:28:48		520		- We might try the trace. - The transporter trace? 
+		345		00:28:48		687		-->		00:28:52		524		The transporter keeps a record of all transmissions, a pattern. 
+		346		00:28:53		108		-->		00:28:55		527		Usually it's stored for security purposes. 
+		347		00:28:55		694		-->		00:29:00		365		But if we use the trace to control the reconstitution process... 
+		348		00:29:01		033		-->		00:29:05		954		I don't think it's been tried before, but... theoretically it is possible. 
+		349		00:29:07		789		-->		00:29:10		083		It means extensive modifications. 
+		350		00:29:10		501		-->		00:29:14		922		- Do it. There's no alternative. - Where do we get the trace pattern? 
+		351		00:29:15		380		-->		00:29:18		050		- She's never used our transporter. - Never? 
+		352		00:29:18		717		-->		00:29:21		887		No, she's a woman of very strongly held opinions. 
+		353		00:29:22		054		-->		00:29:25		933		- What was her previous assignment? - Her ship was the Repulse. 
+		354		00:29:27		768		-->		00:29:29		228		Bridge, Picard. 
+		355		00:29:29		394		-->		00:29:34		107		Contact the USS Repulse using subspace captain's priority channel. 
+		356		00:29:49		164		-->		00:29:52		835		Dr Pulaski. I can only tell you how much I regret the burden we've imposed on you. On both of you. 
+		358		00:29:58		298		-->		00:30:01		009		Cmdr Data is an android. He's unaffected. 
+		359		00:30:01		176		-->		00:30:05		806		As for me, I chose this. I was convinced the children were safe. 
+		360		00:30:05		973		-->		00:30:09		351		I still can't believe one of our children infected you. 
+		361		00:30:09		810		-->		00:30:11		770		The evidence is fairly conclusive. 
+		362		00:30:12		229		-->		00:30:15		190		But they were designed to resist disease. 
+		363		00:30:15		732		-->		00:30:18		735		I think it's time we talked about that. 
+		364		00:30:19		611		-->		00:30:20		863		Let me show you. 
+		365		00:30:38		172		-->		00:30:39		923		Our ultimate achievement. 
+		366		00:30:40		632		-->		00:30:44		720		The oldest is 12, and all are telekinetic. Watch. 
+		367		00:30:51		310		-->		00:30:53		520		Genetically engineered? 
+		368		00:30:54		021		-->		00:30:57		733		Not engineered, created. Perfect in every way. 
+		369		00:30:57		900		-->		00:31:01		570		Their body structure, their musculature, their minds. 
+		370		00:31:02		154		-->		00:31:04		907		You were telling me about their immune system. 
+		371		00:31:05		073		-->		00:31:06		533		That was our masterpiece. 
+		372		00:31:06		700		-->		00:31:09		369		We gave these children an aggressive immunity. 
+		373		00:31:10		204		-->		00:31:14		291		We others were infected by the supply ship, but they were protected. 
+		374		00:31:14		791		-->		00:31:18		045		The Lantree logs show only one crewman had any illness prior to arrival here. 
+		376		00:31:20		047		-->		00:31:23		050		The First Officer had a mild Thelusian flu. 
+		377		00:31:23		217		-->		00:31:26		637		Yes, he was one who came into contact with us. 
+		378		00:31:27		054		-->		00:31:29		640		The Thelusian flu would have no effect on you, but tell me, how would they react? 
+		380		00:31:33		018		-->		00:31:37		314		Their immune systems would release an antibody to attack the virus. 
+		381		00:31:37		773		-->		00:31:39		066		Even at a distance? 
+		382		00:31:39		233		-->		00:31:42		444		Their immune systems don't wait for a disease's attack. 
+		383		00:31:42		611		-->		00:31:45		030		It seeks out a virus and destroys it. 
+		384		00:31:45		489		-->		00:31:47		741		Destroy it? How exactly? 
+		385		00:31:48		742		-->		00:31:51		495		The antibody would adapt itself to alter the genetic code of the virus. 
+		387		00:31:55		249		-->		00:31:57		668		Commander, I want an analysis of the interaction between the Thelusian flu and the children. 
+		389		00:32:01		588		-->		00:32:03		298		On a molecular genetic level? 
+		390		00:32:03		465		-->		00:32:07		636		We don't have time for that. Genetic analysis could take months. 
+		391		00:32:07		970		-->		00:32:12		558		Not necessarily. Cmdr Data has a way with computers. 
+		392		00:32:14		059		-->		00:32:18		689		Sorry, Picard, we erased Dr Pulaski's transporter pattern. 
+		393		00:32:19		314		-->		00:32:22		901		She never used the transporter much. She preferred shuttles. 
+		394		00:32:23		569		-->		00:32:26		238		I'd have given her a shuttle to keep her. 
+		395		00:32:27		030		-->		00:32:32		286		If she served you as well as you say, why did you let her go? 
+		396		00:32:33		287		-->		00:32:35		956		You haven't run into her stubborn streak yet. 
+		397		00:32:36		832		-->		00:32:40		002		She found out about an opening on the Enterprise, and requested a transfer. 
+		399		00:32:42		171		-->		00:32:45		007		Knew your service record backward and forward. 
+		400		00:32:45		174		-->		00:32:48		635		Apparently she's been an admirer of yours for some time. 
+		401		00:32:49		803		-->		00:32:50		762		Extraordinary. 
+		402		00:32:52		264		-->		00:32:55		726		Commander, what have you got? 
+		403		00:32:56		852		-->		00:32:59		062		The answer, I believe, Doctor. 
+		404		00:32:59		229		-->		00:33:03		734		The Lantree was not the source of the disease, but the trigger. 
+		405		00:33:03		901		-->		00:33:05		027		Trigger? 
+		406		00:33:05		194		-->		00:33:09		907		The Lantree exposed your children to Thelusian flu for the first time. 
+		407		00:33:10		324		-->		00:33:13		660		Their active immune systems set out to attack the virus. 
+		408		00:33:13		827		-->		00:33:16		121		Once it was triggered, it kept going. 
+		409		00:33:16		663		-->		00:33:19		583		The antibody created an unexpected side-effect. 
+		410		00:33:21		210		-->		00:33:24		463		It alters the genetic make-up of normal humans. 
+		411		00:33:24		630		-->		00:33:27		966		This is a comparison of the altered and normal DNA. 
+		412		00:33:28		133		-->		00:33:30		594		These two molecules have been transposed. 
+		413		00:33:30		761		-->		00:33:36		725		And since our DNA is self-replicating, the process... 
+		414		00:33:36		892		-->		00:33:38		101		Is irreversible. 
+		415		00:33:40		020		-->		00:33:42		564		Judging from what happened on the Lantree, anyone is a carrier once they're infected. 
+		417		00:33:59		665		-->		00:34:03		210		- Have you made progress, Doctor? - I'm afraid so. 
+		418		00:34:03		377		-->		00:34:06		380		The children don't carry the disease, they cause it. 
+		419		00:34:07		297		-->		00:34:09		675		- How? - Their advanced immune system has created an antibody that changes normal DNA. 
+		421		00:34:13		136		-->		00:34:16		598		The altered genes are the ones that control ageing. 
+		422		00:34:16		765		-->		00:34:19		810		Why did it attack you more quickly than the others? 
+		423		00:34:20		185		-->		00:34:24		857		The enclosed environment of the shuttle concentrated my exposure. 
+		424		00:34:25		023		-->		00:34:28		902		The Lantree's First Officer carried the antibody onto his ship. 
+		425		00:34:29		069		-->		00:34:33		073		- It then affected his crew. - What's the next step? 
+		426		00:34:33		907		-->		00:34:39		162		The children will survive, but the rest of us are about out of time. 
+		427		00:34:47		588		-->		00:34:49		298		Doctor, I want you back aboard. 
+		428		00:34:49		464		-->		00:34:52		843		You'll come up in suspended animation. That will buy time. 
+		429		00:34:53		010		-->		00:34:57		014		Thank you, but I got into this by leaping before I looked. 
+		430		00:34:57		181		-->		00:34:59		933		I won't allow you to make the same mistake. 
+		431		00:35:05		856		-->		00:35:07		774		Chief Medical Officer's log. 
+		432		00:35:07		941		-->		00:35:10		903		This will be my final report to the Enterprise. 
+		433		00:35:11		778		-->		00:35:13		906		Just as changes in evolution are known to be caused by changes in the environment,  we now know the process also works in reverse. 
+		436		00:35:21		914		-->		00:35:24		166		An attempt to control human evolution has resulted in a new species that's lethal to its predecessors. 
+		438		00:35:29		296		-->		00:35:33		425		The children will be condemned to live out their lives in isolation. 
+		439		00:35:34		551		-->		00:35:39		473		Quarantine of the Darwin Station must be maintained for ever. 
+		440		00:35:50		567		-->		00:35:55		781		- I am sorry I was not more helpful. - You did everything you could. 
+		441		00:35:56		406		-->		00:36:00		536		As androids go, you're in a class by yourself. 
+		442		00:36:02		996		-->		00:36:03		830		Doctor... 
+		443		00:36:03		997		-->		00:36:07		960		Please. Give my best to the Captain. 
+		444		00:36:12		256		-->		00:36:16		051		Enterprise, Cmdr Data. Ready to beam aboard. 
+		445		00:36:27		604		-->		00:36:31		233		Captain, Kate knew what she was doing. 
+		446		00:36:32		109		-->		00:36:34		695		I wish I were sure we'd tried everything. 
+		447		00:36:36		238		-->		00:36:38		323		Cmdr Data is ready to come aboard. 
+		448		00:36:43		537		-->		00:36:45		539		You have the bridge, Number One. 
+		449		00:36:59		595		-->		00:37:01		388		No life forms present, sir. 
+		450		00:37:05		184		-->		00:37:06		894		You may step down, sir. 
+		451		00:37:09		813		-->		00:37:13		317		Data, tell me, if... It's good to see you again. 
+		452		00:37:13		483		-->		00:37:14		234		Thank you. 
+		453		00:37:14		401		-->		00:37:18		405		If the changes in Dr Pulaski's DNA were reversed, is it possible... 
+		454		00:37:18		572		-->		00:37:22		159		It is not reversible, sir. The molecular transposition... 
+		455		00:37:22		326		-->		00:37:25		704		But if it were undone, would she be normal again? 
+		456		00:37:26		496		-->		00:37:28		415		As normal as ever, sir. 
+		457		00:37:28		999		-->		00:37:33		837		The transporter can be modified to filter out changes in Dr Pulaski? 
+		458		00:37:34		004		-->		00:37:36		924		Yes, but we couldn't locate her trace pattern. 
+		459		00:37:37		090		-->		00:37:41		803		Well, what if we used a sample of her DNA, say from a blood test taken before she was exposed to the disease? 
+		461		00:37:47		476		-->		00:37:50		062		Could that filter the genetic changes? 
+		462		00:37:50		687		-->		00:37:54		608		I'd have to patch in a molecular matrix reader. 
+		463		00:37:54		775		-->		00:37:55		943		That's no problem. 
+		464		00:37:56		109		-->		00:38:01		114		But the waveform modulator will be overloaded without the limiter. 
+		465		00:38:01		281		-->		00:38:03		408		Interesting. But theoretically... 
+		466		00:38:04		701		-->		00:38:06		954		- Can you do it? - I think so. 
+		467		00:38:07		120		-->		00:38:08		413		Then make it so. 
+		468		00:38:09		748		-->		00:38:12		334		You heard. Let's get those panels off. 
+		469		00:38:18		841		-->		00:38:23		470		A blood test, a tissue sample, anything with Dr Pulaski's DNA. 
+		470		00:38:23		637		-->		00:38:27		099		No, sir. Her records were shipped via Starfleet headquarters. 
+		471		00:38:27		266		-->		00:38:30		394		- They've not caught up with us. - Ridiculous. 
+		472		00:38:30		561		-->		00:38:34		231		A cell, a single cell. Let's check her quarters. 
+		473		00:38:48		662		-->		00:38:50		998		Anything. A fingernail, a hair... 
+		474		00:38:51		164		-->		00:38:52		457		Hairbrush. 
+		475		00:39:05		137		-->		00:39:08		182		It has a follicle, sir. Live cells. 
+		476		00:39:12		436		-->		00:39:14		855		Darwin Station, this is the Enterprise. 
+		477		00:39:15		480		-->		00:39:17		983		Go ahead, Captain. I'm here. 
+		478		00:39:25		032		-->		00:39:26		700		We may have a solution. 
+		479		00:39:27		117		-->		00:39:29		786		We have a sample of your normal DNA to use as a filter in the transporter. 
+		481		00:39:32		664		-->		00:39:35		542		We think that we can beam you aboard while filtering out the genetic problems caused by the disease. 
+		483		00:39:42		049		-->		00:39:44		051		Interesting theory, Captain. 
+		484		00:39:45		177		-->		00:39:48		764		If it works, we could use the same technique to save Dr Kingsley and her colleagues. 
+		486		00:39:53		810		-->		00:39:57		731		I think you should know, this has never been attempted before. 
+		487		00:39:57		898		-->		00:39:59		191		I know one thing. 
+		488		00:40:00		192		-->		00:40:01		985		If I live through this,... 
+		489		00:40:04		363		-->		00:40:08		492		..Iíll have a much better understanding of geriatrics. 
+		490		00:40:13		956		-->		00:40:17		000		- All set, Chief? - Almost ready. Just one thing. 
+		491		00:40:17		167		-->		00:40:20		462		- Yes? - This modification's one way only. 
+		492		00:40:20		629		-->		00:40:24		716		If it fails, we can't transport the Doctor back to the planet. 
+		493		00:40:28		720		-->		00:40:33		225		Then I'll operate the transporter controls myself. 
+		494		00:40:33		976		-->		00:40:38		188		If she's going to be consigned to oblivion, then... 
+		495		00:40:38		355		-->		00:40:42		401		Thank you, sir. I'll be monitoring the medical scans. 
+		496		00:40:42		568		-->		00:40:46		864		You'll be able to tell if it's worked by watching the stack. 
+		497		00:40:48		782		-->		00:40:50		450		Dr Pulaski, are you ready? 
+		498		00:40:51		910		-->		00:40:54		329		I suppose I am, Captain. 
+		499		00:41:00		669		-->		00:41:01		837		Here we go. 
+		500		00:41:13		390		-->		00:41:15		309		It's not working. 
+		501		00:41:16		101		-->		00:41:17		186		Captain, wait. 
+		502		00:41:49		551		-->		00:41:51		678		- Doctor. - Good to see you. 
+		503		00:41:52		596		-->		00:41:56		183		Welcome back, Doctor... Come. 
+		504		00:42:01		772		-->		00:42:03		982		Captain, if this hadn't worked... 
+		505		00:42:04		900		-->		00:42:06		235		If this hadn't worked, it would have been necessary to beam your energy into empty space. 
+		507		00:42:11		365		-->		00:42:14		243		And spread my atoms across the galaxy? 
+		508		00:42:14		910		-->		00:42:15		994		Yes. I'm sorry... 
+		509		00:42:16		161		-->		00:42:17		871		No, don't be sorry. 
+		510		00:42:18		038		-->		00:42:22		751		Every time I get into that thing, I'm sure that's what's going to happen. 
+		511		00:42:28		674		-->		00:42:31		635		Chief Medical Officer's log, supplemental. 
+		512		00:42:31		802		-->		00:42:36		765		The adults of Darwin Station have been restored to normal health. 
+		513		00:42:36		932		-->		00:42:39		977		They remain on Gagarin IV to continue their research in hopes of one day rejoining their children. 
+		515		00:42:43		897		-->		00:42:45		274		Impulse speed. 
+		516		00:42:47		025		-->		00:42:48		735		There she is, Captain. 
+		517		00:42:49		736		-->		00:42:52		489		Scientists believe no experiment is a failure, that even a mistake advances the evolution of understanding. 
+		519		00:42:56		326		-->		00:42:58		161		Close to 40 kilometers. 
+		520		00:42:58		996		-->		00:43:01		248		40 kilometers. Aye, sir. 
+		521		00:43:01		415		-->		00:43:03		500		But all achievement has a price. 
+		522		00:43:04		042		-->		00:43:07		880		For one glimpse at the mysterious blueprint of human evolution, the crew of the USS Lantree paid with their lives. 
+		524		00:43:12		092		-->		00:43:16		597		Their sacrifice is thus noted in this scientist's log. 
+		525		00:43:18		515		-->		00:43:19		892		Number One. 
+		526		00:43:20		934		-->		00:43:23		812		Lt. Worf, arm the photon torpedoes. 
+		527		00:43:26		773		-->		00:43:28		400		Torpedoes ready, Commander. 
+		528		00:43:29		151		-->		00:43:34		198		USS Lantree is a quarantined vessel by order of Starfleet Command. 
+		529		00:43:34		364		-->		00:43:35		741		Do not board. 
+		530		00:43:37		159		-->		00:43:38		452		Gentlemen. 
+		531		00:43:39		411		-->		00:43:44		541		USS Lantree is a quarantined vessel by order of Starfleet Command. 
+		532		00:43:44		708		-->		00:43:46		960		Do not board. 
+		533		00:44:01		099		-->		00:44:04		144		Set course and speed for Star Station India. 
+		534		00:44:05		229		-->		00:44:07		231		Course and speed set, sir. 
+		535		00:44:13		946		-->		00:44:15		322		Engage. 

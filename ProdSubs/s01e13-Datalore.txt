@@ -1,0 +1,481 @@
+		1		00:00:02		230		-->		00:00:07		904		Captain's log, stardate <stardate>41242</stardate>.4. Our last assignment has taken us into the remote Omicron Theta star system,  home of our android crew member, Lt Cmdr Data. 
+		4		00:00:14		209		-->		00:00:16		618		Although we're due at an assignment, 
+		5		00:00:16		755		-->		00:00:20		506		I have decided to visit Data's home planet for a few hours in the hopes of unraveling the mystery of his beginnings. 
+		7		00:00:25		228		-->		00:00:28		895		Sir, we are 20 minutes from Omicron Theta, mark. 
+		8		00:00:30		194		-->		00:00:33		613		Stand by for subwarp. Head for standard orbit of planet. 
+		9		00:00:33		742		-->		00:00:37		825		- I wonder why Data's not here. - He said he wanted to be alone. 
+		10		00:00:37		958		-->		00:00:41		376		Perhaps this is a bigger moment for him than we thought. 
+		11		00:00:52		107		-->		00:00:55		110		- What are you doing? - Sneezing. 
+		12		00:00:56		114		-->		00:00:59		236		- Have you got a cold? - A cold what? 
+		13		00:00:59		369		-->		00:01:02		242		It's a disease Mom said people used to get. 
+		14		00:01:03		042		-->		00:01:06		129		But humans still sneeze for other reasons. 
+		15		00:01:06		256		-->		00:01:08		749		And I cannot seem to do it right. 
+		16		00:01:11		890		-->		00:01:17		481		Why practice sneezing? We're going to your home planet for the first time. 
+		17		00:01:17		609		-->		00:01:21		479		- Aren't you interested in that? - More than interested. Fascinated. 
+		18		00:01:21		615		-->		00:01:25		402		One might say agog. But I also find sneezing interesting. 
+		19		00:01:29		379		-->		00:01:32		667		Capt Picard wishes to see you on the bridge. 
+		20		00:01:33		511		-->		00:01:37		428		Captain, confirming Class-M reading there. 
+		21		00:01:37		559		-->		00:01:40		847		But sensors show no life readings. Not even vegetation. 
+		22		00:01:40		982		-->		00:01:44		934		Strange. The cruiser that found Data reported farmlands. 
+		23		00:01:46		282		-->		00:01:50		497		- Want to take her into orbit, Data? - No, thank you, sir. 
+		24		00:02:13		996		-->		00:02:16		953		Continue on into close parking orbit. 
+		25		00:02:17		085		-->		00:02:18		284		Aye, sir. 
+		26		00:02:19		172		-->		00:02:21		499		I could say "home sweet home," sir, if I understood how the word "sweet" applies. 
+		28		00:02:24		765		-->		00:02:29		062		- It usually refers to memories. - To one's own memories. 
+		29		00:02:29		189		-->		00:02:32		192		Do the memories you have include farms, Data? 
+		30		00:02:32		319		-->		00:02:36		236		Affirmative. But the colony's principal interest was science. 
+		31		00:02:36		368		-->		00:02:39		704		How can you hold the memories of 411 people, if that means every experience, every day of their life? 
+		33		00:02:43		547		-->		00:02:48		296		It does not. Unfortunately. It's the knowledge they accumulated. 
+		34		00:02:48		430		-->		00:02:51		884		Actually, I am deficient in basic human information. 
+		35		00:02:52		020		-->		00:02:54		014		Sneezing, for example. 
+		36		00:02:54		691		-->		00:02:56		981		Approaching close parking orbit. 
+		37		00:02:57		112		-->		00:02:59		735		Assemble your away party, Commander. 
+		38		00:03:01		118		-->		00:03:04		157		This must be exciting for you. 
+		39		00:03:04		291		-->		00:03:08		671		I'm tempted to lead the away team, but my First Officer may object. 
+		40		00:03:08		798		-->		00:03:12		929		What would Starfleet say? An Earth colony did disappear there. 
+		41		00:03:13		056		-->		00:03:14		219		You see? 
+		42		00:03:16		395		-->		00:03:18		554		Now in close parking orbit, sir. 
+		43		00:03:18		941		-->		00:03:22		893		Mr. Data... welcome home. 
+		44		00:03:46		988		-->		00:03:50		110		Space, the final frontier. 
+		45		00:03:51		788		-->		00:03:55		741		These are the voyages of the Starship Enterprise. 
+		46		00:03:55		879		-->		00:04:00		010		Its continuing mission, to explore strange new worlds... 
+		47		00:04:01		805		-->		00:04:05		509		...to seek out new life and new civilizations... 
+		48		00:04:06		396		-->		00:04:10		100		...to boldly go where no one has gone before. 
+		49		00:05:13		560		-->		00:05:16		978		First Officer's log, stardate <stardate>4124</stardate>.5. 
+		50		00:05:17		107		-->		00:05:19		315		We have found Data's home to be a completely dead world. 
+		52		00:05:21		532		-->		00:05:25		912		Lifeless vegetation, no insects, not even soil bacteria. 
+		53		00:05:26		039		-->		00:05:29		956		What is it that could kill everything on an entire planet? 
+		54		00:05:35		222		-->		00:05:38		427		Recording signal locked onto the Enterprise, sir. 
+		55		00:05:38		561		-->		00:05:41		184		This looks like anything but farmland. 
+		56		00:05:41		315		-->		00:05:42		479		Agreed, sir. 
+		57		00:05:43		152		-->		00:05:46		523		The soil appears almost completely lifeless. 
+		58		00:05:46		658		-->		00:05:50		824		This is the position in the Tripoli log. Recognize anything? 
+		59		00:05:50		957		-->		00:05:53		034		The land contours are familiar. 
+		60		00:05:53		169		-->		00:05:55		958		Topographically, this is the correct area. 
+		61		00:05:56		091		-->		00:06:00		138		This once was rich farmland, I'd say 20 to 30 years ago. 
+		62		00:06:00		264		-->		00:06:02		722		I was discovered 26 years ago. 
+		63		00:06:02		852		-->		00:06:08		230		I'd say that everything was dead or dying at the time Data was found. 
+		64		00:06:08		362		-->		00:06:11		483		I was found 20 meters in that direction, sir. 
+		65		00:06:18		170		-->		00:06:22		502		Data, any idea why you were given the colonists' memories? 
+		66		00:06:22		636		-->		00:06:24		796		I feel that it was done hurriedly, but I know little more. Here. 
+		68		00:06:27		310		-->		00:06:30		017		This is where the cruiser's landing party found the signal device that led them here. 
+		70		00:06:34		782		-->		00:06:37		868		And they found me lying there. 
+		71		00:06:41		877		-->		00:06:44		286		You were just lying in the open? 
+		72		00:06:44		423		-->		00:06:47		296		No identity record, no instructions? 
+		73		00:06:47		929		-->		00:06:49		804		Only a layer of dust. 
+		74		00:06:49		932		-->		00:06:52		306		What's the first thing you remember? 
+		75		00:06:52		437		-->		00:06:54		727		Opening my eyes. 
+		76		00:06:54		857		-->		00:06:58		193		Looking into the eyes of the Tripoli landing party. 
+		77		00:06:58		322		-->		00:07:00		482		They believed the signal device sensed their presence and activated me. 
+		79		00:07:03		455		-->		00:07:06		412		Then this spot was your birthplace. 
+		80		00:07:07		754		-->		00:07:09		000		Commander. 
+		81		00:07:11		302		-->		00:07:14		175		I think I've got this place figured out. 
+		82		00:07:14		307		-->		00:07:16		717		This was very cleverly done to make this look like a natural hollow in the terrain. 
+		84		00:07:20		735		-->		00:07:23		655		There are signs it was constructed in a hurry, as if to hide something. 
+		86		00:07:25		744		-->		00:07:28		996		Yes. That was it, Geordi. 
+		87		00:07:29		124		-->		00:07:31		249		This awakens a memory remnant. 
+		88		00:07:31		378		-->		00:07:34		215		The colonists hoped to remain hidden. 
+		89		00:07:34		342		-->		00:07:37		095		But their fear of being discovered... 
+		90		00:07:37		681		-->		00:07:40		518		...led to their storing information in me. 
+		91		00:07:42		773		-->		00:07:44		767		Yeah! Thought so. 
+		92		00:08:14		493		-->		00:08:17		200		No life readings in here either, sir. 
+		93		00:09:16		641		-->		00:09:20		178		The colonists' laboratory. Extremely well equipped. 
+		94		00:09:20		314		-->		00:09:22		308		Does this stir any memories? 
+		95		00:09:22		443		-->		00:09:26		693		Only a vague impression of some of my functions being tested here. 
+		96		00:09:32		418		-->		00:09:34		376		Posted by proud parents? 
+		97		00:09:35		423		-->		00:09:39		340		It depicts... something that feels familiar, sir. 
+		98		00:09:39		472		-->		00:09:40		848		And dangerous. 
+		99		00:09:41		475		-->		00:09:44		264		But I have no idea what it represents. 
+		100		00:09:44		981		-->		00:09:46		642		And that is all. 
+		101		00:09:47		610		-->		00:09:49		154		Except... 
+		102		00:09:49		948		-->		00:09:52		238		...for an impression... 
+		103		00:09:52		786		-->		00:09:57		582		...of this being a Dr Soong's work area. 
+		104		00:09:57		711		-->		00:09:58		661		Who? 
+		105		00:09:58		796		-->		00:10:02		215		- Dr Noonien Soong? - He was called that here. 
+		106		00:10:02		344		-->		00:10:05		596		But he traveled here under a different name. 
+		107		00:10:05		725		-->		00:10:09		975		Dr Soong, my friend, was Earth's foremost robotic scientist. 
+		108		00:10:10		107		-->		00:10:13		858		Until he tried to realize Asimov's dream of a positronic brain. 
+		109		00:10:13		989		-->		00:10:17		859		A positronic brain. He promised so much. 
+		110		00:10:17		996		-->		00:10:22		210		Then, when he failed completely, Dr Soong disappeared. 
+		111		00:10:22		336		-->		00:10:25		838		Now we know he went somewhere to try a second time. 
+		112		00:10:25		968		-->		00:10:28		674		Data, Geordi, we'll look at this lab. 
+		113		00:10:28		806		-->		00:10:31		559		You and Lt Worf reconnoiter the corridors. 
+		114		00:10:31		686		-->		00:10:32		718		Aye, sir. 
+		115		00:11:05		118		-->		00:11:07		326		Data, it's you. 
+		116		00:11:08		081		-->		00:11:09		742		An epidermal mould. 
+		117		00:11:09		876		-->		00:11:12		713		To give your exterior the desired finish. 
+		118		00:11:12		839		-->		00:11:15		926		- Lt Yar to Cmdr Riker. - Come in, Lieutenant. 
+		119		00:11:16		053		-->		00:11:19		555		Sir, this installation can hold hundreds of people. 
+		120		00:11:19		684		-->		00:11:21		892		But all that's here is empty beds. 
+		121		00:11:22		022		-->		00:11:25		523		Thank you. Complete your record scans and report back. 
+		122		00:11:25		653		-->		00:11:29		784		Cmdr Riker, looks like some sort of storage area. 
+		123		00:11:46		856		-->		00:11:50		441		- How many more Datas are there? - Looks like just two. 
+		124		00:11:50		570		-->		00:11:54		108		I mean, that and the real Data. 
+		125		00:12:07		140		-->		00:12:08		470		Commander... 
+		126		00:12:09		561		-->		00:12:11		804		...can this be another me? 
+		127		00:12:13		735		-->		00:12:15		610		Or possibly my brother? 
+		128		00:12:16		907		-->		00:12:18		948		I honestly don't know, Data. 
+		129		00:12:21		498		-->		00:12:24		620		- He needs assembling. - He? 
+		130		00:12:25		588		-->		00:12:30		467		Data, we don't know that this can become alive. 
+		131		00:12:31		849		-->		00:12:35		018		It is very important for me to know, sir. 
+		132		00:12:36		231		-->		00:12:40		528		I never dreamed it was possible that I might find some link... 
+		133		00:12:41		198		-->		00:12:43		406		...with a form like my own. 
+		134		00:12:44		036		-->		00:12:47		954		Understood. We'll take it back to the ship with us. 
+		135		00:12:55		013		-->		00:12:59		061		Captain's log, stardate <stardate>41242</stardate>.45. 
+		136		00:12:59		187		-->		00:13:03		235		Despite having only a few hours to explore Data's home planet, we discovered something which may explain Data's beginnings,  if we can properly assemble and communicate with what we've found. 
+		139		00:13:47		186		-->		00:13:51		186		Signal from the Captain. They need you at the debriefing. 
+		140		00:13:52		194		-->		00:13:56		029		I have been anxious to hear the Chief Engineer's opinion. 
+		141		00:13:56		159		-->		00:13:58		783		Do you believe he can be made to function? 
+		142		00:13:58		914		-->		00:14:01		787		It includes all the components in your body. 
+		143		00:14:01		919		-->		00:14:05		041		Not that we fully understand your construction. 
+		144		00:14:05		175		-->		00:14:09		472		We have our top specialists working on its construction. 
+		145		00:14:10		476		-->		00:14:11		935		Just one thing. 
+		146		00:14:12		062		-->		00:14:16		477		Without disassembling you, of course, if we should need more... 
+		147		00:14:18		406		-->		00:14:23		997		If we need to compare this with the way... you're put together... 
+		148		00:14:27		338		-->		00:14:30		424		Bringing it here was right, Number One. 
+		149		00:14:32		847		-->		00:14:37		596		Data, if your duplicate functions, it may answer a lot of questions. 
+		150		00:14:42		113		-->		00:14:44		237		Does it appear to have... 
+		151		00:14:45		118		-->		00:14:47		077		...all your parts? 
+		152		00:14:47		205		-->		00:14:48		998		Completely, sir. 
+		153		00:14:49		125		-->		00:14:50		620		Will... 
+		154		00:14:52		756		-->		00:14:54		880		Will we know how to turn it on? 
+		155		00:14:55		010		-->		00:14:56		885		Alright. 
+		156		00:14:59		559		-->		00:15:03		346		Legitimate questions need not be asked apologetically. 
+		157		00:15:03		483		-->		00:15:06		154		You feel uncomfortable about your duplicate. 
+		158		00:15:06		279		-->		00:15:09		864		We feel uncomfortable, too, for no logical reason. 
+		159		00:15:09		994		-->		00:15:13		163		If it's awkward to be reminded that Data is a machine, remember that we are merely a different variety of machine. 
+		161		00:15:17		757		-->		00:15:20		166		In our case, electrochemical. 
+		162		00:15:20		303		-->		00:15:23		342		Let's handle this as we would anything else. 
+		163		00:15:23		475		-->		00:15:24		851		Agreed, Captain. 
+		164		00:15:24		978		-->		00:15:26		853		Let's begin with you, Data. 
+		165		00:15:26		981		-->		00:15:30		566		Well, sir, a good starting point may be why was I given human form? 
+		167		00:15:33		117		-->		00:15:37		034		To make it easier for humans to relate to you. 
+		168		00:15:37		165		-->		00:15:40		121		Maybe your designer had something else to prove. 
+		169		00:15:40		254		-->		00:15:44		718		That human-shaped robots need not be clumsy or limited. 
+		170		00:15:44		845		-->		00:15:47		088		You operate as well as we do, Data. 
+		171		00:15:47		224		-->		00:15:48		969		Better, in some ways, sir. 
+		172		00:15:50		646		-->		00:15:55		110		Look at this. Could be a link to the disappearance of the colonists. 
+		173		00:15:55		238		-->		00:15:59		369		It was displayed in the lab. It could be a child's imagination, but several children did similar drawings. 
+		175		00:16:03		877		-->		00:16:06		335		Dr Crusher to the Captain. 
+		176		00:16:06		465		-->		00:16:09		219		We very much need Mr. Data's help. 
+		177		00:16:12		100		-->		00:16:13		844		He's on his way, Doctor. 
+		178		00:16:19		821		-->		00:16:23		406		Is the synthomometer reading positive or negative? 
+		179		00:16:24		496		-->		00:16:26		324		Press your fingers there. 
+		180		00:16:30		673		-->		00:16:31		919		There. 
+		181		00:16:33		428		-->		00:16:35		552		It operates almost as a switch. 
+		182		00:16:37		184		-->		00:16:39		392		And these small projections? 
+		183		00:16:40		064		-->		00:16:42		224		An android alarm clock. 
+		184		00:16:43		320		-->		00:16:45		230		Is that amusing? 
+		185		00:16:47		243		-->		00:16:50		531		They time how long I remain unconscious. 
+		186		00:16:50		665		-->		00:16:54		251		Are you certain about us using these heating devices? 
+		187		00:16:54		380		-->		00:16:57		383		- I will feel nothing at all. - Marvelous. 
+		188		00:16:57		510		-->		00:17:01		760		It should be simpler once we see how your circuitry is connected. 
+		189		00:17:07		319		-->		00:17:11		450		I won't mention it to anyone. You have my word. 
+		190		00:17:11		576		-->		00:17:14		247		If you had an off switch, Doctor... 
+		191		00:17:14		790		-->		00:17:17		164		...would you not keep it secret? 
+		192		00:17:18		713		-->		00:17:20		458		I guess I would. 
+		193		00:17:32		988		-->		00:17:36		406		Notice the micro-circuitry here. And here. 
+		194		00:17:38		664		-->		00:17:42		118		And another fibroid-like connection here. 
+		195		00:17:43		673		-->		00:17:45		583		Let's close up. 
+		196		00:17:57		446		-->		00:18:01		114		It seemed to go well, thanks to a look inside Mr. Data. 
+		197		00:18:01		244		-->		00:18:03		998		But there are no signs of consciousness yet. 
+		198		00:18:12		138		-->		00:18:14		844		It certainly is a good match for Data. 
+		199		00:18:14		976		-->		00:18:17		683		Do you think so, really? 
+		200		00:18:18		565		-->		00:18:20		856		I wonder which was made first. 
+		201		00:18:22		405		-->		00:18:23		735		He was. 
+		202		00:18:27		038		-->		00:18:31		750		But they found him to be imperfect, and I was made to replace him. 
+		203		00:18:39		560		-->		00:18:41		554		You may call me Lore. 
+		204		00:18:52		039		-->		00:18:57		334		But I am also troubled by it describing you as imperfect. 
+		205		00:18:57		465		-->		00:18:59		958		Human language gives me difficulty, too. 
+		206		00:19:00		095		-->		00:19:03		300		It could mean I lack certain abilities he possesses. 
+		207		00:19:03		434		-->		00:19:04		763		I wonder. 
+		208		00:19:04		894		-->		00:19:10		237		But the point is, whether you and it have the same capabilities. 
+		209		00:19:10		362		-->		00:19:14		493		We do, sir. And your referring to him as "it" suggests that I, too, fit into the category of a thing. 
+		211		00:19:21		047		-->		00:19:22		590		I see your point. 
+		212		00:19:23		510		-->		00:19:25		053		My apologies. 
+		213		00:19:25		179		-->		00:19:26		758		Gladly accepted, sir. 
+		214		00:19:26		890		-->		00:19:29		810		As for Lore's abilities, his syntax and grammar suggests he was given human memories like mine. 
+		216		00:19:33		067		-->		00:19:36		071		You have equal strength and mental abilities? 
+		217		00:19:36		198		-->		00:19:37		527		I believe so, sir. 
+		218		00:19:37		659		-->		00:19:41		493		Which requires that I now ask a very serious question. 
+		219		00:19:41		624		-->		00:19:46		419		Since the two of you are so closely related to each other... 
+		220		00:19:46		549		-->		00:19:49		967		The answer, sir, is that my loyalty is to you. 
+		221		00:19:50		097		-->		00:19:52		423		And Starfleet. Completely. 
+		222		00:19:55		063		-->		00:19:58		731		Thank you, Commander. I was certain of that. 
+		223		00:19:59		237		-->		00:20:04		235		Helm control is here. The ship's heading is given in degrees. 
+		224		00:20:04		371		-->		00:20:07		409		360 of them in a full circle this way. 
+		225		00:20:07		543		-->		00:20:09		870		- Then you say "mark." - On the nose. 
+		226		00:20:10		005		-->		00:20:13		591		That separates it from another 360-degree circle this way on a right angle to this one. 
+		228		00:20:16		057		-->		00:20:18		811		By ordering a heading so many degrees this way and so many this way,  the ship can travel in all three dimensions. 
+		231		00:20:24		280		-->		00:20:26		855		The square of the hypotenuse of a right triangle? 
+		232		00:20:26		993		-->		00:20:30		696		Is equal to the sum of the square of the other two... 
+		233		00:20:30		833		-->		00:20:32		791		...something. 
+		234		00:20:32		920		-->		00:20:35		958		Which I once heard, but never understood. 
+		235		00:20:36		092		-->		00:20:41		006		You'll learn more when the Captain approves your being on the bridge. 
+		236		00:20:41		142		-->		00:20:42		935		Have I committed an offence? 
+		237		00:20:43		062		-->		00:20:47		312		You will find many rules on starships that must be learnt. 
+		238		00:20:48		363		-->		00:20:50		238		You're very clever, Wesley. 
+		239		00:20:50		366		-->		00:20:53		073		I now have duties to perform. Correct? 
+		240		00:20:53		204		-->		00:20:56		207		Were you ever this anxious to please, Data? 
+		241		00:20:56		335		-->		00:21:00		549		Never. I judge Lore to be superior in that desire. 
+		242		00:21:00		675		-->		00:21:04		343		Because I was designed to be so human, my brother. 
+		243		00:21:04		473		-->		00:21:06		432		I enjoy pleasing humans. 
+		244		00:21:06		560		-->		00:21:11		356		"My brother." That has a nice sound to it, Data. 
+		245		00:21:11		485		-->		00:21:14		738		You consider it important to please humans? 
+		246		00:21:14		866		-->		00:21:16		777		It's not important? 
+		247		00:21:17		955		-->		00:21:21		789		There are many things of importance. Some more than others. 
+		248		00:21:36		862		-->		00:21:39		818		Cmdr Riker's hypotenuse question tricked you into showing your knowledge was greater than you were indicating. 
+		250		00:21:44		333		-->		00:21:47		704		He didn't seem that clever. I'll be more careful. 
+		251		00:21:47		839		-->		00:21:50		712		You tend to underestimate humans. 
+		252		00:21:50		844		-->		00:21:53		598		Praising young Wesley on the helm... 
+		253		00:21:53		724		-->		00:21:54		970		A child! 
+		254		00:21:55		101		-->		00:21:59		683		He has a child's body. But we have found him to be much more. 
+		255		00:22:01		112		-->		00:22:04		234		Thank you for that information, too. 
+		256		00:22:04		367		-->		00:22:06		825		You do care about how I perform. 
+		257		00:22:06		955		-->		00:22:10		658		I pledge to be worthy of your teaching, my brother. 
+		258		00:22:10		837		-->		00:22:13		590		Try not to be jealous of my abilities. 
+		259		00:22:32		540		-->		00:22:34		867		What information are you requesting? 
+		260		00:22:35		587		-->		00:22:38		923		Everything available on a Dr Noonien Soong. 
+		261		00:22:40		178		-->		00:22:42		505		Good old often-wrong Soong. 
+		262		00:22:45		312		-->		00:22:47		021		A joke, brother. 
+		263		00:22:47		900		-->		00:22:51		069		Actually, he was a genius by human standards. 
+		264		00:22:51		948		-->		00:22:56		031		But he destroyed his reputation by making wild promises about his positronic brain design. Almost all of which failed. 
+		266		00:23:00		964		-->		00:23:03		883		Promises he later proved to be true. 
+		267		00:23:05		680		-->		00:23:08		636		Which made you and me possible, brother. 
+		268		00:23:10		146		-->		00:23:12		306		Our beloved father! 
+		269		00:23:13		944		-->		00:23:17		647		Will I soon have a uniform like that, brother? 
+		270		00:23:17		784		-->		00:23:22		496		I got mine after four years at the Academy, three as ensign, 
+		271		00:23:22		626		-->		00:23:25		664		Ten or 12 on space duties at lieutenant grade... 
+		272		00:23:25		798		-->		00:23:30		428		A system designed to compensate for limited human ability. 
+		273		00:23:30		556		-->		00:23:34		936		And you, brother, are beginning to think as a human. 
+		274		00:23:35		064		-->		00:23:38		767		You and I are completely different from them. 
+		275		00:23:38		903		-->		00:23:42		607		Are you truly satisfied with the knowledge and memory of a few hundred human colonists? 
+		277		00:23:45		749		-->		00:23:50		414		Suppose it could reflect thousands? Or millions? 
+		278		00:23:50		548		-->		00:23:55		973		Or the knowledge of hundreds of millions of life forms of every kind? 
+		279		00:23:58		854		-->		00:24:00		349		How? 
+		280		00:24:01		317		-->		00:24:03		227		We will discuss that in time. 
+		281		00:24:03		362		-->		00:24:08		526		And will we also discuss, Lore, which of us was constructed first? 
+		282		00:24:09		122		-->		00:24:10		498		It would be foolish... 
+		283		00:24:12		043		-->		00:24:14		536		...to underestimate you, brother. 
+		284		00:24:14		673		-->		00:24:18		839		Yes, I lied when I said you were made first, but with good reason. 
+		285		00:24:18		972		-->		00:24:22		308		Dr Soong made me perfect in his first attempt. 
+		286		00:24:22		436		-->		00:24:26		852		But he made me so human, the colonists became envious of me. 
+		287		00:24:26		986		-->		00:24:29		276		You lived with the colonists? 
+		288		00:24:30		074		-->		00:24:33		991		Until they petitioned Soong to make a more... comfortable, 
+		289		00:24:34		123		-->		00:24:36		912		Less... perfect android. 
+		290		00:24:37		670		-->		00:24:40		757		In other words, you brother. 
+		291		00:24:45		183		-->		00:24:49		647		Haven't you noticed how easily I handle human speech? 
+		292		00:24:49		774		-->		00:24:51		567		I use their contractions. 
+		293		00:24:51		694		-->		00:24:55		611		For example, I say "can't" or "isn't." 
+		294		00:24:55		743		-->		00:24:59		197		You say "cannot" and "is not." 
+		295		00:25:10		101		-->		00:25:12		261		A very old joke. 
+		296		00:25:12		396		-->		00:25:16		313		But you also have trouble with their humor. Am I right? 
+		297		00:25:17		530		-->		00:25:19		073		Quite true. 
+		298		00:25:19		200		-->		00:25:23		699		I keep trying to be more human, and keep failing. 
+		299		00:25:24		834		-->		00:25:27		956		Do you realize... brother... 
+		300		00:25:28		883		-->		00:25:31		554		...I can help you become more human? 
+		301		00:25:32		097		-->		00:25:34		174		And do you realize, Lore, that I am obligated to report all this to our ship's Captain? 
+		303		00:25:40		235		-->		00:25:44		153		I assumed as much when I began studying you. 
+		304		00:25:45		161		-->		00:25:49		113		May I use this to learn more about this vessel and its customs? 
+		305		00:25:49		251		-->		00:25:52		373		Use it to describe your time among the colonists, including all you know about what happened to them. 
+		307		00:25:55		804		-->		00:26:00		385		I promise a report of great detail and accuracy. 
+		308		00:26:01		397		-->		00:26:04		934		Thank you, Lore. I now have duties to perform. 
+		309		00:26:09		619		-->		00:26:11		743		Unless you need something more. 
+		310		00:26:11		873		-->		00:26:15		956		I have more than I dreamed possible, brother. 
+		311		00:26:40		296		-->		00:26:43		549		Captain's log, stardate <stardate>41242</stardate>.5. 
+		312		00:26:43		677		-->		00:26:47		760		Thanks to Lore's report, we now know what happened to the colonists. 
+		313		00:26:47		893		-->		00:26:51		596		Using a child's drawing, enhanced by Lore's description, our computer constructed the image  of a great crystalline entity which feeds on life,  insatiably ravenous for the life force in living forms,  capable of stripping all life from an entire world. 
+		318		00:27:06		883		-->		00:27:11		098		- How did Data escape? Or Lore? - Lore had been disassembled. 
+		319		00:27:11		224		-->		00:27:14		180		He explained it as jealousy from the colonists. 
+		320		00:27:14		313		-->		00:27:16		271		Data wasn't yet alive. 
+		321		00:27:16		399		-->		00:27:19		985		Data could be left out in no danger from that creature. 
+		322		00:27:20		114		-->		00:27:22		322		Whatever happened to the colonists, he'd be found by the first crew to respond to his signal. 
+		324		00:27:26		166		-->		00:27:30		463		So Dr Soong left proof that his experiment did work. 
+		325		00:27:30		590		-->		00:27:34		971		Captain, how believable do you find that crystal thing? 
+		326		00:27:35		557		-->		00:27:41		184		With so little of even our galaxy explored, it is at least possible. 
+		327		00:27:41		317		-->		00:27:44		522		Data, are you expecting Lore to come up here? 
+		328		00:27:44		656		-->		00:27:47		659		- He left your quarters. - To go...? 
+		329		00:27:47		786		-->		00:27:51		074		My turbo sensors say he went to deck four. Worf? 
+		330		00:27:51		209		-->		00:27:55		292		He examined some work tools and fine-grind quadratanium. 
+		331		00:27:55		424		-->		00:27:57		834		Which is used in our construction. 
+		332		00:27:57		970		-->		00:28:02		517		That compound is no more suspicious than a human looking for an ointment. 
+		333		00:28:02		645		-->		00:28:04		473		But I should check it out. 
+		334		00:28:04		607		-->		00:28:09		402		You're watching everything he does? Is that the act of a brother? 
+		335		00:28:09		532		-->		00:28:12		986		It's the act of a Starfleet officer obeying his Captain. 
+		336		00:28:18		422		-->		00:28:19		834		Captain? 
+		337		00:28:20		676		-->		00:28:23		299		Speaking strictly as Security Chief, how much can you trust Data now? 
+		339		00:28:29		942		-->		00:28:33		859		I trust him completely. But everyone should realize that that was a legitimate security question. 
+		341		00:28:37		705		-->		00:28:39		117		Thank you, sir. 
+		342		00:29:01		829		-->		00:29:05		331		Lesson number one in becoming more human. 
+		343		00:29:05		461		-->		00:29:08		132		You must observe all human customs. 
+		344		00:29:08		967		-->		00:29:10		212		Champagne? 
+		345		00:29:10		344		-->		00:29:15		935		An ancient ritual practiced when they observe events of importance. 
+		346		00:29:23		742		-->		00:29:28		787		My brother, I toast our discovery of each other. 
+		347		00:29:28		917		-->		00:29:32		004		May it fill our lives with new meaning. 
+		348		00:29:37		849		-->		00:29:43		773		I have some doubts about the value of human customs... in this... 
+		349		00:29:47		115		-->		00:29:48		491		My brother! 
+		350		00:29:49		870		-->		00:29:53		490		And let us toast, also, Dr Soong... 
+		351		00:29:54		127		-->		00:29:59		042		...who gave me the full richness of human needs and ambitions. 
+		352		00:29:59		177		-->		00:30:03		842		A perfect match for my mind, my body. 
+		353		00:30:03		977		-->		00:30:05		603		Brother... 
+		354		00:30:11		323		-->		00:30:13		531		And let us toast, also... 
+		355		00:30:14		495		-->		00:30:19		789		...the Great Crystal Entity, with whom I learned to communicate. 
+		356		00:30:22		759		-->		00:30:25		466		Before Dr Soong disassembled me, 
+		357		00:30:25		597		-->		00:30:30		013		I earned its gratitude by revealing the way to the colonists. 
+		358		00:30:30		147		-->		00:30:34		895		Imagine its gratitude when I give it the life on this vessel! 
+		359		00:30:38		578		-->		00:30:40		203		This is strange, sir. 
+		360		00:30:40		331		-->		00:30:43		500		I show Cmdr Data transmitting on a subspace channel. 
+		361		00:30:43		628		-->		00:30:47		629		I know Data's been researching Dr Soong's background. 
+		362		00:30:47		760		-->		00:30:49		635		Let's be sure. 
+		363		00:30:52		810		-->		00:30:55		482		Would you look in on Cmdr Data? Discreetly? 
+		364		00:30:55		607		-->		00:30:56		888		Yes, sir. 
+		365		00:31:02		911		-->		00:31:04		454		Crystal Entity. 
+		366		00:31:04		580		-->		00:31:09		791		Upon arriving here, you can identify me as the machine named Data. 
+		367		00:31:13		429		-->		00:31:14		972		End of message. 
+		368		00:31:15		098		-->		00:31:16		759		Come in, please. 
+		369		00:31:20		190		-->		00:31:21		900		Glad you are here. 
+		370		00:31:22		027		-->		00:31:24		602		Lore attacked me. I had to turn him off. 
+		371		00:31:24		740		-->		00:31:26		401		Why did he do that, Data? 
+		372		00:31:26		535		-->		00:31:30		666		He discovered we have been using sensors to follow what he does. 
+		373		00:31:34		339		-->		00:31:37		378		I practiced his facial tic. Do I have it right? 
+		374		00:31:37		929		-->		00:31:40		338		I'd suggest you forget imitating him. 
+		375		00:31:41		310		-->		00:31:44		764		If you'd said "we've" instead of "we have," 
+		376		00:31:44		899		-->		00:31:47		308		I might have suspected you were Lore. 
+		377		00:31:47		445		-->		00:31:51		446		Yes. I do use language more formally than Lore. 
+		378		00:31:51		577		-->		00:31:54		699		Please inform the Captain I will come to report this. 
+		379		00:31:55		626		-->		00:31:56		706		Aye, sir. 
+		380		00:32:58		525		-->		00:33:03		486		Wes, tell me again how Data said he immobilized Lore. 
+		381		00:33:05		745		-->		00:33:09		960		He told me he just turned him off, Mom. Doctor. 
+		382		00:33:14		844		-->		00:33:16		505		Question, Mr. Data. 
+		383		00:33:16		639		-->		00:33:20		722		Did you not swear me to secrecy about your off switch? 
+		384		00:33:21		564		-->		00:33:23		107		A change of mind. 
+		385		00:33:23		234		-->		00:33:26		521		If I cannot trust the bridge crew, whom can I? 
+		386		00:33:28		284		-->		00:33:31		536		Captain, bogey coming in on a five o'clock tangent. 
+		387		00:33:32		040		-->		00:33:33		536		No ID signal, Captain. 
+		388		00:33:33		668		-->		00:33:36		956		- Main viewer on tangent. - Shields up. Yellow alert. 
+		389		00:33:37		091		-->		00:33:40		129		Friendly greetings all languages, all frequencies. 
+		390		00:33:44		061		-->		00:33:46		636		I can't believe it can overtake us this fast. 
+		391		00:33:46		774		-->		00:33:48		768		Beautiful, isn't it? 
+		392		00:33:53		076		-->		00:33:54		571		I recognize it, sir. 
+		393		00:33:54		954		-->		00:33:57		412		It's the crystal image Lore described. 
+		394		00:34:00		505		-->		00:34:02		298		My God! 
+		395		00:34:16		115		-->		00:34:18		275		Still no ID, sir. 
+		396		00:34:18		411		-->		00:34:20		571		Also no answer to our inquiries. 
+		397		00:34:23		795		-->		00:34:25		421		Did you get a direct look? 
+		398		00:34:25		548		-->		00:34:28		385		It's like a giant snowflake, but more complex. 
+		399		00:34:28		512		-->		00:34:31		965		The entire electromagnetic spectrum is inside it. 
+		400		00:34:32		101		-->		00:34:35		638		- But I've no idea what it is. - Thank you. Data. 
+		401		00:34:37		652		-->		00:34:41		783		Anything else that Lore could tell us may be important. 
+		402		00:34:41		909		-->		00:34:45		495		- Can you control and question him? - I must examine him. 
+		403		00:34:47		335		-->		00:34:52		926		Captain. Recommend that you do not let him roam the ship freely. 
+		404		00:34:53		053		-->		00:34:54		169		Ensign? 
+		405		00:34:54		306		-->		00:34:57		309		Wesley is being alert and responsible. 
+		406		00:34:57		436		-->		00:35:01		306		Something to be encouraged. Come. You can watch everything I do. 
+		407		00:35:01		443		-->		00:35:02		986		Not if I have a choice. 
+		408		00:35:03		112		-->		00:35:06		151		Enough! When addressing a senior officer... 
+		409		00:35:06		284		-->		00:35:08		278		As his trainer, it's my fault. 
+		410		00:35:08		413		-->		00:35:12		710		You will show proper respect. I will accompany you to make certain. 
+		411		00:35:12		837		-->		00:35:14		796		With your approval, sir. 
+		412		00:35:33		080		-->		00:35:34		908		Be careful of Lore. 
+		413		00:35:35		543		-->		00:35:38		499		Good. He is still unconscious. 
+		414		00:35:39		132		-->		00:35:42		586		Notice the same twitch, even though he is unconscious? 
+		415		00:35:43		222		-->		00:35:48		018		Stay back. We may have problems if he senses someone else is near. 
+		416		00:35:55		911		-->		00:35:58		285		I have a few questions to ask you. 
+		417		00:35:59		667		-->		00:36:01		328		Lore, it is Data! 
+		418		00:36:02		046		-->		00:36:05		334		He senses you. I cannot control him if you stay. 
+		419		00:36:05		469		-->		00:36:07		427		I will record what he says. 
+		420		00:36:07		556		-->		00:36:09		715		Bring it to the bridge immediately. 
+		421		00:36:18		700		-->		00:36:23		199		And you want to be as stupid as them, dear brother? 
+		422		00:36:38		701		-->		00:36:41		906		- Well, Number One? - It was Lore, sir. 
+		423		00:36:42		040		-->		00:36:43		701		Same facial twitch. 
+		424		00:36:43		834		-->		00:36:46		410		Lying unconscious as Data described. 
+		425		00:36:46		547		-->		00:36:50		049		It became violent, apparently sensing Wesley and I... 
+		426		00:36:50		179		-->		00:36:53		431		Or is it Lore pretending to be Data and faking it? 
+		427		00:36:53		559		-->		00:36:57		097		I asked for Cmdr Riker's report, Acting Ensign Crusher. 
+		428		00:36:57		232		-->		00:37:00		734		If you can't accept the limits of that appointment... 
+		429		00:37:00		863		-->		00:37:02		109		Captain! 
+		430		00:37:10		797		-->		00:37:12		625		Deflector shields holding. 
+		431		00:37:12		759		-->		00:37:17		341		Torpedoes and main phasers to ready. Go to red alert, please. 
+		432		00:37:20		939		-->		00:37:22		435		Weapons ready, sir. 
+		433		00:37:22		859		-->		00:37:24		984		No, Captain, let me talk to it. 
+		434		00:37:25		113		-->		00:37:27		404		You didn't say you could do that. 
+		435		00:37:32		417		-->		00:37:36		287		- Affirmative. Talk to it. - Open hailing frequencies. 
+		436		00:37:37		468		-->		00:37:41		931		Crystal form, I identify myself as Data. 
+		437		00:37:42		059		-->		00:37:44		896		Advising you to stop your attack. 
+		438		00:37:45		022		-->		00:37:47		100		The humans here are powerful. 
+		439		00:37:47		234		-->		00:37:50		237		Capable of injuring or even destroying you. 
+		440		00:37:57		585		-->		00:38:00		256		Now, I call that communicating! 
+		441		00:38:00		382		-->		00:38:03		219		Suggest moving fast to confirm what I told it. 
+		442		00:38:03		345		-->		00:38:07		132		Permission to use the large transporter in cargo room three to beam up some living pattern. Perhaps a large tree. 
+		444		00:38:11		025		-->		00:38:14		693		- Which you'll beam to the entity? - Correct, Riker. 
+		445		00:38:14		823		-->		00:38:18		028		Ship's phasers will then disintegrate it, proving we are dangerous. 
+		447		00:38:21		292		-->		00:38:22		622		Make it so. 
+		448		00:38:22		753		-->		00:38:24		165		Sir? 
+		449		00:38:26		343		-->		00:38:27		672		Do it. 
+		450		00:38:34		941		-->		00:38:38		561		Sir, I know this may finish me as Acting Ensign... 
+		451		00:38:38		697		-->		00:38:40		276		Shut up, Wesley! 
+		452		00:38:43		330		-->		00:38:47		544		- Let me know what he does. - Aye, sir. 
+		453		00:38:47		671		-->		00:38:49		665		"Shut up, Wesley"?! 
+		454		00:38:50		384		-->		00:38:51		843		Doctor... 
+		455		00:38:52		888		-->		00:38:55		463		Since I am finished here, may I say... 
+		456		00:38:55		601		-->		00:38:56		716		Shut up, Wesley! 
+		457		00:38:56		853		-->		00:39:00		307		...that what I have said would've been listened to if it came from an adult officer! 
+		459		00:39:04		491		-->		00:39:07		245		Permission to go to my quarters, sir. 
+		460		00:39:07		371		-->		00:39:10		290		Agreed. Doctor, go with him. 
+		461		00:39:10		418		-->		00:39:13		171		You're putting me off the bridge? 
+		462		00:39:15		719		-->		00:39:19		885		I'm asking you to keep an eye on your son during this. 
+		463		00:39:28		198		-->		00:39:30		109		Emergency, close! 
+		464		00:39:32		530		-->		00:39:35		023		Now, show me your warrior fierceness! 
+		465		00:39:53		726		-->		00:39:58		771		I'll look. But I shouldn't have let you talk me into this. 
+		466		00:39:58		902		-->		00:40:01		608		It's Data! He's been hurt. 
+		467		00:40:06		665		-->		00:40:10		962		- You know how to turn them on. - This is very serious! 
+		468		00:40:11		506		-->		00:40:14		925		So, just tell me to "Shut up, Wesley," and I will. 
+		469		00:40:16		139		-->		00:40:18		180		You're being very unfair, Wes. 
+		470		00:40:20		270		-->		00:40:23		439		Data! The crystal thing is outside the ship. 
+		471		00:40:23		568		-->		00:40:25		609		Lore is loose on the inside. 
+		472		00:40:25		738		-->		00:40:27		732		How badly are you hurt? 
+		473		00:40:27		867		-->		00:40:32		199		I will function sufficiently... to stop Lore. 
+		474		00:40:37		007		-->		00:40:39		215		Crystal Entity form... 
+		475		00:40:39		929		-->		00:40:41		757		...it's your old friend. 
+		476		00:40:50		573		-->		00:40:55		072		Very good. You've understood perfectly so far. 
+		477		00:40:55		206		-->		00:40:58		909		Next, I will signal that I'm transporting something out. 
+		478		00:40:59		046		-->		00:41:02		916		The deflector shields will turn off for a moment, and if you move in at that time... 
+		480		00:41:07		519		-->		00:41:09		596		How sad, dear brother. 
+		481		00:41:10		565		-->		00:41:13		568		You make me wish I were an only child. 
+		482		00:41:22		252		-->		00:41:24		923		Then why this marvelous gift? 
+		483		00:41:25		675		-->		00:41:28		428		The troublesome little man-child. 
+		484		00:41:29		347		-->		00:41:33		051		Are you prepared for the death you've earned, little man? 
+		485		00:41:33		187		-->		00:41:36		641		If you take one more step towards my son... 
+		486		00:41:38		613		-->		00:41:40		488		Motherhood! 
+		487		00:41:43		705		-->		00:41:48		121		Back off, or I'll turn your little man into a torch. 
+		488		00:41:48		255		-->		00:41:53		134		I promise him exquisite pain unless you obey me, too, brother. 
+		489		00:41:53		263		-->		00:41:55		554		Move away, Data. Please! 
+		490		00:41:56		769		-->		00:42:02		112		Do you see now the advantages of being completely human? 
+		491		00:42:02		946		-->		00:42:04		905		It includes kindness. 
+		492		00:42:05		451		-->		00:42:08		122		I give you your life, Doctor. 
+		493		00:42:08		247		-->		00:42:10		407		Go home. Quickly. 
+		494		00:42:11		044		-->		00:42:13		334		And I may not injure your son at all. 
+		495		00:42:13		464		-->		00:42:15		589		I will stay with Wesley. 
+		496		00:42:15		718		-->		00:42:20		348		Go! Or he'll be shrieking by the count of five. 
+		497		00:42:20		476		-->		00:42:22		720		One, two... 
+		498		00:42:24		358		-->		00:42:25		734		...three... 
+		499		00:42:25		861		-->		00:42:27		771		...four... 
+		500		00:42:28		490		-->		00:42:33		202		Thank you for my human qualities, Dr Soong! Wait! 
+		501		00:42:34		333		-->		00:42:37		871		A small payment for your son's misdeeds. 
+		502		00:42:55		745		-->		00:42:57		205		The transporter! 
+		503		00:43:05		052		-->		00:43:06		382		Wesley, now! 
+		504		00:43:25		254		-->		00:43:27		960		Lore's gone, sir. Permanently. 
+		505		00:43:34		728		-->		00:43:38		598		Doctor, now that Wesley's safe, go to sickbay at once. 
+		506		00:43:38		860		-->		00:43:42		528		Captain, the crystal thing has begun to move away. 
+		507		00:43:54		220		-->		00:43:55		679		Are you alright? 
+		508		00:43:56		265		-->		00:43:58		009		Yes, sir. I'm fine. 
+		509		00:44:00		105		-->		00:44:03		690		Get rid of that damn twitch and put on the correct uniform. 
+		510		00:44:04		153		-->		00:44:05		530		Yes, Captain. 
+		511		00:44:06		365		-->		00:44:09		452		- Are you able to return to duty? - Yes, sir. 
+		512		00:44:09		579		-->		00:44:13		200		Then do so. Let the bridge know all is well here. 
+		513		00:44:13		336		-->		00:44:14		617		Aye, sir. 
+		514		00:44:18		511		-->		00:44:22		346		It's gone, sir. Without Lore, it couldn't reach us. 
+		515		00:44:22		476		-->		00:44:25		016		We're overdue a computer refit. 
+		516		00:44:25		147		-->		00:44:30		572		Do you ever wonder if Data is more human or less human than we want? 
+		517		00:44:31		909		-->		00:44:34		781		I wish we were all as well balanced, sir. 
+		518		00:44:34		914		-->		00:44:36		290		Agreed. 

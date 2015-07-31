@@ -1,0 +1,495 @@
+		1		00:00:02		780		-->		00:00:06		829		Captain's log, stardate <stardate>41386</stardate>.4. 
+		2		00:00:06		956		-->		00:00:10		124		We're in pursuit of a starship of Ferengi design. 
+		3		00:00:10		253		-->		00:00:14		041		Our mission is to recover a T-9 energy converter which the Ferengi stole from an unmanned post on Gamma Tauri IV. 
+		5		00:00:18		478		-->		00:00:23		310		A theft which scanners recorded, providing us with the opportunity to make close contact with a Ferengi vessel. 
+		7		00:00:27		120		-->		00:00:31		787		If we succeed, it will be Starfleet's first look at a life form which, discounting rumor, we know almost nothing about. 
+		9		00:00:36		931		-->		00:00:38		641		There she is. 
+		10		00:00:41		566		-->		00:00:42		682		Enlarge. 
+		11		00:00:47		452		-->		00:00:49		032		What is their course? 
+		12		00:00:49		164		-->		00:00:52		001		They're angling through that solar system. 
+		13		00:00:52		127		-->		00:00:53		327		Identify. 
+		14		00:00:53		464		-->		00:00:57		418		Listed as Delphi Ardu, sir. 11 planets. Unexplored. 
+		15		00:00:58		307		-->		00:01:00		101		Stay with them, La Forge. 
+		16		00:01:05		028		-->		00:01:07		487		Power surge from their last maneuver. 
+		17		00:01:07		617		-->		00:01:11		535		They are dropping to subwarp speed. 
+		18		00:01:12		919		-->		00:01:14		665		Reduce to impulse power. 
+		19		00:01:17		303		-->		00:01:20		757		Fluctuations in energy readings from it, Captain. 
+		20		00:01:20		893		-->		00:01:23		851		Possibility, a malfunction in their engines. 
+		21		00:01:23		983		-->		00:01:27		356		- Breaks my heart. - In visual range, Captain. 
+		22		00:01:27		490		-->		00:01:28		986		Fully enlarge. 
+		23		00:01:33		669		-->		00:01:35		747		Hello, stranger. 
+		24		00:01:35		882		-->		00:01:39		753		- Very impressive design. - Anything on that design, Data? 
+		25		00:01:39		890		-->		00:01:41		885		Nothing specific, sir. 
+		26		00:01:42		019		-->		00:01:45		770		Ferengi technology is estimated to be equal to our own. 
+		27		00:01:45		901		-->		00:01:49		523		But that does not mean identical, however. 
+		28		00:01:49		659		-->		00:01:53		412		Correct. We will be advanced in some areas, they in others. 
+		29		00:01:53		542		-->		00:01:55		583		Another power surge, sir. 
+		30		00:01:56		672		-->		00:01:58		714		They are firing on us. 
+		31		00:01:59		553		-->		00:02:01		798		- Damage report? - Shields holding. 
+		32		00:02:01		934		-->		00:02:06		565		Mostly electromagnetic. Fusion generator down by 30 percent. 
+		33		00:02:06		693		-->		00:02:10		528		- Our impulse engines are surging. - They're firing again. 
+		34		00:02:14		082		-->		00:02:16		755		Deflector-shield power weakening. 
+		35		00:02:16		880		-->		00:02:20		087		Phasers ready. Photon torpedoes ready. 
+		36		00:02:24		102		-->		00:02:26		144		Do we return their fire, sir? 
+		37		00:02:26		273		-->		00:02:30		227		Negative. They're just responding to our close pursuit. 
+		38		00:02:30		364		-->		00:02:32		739		Fall back a bit, but stay with them. 
+		39		00:02:36		085		-->		00:02:37		248		They're slowing. 
+		40		00:02:44		518		-->		00:02:46		228		They may be turning to fight. 
+		41		00:02:49		319		-->		00:02:53		487		Open hailing... Why are we gaining on them? Don't anticipate. 
+		42		00:02:53		619		-->		00:02:55		281		I'm not, sir. 
+		43		00:02:55		415		-->		00:02:57		990		Something is dragging us forward. 
+		44		00:03:00		133		-->		00:03:04		799		I read that, too. Lt Yar, what do your sensors show? 
+		45		00:03:04		934		-->		00:03:08		306		Not certain, sir. I'm getting very confusing readings. 
+		46		00:03:08		440		-->		00:03:13		274		Captain, this shouldn't be. Our power systems are failing. 
+		47		00:03:13		409		-->		00:03:17		112		Deflector shield failing. Phasers going inoperative. 
+		48		00:03:17		249		-->		00:03:20		836		Something is completely immobilizing us. 
+		49		00:03:20		965		-->		00:03:23		126		Immobilized by the damn Ferengi. 
+		50		00:03:23		261		-->		00:03:27		133		We need more information. What the hell are they using? 
+		51		00:03:38		292		-->		00:03:41		628		Obviously, we underestimated their technology. 
+		52		00:03:41		757		-->		00:03:43		466		Considerably. 
+		53		00:03:47		017		-->		00:03:52		397		The Ferengi have us right where they want us. In their sights. 
+		54		00:04:13		904		-->		00:04:17		240		Space, the final frontier. 
+		55		00:04:18		621		-->		00:04:22		873		These are the voyages of the Starship Enterprise. 
+		56		00:04:23		006		-->		00:04:27		137		Its continuing mission, to explore strange new worlds... 
+		57		00:04:28		641		-->		00:04:32		644		...to seek out new life and new civilizations... 
+		58		00:04:33		109		-->		00:04:37		026		...to boldly go where no one has gone before. 
+		59		00:05:46		963		-->		00:05:49		754		Are you searching all frequencies? Any message? 
+		60		00:05:49		886		-->		00:05:51		382		Negative, sir. 
+		61		00:05:53		394		-->		00:05:54		675		Weapons report. 
+		62		00:05:54		813		-->		00:05:56		937		Phasers and torpedoes are armed, but I show insufficient power to fire them. 
+		64		00:06:00		031		-->		00:06:03		569		Engineering, give me status on power recovery. 
+		65		00:06:05		542		-->		00:06:07		169		Engineering, come in. 
+		66		00:06:10		469		-->		00:06:12		510		Why aren't they answering? 
+		67		00:06:12		931		-->		00:06:15		722		La Forge, get a report from Engineering. 
+		68		00:06:15		854		-->		00:06:17		231		Aye, sir. 
+		69		00:06:17		358		-->		00:06:21		691		It's impossible they could be draining all power from all systems. 
+		70		00:06:22		159		-->		00:06:26		742		- Counselor? - I'm sensing nothing from them, sir. 
+		71		00:06:26		876		-->		00:06:31		210		It could mean they can shield their thoughts and emotions from others. 
+		72		00:06:31		343		-->		00:06:32		673		So it's our move. 
+		73		00:06:32		805		-->		00:06:36		012		They may know as little about us as we do about them. 
+		74		00:06:36		145		-->		00:06:39		065		They know they've got us in deep trouble. 
+		75		00:06:39		192		-->		00:06:42		481		If so, then what do they do with that knowledge? 
+		76		00:06:42		616		-->		00:06:46		868		Data, do you have any information on this on any file? 
+		77		00:06:47		000		-->		00:06:51		250		None. Only hearsay and third-hand reports, most of which conflict. 
+		78		00:06:51		383		-->		00:06:53		425		Which reports do not conflict? 
+		79		00:06:53		888		-->		00:06:59		018		That the Ferengi are... The best description may be traders. 
+		80		00:06:59		149		-->		00:07:00		526		What kind of traders? 
+		81		00:07:00		652		-->		00:07:03		940		Scholars of Earth history liken the Ferengi to the ocean-going Yankee traders of 18th- and 19th-century America. 
+		83		00:07:08		709		-->		00:07:11		880		From the history of my forebears. Yankee traders. 
+		84		00:07:12		008		-->		00:07:16		425		Who search the galaxy for mercantile and territorial opportunity. 
+		85		00:07:16		559		-->		00:07:19		847		Are scholars saying that the Ferengi may be like us? 
+		86		00:07:19		982		-->		00:07:24		399		Hardly, sir. The analogy refers to the worst quality of capitalists. 
+		87		00:07:24		532		-->		00:07:27		537		The Ferengi conduct their affairs of commerce on the ancient principle caveat emptor. 
+		89		00:07:30		962		-->		00:07:32		671		"Let the buyer beware." 
+		90		00:07:33		341		-->		00:07:35		301		Yankee traders. I like that. 
+		91		00:07:35		429		-->		00:07:39		763		Well, I doubt they wear red, white and blue, or look like Uncle Sam. 
+		92		00:07:39		897		-->		00:07:43		601		Engineering? Join La Forge in Engineering, Number One. 
+		93		00:07:43		738		-->		00:07:44		983		Aye, sir. 
+		94		00:07:45		657		-->		00:07:49		790		Without warp capacity, we're just a floating target. 
+		95		00:07:50		251		-->		00:07:52		126		Uncle who? 
+		96		00:07:53		799		-->		00:07:56		376		What have primary colors got to do with it? 
+		97		00:07:56		513		-->		00:07:58		673		I understand the allusion. 
+		98		00:07:58		809		-->		00:08:03		107		Colors representing countries at a time when they competed. 
+		99		00:08:03		234		-->		00:08:05		775		Red, white and blue for the United States. 
+		100		00:08:05		907		-->		00:08:10		572		Whereas the French more properly used the same colors in the order blue, white and red. 
+		102		00:08:13		546		-->		00:08:15		707		The Germans, red, black and gold. 
+		103		00:08:15		843		-->		00:08:19		346		- The Italians, green, white and red. - That's enough, Data. 
+		104		00:08:19		475		-->		00:08:22		895		- It was you who... - We were discussing the Ferengi. 
+		105		00:08:24		067		-->		00:08:27		486		I wish I had a clue what they will do next. 
+		106		00:08:27		616		-->		00:08:29		860		Given what is happening to our ship, their weapons could be vastly superior to ours. 
+		108		00:08:33		754		-->		00:08:37		374		Yes, Data, that is a natural assumption. 
+		109		00:08:38		262		-->		00:08:39		888		Engineering? 
+		110		00:08:40		308		-->		00:08:43		562		- Bottom line? - Not good, sir. 
+		111		00:08:43		690		-->		00:08:48		606		Their force field compensates almost as fast as we can increase power. 
+		112		00:08:48		742		-->		00:08:53		039		There's a 0.372 millisecond delay between the use of our power and the counter force of the Ferengi. 
+		114		00:08:56		006		-->		00:09:01		351		See, we push and they push back with equal force, sir. 
+		115		00:09:11		745		-->		00:09:16		413		What's our delay between slow-reverse impulse and top warp speed? 
+		116		00:09:16		547		-->		00:09:19		835		That's 0.300 milliseconds. There's... 
+		117		00:09:22		183		-->		00:09:23		845		I see where you're going. 
+		118		00:09:23		978		-->		00:09:28		692		We shift down, then kick hard into warp nine. Come back fighting! 
+		119		00:09:28		821		-->		00:09:32		193		- Can we do it? - Ask me after it's done, sir. 
+		120		00:09:32		328		-->		00:09:36		794		I want a slow reverse into drop-off over five minutes. 
+		121		00:09:36		921		-->		00:09:38		464		We'll show 'em, sir. 
+		122		00:09:38		590		-->		00:09:42		094		- Give me everything you've got. - Aye-aye, sir. 
+		123		00:09:46		064		-->		00:09:49		020		In an abrupt power surge to high warp speed, we may be able to break loose from that Ferengi force field. 
+		125		00:09:53		579		-->		00:09:55		823		I wish I knew what they were thinking. 
+		126		00:09:57		836		-->		00:10:00		461		They're wondering what we'll do next. 
+		127		00:10:01		678		-->		00:10:06		345		I say fight. There's no shame in falling before a superior enemy. 
+		128		00:10:06		479		-->		00:10:09		852		And no shame in a strategic retreat either. 
+		129		00:10:09		987		-->		00:10:14		533		All systems ready. Communication is restored to Engineering. 
+		130		00:10:14		662		-->		00:10:16		206		Excellent, La Forge. 
+		131		00:10:16		332		-->		00:10:20		880		Now, let's... throw them off guard. 
+		132		00:10:21		552		-->		00:10:23		676		Lt Yar, open hailing frequencies. 
+		133		00:10:25		057		-->		00:10:27		183		Hailing frequencies open, sir. 
+		134		00:10:27		312		-->		00:10:30		186		At least we won't begin with weakness. 
+		135		00:10:30		736		-->		00:10:32		814		Attention, Ferengi starship. 
+		136		00:10:32		948		-->		00:10:36		487		This is Captain Jean-Luc Picard of the USS Enterprise. 
+		137		00:10:36		623		-->		00:10:38		582		In the name of the Federation, 
+		138		00:10:38		710		-->		00:10:41		916		I demand that you return the T-9 energy converter you removed from Gamma Tauri IV. 
+		140		00:10:49		356		-->		00:10:51		730		Send that in all language forms. 
+		141		00:10:51		861		-->		00:10:53		405		All language forms, sir. 
+		142		00:10:54		115		-->		00:10:57		405		Sometimes, the best way to fight is not to be there. 
+		143		00:10:57		539		-->		00:10:58		738		Yes, sir. 
+		144		00:10:58		875		-->		00:11:02		924		"He will triumph who knows when to fight and when not to fight." 
+		145		00:11:03		051		-->		00:11:06		753		I'm glad the Academy still teaches the strategies of Sun Tzu. 
+		146		00:11:06		890		-->		00:11:09		384		This delay had better prove out. 
+		147		00:11:09		521		-->		00:11:11		730		0.300 milliseconds, sir. 
+		148		00:11:11		859		-->		00:11:15		314		Let's blast full power into warp nine. Ready? 
+		149		00:11:15		450		-->		00:11:17		361		On your command, Captain. 
+		150		00:11:17		496		-->		00:11:20		868		On the count of three. Stand by on phasers. 
+		151		00:11:22		338		-->		00:11:24		665		One, set warp to nine. 
+		152		00:11:24		801		-->		00:11:28		424		Two, divert shield power to main engines. 
+		153		00:11:29		186		-->		00:11:30		598		Three... 
+		154		00:11:51		312		-->		00:11:52		939		Merde. 
+		155		00:11:53		818		-->		00:11:55		100		Shields up. 
+		156		00:12:04		422		-->		00:12:07		379		Captain, I think you had better see this. 
+		157		00:12:08		013		-->		00:12:09		972		What's wrong? 
+		158		00:12:10		100		-->		00:12:15		265		Someone is reading every file in the Enterprise memory banks. 
+		159		00:12:15		402		-->		00:12:18		774		- They can do that? - And more, perhaps. 
+		160		00:12:23		586		-->		00:12:27		669		Captain, if I may recommend...? 
+		161		00:12:27		801		-->		00:12:32		552		With our attention on the Ferengi vessel, we have ignored the planet. 
+		162		00:12:34		524		-->		00:12:38		655		Data, consult the charts on this planet. See what we've got on it. 
+		163		00:12:41		203		-->		00:12:42		830		Conference evaluation. 
+		164		00:12:49		470		-->		00:12:53		803		So, it's time for difficult decisions. Opinions, please. 
+		165		00:12:53		936		-->		00:12:58		235		I say put all power into a combined phaser and torpedo salvo. 
+		166		00:12:58		363		-->		00:13:01		283		Destroy their ability to sustain this force field. 
+		167		00:13:01		411		-->		00:13:04		034		Yes, hit them hard, and hit them fast. 
+		168		00:13:04		166		-->		00:13:08		037		Impractical... and provocative. 
+		169		00:13:08		174		-->		00:13:11		628		Even assuming we have power to sustain such a tactic. 
+		170		00:13:11		764		-->		00:13:14		139		But firing on us is an act of war. 
+		171		00:13:14		269		-->		00:13:19		066		The facts are, the Ferengis did fire on us, but we were chasing them. 
+		172		00:13:19		195		-->		00:13:21		070		Since then, all they've done is search our computers to learn what we are. 
+		174		00:13:24		080		-->		00:13:26		705		- Your point? - Let's talk to them. 
+		175		00:13:26		836		-->		00:13:29		508		It's been tried. No response. 
+		176		00:13:29		633		-->		00:13:33		420		But did we tell them anything they wanted to hear? 
+		177		00:13:47		376		-->		00:13:50		879		Other opinions? Thank you for your advice. 
+		178		00:13:56		019		-->		00:14:00		649		Will? I haven't had your assessment. 
+		179		00:14:02		406		-->		00:14:06		242		I believe we've covered every available option, Captain. 
+		180		00:14:06		372		-->		00:14:09		579		Are there other options you want to analyze? 
+		181		00:14:09		713		-->		00:14:13		334		The only one left is the one that needs no conversation. 
+		182		00:14:13		469		-->		00:14:16		973		- The one we must avoid. - Sir? 
+		183		00:14:17		645		-->		00:14:20		733		The one that leads to total annihilation. 
+		184		00:14:36		641		-->		00:14:39		313		- Open hailing frequencies. - Open, sir. 
+		185		00:14:43		112		-->		00:14:46		817		Attention, Ferengi starship. This is Captain Picard. 
+		186		00:14:47		622		-->		00:14:52		786		It is obvious that we are in a situation which needs resolving. 
+		187		00:14:52		923		-->		00:14:58		765		We are willing to do whatever is... required, whatever is necessary. 
+		189		00:15:05		031		-->		00:15:06		860		I would like... 
+		190		00:15:07		535		-->		00:15:13		331		I would request... that you present your terms to us. 
+		191		00:15:24		820		-->		00:15:29		451		Captain's log, stardate <stardate>41386</stardate>.5. 
+		192		00:15:29		580		-->		00:15:34		411		It is with a heavy heart that I have offered to meet any reasonable terms demanded by the Ferengi. 
+		194		00:15:36		593		-->		00:15:38		754		I fear for my people and vessel in the event that the unknown Ferengi ask the unreasonable. 
+		196		00:15:43		315		-->		00:15:46		770		How can I oppose even unreasonable demands? 
+		197		00:15:46		905		-->		00:15:48		651		It's moving, sir. 
+		198		00:15:50		705		-->		00:15:53		911		We ask to surrender. Now they fire on us? 
+		199		00:15:54		045		-->		00:15:57		252		Ready torpedoes. We have enough power for a few. 
+		200		00:15:57		385		-->		00:15:59		961		Ready, but hold on ready. 
+		201		00:16:00		099		-->		00:16:03		886		- Open hailing frequencies. - Hailing frequencies open, sir. 
+		202		00:16:06		069		-->		00:16:08		741		Ferengi vessel, we await your response. 
+		203		00:16:08		867		-->		00:16:10		611		Suggest first strike, sir. 
+		204		00:16:10		745		-->		00:16:13		914		Our shields now only have 63 seconds of power left. 
+		205		00:16:14		043		-->		00:16:16		252		If their sensors can read us, they will wait until we are most vulnerable. 
+		207		00:16:19		052		-->		00:16:23		137		- I agree. They have not responded. - Wait a bit more. 
+		208		00:16:23		270		-->		00:16:24		682		50 seconds. 
+		209		00:16:26		192		-->		00:16:27		770		Patience. 
+		210		00:16:31		035		-->		00:16:37		245		The quicker we can come to terms, the better, NCC- 17O 1D. 
+		211		00:16:38		091		-->		00:16:39		372		Who is speaking? 
+		212		00:16:39		885		-->		00:16:44		054		I am Tarr, DaiMon of the Ferengi. 
+		213		00:16:44		186		-->		00:16:47		190		You wish to discuss surrender, Capt Picard? 
+		214		00:16:47		693		-->		00:16:49		854		What I said, DaiMon Tarr, is... 
+		215		00:16:49		990		-->		00:16:56		199		Unconditional surrender, I warn you, is totally unacceptable. 
+		216		00:16:56		961		-->		00:17:00		880		We will die to the last one of us before such dishonor. 
+		217		00:17:05		937		-->		00:17:07		813		Hailing frequencies closed. 
+		218		00:17:07		941		-->		00:17:12		489		Something has seized their ship too. They're in the same predicament. 
+		219		00:17:13		369		-->		00:17:15		328		Launch a sensor probe. 
+		220		00:17:15		457		-->		00:17:19		874		Set it to search for whatever it is that is holding both ships. 
+		221		00:17:20		007		-->		00:17:22		500		Go back to hailing frequency, fast. 
+		222		00:17:23		096		-->		00:17:26		267		...and I regret, DaiMon Tarr, that I can no longer negotiate unless it is conducted visually. 
+		224		00:17:31		489		-->		00:17:33		898		Your complete message not received, but visual communication is against our custom. 
+		226		00:17:37		167		-->		00:17:41		120		It is against Starfleet orders to accept a surrender otherwise. 
+		227		00:17:41		258		-->		00:17:43		502		Do you withdraw your surrender? 
+		228		00:17:50		275		-->		00:17:55		869		You give us no choice, Enterprise. May we have a visual on you as well? 
+		229		00:17:57		624		-->		00:18:01		577		Agreed, DaiMon Tarr. You should be able to view us now. 
+		230		00:18:01		715		-->		00:18:03		341		Are we on your screen? 
+		231		00:18:03		469		-->		00:18:08		135		Yes. The ugliness of the human was not an exaggeration. 
+		232		00:18:08		270		-->		00:18:12		022		I do not know how you have paralyzed our vessel. 
+		233		00:18:12		152		-->		00:18:14		562		I concede your Enterprise is superior. 
+		234		00:18:14		698		-->		00:18:18		867		We will return your T-9. We offer the lives of our second officers as required by the Ferengi code. 
+		236		00:18:22		340		-->		00:18:26		756		Fortunately, Starfleet has no such rules for its second officers. 
+		237		00:18:28		268		-->		00:18:31		058		Is this to your satisfaction, Picard? 
+		238		00:18:31		650		-->		00:18:36		067		Your offer may be inadequate, but I will discuss it with my staff. 
+		239		00:18:36		201		-->		00:18:38		528		Stand by for further communication. 
+		240		00:18:43		965		-->		00:18:47		884		Matthew, Pola, you know this area is off limits. Come on. 
+		241		00:18:49		310		-->		00:18:50		936		Boys will be boys. 
+		242		00:18:51		063		-->		00:18:55		231		- Have you launched the probe? - Aye. We'll get the readings soon. 
+		243		00:18:55		948		-->		00:19:00		246		If we're not holding the Ferengi, and they're not holding us, who is? 
+		244		00:19:00		373		-->		00:19:03		461		The probe will give us some answers. 
+		245		00:19:03		588		-->		00:19:06		426		Data, you were going to show us something. 
+		246		00:19:07		053		-->		00:19:12		016		As requested, library computer information on this planet. 
+		247		00:19:12		147		-->		00:19:15		151		It has been charted only from long-range scans. 
+		248		00:19:15		279		-->		00:19:19		860		It is Class-M, but shows no life forms, sentient or otherwise. 
+		249		00:19:19		995		-->		00:19:22		668		However, you may find this of interest. 
+		250		00:19:23		837		-->		00:19:25		878		Resolving it into our language. 
+		251		00:19:27		260		-->		00:19:29		801		The centre of a huge space federation, a population of trillions. 
+		253		00:19:31		936		-->		00:19:36		567		Trillions? I've never heard the word "Tkon" before. 
+		254		00:19:37		071		-->		00:19:41		822		Understandable. It has been extinct for 600,000 of our... 
+		255		00:19:43		668		-->		00:19:46		339		...of our years. 
+		256		00:19:47		216		-->		00:19:53		225		These planets were once outposts of that empire. 
+		257		00:19:54		105		-->		00:19:58		523		- Data, what are you doing? - Apologies, Captain. 
+		258		00:19:58		697		-->		00:20:01		784		I seem to have reached an odd... functional impasse. 
+		260		00:20:04		125		-->		00:20:08		258		I am... stuck. 
+		261		00:20:08		384		-->		00:20:11		007		Get unstuck and continue the briefing. 
+		262		00:20:11		139		-->		00:20:17		599		That is what I am trying to do, sir, but the solution eludes me. 
+		263		00:20:18		111		-->		00:20:20		271		My hero! 
+		264		00:20:25		793		-->		00:20:27		585		Continue, Commander. 
+		265		00:20:29		675		-->		00:20:31		171		Intriguing. 
+		266		00:20:31		304		-->		00:20:32		716		It des... 
+		267		00:20:33		684		-->		00:20:37		816		It describes the empire as being highly advanced and powerful, and capable of actually moving stars. 
+		269		00:20:40		781		-->		00:20:43		655		Stars whose planets are their defense system? 
+		270		00:20:43		787		-->		00:20:48		204		Correct, sir. Outposts. The planet below was possibly one of them. 
+		271		00:20:48		338		-->		00:20:51		925		Excuse the interruption, but this is worth it. 
+		272		00:20:52		054		-->		00:20:54		725		We're receiving a signal from the probe. 
+		273		00:20:54		850		-->		00:20:56		679		We'll take it here. 
+		274		00:21:00		195		-->		00:21:01		655		Incredible. 
+		275		00:21:01		782		-->		00:21:05		996		There's our mysterious something. It is a force field of some kind. 
+		276		00:21:06		122		-->		00:21:10		706		Reaching up from the planet surface. Amazing power. 
+		277		00:21:11		133		-->		00:21:14		755		What does the legend say about the end of the Tkon Empire? 
+		278		00:21:14		891		-->		00:21:18		844		- Their sun went supernova. - Could this planet have escaped? 
+		279		00:21:20		569		-->		00:21:23		406		It may have been the most distant outpost, but it shows no life-form readings. 
+		281		00:21:27		583		-->		00:21:30		836		Let's take a look. Stand by with an away team. 
+		282		00:21:30		964		-->		00:21:34		668		And if the Ferengi realize the field's from the planet? 
+		283		00:21:34		805		-->		00:21:38		889		That's a complication. We should ask them to join us. 
+		284		00:21:39		021		-->		00:21:40		648		Team up with the Ferengi? 
+		285		00:21:40		775		-->		00:21:45		074		We've been ordered to learn about them. Do you know a better way? 
+		286		00:21:57		559		-->		00:21:59		303		Captain's log, supplemental. 
+		287		00:21:59		437		-->		00:22:02		726		In orbit of a planet whose unexplained force field has seized us with a power almost beyond imagination. 
+		289		00:22:06		868		-->		00:22:10		407		Any solution to this will almost certainly involve cooperation from the Ferengi. 
+		291		00:22:12		797		-->		00:22:14		838		Ship's power drain is critical. 
+		292		00:22:14		967		-->		00:22:18		257		I must shut down shields to maintain life support. 
+		293		00:22:18		392		-->		00:22:20		137		Understood. 
+		294		00:22:21		189		-->		00:22:26		270		- Open hailing frequencies. - Hailing frequencies open, sir. 
+		295		00:22:26		407		-->		00:22:29		079		Ferengi vessel from Enterprise, come in. 
+		296		00:22:33		296		-->		00:22:35		872		Your alien images again shock us. 
+		297		00:22:36		010		-->		00:22:38		884		About the surrender, the facts are different. 
+		298		00:22:39		016		-->		00:22:42		269		Our own probe has shown us your trickery, human. 
+		299		00:22:42		397		-->		00:22:45		686		- We withdraw our surrender. - Agreed. 
+		300		00:22:46		698		-->		00:22:50		534		Perhaps you would agree to a more productive relationship? 
+		301		00:22:50		664		-->		00:22:53		501		I'd prefer a more profitable one, human. 
+		302		00:22:53		670		-->		00:22:57		754		- Yankee trader. - Explain what means Yankee traders! 
+		303		00:22:57		887		-->		00:22:58		968		He heard that. 
+		304		00:22:59		097		-->		00:23:04		180		He recognizes your interest in profit. Or is that incorrect? 
+		305		00:23:04		317		-->		00:23:06		644		We seek only what is equitable. 
+		306		00:23:06		779		-->		00:23:09		736		What do you seek? Why did you attack us? 
+		307		00:23:09		868		-->		00:23:14		452		We did not attack. We gave chase to recover a Federation energy device... 
+		308		00:23:14		587		-->		00:23:18		968		Which is ours! Your Federation placed it on one of our planets. 
+		309		00:23:19		095		-->		00:23:22		550		No, Gamma Tauri IV is recognized by all civilized... 
+		310		00:23:22		686		-->		00:23:27		649		The Ferengi are not uncivilized. Are you suggesting otherwise? 
+		311		00:23:30		535		-->		00:23:33		492		All I'm saying is that you removed something which did not belong to you. 
+		313		00:23:35		711		-->		00:23:38		252		Are you now calling us thieves? 
+		314		00:23:38		384		-->		00:23:42		517		On the contrary, I have no wish to discuss property or territory while our mutual problem remains. 
+		316		00:23:45		106		-->		00:23:47		480		Like it or not, we are both trapped by this energy-draining force field from the planet. 
+		318		00:23:54		750		-->		00:23:57		838		On that matter there can be no argument. 
+		319		00:24:00		052		-->		00:24:02		545		I would like to propose a swap. 
+		320		00:24:02		682		-->		00:24:07		978		- And what is a swap? - It's a trade, an exchange. 
+		321		00:24:08		110		-->		00:24:10		567		Yes, trade, human. What do you offer? 
+		322		00:24:10		698		-->		00:24:13		535		We will tell you what we know about the planet. 
+		323		00:24:13		662		-->		00:24:16		417		In trade, you give us your information. 
+		324		00:24:16		543		-->		00:24:19		582		How do we know you will not withhold information? 
+		325		00:24:19		716		-->		00:24:25		512		- We must trust each other, Tarr. - Amusing, human. Trust each other? 
+		326		00:24:25		645		-->		00:24:29		728		I propose that we test this relationship by cooperating in a joint exploration of the planet's surface. 
+		328		00:24:34		913		-->		00:24:37		038		And what profit is in this? 
+		329		00:24:37		167		-->		00:24:40		836		The profit, DaiMon Tarr, of saving all our lives. 
+		330		00:24:41		760		-->		00:24:44		051		We will agree, no doubt foolishly, but any trickery on your part will meet with no mercy. 
+		332		00:24:47		646		-->		00:24:51		565		Agreed. If you care to join us, our transporter device... 
+		333		00:24:51		697		-->		00:24:53		987		We have a device of our own. 
+		334		00:24:54		118		-->		00:24:57		989		We will beam a science team of three to coordinates you can propose. 
+		335		00:24:58		125		-->		00:25:00		999		We will transmit the information shortly. 
+		336		00:25:01		132		-->		00:25:04		420		- Enterprise out. - Hailing frequencies off. 
+		337		00:25:07		394		-->		00:25:11		063		I would log that agreement as promising, at least. 
+		338		00:25:11		569		-->		00:25:13		195		I wonder, Captain. 
+		339		00:25:13		322		-->		00:25:17		075		I don't usually distrust on sight, but this is an exception. 
+		340		00:25:17		206		-->		00:25:21		421		Especially in view of the fact that his transmission was distorted. 
+		341		00:25:21		546		-->		00:25:25		299		I sensed the same thing, Captain. He's hiding something. 
+		342		00:25:25		430		-->		00:25:27		805		With the power drain, we can't delay. 
+		343		00:25:27		935		-->		00:25:31		058		I'd like additional help. Can you spare Worf? 
+		344		00:25:31		191		-->		00:25:35		323		Take him. And... be careful, Number One. 
+		345		00:25:47		808		-->		00:25:50		895		With the power drain, communication may be hard. 
+		346		00:25:51		022		-->		00:25:52		768		Understood. Anything else? 
+		347		00:25:52		901		-->		00:25:56		239		The force field means we cannot beam back. 
+		348		00:25:56		367		-->		00:26:00		699		- You had to ask. - Understood. Energize. 
+		349		00:26:53		437		-->		00:26:55		682		Anybody? 
+		350		00:27:16		610		-->		00:27:20		313		- What are you doing up there? - Most intriguing, sir. 
+		351		00:27:20		449		-->		00:27:23		953		I assume inaccurately transmitted coordinates due to the force field around the ship, sir. 
+		353		00:27:31		013		-->		00:27:32		426		Are we alone, sir? 
+		354		00:27:32		558		-->		00:27:34		968		Unfortunately. Let's find the others. 
+		355		00:27:41		242		-->		00:27:43		284		What do you make of these? 
+		356		00:27:44		790		-->		00:27:49		955		Crystalline. Mostly inert. Nothing to write home about. 
+		357		00:27:51		470		-->		00:27:54		557		- Excuse me? - Slang, sir. 
+		358		00:27:56		480		-->		00:27:59		153		I did use it correctly, did I not? 
+		359		00:28:01		156		-->		00:28:03		779		They have to be around here somewhere. 
+		360		00:28:14		014		-->		00:28:15		676		- What's that? - What? 
+		361		00:28:21		947		-->		00:28:26		412		- Are you conscious? - Do I look conscious? 
+		362		00:28:26		539		-->		00:28:28		830		- What are you doing? - Resting, sir! 
+		363		00:28:29		461		-->		00:28:31		789		My foot's stuck. Up there. 
+		364		00:28:31		925		-->		00:28:35		548		I materialized upside down above the planet's surface. 
+		365		00:28:35		683		-->		00:28:38		640		Tricorder's useless. Communication's gone too. 
+		366		00:28:38		772		-->		00:28:44		651		- Fortunately, you did not break... - Data, who's that? 
+		367		00:28:50		087		-->		00:28:51		333		Who are you? 
+		368		00:29:15		387		-->		00:29:17		512		Captain's log, supplemental. 
+		369		00:29:17		642		-->		00:29:21		690		It is six hours since our away team beamed down to the planet. 
+		370		00:29:21		816		-->		00:29:25		652		On the Enterprise, our condition is rapidly worsening. 
+		371		00:29:25		782		-->		00:29:27		908		Ordinarily, with reserve power, we could maintain life support for several months. 
+		373		00:29:31		335		-->		00:29:34		623		But the force holding us has closed down all engines and is draining our reserve power, too. 
+		375		00:29:38		099		-->		00:29:41		934		It's getting colder, sir. How far down is it likely to go? 
+		376		00:29:42		065		-->		00:29:45		984		A lot. Even in orbital space it'll get below minus 200 degrees. 
+		377		00:29:46		115		-->		00:29:49		237		You won't have to worry much past minus 70 or so. 
+		378		00:29:49		370		-->		00:29:52		708		Feels like that now. Good. Thank you. 
+		379		00:30:26		319		-->		00:30:29		276		If he moves, kill him. 
+		380		00:30:29		409		-->		00:30:36		414		Letek, we have broken our agreement with their captain. 
+		381		00:30:36		548		-->		00:30:41		464		We will accuse the humans of preparing to ambush us. 
+		382		00:30:42		350		-->		00:30:46		020		It will be our word against theirs. 
+		383		00:30:46		777		-->		00:30:50		066		And who is more trustworthy, Mordoc? 
+		384		00:30:51		160		-->		00:30:54		033		It looks like gold. 
+		385		00:30:55		961		-->		00:30:59		251		- Tastes like gold. - It is gold. 
+		386		00:31:06		608		-->		00:31:08		353		Accursed planet! 
+		387		00:31:08		486		-->		00:31:12		951		It's nothing to what our Captain will do for breaking our agreement. 
+		388		00:31:13		079		-->		00:31:18		541		What part of the agreement? You appeared and attacked us. 
+		389		00:31:19		341		-->		00:31:21		585		Are you one of their assassins? 
+		390		00:31:21		721		-->		00:31:26		055		I'm Cmdr William Riker, First Officer of the USS Enterprise. 
+		391		00:31:26		648		-->		00:31:28		476		You have a lot to learn. 
+		392		00:31:37		084		-->		00:31:38		628		I got this one! 
+		393		00:31:38		755		-->		00:31:41		379		Careful, they are much stronger than... 
+		394		00:31:44		600		-->		00:31:46		144		Pygmy cretins! 
+		395		00:31:53		117		-->		00:31:57		201		- Kill them! Hideous monsters! - No! 
+		396		00:32:00		673		-->		00:32:04		509		Good. You've heard of phasers. 
+		397		00:32:04		639		-->		00:32:06		468		Now, over there. 
+		398		00:32:09		608		-->		00:32:15		782		- Is this a female? - A human female, Letek? 
+		399		00:32:15		912		-->		00:32:18		322		Yes, it is true. 
+		400		00:32:18		459		-->		00:32:23		458		You work with your females, arm them and force them to wear clothing. 
+		402		00:32:29		689		-->		00:32:31		684		Sickening! 
+		403		00:32:35		493		-->		00:32:39		826		I've diverted the reserve power to the family decks. 
+		404		00:32:39		960		-->		00:32:41		788		They'll last longest. 
+		405		00:32:45		972		-->		00:32:49		225		Is there anything else we can do, Doctor? 
+		406		00:32:53		279		-->		00:32:54		822		Where's Wesley? 
+		407		00:32:55		783		-->		00:32:58		454		He's in our quarters. 
+		408		00:32:59		624		-->		00:33:03		377		- I considered giving him a sedative. - You shouldn't. 
+		409		00:33:03		507		-->		00:33:06		083		I know, but he's my son. I love him. 
+		410		00:33:06		220		-->		00:33:09		509		He has the right to meet death awake. 
+		411		00:33:13		318		-->		00:33:16		191		Is that a male perspective? 
+		412		00:33:18		203		-->		00:33:19		615		Rubbish. 
+		413		00:33:23		128		-->		00:33:24		672		Hold it right there! 
+		414		00:33:26		135		-->		00:33:27		714		Stop. 
+		415		00:33:28		807		-->		00:33:30		849		- Phasers on stun. - Already set. 
+		416		00:33:36		071		-->		00:33:37		567		What's going on? 
+		417		00:33:44		004		-->		00:33:46		248		What is this? 
+		418		00:33:50		265		-->		00:33:54		102		We can deduce that these crystalline tree shapes are actually energy collectors. 
+		420		00:33:56		404		-->		00:34:00		535		On the same principle as that which is draining energy from our ships. 
+		421		00:34:00		661		-->		00:34:03		155		The Ferengi whips were working earlier. 
+		422		00:34:03		292		-->		00:34:05		287		So something new has happened. 
+		423		00:34:05		421		-->		00:34:09		292		I'm beginning to understand what my eyes are showing me. 
+		424		00:34:09		429		-->		00:34:12		350		It's patterns of force everywhere. 
+		425		00:34:12		477		-->		00:34:16		180		This entire planet has been turned into a power accumulator. 
+		426		00:34:16		317		-->		00:34:18		562		These are the point of this place. 
+		427		00:34:18		697		-->		00:34:21		322		I can see power emanating... 
+		428		00:34:22		288		-->		00:34:23		915		Commander. 
+		429		00:34:41		618		-->		00:34:45		786		Be you barbarians? Speak! 
+		430		00:34:59		738		-->		00:35:02		527		Who meets the challenge? 
+		431		00:35:05		040		-->		00:35:06		869		Who will it be? 
+		432		00:35:10		592		-->		00:35:12		421		Him. 
+		433		00:35:13		724		-->		00:35:20		064		You have awakened Portal 63. Do you petition to enter the Empire? 
+		434		00:35:20		820		-->		00:35:25		737		- Who asks the question? - A guardian of the Tkon Empire. 
+		435		00:35:31		342		-->		00:35:33		918		Biped. Excellent. 
+		436		00:35:34		556		-->		00:35:40		351		Why would we petition to enter... an empire that no longer exists? 
+		437		00:35:40		861		-->		00:35:45		574		Why do you attempt this deception? The Empire is for ever. 
+		438		00:35:46		288		-->		00:35:48		864		Your empire fell prey to a supernova. 
+		439		00:35:51		089		-->		00:35:53		049		We are for ever. 
+		440		00:35:53		177		-->		00:35:56		549		Data, please repeat the file. 
+		441		00:35:56		684		-->		00:35:58		809		It is a matter of record. 
+		442		00:35:58		939		-->		00:36:03		236		In the Age of Makto, the central star of the Tkon Empire destabilized. 
+		443		00:36:03		363		-->		00:36:06		653		There has never been an Age of Makto. 
+		444		00:36:06		787		-->		00:36:11		205		In fact, many ages have come and passed since Makto. 
+		445		00:36:11		339		-->		00:36:15		386		- It is the Age of Bastu. - I'm afraid not. 
+		446		00:36:15		513		-->		00:36:19		978		According to the Tkon use of the galactic motionary startime charts, after Bastu came Cimi, Xora, Makto... 
+		448		00:36:24		072		-->		00:36:27		112		Enough! Absurdities. 
+		449		00:36:27		245		-->		00:36:31		578		You must have been asleep for hundreds of thousands of our years. 
+		450		00:36:33		590		-->		00:36:38		472		Deception is the way of the human. 
+		451		00:36:38		600		-->		00:36:43		766		We Ferengi will gladly make a petition. 
+		452		00:36:43		903		-->		00:36:45		814		We invite your petition. 
+		453		00:36:45		949		-->		00:36:47		231		Speak! 
+		454		00:36:47		368		-->		00:36:52		450		We wish to offer our services to serve the Tkon Empire at no profit. 
+		456		00:36:58		932		-->		00:37:01		937		Return control of our starship to us and we will happily destroy the human criminals  and their vessel which attacked us without provocation. 
+		459		00:37:13		504		-->		00:37:16		341		They came to loot your empire, but we intercepted them. 
+		461		00:37:21		686		-->		00:37:25		105		You are accused of deceit and treachery. 
+		462		00:37:27		281		-->		00:37:29		953		Do you give yourself up for judgment? 
+		463		00:37:30		454		-->		00:37:34		669		Yes. If you believe these accusations, then act on them. 
+		464		00:37:34		795		-->		00:37:37		467		And there is even more. 
+		465		00:37:37		885		-->		00:37:44		606		We can prove that the humans are destroyers of legal commerce, and that they withhold vital technology from backward worlds. 
+		467		00:37:51		745		-->		00:37:54		750		And necessary defensive weapons, too. 
+		468		00:37:54		877		-->		00:38:00		719		We Ferengi now challenge this human madness! 
+		469		00:38:00		847		-->		00:38:04		765		I admit, we withheld modern technologies from some worlds. 
+		470		00:38:04		897		-->		00:38:08		316		You see? They are demented. Their values are insane. 
+		471		00:38:08		445		-->		00:38:11		569		They have destroyed business opportunities. 
+		472		00:38:11		702		-->		00:38:14		409		Proof of their barbarism! 
+		473		00:38:15		126		-->		00:38:22		511		They adorn themselves with gold, a despicable use of a valuable metal. 
+		474		00:38:22		641		-->		00:38:29		064		And they shamelessly clothe their females, inviting others to unclothe them, the very depth of perversion. 
+		476		00:38:35		457		-->		00:38:36		704		Paws off, Ferengi! 
+		477		00:38:39		341		-->		00:38:45		099		No female, human or Ferengi, can order Mordoc around. 
+		478		00:38:45		853		-->		00:38:47		479		Submit! 
+		479		00:38:48		525		-->		00:38:51		696		- Just try it, shorty. - At ease, Lieutenant. 
+		480		00:38:55		622		-->		00:38:58		377		And we still have more faults. 
+		481		00:38:58		503		-->		00:39:02		587		Starfleet has permitted several civilizations to fall. 
+		482		00:39:02		720		-->		00:39:05		843		We have allowed the strong to overcome the weak. 
+		483		00:39:05		977		-->		00:39:09		479		They admit their crimes. Hear them! 
+		484		00:39:09		609		-->		00:39:12		482		They admit the evil that they do. 
+		485		00:39:13		116		-->		00:39:19		076		- Barbarian! - Yes, you show wisdom. 
+		486		00:39:19		838		-->		00:39:24		135		Barbarians all! But this one first... 
+		487		00:39:26		518		-->		00:39:30		389		...in the fashion the Empire has always challenged savages. 
+		488		00:39:30		525		-->		00:39:35		738		- No! For battle, come to me! - No! That's an order. 
+		489		00:39:35		869		-->		00:39:40		334		You have a single chance for life. One only. 
+		490		00:39:41		046		-->		00:39:44		669		What is the answer to my challenge? 
+		491		00:39:44		804		-->		00:39:47		131		I offer a thought. 
+		492		00:39:47		267		-->		00:39:52		397		"He will triumph who knows when to fight and when not to fight." 
+		493		00:39:59		291		-->		00:40:03		624		You are being tested, Riker. What is the answer? 
+		494		00:40:04		175		-->		00:40:05		719		How do you know my name? 
+		495		00:40:16		617		-->		00:40:20		239		You are facing fate with composure. 
+		496		00:40:20		375		-->		00:40:22		950		But what is the answer to my challenge? 
+		497		00:40:24		925		-->		00:40:30		137		Fear is the true enemy, the only enemy. 
+		498		00:40:32		398		-->		00:40:36		400		Unlike these little ones who close their minds, your mind holds interesting thoughts. 
+		500		00:40:40		038		-->		00:40:44		954		"Know your enemy and know yourself, and you will always be victorious." 
+		501		00:40:45		549		-->		00:40:51		510		Why that thought? And who is this Sun Tzu you revere? 
+		502		00:40:52		940		-->		00:40:57		106		An old Chinese philosopher from ancient Earth history. 
+		503		00:40:57		239		-->		00:41:00		362		Tell me more of this wisdom, so much like our own. 
+		504		00:41:00		496		-->		00:41:05		247		Gladly, but first our starship. Can you release it? 
+		505		00:41:06		299		-->		00:41:10		882		It is released. All power is restored. 
+		506		00:41:31		850		-->		00:41:34		853		Not a moment too soon, Jean. 
+		507		00:41:40		325		-->		00:41:42		366		I mean, Captain. 
+		508		00:41:59		738		-->		00:42:03		360		I had my doubts as your ships battled each other, in acts of belligerence. 
+		510		00:42:05		625		-->		00:42:09		128		Normally I would destroy all of you, and your ships. 
+		511		00:42:09		257		-->		00:42:13		806		- But something confused me. - Which was? 
+		512		00:42:13		934		-->		00:42:16		771		First, you wanted to destroy each other. 
+		513		00:42:16		898		-->		00:42:19		307		Then you agreed to assist each other. 
+		514		00:42:19		444		-->		00:42:22		864		What of our vessel? We knew the same answer. 
+		515		00:42:22		993		-->		00:42:28		288		The truth is, I gave those words to this human. 
+		516		00:42:29		171		-->		00:42:32		960		What of them? Shall I destroy them? 
+		517		00:42:33		723		-->		00:42:36		013		Then they would learn nothing. 
+		518		00:42:36		144		-->		00:42:39		148		A most interesting conclusion. 
+		519		00:42:39		276		-->		00:42:42		897		But what if they never learn, Riker? 
+		520		00:42:43		033		-->		00:42:44		908		Is this a test also? 
+		521		00:42:46		038		-->		00:42:49		078		In life, one is always tested. 
+		522		00:42:49		212		-->		00:42:52		585		I see them much as we were several hundred years ago, but possessing the technology they now have, they are dangerous. 
+		524		00:42:57		019		-->		00:42:59		727		Untrue. We seek friendship with you. 
+		525		00:42:59		858		-->		00:43:05		071		But we can hardly hate what we once were. They may grow and learn. 
+		526		00:43:05		202		-->		00:43:07		031		And learn ways to destroy you. 
+		527		00:43:07		165		-->		00:43:10		999		Our values require us to face that possibility. 
+		528		00:43:11		965		-->		00:43:15		053		What of you, with your empire gone? 
+		529		00:43:16		558		-->		00:43:20		394		The universe exists to me to create life. 
+		530		00:43:21		567		-->		00:43:26		281		I shall sleep... until needed again. 
+		531		00:43:49		122		-->		00:43:52		827		Compliments, Lieutenant. Lt Worf. 
+		532		00:43:56		846		-->		00:44:00		349		- You've done well. - Something to write home about. 
+		533		00:44:02		065		-->		00:44:05		484		"Something to write home about"? That's very human. 
+		534		00:44:05		613		-->		00:44:08		701		The T-9 has been beamed aboard securely. 
+		535		00:44:08		828		-->		00:44:13		329		The Ferengi complained, but one final roar from Portal convinced them. 
+		536		00:44:13		462		-->		00:44:17		048		- I commend your performance. - One final request, sir. 
+		537		00:44:17		721		-->		00:44:21		308		Permission to beam a box of Data's Chinese finger puzzles over to the Ferengi. 
+		539		00:44:22		939		-->		00:44:25		148		A thank you for all they tried to do. 
+		540		00:44:32		542		-->		00:44:34		204		Make it so. 
+		541		00:44:35		047		-->		00:44:37		089		Set course, La Forge. 

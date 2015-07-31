@@ -1,0 +1,549 @@
+		1		00:00:03		556		-->		00:00:07		807		Captain's log, stardate <stardate>41723</stardate>.9. 
+		2		00:00:07		939		-->		00:00:12		070		Following a Starfleet order, we are in the Xendi Sabu star system, having rendezvoused with a Ferengi vessel which requested a meeting. 
+		4		00:00:16		497		-->		00:00:20		415		Although we arrived and made appropriate signals three days ago, the Ferengi have responded only with the message, 
+		6		00:00:23		593		-->		00:00:25		421		"Stand by, Enterprise." 
+		7		00:00:29		437		-->		00:00:31		265		You sent for me, sir? 
+		8		00:00:32		568		-->		00:00:34		812		Yes, Doctor. Sit down. 
+		9		00:00:40		709		-->		00:00:44		329		Look, this... perhaps may be nothing, but I've been feeling... 
+		11		00:00:47		179		-->		00:00:49		007		...a bit odd of late. 
+		12		00:00:51		561		-->		00:00:55		479		Fatigued. And now I've got this damned headache. 
+		13		00:00:55		611		-->		00:00:56		810		A what? 
+		14		00:00:57		614		-->		00:01:00		024		Headache. You know what a headache is. 
+		15		00:01:00		161		-->		00:01:03		829		Of course. But I don't often encounter them. 
+		16		00:01:05		963		-->		00:01:10		510		The reason is obvious, of course. What are the Ferengi up to? 
+		17		00:01:10		638		-->		00:01:13		345		"Stand by, Enterprise." Stand by for what? 
+		18		00:01:13		478		-->		00:01:15		021		I don't see a thing wrong. 
+		19		00:01:15		147		-->		00:01:19		314		No, neither can I. Unless they're baiting some kind of trap. 
+		20		00:01:19		446		-->		00:01:21		156		With your head. 
+		21		00:01:22		870		-->		00:01:27		334		I see nothing physically wrong, but I'll run some scans in sickbay. 
+		22		00:01:27		462		-->		00:01:30		833		- All I've got... - Is an order. Report to sickbay! 
+		23		00:01:31		427		-->		00:01:34		846		From the only person aboard who can give you an order. 
+		24		00:01:34		975		-->		00:01:38		893		Captain, from First Officer. They're sending a message. 
+		25		00:01:39		024		-->		00:01:40		900		On my way, Number One. 
+		26		00:01:41		446		-->		00:01:43		321		Sorry, Doctor. Duty calls. 
+		27		00:01:47		081		-->		00:01:50		833		- They're prepared to talk, sir. - Have they explained the wait? 
+		28		00:01:50		963		-->		00:01:55		095		Negative. They've identified their commander as Bok. DaiMon Bok. 
+		29		00:01:55		221		-->		00:01:58		224		You can see him. They're communicating on visual. 
+		30		00:01:58		352		-->		00:02:00		097		Open hailing frequencies. 
+		31		00:02:00		648		-->		00:02:02		191		Frequencies open, sir. 
+		32		00:02:02		318		-->		00:02:05		523		This is Capt Jean-Luc Picard of the Enterprise. 
+		33		00:02:05		657		-->		00:02:07		616		We are transmitting visually. 
+		34		00:02:09		539		-->		00:02:12		376		Is this the Capt Picard? 
+		35		00:02:13		380		-->		00:02:16		882		- Do we know each other? - I know you, Picard. 
+		36		00:02:17		554		-->		00:02:20		641		Then you have the advantage of me. Is this Bok? 
+		37		00:02:21		186		-->		00:02:24		392		I am Bok, DaiMon of the Ferengi. 
+		38		00:02:25		485		-->		00:02:30		650		I have asked you here to discuss a mutual problem, Captain. 
+		39		00:02:31		204		-->		00:02:32		664		What problem, DaiMon Bok? 
+		40		00:02:33		292		-->		00:02:37		458		I insist on speaking of that matter in person. 
+		41		00:02:38		634		-->		00:02:41		757		Shall we meet on your vessel... or mine? 
+		42		00:02:46		440		-->		00:02:48		400		Hailing frequencies closed. 
+		43		00:02:49		488		-->		00:02:53		324		I sense considerable deception on Bok's part. And danger. 
+		44		00:02:53		454		-->		00:02:57		075		Then we should meet him here. Keep him under our control. 
+		45		00:02:58		546		-->		00:03:00		292		Now open, sir. 
+		46		00:03:00		759		-->		00:03:04		463		I appreciate your offer, DaiMon Bok. Please be our guest here. 
+		47		00:03:04		599		-->		00:03:06		559		As you wish, Picard. 
+		48		00:03:07		230		-->		00:03:12		939		Perhaps this will begin a new era of cooperation for both our peoples. 
+		49		00:03:13		073		-->		00:03:14		783		In one Earth hour, then? 
+		50		00:03:15		578		-->		00:03:18		950		In one hour, DaiMon Bok. End transmission. 
+		51		00:03:21		798		-->		00:03:24		338		I can't believe they're coming here. 
+		52		00:03:26		641		-->		00:03:28		682		They did agree a bit easily. 
+		53		00:03:29		354		-->		00:03:32		226		Well, in one hour we shall know why. 
+		54		00:03:57		948		-->		00:04:01		071		Space, the final frontier. 
+		55		00:04:02		749		-->		00:04:06		702		These are the voyages of the Starship Enterprise. 
+		56		00:04:06		840		-->		00:04:10		971		Its continuing mission, to explore strange new worlds... 
+		57		00:04:12		767		-->		00:04:16		471		...to seek out new life and new civilizations... 
+		58		00:04:17		359		-->		00:04:21		063		...to boldly go where no one has gone before. 
+		59		00:05:27		281		-->		00:05:29		856		Are you accustomed to getting your own way? 
+		60		00:05:29		993		-->		00:05:35		158		Only when it makes sense. There's 40 minutes until the Ferengi beam over. 
+		61		00:05:35		295		-->		00:05:37		373		I'll have these scans done in ten. 
+		62		00:05:37		507		-->		00:05:40		131		A lot of effort for a simple headache. 
+		63		00:05:40		263		-->		00:05:44		310		You should not have a headache unless something's wrong. 
+		64		00:05:44		437		-->		00:05:47		275		It's true that headaches were once quite common, before the brain was charted, before we understood the nature of pain. 
+		66		00:05:52		159		-->		00:05:55		247		When we suffered from things such as the common cold. 
+		67		00:05:55		374		-->		00:06:00		005		- So what's the cause of my headache? - I haven't the slightest idea. 
+		68		00:06:05		684		-->		00:06:07		513		Feel better? 
+		69		00:06:09		650		-->		00:06:12		024		- The pain's gone. - Medical fakery. 
+		70		00:06:12		155		-->		00:06:15		657		The pain is actually still there. It's just cloaked. 
+		71		00:06:18		207		-->		00:06:20		535		- I'll want further exams. - Doctor! 
+		72		00:06:20		671		-->		00:06:23		128		When the Ferengi matter is settled. 
+		73		00:06:26		766		-->		00:06:28		724		Expect an intruder alert. 
+		74		00:06:28		853		-->		00:06:31		013		What? Have you something to report? 
+		75		00:06:31		148		-->		00:06:33		606		If you'll scan heading 44, mark 163... 
+		76		00:06:33		737		-->		00:06:36		027		Intruder alert, sir. 
+		77		00:06:36		158		-->		00:06:37		986		I've got something, sir. 
+		78		00:06:39		289		-->		00:06:43		753		An old-style starship, Constellation class, traveling on impulse power. 
+		79		00:06:43		880		-->		00:06:45		506		Says who? 
+		80		00:06:46		678		-->		00:06:49		467		Ensign, answer the First Officer's question. 
+		81		00:06:50		768		-->		00:06:55		233		Says the long-distance sensors, sir. I was boosting the sensor output... 
+		82		00:06:55		360		-->		00:06:57		769		Boosting it? How? 
+		83		00:07:00		286		-->		00:07:02		161		We will discuss this later. 
+		84		00:07:02		289		-->		00:07:05		542		I'm reading it now, as a Constellation-class starship traveling under impulse power. Sending no call letters. 
+		86		00:07:09		386		-->		00:07:11		380		The correct procedure... 
+		87		00:07:15		439		-->		00:07:17		148		What's wrong, sir? 
+		88		00:07:17		275		-->		00:07:20		897		It's nothing. It's just a... mild headache. 
+		89		00:07:23		120		-->		00:07:27		168		The correct procedure, Ensign, was to signal the bridge immediately. 
+		90		00:07:27		294		-->		00:07:29		787		- Yes, sir. - Bringing it here personally, perhaps to be on hand for the Ferengi beam-over,  might have imperiled us were it something hostile. 
+		93		00:07:36		394		-->		00:07:37		391		Yes, sir. 
+		94		00:07:37		521		-->		00:07:40		727		Receiving no signal from the approaching starship. 
+		95		00:07:43		365		-->		00:07:45		110		Time, sir. 
+		96		00:07:45		244		-->		00:07:46		823		Time? 
+		97		00:07:47		749		-->		00:07:49		790		For the Ferengi beam-over. 
+		98		00:07:50		670		-->		00:07:53		877		Do you see any problem connected with this old starship? 
+		99		00:07:54		010		-->		00:07:56		634		It's safer to have the Ferengi here, whatever. 
+		100		00:07:56		765		-->		00:07:58		890		Concur. Stand by. 
+		101		00:07:59		019		-->		00:08:00		646		Hailing frequencies open. 
+		102		00:08:14		674		-->		00:08:16		632		Welcome in peace, DaiMon Bok. 
+		103		00:08:16		760		-->		00:08:19		337		It is our pleasure, Capt Picard. 
+		104		00:08:19		474		-->		00:08:25		517		Might I introduce my First Officer, Kazago, and my Second, Rata? 
+		105		00:08:25		652		-->		00:08:29		653		This is my First Officer, Cmdr William Riker. 
+		106		00:08:29		785		-->		00:08:33		121		Second-in-command, Data. Counselor Troi. 
+		107		00:08:33		250		-->		00:08:35		957		We have heard that you use females. 
+		108		00:08:37		215		-->		00:08:40		967		Clothed females. Most interesting. 
+		109		00:08:42		600		-->		00:08:46		768		- They are that, sir. - And the android was mentioned, too. 
+		110		00:08:46		900		-->		00:08:51		482		What is its price? We should like to... purchase it. 
+		111		00:08:51		616		-->		00:08:55		452		He is not for sale. Cmdr Data is... 
+		112		00:08:57		753		-->		00:09:00		792		Second-hand merchandise. You wouldn't want him. 
+		113		00:09:01		635		-->		00:09:03		464		Second-hand, sir? 
+		114		00:09:06		144		-->		00:09:08		434		Of course. A human joke. 
+		115		00:09:09		567		-->		00:09:14		613		Excuse me, Captain. The unidentified starship is coming. Still no signal. 
+		116		00:09:14		743		-->		00:09:18		791		Think nothing of it. It is under our control. 
+		117		00:09:18		918		-->		00:09:21		411		One of our starships under your control? 
+		118		00:09:21		547		-->		00:09:23		506		Do not be alarmed, Captain. 
+		119		00:09:24		594		-->		00:09:30		768		It is a gift from us. With which we honor the hero of Maxia. 
+		120		00:09:32		318		-->		00:09:34		941		- Who? - Why you, Picard, of course. 
+		121		00:09:36		491		-->		00:09:40		030		Do you not remember the Battle of Maxia? 
+		122		00:09:40		165		-->		00:09:44		166		I'm sorry, I do not remember it, DaiMon Bok. Data? 
+		123		00:09:44		297		-->		00:09:50		008		He may refer to an encounter nine years ago, in the Maxia Zeta system. 
+		124		00:09:50		142		-->		00:09:54		274		- An unidentified starship... - Unidentified?! 
+		125		00:09:55		819		-->		00:09:58		608		That fine vessel was Ferengi. 
+		126		00:09:58		741		-->		00:10:01		281		Which... you destroyed, sir. 
+		127		00:10:03		625		-->		00:10:05		667		The Battle of Maxia. 
+		128		00:10:05		796		-->		00:10:08		799		I never heard it referred to so dramatically before. 
+		129		00:10:10		220		-->		00:10:15		053		My sincere regrets, but that vessel refused to identify itself. 
+		130		00:10:15		188		-->		00:10:18		394		It simply attacked us. We defended ourselves. 
+		131		00:10:18		527		-->		00:10:22		279		Such... mistakes happen in space. 
+		132		00:10:22		410		-->		00:10:26		542		Hardly a mistake, sir. Your report shows it deliberately attacked. 
+		133		00:10:26		668		-->		00:10:30		965		Do you want arriving vessel on main viewer? It's 1,000 kilometers away. 
+		134		00:10:31		092		-->		00:10:32		636		Put it on your viewer. 
+		135		00:10:33		264		-->		00:10:34		296		Main viewer. 
+		136		00:10:34		933		-->		00:10:37		176		There is no one aboard it. 
+		137		00:10:37		312		-->		00:10:41		729		The log should be downloaded into the Enterprise's records. 
+		138		00:10:41		863		-->		00:10:43		655		At a price. 
+		139		00:10:43		782		-->		00:10:45		326		No price! 
+		140		00:10:45		453		-->		00:10:46		996		No price? 
+		141		00:10:47		122		-->		00:10:49		912		What is the purpose of this? What... 
+		142		00:10:56		306		-->		00:10:58		098		I felt something too, Captain. 
+		143		00:10:58		226		-->		00:11:01		930		Perhaps it is... his conscience. 
+		144		00:11:02		067		-->		00:11:03		692		Bridge to sickbay... 
+		145		00:11:03		820		-->		00:11:05		565		No, I'm fine. 
+		146		00:11:05		699		-->		00:11:09		616		It felt as if... it were something from your past. 
+		147		00:11:11		250		-->		00:11:13		079		It's alright. I'm fine. 
+		148		00:11:15		216		-->		00:11:16		628		What is this about? 
+		149		00:11:17		303		-->		00:11:21		221		It is about the battle I mentioned, Captain. 
+		150		00:11:22		187		-->		00:11:24		762		A gift, in honor of that occasion. 
+		151		00:11:25		861		-->		00:11:28		650		Look at that ship closely. 
+		152		00:11:29		284		-->		00:11:32		703		- Magnify it, please, Lt La Forge. - Aye, sir. 
+		153		00:11:38		593		-->		00:11:40		005		Why... 
+		154		00:11:43		268		-->		00:11:45		559		...it's the Stargazer. 
+		155		00:11:45		689		-->		00:11:47		518		It's my old ship. 
+		156		00:11:50		489		-->		00:11:52		116		How did you find it? 
+		157		00:11:52		243		-->		00:11:58		036		It was a derelict. Adrift in space on the far side of this star system. 
+		158		00:11:58		170		-->		00:12:02		124		How it got there is none of my business, Captain. 
+		159		00:12:03		096		-->		00:12:08		688		But now... that vessel is yours, if you wish to have it. 
+		160		00:12:10		735		-->		00:12:13		407		We are not selling it to him? 
+		161		00:12:14		159		-->		00:12:18		325		Consider it... an act of friendship. 
+		162		00:12:18		457		-->		00:12:20		916		At no cost? 
+		163		00:12:21		797		-->		00:12:25		085		Ugly! Very ugly! 
+		164		00:12:31		748		-->		00:12:33		541		Captain's log, supplemental. 
+		165		00:12:33		669		-->		00:12:36		588		Bok and his officers have returned to their vessel, inviting us to take possession of the Stargazer. 
+		167		00:12:39		805		-->		00:12:43		176		- Like before? - No, it hit with more impact. 
+		168		00:12:43		311		-->		00:12:47		015		Hit? I'm sorry, but anything could be important. 
+		169		00:12:47		152		-->		00:12:50		523		- You felt something yourself? - I believe so. 
+		170		00:12:50		658		-->		00:12:54		956		Like a thought, but... rather mechanical in nature. 
+		171		00:12:55		083		-->		00:12:57		243		Sure it wasn't one of my thoughts? 
+		172		00:12:57		379		-->		00:13:01		760		At that moment, I was remembering being at the helm of the Stargazer. 
+		173		00:13:01		887		-->		00:13:04		843		A maneuver was being made. We were hit. 
+		174		00:13:05		728		-->		00:13:07		473		Something's burning. 
+		175		00:13:08		358		-->		00:13:10		102		I can smell smoke. Can you? 
+		176		00:13:12		324		-->		00:13:14		567		There's nothing burning, Jean-Luc. 
+		177		00:13:16		998		-->		00:13:19		575		That was just part of my memory. 
+		178		00:13:20		464		-->		00:13:22		707		Memory or nightmare? 
+		179		00:13:23		970		-->		00:13:27		757		It was strong, whatever it was. Ready, Number One? 
+		180		00:13:27		894		-->		00:13:30		731		Staff's waiting, if Dr Crusher approves. 
+		181		00:13:30		857		-->		00:13:33		268		I'll do better than that. I'll go along. 
+		182		00:13:36		910		-->		00:13:40		033		We were traveling through the Maxia system. 
+		183		00:13:40		167		-->		00:13:44		464		An unidentified ship appeared and fired on us, point-blank range. 
+		184		00:13:44		591		-->		00:13:46		087		Where did it come from? 
+		185		00:13:46		220		-->		00:13:49		840		It must have been lying in some deep moon crater. 
+		186		00:13:49		976		-->		00:13:54		025		First attack damaged the shields. In the confusion, they hit us again. 
+		187		00:13:54		151		-->		00:13:57		356		- No clue who they were? - No names, no reason. 
+		188		00:13:57		490		-->		00:14:01		955		Can you identify them, Vigo? lf they come a second time... 
+		189		00:14:02		082		-->		00:14:03		197		Sir, who's Vigo? 
+		190		00:14:03		334		-->		00:14:05		495		My weapons officer on the Stargazer. 
+		191		00:14:10		764		-->		00:14:12		806		I'm getting caught up in this. 
+		192		00:14:13		687		-->		00:14:15		812		Your shields were failing, sir. 
+		193		00:14:17		068		-->		00:14:19		277		I... improvised. 
+		194		00:14:19		406		-->		00:14:22		326		With the enemy vessel coming in for the kill, 
+		195		00:14:22		453		-->		00:14:26		075		I ordered a sensor bearing. When it made the return arc... 
+		196		00:14:26		210		-->		00:14:30		377		You performed what Starfleet texts now call the Picard Maneuver. 
+		197		00:14:30		509		-->		00:14:32		968		I did what any good helmsman would. 
+		198		00:14:33		098		-->		00:14:38		096		Dropped into high warp, stopped right off the enemy's bow, and fired! 
+		199		00:14:38		232		-->		00:14:40		025		Blowing into maximum warp, you appeared for an instant to be in two places at once. 
+		201		00:14:43		867		-->		00:14:45		993		Our attacker fired on the wrong one. 
+		202		00:14:46		665		-->		00:14:50		499		"I did what any good helmsman would"! You did it first, sir. 
+		203		00:14:50		630		-->		00:14:53		302		It was a save-our-skins maneuver. 
+		204		00:14:55		222		-->		00:14:57		596		We were finished. On fire. 
+		205		00:14:57		726		-->		00:14:59		768		We had to abandon ship. 
+		206		00:14:59		898		-->		00:15:04		362		We limped through space in shuttles for weeks before we were picked up. 
+		207		00:15:06		076		-->		00:15:09		697		I haven't thought about this for years. 
+		208		00:15:09		832		-->		00:15:13		964		Sir, the Ferengi are waiting for us to take possession of the Stargazer. 
+		209		00:15:14		842		-->		00:15:18		545		- I want to go over to her. - I understand, sir. 
+		210		00:15:18		683		-->		00:15:21		436		As soon as my people make sure she's safe. 
+		211		00:15:21		563		-->		00:15:24		269		And after I have another look at you. 
+		212		00:15:56		820		-->		00:15:59		065		USS Stargazer. 
+		213		00:15:59		200		-->		00:16:01		075		Constellation class. 
+		214		00:16:01		204		-->		00:16:05		751		Starfleet Registry NCC-2893. 
+		215		00:16:09		761		-->		00:16:14		308		I activated the emergency power cells. Amazing they still work. 
+		216		00:16:17		275		-->		00:16:20		979		The rest of this ship is clear of surprises, Lt Yar. 
+		217		00:16:21		658		-->		00:16:26		823		I read of this ship at the Academy. I never dreamed I'd ever be on her. 
+		218		00:16:26		960		-->		00:16:29		168		Yar to Enterprise. All clear, sir. 
+		219		00:16:48		792		-->		00:16:50		417		Hello, old friend. 
+		220		00:17:09		830		-->		00:17:12		668		You'll find this most intriguing, sir. 
+		221		00:17:12		795		-->		00:17:14		623		What did you find, Data? 
+		222		00:17:14		756		-->		00:17:17		963		The last entry, dated nine years ago, sir. By you. 
+		223		00:17:19		891		-->		00:17:22		764		"We are forced to abandon our starship." 
+		224		00:17:22		896		-->		00:17:25		472		"May she find her way without us." 
+		225		00:17:26		153		-->		00:17:27		696		Apparently she did, sir. 
+		226		00:17:32		414		-->		00:17:36		035		- How do you feel, Captain? - I'm fine, Doctor. 
+		227		00:17:36		171		-->		00:17:40		504		Lt Yar, run a structural analysis on the Stargazer for an impulse tow. 
+		228		00:17:40		638		-->		00:17:44		056		Data, download all computers to the Enterprise and file. 
+		229		00:17:46		065		-->		00:17:48		771		I'm going to look at my old cabin. 
+		230		00:18:12		280		-->		00:18:15		782		Try this, hero of Maxia! 
+		231		00:18:27		099		-->		00:18:28		511		Captain? 
+		232		00:18:29		269		-->		00:18:33		935		Another headache? This worries me. I want you back on the Enterprise. 
+		233		00:18:34		070		-->		00:18:35		185		But my things... 
+		234		00:18:35		322		-->		00:18:38		326		I'll see they're sent to your Enterprise quarters. 
+		235		00:18:45		383		-->		00:18:49		169		Enterprise now taking possession of Stargazer, Kazago. 
+		236		00:18:49		306		-->		00:18:51		182		Permission granted. 
+		237		00:18:52		771		-->		00:18:56		938		It was quite a bargain. I thought the Ferengi always made a profit. 
+		238		00:19:01		329		-->		00:19:03		702		Subwarp speed for towing, La Forge. 
+		239		00:19:03		833		-->		00:19:05		033		Aye, sir. 
+		240		00:19:08		425		-->		00:19:10		633		Starfleet has answered our request. 
+		241		00:19:10		762		-->		00:19:15		808		A tug will meet us and tow the Stargazer back to Xendi Starbase 9. 
+		242		00:19:15		939		-->		00:19:17		565		Very well, Data. 
+		243		00:19:20		740		-->		00:19:24		076		- How was it, Captain? - Very strange, Number One. 
+		244		00:19:24		205		-->		00:19:28		669		Like going back to the house you grew up in, but no one's home. 
+		245		00:19:29		297		-->		00:19:32		669		- Except phantoms of the past. - It has troubled you? 
+		246		00:19:35		058		-->		00:19:37		812		Not half as much as this damned headache. 
+		247		00:19:40		234		-->		00:19:41		979		Take over, Number One. 
+		248		00:19:43		698		-->		00:19:44		731		Aye, sir. 
+		249		00:19:48		290		-->		00:19:49		454		What's wrong? 
+		250		00:19:53		509		-->		00:19:55		337		I wish I could say. 
+		251		00:20:21		268		-->		00:20:23		843		Shields weakening, Captain. 
+		252		00:20:23		981		-->		00:20:25		181		Torpedoes armed. 
+		253		00:20:26		445		-->		00:20:28		106		Where are they? 
+		254		00:20:28		991		-->		00:20:30		534		Oh, my God, sir! 
+		255		00:20:31		496		-->		00:20:33		039		Fire! 
+		256		00:20:37		841		-->		00:20:39		586		What is it, Data? 
+		257		00:20:42		766		-->		00:20:44		179		Why all the mystery? 
+		258		00:20:44		311		-->		00:20:49		392		The records of the Stargazer. What the Ferengi call the Battle of Maxia. 
+		259		00:20:49		529		-->		00:20:53		197		The Captain's personal log contains a much different version of that conflict than the official account. 
+		261		00:20:56		416		-->		00:20:57		663		What are you saying? 
+		262		00:20:57		795		-->		00:21:01		083		It appears that the starship which Capt Picard attacked 
+		263		00:21:01		217		-->		00:21:04		424		- had been under a flag of truce. - What? 
+		264		00:21:04		557		-->		00:21:08		094		He destroyed the ship without notice or provocation. 
+		265		00:21:08		230		-->		00:21:10		854		What about the fire on the Stargazer? 
+		266		00:21:10		986		-->		00:21:13		739		- An accident in Engineering. - And what proof? 
+		267		00:21:13		866		-->		00:21:16		537		It is logged in his own voice, sir. 
+		268		00:21:19		376		-->		00:21:21		750		Would you care to hear it, sir? 
+		269		00:21:23		132		-->		00:21:24		249		Sir? 
+		270		00:21:31		691		-->		00:21:34		230		This is a confession given by me, 
+		271		00:21:34		362		-->		00:21:37		699		Jean-Luc Picard, commanding USS Stargazer. 
+		272		00:21:37		827		-->		00:21:41		198		- What is this? - I don't know. Sounds like you. 
+		273		00:21:41		333		-->		00:21:44		752		- It is! - I refuse to believe you said that. 
+		274		00:21:45		550		-->		00:21:50		298		I must have mistaken their subspace antenna for a weapons cluster. 
+		275		00:21:50		433		-->		00:21:53		223		Unfortunately, I fired our main phasers and our direct hit destroyed the unknown vessel. 
+		277		00:21:57		572		-->		00:22:02		487		I assume they simulated your voice. I already put Data to work on it. 
+		278		00:22:03		290		-->		00:22:08		751		I never made that log entry, but it leaves you with a duty to perform. 
+		279		00:22:10		178		-->		00:22:13		182		I know, sir. I must report to Starfleet. 
+		280		00:22:13		309		-->		00:22:16		811		That's at least one day for communication to reach there. 
+		281		00:22:16		940		-->		00:22:20		147		And one more day for their answer to return. 
+		282		00:22:22		075		-->		00:22:27		205		I'd like the truth of this by then. I'd hate to prepare a formal defense. 
+		283		00:22:27		335		-->		00:22:30		505		- They can't ask for your command. - Why not? 
+		284		00:22:30		633		-->		00:22:33		636		With the Ferengi making friendship overtures, 
+		285		00:22:33		764		-->		00:22:36		517		I'd be a severe embarrassment to Starfleet. 
+		286		00:22:36		643		-->		00:22:39		482		I'm sure the Ferengi are behind the faked log. 
+		287		00:22:39		608		-->		00:22:41		768		No wonder they're waiting out there. 
+		288		00:22:41		903		-->		00:22:43		149		Headache back, sir? 
+		289		00:22:44		200		-->		00:22:45		826		Damn! 
+		290		00:22:47		080		-->		00:22:48		873		I'll call the Doctor again. 
+		291		00:22:49		000		-->		00:22:52		704		It's no wonder, with all this going on. Try to relax. 
+		292		00:23:01		940		-->		00:23:04		185		This is a confession given by me, 
+		293		00:23:04		321		-->		00:23:07		324		Jean-Luc Picard, commanding USS Stargazer, in the hopes that my belated honesty will be considered by Starfleet,  when judging my actions during a confrontation  with an unidentified vessel. 
+		297		00:23:17		470		-->		00:23:20		045		Open hailing frequencies, Geordi. 
+		298		00:23:20		183		-->		00:23:23		186		I'll take it in the ready room. Secure channel. 
+		299		00:23:24		692		-->		00:23:26		317		Secure, sir. 
+		300		00:23:27		112		-->		00:23:29		866		Starship Ferengi, this is Cmdr Riker here. 
+		301		00:23:29		992		-->		00:23:32		913		I'd like to speak to First Officer Kazago. 
+		302		00:23:33		040		-->		00:23:34		868		A problem, Riker? 
+		303		00:23:35		002		-->		00:23:36		413		Are our channels secure? 
+		304		00:23:38		175		-->		00:23:39		884		It is now. 
+		305		00:23:40		011		-->		00:23:42		800		You know the details of the Battle of Maxia? 
+		306		00:23:42		933		-->		00:23:45		427		Capt Bok has made me aware of it. 
+		307		00:23:45		563		-->		00:23:48		235		The infamy of your Picard is now known. 
+		308		00:23:48		360		-->		00:23:49		356		Infamy? 
+		309		00:23:49		487		-->		00:23:54		402		I'd call the wanton destruction of an unarmed vessel infamy. 
+		310		00:23:54		538		-->		00:23:56		781		And if I produced evidence that Capt Picard's log entry was falsified... 
+		312		00:24:00		174		-->		00:24:04		092		I hardly imagine you contacted me to discuss an ancient battle. 
+		313		00:24:04		223		-->		00:24:06		930		- What do you want of me? - One question. 
+		314		00:24:07		771		-->		00:24:10		894		As you humans say, I'm all ears. 
+		315		00:24:11		027		-->		00:24:13		699		First Officer to First Officer, Kazago. 
+		316		00:24:14		784		-->		00:24:17		788		If your Capt Bok knew about this, why this peaceful meeting to present the Stargazer? 
+		318		00:24:21		880		-->		00:24:27		045		We give back your derelict warship and you accuse us of crime, Riker? 
+		319		00:24:27		182		-->		00:24:29		757		I can bear no more insults! 
+		320		00:24:38		787		-->		00:24:40		828		Yes, who the hell is it? 
+		321		00:24:43		588		-->		00:24:47		920		- Not resting, Captain? - More like dying, Doctor. 
+		322		00:24:48		054		-->		00:24:49		597		Over here. 
+		323		00:24:55		484		-->		00:24:57		443		What is wrong with me? 
+		324		00:24:57		572		-->		00:25:02		321		I wish to hell I knew, but something unusual is definitely happening. 
+		325		00:25:02		455		-->		00:25:05		376		Doctors say the obvious like it's a revelation. 
+		326		00:25:05		503		-->		00:25:08		078		Captains always act like they're immortal. 
+		327		00:25:13		017		-->		00:25:14		761		No! 
+		328		00:25:34		640		-->		00:25:37		727		You didn't tell me it had been this bad. 
+		329		00:25:37		855		-->		00:25:41		060		It wasn't this bad. But it's getting worse. 
+		330		00:25:41		194		-->		00:25:43		022		This should help a little. 
+		331		00:25:50		587		-->		00:25:54		718		It must be some emotional pressure connected with the Stargazer. 
+		332		00:25:55		386		-->		00:25:57		216		I got this headache long before I even knew my old ship still existed. 
+		334		00:26:04		362		-->		00:26:06		819		Still, perhaps you're partly right. 
+		335		00:26:08		202		-->		00:26:10		363		Want to talk about it? 
+		336		00:26:11		250		-->		00:26:13		244		I'm here. 
+		337		00:26:13		963		-->		00:26:19		258		The fight at Maxia. I destroyed an entire vessel. An entire crew. 
+		338		00:26:20		850		-->		00:26:22		476		Did you have a choice? 
+		339		00:26:23		147		-->		00:26:25		556		I don't know any more. I don't know. 
+		340		00:26:28		156		-->		00:26:31		160		Cmdr Riker told me about the altered log if that's troubling you. 
+		342		00:26:36		087		-->		00:26:38		331		The last three nights, I've... 
+		343		00:26:40		053		-->		00:26:41		881		...Iíve heard these voices. 
+		344		00:26:44		019		-->		00:26:46		690		I'm on the bridge of my old ship. 
+		345		00:26:47		567		-->		00:26:51		485		There's fire all around me. The klaxons, smoke. 
+		346		00:26:53		202		-->		00:26:55		243		And then I give the order. 
+		347		00:26:56		960		-->		00:26:59		631		And now the Stargazer is really here. 
+		348		00:27:00		507		-->		00:27:03		381		And that log... Am I going crazy? 
+		349		00:27:06		685		-->		00:27:11		518		Was I in my right mind at Maxia? Am I in my right mind now? 
+		350		00:27:22		631		-->		00:27:24		591		What was that? 
+		351		00:27:24		719		-->		00:27:26		962		Something to let you sleep. 
+		352		00:27:31		189		-->		00:27:32		815		Yes, sleep. 
+		353		00:27:41		625		-->		00:27:43		251		Sleep... 
+		354		00:28:16		690		-->		00:28:18		850		Shields weakening, Captain! 
+		355		00:28:18		986		-->		00:28:21		027		Torpedoes armed. 
+		356		00:28:21		699		-->		00:28:23		528		Where are they? 
+		357		00:28:31		927		-->		00:28:37		056		And now, my dear Captain, you are ready to live the past. 
+		358		00:28:40		275		-->		00:28:42		316		Where did they come from? 
+		359		00:28:42		446		-->		00:28:44		820		Phasers, sir? 
+		360		00:28:49		460		-->		00:28:51		500		What should we do, sir? 
+		361		00:28:51		630		-->		00:28:53		588		Should we fire back? 
+		362		00:28:54		468		-->		00:28:56		214		Fire, Captain? 
+		363		00:28:59		060		-->		00:29:01		517		You will injure yourself, as you once injured me. 
+		365		00:29:07		910		-->		00:29:09		703		Sir! 
+		366		00:29:11		166		-->		00:29:12		911		Damage report. 
+		367		00:29:13		044		-->		00:29:18		126		Fusion generator under surge control, sir! Power systems failing. 
+		368		00:29:18		262		-->		00:29:20		636		Sensor beam bearing on hostile ship! 
+		369		00:29:20		767		-->		00:29:22		392		Seven, mark 19, sir. 
+		370		00:29:23		355		-->		00:29:25		480		Phasers, sir? 
+		371		00:29:26		611		-->		00:29:28		652		Ready phasers, and lock! 
+		372		00:29:28		781		-->		00:29:30		741		Stand by on warp nine. 
+		373		00:29:30		869		-->		00:29:35		333		Heading... seven-seven, mark 20. 
+		374		00:29:36		839		-->		00:29:38		251		Engage! 
+		375		00:29:40		178		-->		00:29:41		803		Steady! 
+		376		00:29:42		473		-->		00:29:44		100		Now, reverse and stop! 
+		377		00:29:44		686		-->		00:29:46		597		Phasers fire, torpedoes away! 
+		378		00:29:55		623		-->		00:29:57		249		Fire. 
+		379		00:30:07		520		-->		00:30:10		394		By comparing the Stargazer's main computer log with Capt Picard's personal log, 
+		381		00:30:12		613		-->		00:30:15		106		I found some discrepancies, sir. 
+		382		00:30:15		242		-->		00:30:16		442		What does that mean? 
+		383		00:30:16		579		-->		00:30:21		043		All information is time-coded. The bits produce an aggregate... 
+		384		00:30:21		170		-->		00:30:24		756		I don't want a computer-science lesson. Bottom line. 
+		385		00:30:24		886		-->		00:30:27		260		One of these two logs is a forgery. 
+		386		00:30:27		390		-->		00:30:31		142		Correction. The log just found aboard the Stargazer is a forgery. 
+		387		00:30:31		273		-->		00:30:34		893		As I said, that is one of them, is it not? 
+		388		00:30:36		282		-->		00:30:37		314		Captain! 
+		389		00:30:39		830		-->		00:30:41		456		You're looking better, sir. 
+		390		00:30:41		583		-->		00:30:45		419		A little sleep, thanks to the good Doctor, works wonders. 
+		391		00:30:46		509		-->		00:30:48		467		What report on the logs? 
+		392		00:30:48		596		-->		00:30:51		600		Whoever tampered with your log was clever. 
+		393		00:30:51		727		-->		00:30:54		564		But clumsy. It's definitely a fabrication. 
+		394		00:30:55		902		-->		00:31:00		982		Number One, I'd like you to take a look at this brain-scan graph... 
+		395		00:31:01		119		-->		00:31:04		372		- What are you doing here? - Aren't I the Captain? 
+		396		00:31:04		501		-->		00:31:07		124		- Yes, but... - Thank you for the confirmation. 
+		397		00:31:07		589		-->		00:31:11		805		But now, except for Riker, if you'd all return to your stations. 
+		398		00:31:12		682		-->		00:31:14		842		- Is that clear? - Sir. 
+		399		00:31:20		113		-->		00:31:23		283		You too, Doctor. I have business with the Commander. 
+		400		00:31:24		079		-->		00:31:25		907		Under protest, sir. 
+		401		00:31:31		968		-->		00:31:33		547		You have orders for me? 
+		402		00:31:33		679		-->		00:31:36		683		Release the Stargazer from the tractor beam. 
+		403		00:31:36		811		-->		00:31:39		185		- Sir? - The tractor beam. 
+		404		00:31:39		315		-->		00:31:40		727		Sir, are you abandoning? 
+		405		00:31:40		859		-->		00:31:44		446		No. But her inertia will carry the Stargazer along with us. 
+		406		00:31:45		618		-->		00:31:48		456		Or did you sleep through the Academy lecture on the conservation of tractor-beam power? 
+		408		00:31:51		713		-->		00:31:54		716		No, sir. I'll release her, of course. 
+		409		00:32:10		206		-->		00:32:13		292		Obviously, there's some thought-process disorder. 
+		410		00:32:13		420		-->		00:32:17		041		But I can't find a physical reason for it. Anything? 
+		411		00:32:17		928		-->		00:32:21		549		I'm puzzled, too. I keep sensing random thoughts. 
+		412		00:32:21		685		-->		00:32:25		271		But two sets of them. As if they were his, but intermixed with other thoughts which are also his. 
+		414		00:32:30		368		-->		00:32:34		155		- I'm busy, Wesley. - I know, but this is important. 
+		415		00:32:34		292		-->		00:32:37		996		I was at the sensors in Engineering, trying sensitivity tests... 
+		416		00:32:38		132		-->		00:32:41		052		Does this have something to do with Capt Picard? 
+		417		00:32:41		179		-->		00:32:44		219		Yes, ma'am. If this is what you're talking about. 
+		418		00:32:45		062		-->		00:32:48		564		I don't know about brain scans, but I glanced at these. 
+		419		00:32:48		693		-->		00:32:51		614		I noticed that these patterns are the same as the low-intensity transmissions from the Ferengi ship. 
+		421		00:32:55		707		-->		00:32:59		542		I went back and checked. They're exactly the same. 
+		422		00:32:59		672		-->		00:33:01		999		- What kind of transmissions? - I don't know. 
+		423		00:33:02		135		-->		00:33:04		545		Engineering has nothing like it on record. 
+		424		00:33:04		682		-->		00:33:09		728		- Let's get to the Captain. - No, they may affect him. To Riker. 
+		425		00:33:13		239		-->		00:33:15		067		You're welcome, ladies. 
+		426		00:33:16		370		-->		00:33:17		782		Adults! 
+		427		00:33:24		844		-->		00:33:26		304		The Captain? 
+		428		00:33:26		430		-->		00:33:29		968		Resting, after ordering you to return to your duty stations. 
+		429		00:33:30		104		-->		00:33:33		558		There have been some... Did he say low intensity? 
+		430		00:33:34		820		-->		00:33:38		774		Unusual low-intensity transmissions from the Ferengi vessel. 
+		431		00:33:38		911		-->		00:33:40		407		- Did who say? - My son. 
+		432		00:33:40		539		-->		00:33:42		618		Transmissions which exactly match certain anomalies found in the Captain's scans. 
+		434		00:33:46		008		-->		00:33:50		341		Something over there is affecting the Captain's thought patterns. 
+		435		00:33:52		269		-->		00:33:55		273		Computer, give me a location on Capt Picard. 
+		436		00:33:55		401		-->		00:33:57		858		Capt Picard is in transporter room three. 
+		437		00:33:58		949		-->		00:34:00		777		What? 
+		438		00:34:00		910		-->		00:34:03		914		Emergency order to transporter room three. 
+		439		00:34:04		042		-->		00:34:09		123		New information. Capt Picard is no longer aboard the Enterprise. 
+		440		00:34:34		180		-->		00:34:36		674		Welcome back, Captain. 
+		441		00:34:37		395		-->		00:34:39		188		What is happening? 
+		442		00:34:39		315		-->		00:34:41		273		Shields up, computer. 
+		443		00:34:43		615		-->		00:34:47		746		- What are you doing? - Collecting on an old debt. 
+		444		00:34:52		047		-->		00:34:54		421		Stargazer, Captain, respond! 
+		445		00:34:54		551		-->		00:34:57		045		Shields up. No way to beam over. 
+		446		00:34:57		182		-->		00:34:59		639		I'm reading something very strange here. 
+		447		00:34:59		769		-->		00:35:03		687		A low-intensity beam of intermittent pulse, inside this starship. 
+		448		00:35:03		819		-->		00:35:05		896		I have a fix on it, sir. 
+		449		00:35:06		866		-->		00:35:08		908		Inside Capt Picard's quarters. 
+		450		00:35:10		289		-->		00:35:13		328		You transferred his belongings from the Stargazer? 
+		451		00:35:13		461		-->		00:35:16		335		Yes. Including a fairly heavy chest. 
+		452		00:35:16		467		-->		00:35:17		879		Take a look, fast! 
+		453		00:35:18		012		-->		00:35:21		513		Commander, Stargazer is now powering up, sir. 
+		454		00:35:26		652		-->		00:35:32		945		I have been waiting a long nine years for this, Picard. 
+		455		00:35:36		004		-->		00:35:39		956		- I don't know what you mean. - Do you not, human? 
+		456		00:35:41		848		-->		00:35:47		012		Can you not remember the crime you committed against my very blood? 
+		457		00:35:47		900		-->		00:35:52		650		- You murdered my only son! - Your son? 
+		458		00:35:52		784		-->		00:35:56		406		He was commander of the ship you destroyed. 
+		459		00:35:56		541		-->		00:35:58		536		On his first voyage as DaiMon. 
+		460		00:35:58		670		-->		00:36:00		795		The ship...? 
+		461		00:36:00		924		-->		00:36:04		130		The Ferengi vessel that attacked me. 
+		462		00:36:05		641		-->		00:36:07		766		Or is it about to attack me? 
+		463		00:36:07		895		-->		00:36:12		478		And I have spent these years, searching... seeking... 
+		464		00:36:13		364		-->		00:36:15		406		...a proper blood revenge! 
+		465		00:36:17		330		-->		00:36:19		620		And I found it! 
+		466		00:36:25		344		-->		00:36:27		504		I am rich, Picard. 
+		467		00:36:28		392		-->		00:36:32		939		Yet, two of these cost me the profits of an entire life! 
+		468		00:36:33		693		-->		00:36:37		742		You are back in command of the Stargazer, Picard. 
+		469		00:36:38		494		-->		00:36:41		913		Its computers will answer your orders. 
+		470		00:36:44		964		-->		00:36:47		539		Die well, Captain! 
+		471		00:36:54		983		-->		00:36:58		936		First Officer's log. Capt Picard has beamed aboard the Stargazer, which is moving away from us under its own power. 
+		473		00:37:02		288		-->		00:37:05		457		Enterprise to Stargazer, please respond! 
+		474		00:37:14		351		-->		00:37:18		899		Enterprise to Capt Picard aboard Stargazer. Please answer! 
+		475		00:37:23		536		-->		00:37:25		910		Data, what was Stargazer's condition? 
+		476		00:37:26		040		-->		00:37:30		920		Fire damage to interior surfaces, but no main systems were crippled. 
+		477		00:37:31		050		-->		00:37:32		248		Armaments, Lt Yar? 
+		478		00:37:32		385		-->		00:37:34		213		Six photon torpedoes short from when the Captain destroyed the Ferengi. 
+		480		00:37:37		562		-->		00:37:39		223		Otherwise fully armed. 
+		481		00:37:40		024		-->		00:37:43		942		- What is it, La Forge? - A network of miniature circuitry. 
+		482		00:37:44		074		-->		00:37:47		694		Incredibly complex. Maybe an amplifier. 
+		483		00:37:51		921		-->		00:37:54		379		Where was it in the Captain's quarters? 
+		484		00:37:54		509		-->		00:37:58		974		His chest from the Stargazer, sir? Where I left it. He hadn't unpacked. 
+		485		00:37:59		101		-->		00:38:01		392		He may not have known it was there. 
+		486		00:38:01		523		-->		00:38:05		690		If this can pick up or magnify thought-altering transmissions... 
+		487		00:38:05		822		-->		00:38:08		530		It could prepare him for what's happening now. 
+		488		00:38:08		661		-->		00:38:11		070		Let's find out. Or try to. 
+		489		00:38:11		207		-->		00:38:13		700		Contact the Ferengi vessel, Lieutenant. 
+		490		00:38:13		837		-->		00:38:15		796		Hailing frequencies open, sir. 
+		491		00:38:15		925		-->		00:38:20		257		Enterprise to Ferengi vessel. We transmit visually. Do you respond? 
+		492		00:38:21		769		-->		00:38:24		772		Why is our gift to you under power, human? 
+		493		00:38:24		899		-->		00:38:29		031		- I'll discuss it with your Captain. - He is in our laboratory. 
+		494		00:38:29		157		-->		00:38:30		985		Where is your Captain? 
+		495		00:38:31		119		-->		00:38:33		113		He's beamed aboard the Stargazer. 
+		496		00:38:33		248		-->		00:38:36		501		I'm wondering if this has something to do with it. 
+		497		00:38:38		048		-->		00:38:40		292		How do you have possession of that? 
+		498		00:38:40		428		-->		00:38:44		014		It was in our Captain's chest, from the Stargazer. 
+		499		00:38:44		936		-->		00:38:49		187		It is a forbidden device. A... thought-maker. 
+		500		00:38:49		320		-->		00:38:52		442		If your Captain is criminal enough to own one... 
+		501		00:38:52		575		-->		00:38:55		745		You know who controls those spheres. 
+		502		00:38:55		873		-->		00:39:00		669		I ask you again. First Officer to First Officer. What's going on? 
+		503		00:39:01		551		-->		00:39:06		300		It is not seemly to question one's own DaiMon, Riker. 
+		504		00:39:06		434		-->		00:39:08		595		I am not prepared to do that. 
+		505		00:39:08		731		-->		00:39:11		484		- Sir, I have the Stargazer. - Switch, now! 
+		506		00:39:13		405		-->		00:39:15		982		Enterprise to Picard. 
+		507		00:39:16		119		-->		00:39:20		167		Do not attack again! We're on a peaceful mission! 
+		508		00:39:20		836		-->		00:39:22		498		Give your identity! 
+		509		00:39:23		550		-->		00:39:25		793		You force us to defend ourselves. 
+		510		00:39:27		097		-->		00:39:28		926		Phasers full up. 
+		511		00:39:29		060		-->		00:39:31		434		Arm torpedoes. 
+		512		00:39:31		564		-->		00:39:33		938		Why aren't the shields at full power? 
+		513		00:39:37		116		-->		00:39:41		033		- We've lost him, sir. - When he put up the shields. 
+		514		00:39:44		547		-->		00:39:47		919		Damn! I said get the fusion generators under surge control! 
+		515		00:39:48		054		-->		00:39:50		427		You're moving much too slowly! 
+		516		00:39:50		558		-->		00:39:52		302		Arm the torpedoes, man! 
+		517		00:39:54		649		-->		00:39:57		320		Vigo, get a fire-control party up here! 
+		518		00:39:58		906		-->		00:40:00		865		Shields weakening, Captain. 
+		519		00:40:01		954		-->		00:40:03		995		Fusion generator on line. 
+		520		00:40:04		125		-->		00:40:07		330		- Weapons report? - Phasers coming to full charge. 
+		521		00:40:07		464		-->		00:40:08		794		Torpedoes armed. 
+		522		00:40:09		677		-->		00:40:12		965		Who are they? Identify them. 
+		523		00:40:13		099		-->		00:40:15		889		They're coming for a third pass at us. 
+		524		00:40:16		022		-->		00:40:18		230		We can't take another hit, Captain. 
+		525		00:40:21		365		-->		00:40:24		571		Sir, I now feel anger from our Captain. 
+		526		00:40:25		330		-->		00:40:28		120		Fury over whatever he is reliving out there. 
+		527		00:40:28		253		-->		00:40:30		377		The Battle of Maxia, sir. 
+		528		00:40:30		841		-->		00:40:33		678		The Picard Maneuver. What is the defense, Data? 
+		529		00:40:33		804		-->		00:40:36		892		- There is no defense, sir. - Devise one. Fast! 
+		530		00:40:41		527		-->		00:40:44		614		First Officer Kazago to human Riker. 
+		531		00:40:44		741		-->		00:40:45		857		Not now, Kazago. 
+		532		00:40:45		993		-->		00:40:48		368		We do not wish to become involved in what is clearly a Federation matter. 
+		534		00:40:51		170		-->		00:40:53		460		Fine, fine. Enterprise out. 
+		535		00:40:53		591		-->		00:40:57		343		You should know that DaiMon Bok no longer commands this vessel. 
+		536		00:40:59		978		-->		00:41:02		222		His First Officer has confined him for engaging in this unprofitable venture. 
+		538		00:41:07		701		-->		00:41:09		944		Good luck, First Officer Riker. 
+		539		00:41:14		170		-->		00:41:16		462		I have computed a possibility. 
+		540		00:41:16		592		-->		00:41:18		717		Deep space contains trace gases. 
+		541		00:41:18		846		-->		00:41:22		265		A vessel in the Picard Maneuver might seem to disappear, but our sensors can locate compression of these gases. 
+		543		00:41:25		692		-->		00:41:28		233		An aiming point to blow up our Captain? 
+		544		00:41:28		364		-->		00:41:32		495		This class starship has enough power to use our tractor beam on it. 
+		545		00:41:32		621		-->		00:41:34		949		Seize it. Limit its field of fire. 
+		546		00:41:35		085		-->		00:41:40		000		Concentrate shields at that point. Make it so. I hope you're right. 
+		547		00:41:40		135		-->		00:41:42		214		No question of it, sir. 
+		548		00:41:44		018		-->		00:41:45		643		Stand by. 
+		549		00:41:51		615		-->		00:41:53		656		Lock on tractor beam. 
+		550		00:41:56		708		-->		00:41:58		168		Ready phasers. 
+		551		00:41:58		294		-->		00:42:00		454		Capt Picard. Listen to me. 
+		552		00:42:04		055		-->		00:42:07		641		- Vigo, is that you? - It's Cmdr Riker, sir. 
+		553		00:42:07		770		-->		00:42:10		180		Captain, hear me! Look around. 
+		554		00:42:10		316		-->		00:42:13		070		The Ferengi are using thought devices on you. 
+		555		00:42:13		196		-->		00:42:15		072		Stand by. 
+		556		00:42:17		204		-->		00:42:18		201		Who is this? 
+		557		00:42:18		331		-->		00:42:23		211		It's Riker, sir. Your Number One. Look for a silver sphere. 
+		558		00:42:25		386		-->		00:42:27		047		Destroy it with your phaser! 
+		559		00:42:37		241		-->		00:42:38		867		Phaser... 
+		560		00:42:42		251		-->		00:42:43		876		A sphere. 
+		561		00:42:46		842		-->		00:42:48		920		- Bok used it. - Destroy it! 
+		562		00:42:49		973		-->		00:42:51		599		Phaser... 
+		563		00:42:53		396		-->		00:42:55		022		Destroy the sphere. 
+		564		00:43:23		786		-->		00:43:25		578		Are you alright, Captain? 
+		565		00:43:28		169		-->		00:43:29		795		Captain... ? 
+		566		00:43:31		717		-->		00:43:33		545		Captain, are you alright? 
+		567		00:43:39		022		-->		00:43:41		183		Where am I, Number One? 
+		568		00:43:41		319		-->		00:43:43		147		Aboard the Stargazer, sir. 
+		569		00:43:45		701		-->		00:43:49		073		- The sphere was controlling your... - Bok! 
+		570		00:43:50		084		-->		00:43:51		496		Where is Bok? 
+		571		00:43:51		629		-->		00:43:55		880		Removed from command. Placed under guard for his act of vengeance. 
+		572		00:43:56		012		-->		00:43:58		801		Seems there was no profit in it. 
+		573		00:43:59		894		-->		00:44:01		723		In revenge, there never is. 
+		574		00:44:08		243		-->		00:44:11		032		Let the dead rest. 
+		575		00:44:11		165		-->		00:44:12		993		And the past... 
+		576		00:44:14		296		-->		00:44:16		124		...remain the past. 
+		577		00:44:20		557		-->		00:44:22		184		Enterprise, lock on. 
+		578		00:44:23		897		-->		00:44:25		523		Beam me home, Riker. 

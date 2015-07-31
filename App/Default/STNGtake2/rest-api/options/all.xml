@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search:options xmlns:search="http://marklogic.com/appservices/search">
+  <search:quality-weight>0</search:quality-weight>
+  <search:search-option>unfiltered</search:search-option>
+  <search:page-length>10</search:page-length>
+  <search:term apply="term">
+    <search:empty apply="all-results"/>
+    <search:term-option>punctuation-insensitive</search:term-option>
+  </search:term>
+  <search:grammar>
+    <search:quotation>"</search:quotation>
+    <search:implicit>
+      <cts:and-query strength="20" xmlns:cts="http://marklogic.com/cts"/>
+    </search:implicit>
+    <search:starter strength="30" apply="grouping" delimiter=")">(</search:starter>
+    <search:starter strength="40" apply="prefix" element="cts:not-query">-</search:starter>
+    <search:joiner strength="10" apply="infix" element="cts:or-query" tokenize="word">OR</search:joiner>
+    <search:joiner strength="20" apply="infix" element="cts:and-query" tokenize="word">AND</search:joiner>
+    <search:joiner strength="30" apply="infix" element="cts:near-query" tokenize="word">NEAR</search:joiner>
+    <search:joiner strength="30" apply="near2" consume="2" element="cts:near-query">NEAR/</search:joiner>
+    <search:joiner strength="32" apply="boost" element="cts:boost-query" tokenize="word">BOOST</search:joiner>
+    <search:joiner strength="35" apply="not-in" element="cts:not-in-query" tokenize="word">NOT_IN</search:joiner>
+    <search:joiner strength="50" apply="constraint">:</search:joiner>
+    <search:joiner strength="50" apply="constraint" compare="LT" tokenize="word">LT</search:joiner>
+    <search:joiner strength="50" apply="constraint" compare="LE" tokenize="word">LE</search:joiner>
+    <search:joiner strength="50" apply="constraint" compare="GT" tokenize="word">GT</search:joiner>
+    <search:joiner strength="50" apply="constraint" compare="GE" tokenize="word">GE</search:joiner>
+    <search:joiner strength="50" apply="constraint" compare="NE" tokenize="word">NE</search:joiner>
+  </search:grammar>
+  <search:constraint name="season_number">
+    <search:range type="xs:int" facet="true">
+      <search:facet-option>item-order</search:facet-option>
+      <search:facet-option>ascending</search:facet-option>
+      <search:facet-option>limit=10</search:facet-option>
+      <search:element ns="" name="season_number"/>
+    </search:range>
+  </search:constraint>
+  <search:constraint name="character">
+    <search:range collation="http://marklogic.com/collation/" type="xs:string" facet="true">
+      <search:facet-option>frequency-order</search:facet-option>
+      <search:facet-option>descending</search:facet-option>
+      <search:facet-option>limit=10</search:facet-option>
+      <search:attribute ns="" name="character"/>
+      <search:element ns="" name="span"/>
+    </search:range>
+  </search:constraint>
+  <search:constraint name="episode_name">
+    <search:range collation="http://marklogic.com/collation/" type="xs:string" facet="true">
+      <search:facet-option>frequency-order</search:facet-option>
+      <search:facet-option>descending</search:facet-option>
+      <search:facet-option>limit=10</search:facet-option>
+      <search:element ns="" name="episode_name"/>
+    </search:range>
+  </search:constraint>
+  <search:constraint name="episode_number">
+    <search:range type="xs:int" facet="false">
+      <search:facet-option>frequency-order</search:facet-option>
+      <search:facet-option>descending</search:facet-option>
+      <search:facet-option>limit=10</search:facet-option>
+      <search:element ns="" name="episode_number"/>
+    </search:range>
+  </search:constraint>
+  <search:constraint name="timestamp">
+    <search:range type="xs:int" facet="true">
+      <search:bucket lt="799" ge="0" name="Beginning">Act I</search:bucket>
+      <search:bucket lt="1599" ge="800" name="Middle">Act II</search:bucket>
+      <search:bucket lt="2700" ge="1600" name="End">Act III</search:bucket>
+      <search:facet-option>item-order</search:facet-option>
+      <search:facet-option>descending</search:facet-option>
+      <search:facet-option>limit=10</search:facet-option>
+      <search:element ns="" name="timestamp"/>
+    </search:range>
+  </search:constraint>
+  <search:operator name="sort">
+    <search:state name="relevance">
+      <search:sort-order>
+	<search:score/>
+      </search:sort-order>
+    </search:state>
+    <search:state name="season_number">
+      <search:sort-order direction="descending" type="xs:int">
+	<search:element ns="" name="season_number"/>
+      </search:sort-order>
+      <search:sort-order>
+	<search:score/>
+      </search:sort-order>
+    </search:state>
+  </search:operator>
+  <search:transform-results apply="snippet">
+    <search:preferred-elements><search:element ns="" name="episode_name"/></search:preferred-elements>
+    <search:max-matches>2</search:max-matches>
+    <search:max-snippet-chars>150</search:max-snippet-chars>
+    <search:per-match-tokens>20</search:per-match-tokens>
+  </search:transform-results>
+  <search:return-query>1</search:return-query>
+  <search:operator name="results">
+    <search:state name="compact">
+      <search:transform-results apply="snippet">
+	<search:preferred-elements><search:element ns="" name="episode_name"/></search:preferred-elements>
+	<search:max-matches>2</search:max-matches>
+	<search:max-snippet-chars>150</search:max-snippet-chars>
+	<search:per-match-tokens>20</search:per-match-tokens>
+      </search:transform-results>
+    </search:state>
+    <search:state name="detailed">
+      <search:transform-results apply="snippet">
+	<search:preferred-elements><search:element ns="" name="episode_name"/></search:preferred-elements>
+	<search:max-matches>2</search:max-matches>
+	<search:max-snippet-chars>400</search:max-snippet-chars>
+	<search:per-match-tokens>30</search:per-match-tokens>
+      </search:transform-results>
+    </search:state>
+  </search:operator>
+  <search:values name="episode_number">
+    <search:range type="xs:int" facet="false">
+      <search:element ns="" name="episode_number"/>
+    </search:range>
+    <search:aggregate apply="min"/>
+    <search:aggregate apply="max"/>
+  </search:values>
+  <search:values name="season_number">
+    <search:range type="xs:int" facet="true">
+      <search:element ns="" name="season_number"/>
+    </search:range>
+    <search:aggregate apply="min"/>
+    <search:aggregate apply="max"/>
+  </search:values>
+  <search:values name="timestamp">
+    <search:range type="xs:int" facet="true">
+      <search:element ns="" name="timestamp"/>
+    </search:range>
+    <search:aggregate apply="min"/>
+    <search:aggregate apply="max"/>
+  </search:values>
+  <search:extract-metadata>
+    <search:qname elem-ns="" elem-name="season_number"/>
+    <search:qname elem-ns="" elem-name="sub_content"/>
+    <search:constraint-value ref="character"/>
+    <search:constraint-value ref="episode_title"/>
+    <search:constraint-value ref="episode_number"/>
+    <search:constraint-value ref="season_number"/>
+    <search:constraint-value ref="timestamp"/>
+  </search:extract-metadata>
+  <annotation xmlns="http://marklogic.com/appservices/search">Delta options here</annotation>
+</search:options>

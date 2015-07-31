@@ -1,0 +1,459 @@
+		1		00:00:01		752		-->		00:00:06		173		Captain's log, stardate <stardate>41590</stardate>.5. 
+		2		00:00:06		340		-->		00:00:09		885		Having dropped off Counselor Troi for a visit home, we were fortunately close to the Sigma III system  when its Federation colony made an urgent call for medical help. 
+		5		00:00:18		018		-->		00:00:22		022		An accidental explosion has devastated a mining operation. 
+		6		00:00:22		189		-->		00:00:24		107		Include a burn unit with each kit. 
+		7		00:00:24		274		-->		00:00:28		153		Identify the most critically injured and beam them to cargo bay six. 
+		8		00:00:28		320		-->		00:00:32		074		- Dr Crusher, this is the Captain. - Dr Crusher here. 
+		9		00:00:32		241		-->		00:00:37		120		Additional information. The number of colonists at the site is 504. 
+		10		00:00:37		287		-->		00:00:40		582		- Are you prepared for that many? - We believe so, sir. 
+		11		00:00:40		749		-->		00:00:43		710		Captain, we are now at warp 9.1, sir. 
+		12		00:00:43		919		-->		00:00:46		880		We will be at the colony in 3.2 hours, sir. 
+		13		00:00:48		298		-->		00:00:51		009		Schematics suggest the explosion was caused by a methane-like gas seeping in from underground. 
+		15		00:00:54		429		-->		00:00:57		599		Captain, I'm picking up a force field. It's... 
+		16		00:01:05		190		-->		00:01:09		194		The Q entity. It's identical to the grid we encountered... 
+		17		00:01:09		361		-->		00:01:12		281		- It reads solid, sir. - Emergency. Full stop. 
+		18		00:01:12		447		-->		00:01:13		991		Reversing power, sir. 
+		19		00:01:14		658		-->		00:01:16		326		Not now, damn it, Q. 
+		20		00:01:16		493		-->		00:01:18		912		Shields and deflectors up, sir. 
+		21		00:01:26		795		-->		00:01:28		714		Now reading full stop, sir. 
+		22		00:01:30		465		-->		00:01:33		468		Humans. I thought by now you'd have scampered back to your own little star system. 
+		24		00:01:38		557		-->		00:01:42		811		If this is Q I'm addressing, we are on a mission of rescue... 
+		25		00:01:42		978		-->		00:01:47		191		We the Q have studied our contact with you, and are impressed. 
+		26		00:01:47		357		-->		00:01:48		942		We have much to discuss, including perhaps the realization of your most impossible dream. 
+		28		00:01:53		614		-->		00:01:58		452		Intriguing as that is, we are on an urgent journey. After, perhaps... 
+		29		00:01:58		619		-->		00:02:03		582		You will abandon it! My business with you takes precedence. 
+		30		00:02:04		500		-->		00:02:09		713		If my magnificence blinds you, then perhaps something more familiar. 
+		31		00:02:13		884		-->		00:02:17		012		Starfleet Admiral Q, at your service. 
+		32		00:02:40		619		-->		00:02:43		705		Space, the final frontier. 
+		33		00:02:45		415		-->		00:02:49		336		These are the voyages of the Starship Enterprise. 
+		34		00:02:49		503		-->		00:02:53		590		Its continuing mission, to explore strange new worlds... 
+		35		00:02:55		425		-->		00:02:59		096		...to seek out new life and new civilizations... 
+		36		00:03:00		013		-->		00:03:03		684		...to boldly go where no one has gone before. 
+		37		00:04:06		035		-->		00:04:08		120		Captain's log, supplemental. 
+		38		00:04:08		287		-->		00:04:12		541		Our rescue mission to Sigma III has been halted by an immense grid and an untimely visit from Q. 
+		40		00:04:16		837		-->		00:04:19		507		You're no Starfleet Admiral, Q. 
+		41		00:04:19		632		-->		00:04:24		804		Neither am I an Aldebaran serpent, Captain, but you accepted me as such. 
+		42		00:04:24		970		-->		00:04:26		889		He's got us there, Captain! 
+		43		00:04:27		056		-->		00:04:30		601		The redoubtable Cmdr Riker, whom I noticed before. 
+		44		00:04:30		768		-->		00:04:33		145		You seem to find this all very amusing. 
+		45		00:04:33		312		-->		00:04:38		359		I might, if we weren't on our way to help some suffering, dying humans... 
+		46		00:04:38		567		-->		00:04:41		403		Your species is always suffering and dying. 
+		47		00:04:41		570		-->		00:04:45		908		No, Lt Worf! Make no move against him unless I order it. 
+		48		00:04:47		118		-->		00:04:50		704		Pity! You might have learned an interesting lesson. 
+		49		00:04:50		871		-->		00:04:54		250		Macro head with a micro brain! 
+		50		00:04:56		168		-->		00:05:03		092		You said you had the realization of impossible dreams to offer us. 
+		51		00:05:04		427		-->		00:05:08		514		When this rescue is completed, I will listen to your proposal. 
+		52		00:05:08		681		-->		00:05:10		933		Subject to its being acceptable... 
+		53		00:05:11		100		-->		00:05:15		729		Subject to foolish human values? Picard, why do you distrust me so? 
+		54		00:05:16		355		-->		00:05:20		860		Why? At our first meeting, you seized my vessel. 
+		55		00:05:21		026		-->		00:05:23		696		You condemned all humans as savages and tried us in a post-atomic 21st-century court of horrors,  attacked my people and again seized my vessel! 
+		58		00:05:31		620		-->		00:05:35		624		And that angered you? "Seized my vessel!" 
+		59		00:05:35		791		-->		00:05:38		711		You interfered with our Farpoint mission. 
+		60		00:05:38		878		-->		00:05:42		339		You threatened to convict us as ignorant savages, if, while dealing with a powerful life form,  we made any mistake, and when we didn't... 
+		63		00:05:48		637		-->		00:05:50		890		The Q became interested in you. 
+		64		00:05:51		056		-->		00:05:54		560		Does no one here understand your good fortune? 
+		65		00:05:54		769		-->		00:05:56		645		"Seized my vessel!" 
+		66		00:05:56		812		-->		00:05:58		898		The complaints of a closed mind, too accustomed to military privileges. 
+		68		00:06:03		527		-->		00:06:08		699		But you, Riker, and I remember you well, what do you make of my offer? 
+		69		00:06:08		866		-->		00:06:11		368		We don't have time for these games. 
+		70		00:06:12		286		-->		00:06:16		165		Games? Did someone say games? 
+		71		00:06:17		083		-->		00:06:21		045		And, perchance for interest's sake, a deadly game? 
+		72		00:06:23		547		-->		00:06:25		549		To the game. 
+		73		00:06:34		683		-->		00:06:35		893		Where are we? 
+		74		00:06:40		898		-->		00:06:45		319		A Class-M world. Gravity and oxygen within our limits. 
+		75		00:06:46		529		-->		00:06:49		824		Twin moons. Where are we? 
+		76		00:06:51		659		-->		00:06:57		081		Considering the power demonstrated by Q the last time... anywhere. 
+		77		00:06:58		082		-->		00:07:00		251		Assuming this place even exists. 
+		78		00:07:00		418		-->		00:07:05		756		But it won't be boring. If Q is anything, he's imaginative. 
+		79		00:07:05		923		-->		00:07:08		634		Seems our Captain wasn't meant to be here. 
+		80		00:07:10		302		-->		00:07:12		304		Security, this is the Captain. 
+		81		00:07:13		889		-->		00:07:15		474		Security? 
+		82		00:07:18		686		-->		00:07:20		896		Engineering, this is the bridge. 
+		83		00:07:51		844		-->		00:07:54		054		Turbolift control, do you read? 
+		84		00:07:55		014		-->		00:07:56		599		This is the Captain. 
+		85		00:08:02		730		-->		00:08:04		315		Sir! Over there! 
+		86		00:08:05		441		-->		00:08:09		320		Join me, Riker. A good game needs rules and planning. 
+		87		00:08:10		654		-->		00:08:12		490		Didn't your own Hartley say, 
+		88		00:08:12		656		-->		00:08:15		993		"Nothing reveals humanity so well as the games it plays"? 
+		89		00:08:17		536		-->		00:08:19		246		Almost right. 
+		90		00:08:19		413		-->		00:08:22		875		Actually, you reveal yourselves best in how you play. 
+		91		00:08:26		921		-->		00:08:31		217		Sir, what he has in mind might provide us with vital information. 
+		92		00:08:59		912		-->		00:09:04		708		Incredible. I was just thinking about an old-fashioned lemonade. 
+		93		00:09:05		543		-->		00:09:09		755		And so it became that. An excellent thirst-quencher. 
+		94		00:09:09		922		-->		00:09:12		675		It gets rather hot out here on this plain. 
+		95		00:09:12		883		-->		00:09:14		677		What about my people? 
+		96		00:09:14		844		-->		00:09:17		054		Whatever they'd like, of course. 
+		97		00:09:36		240		-->		00:09:38		033		"Drink not with thine enemy." 
+		98		00:09:38		200		-->		00:09:42		955		The rigid Klingon code. That explains something of why you defeated them. 
+		99		00:09:45		249		-->		00:09:50		337		Still fascinated with the human past? Perhaps you're not that original. 
+		100		00:09:50		546		-->		00:09:53		924		Au contraire. It's the human future which intrigues us. 
+		101		00:09:54		091		-->		00:09:56		427		And it should concern you the most. 
+		102		00:09:56		594		-->		00:10:00		181		Of all the species, yours cannot abide stagnation. 
+		103		00:10:00		347		-->		00:10:04		769		Change is the heart of what you are. But into what? That's the question. 
+		104		00:10:04		935		-->		00:10:08		147		That is what humans call... a truism. 
+		105		00:10:08		314		-->		00:10:13		235		- You mean hardly original? - You're the one who said it. 
+		106		00:10:13		402		-->		00:10:17		907		While we're at it... this isn't part of any human future. 
+		107		00:10:18		073		-->		00:10:21		911		True. I borrowed this from your stodgy Captain's mind. 
+		108		00:10:22		078		-->		00:10:25		039		This is the dressing for a game we will play. 
+		109		00:10:25		206		-->		00:10:27		875		Now, games require rules, rewards, dangers, familiar settings. That sort of thing. 
+		111		00:10:31		337		-->		00:10:34		215		This isn't that familiar to me. Data? 
+		112		00:10:35		341		-->		00:10:40		596		This is from Europe's Napoleonic era. Late-18th, early-19th centuries. 
+		113		00:10:40		763		-->		00:10:43		432		This is a campaign-headquarters tent. 
+		114		00:10:43		557		-->		00:10:46		477		His uniform is that of a French Army marshal. 
+		115		00:10:46		644		-->		00:10:48		437		Outranking even an admiral. 
+		116		00:10:48		604		-->		00:10:52		274		Would I go from a Starfleet admiral to anything else? 
+		117		00:10:52		441		-->		00:10:54		235		Of course you wouldn't. 
+		118		00:10:54		944		-->		00:10:57		738		But Napoleonic equipment on an alien planet, one so different it has twin moons? 
+		120		00:11:00		407		-->		00:11:03		285		As you said, I am nothing if not imaginative. 
+		121		00:11:03		452		-->		00:11:05		413		The game should reflect that. 
+		122		00:11:05		579		-->		00:11:10		918		Shall it be a test of strength? Meaningless, since you have none. 
+		123		00:11:11		210		-->		00:11:15		631		A test of intelligence, then? Equally as meaningless! 
+		124		00:11:15		798		-->		00:11:20		594		But it needs risk, something to win. And something to lose. 
+		125		00:11:21		137		-->		00:11:24		598		If we must play a game, what would we win? 
+		126		00:11:24		765		-->		00:11:28		144		The greatest possible future you can imagine. 
+		127		00:11:28		310		-->		00:11:31		856		Which requires something totally disastrous if you lose. 
+		128		00:11:32		022		-->		00:11:34		525		The point of this game shall be, can any of you stay alive? 
+		130		00:11:37		528		-->		00:11:40		406		If your game is fair, we will. 
+		131		00:11:41		031		-->		00:11:42		950		For shame, Worf! 
+		132		00:11:43		117		-->		00:11:47		079		Fairness is such a human concept. Think imaginatively! 
+		133		00:11:47		246		-->		00:11:50		916		This game shall in fact be... completely unfair. 
+		134		00:11:51		125		-->		00:11:54		253		- You've gone too far! - Game penalty! 
+		135		00:11:57		798		-->		00:12:01		051		Where is she, Q? You can forget your game... 
+		136		00:12:01		218		-->		00:12:04		680		To use a 20th-century term, she's in a penalty box. 
+		137		00:12:04		847		-->		00:12:08		851		She'll remain there unharmed unless one of you merits a penalty. 
+		138		00:12:09		018		-->		00:12:11		437		Unfortunately, there's only one box. 
+		139		00:12:11		604		-->		00:12:15		566		If any of you are sent there, dear Tasha must give the box up. 
+		140		00:12:15		733		-->		00:12:17		777		And where does she go? 
+		141		00:12:18		402		-->		00:12:20		279		Into nothingness! 
+		142		00:12:21		155		-->		00:12:23		908		I entreat you to obey the rules of the game. 
+		143		00:12:24		074		-->		00:12:29		205		The only one who can destroy your Tasha now is you. 
+		144		00:12:57		027		-->		00:12:58		320		Captain's log... 
+		145		00:13:02		574		-->		00:13:04		994		Damn it. I can't even make a log entry. 
+		146		00:13:06		120		-->		00:13:08		330		I wish I could help you, Captain. 
+		147		00:13:11		125		-->		00:13:12		751		Where is everyone else? 
+		148		00:13:13		877		-->		00:13:15		337		Down on some planet. 
+		149		00:13:15		504		-->		00:13:18		424		- Some planet? Why are you here? - Well, I... 
+		150		00:13:21		010		-->		00:13:22		720		It sounds strange... 
+		151		00:13:23		887		-->		00:13:26		473		...but, I'm in a penalty box. 
+		152		00:13:26		640		-->		00:13:28		517		A penalty box? 
+		153		00:13:28		684		-->		00:13:33		814		Q's penalty box. It sounds strange, but it definitely isn't. 
+		154		00:13:34		607		-->		00:13:36		942		I know that one more penalty... 
+		155		00:13:37		943		-->		00:13:41		363		...by anyone... and I'm gone. 
+		156		00:13:41		530		-->		00:13:44		074		- Gone? - Yes! I am gone! 
+		157		00:13:47		745		-->		00:13:51		790		It is so frustrating to be controlled like this! 
+		158		00:13:54		877		-->		00:13:57		004		Lieutenant... 
+		159		00:13:57		171		-->		00:13:59		089		Tasha, it's alright. 
+		160		00:14:00		841		-->		00:14:04		303		What in the hell am I doing? Crying?! 
+		161		00:14:06		889		-->		00:14:08		474		Don't worry. 
+		162		00:14:10		225		-->		00:14:12		811		There is a new standing order on the bridge. 
+		163		00:14:12		978		-->		00:14:17		441		When one is in the penalty box, tears are permitted. 
+		164		00:14:21		070		-->		00:14:22		655		Captain... 
+		165		00:14:25		032		-->		00:14:27		034		If you weren't a captain... 
+		166		00:14:27		910		-->		00:14:30		829		Consorting with lower-rank females? 
+		167		00:14:31		330		-->		00:14:36		168		Especially ones in penalty boxes? Destructive to discipline, they say. 
+		168		00:14:36		752		-->		00:14:39		964		But then again, you're what? Only human. 
+		169		00:14:40		506		-->		00:14:43		467		Penalty... over. 
+		170		00:14:54		687		-->		00:14:56		480		A marshal of France? 
+		171		00:14:57		606		-->		00:14:59		275		Ridiculous! 
+		172		00:14:59		441		-->		00:15:02		486		One takes the jobs he can get. 
+		173		00:15:02		653		-->		00:15:07		992		For example, starlog entry, stardate today. 
+		174		00:15:08		909		-->		00:15:12		788		This is Q speaking for Capt Jean-Luc Picard, who we consider too bound by Starfleet customs and traditions  to be useful to us. 
+		177		00:15:19		461		-->		00:15:24		049		The Enterprise is now helpless, stuck like an Earth insect in amber, while its bridge crew plays out a game, whose real intent is to test  whether the First Officer is worthy of the greatest gift the Q can offer. 
+		180		00:15:35		269		-->		00:15:38		022		So, you're taking on Riker this time. 
+		181		00:15:38		939		-->		00:15:41		817		Excellent. He'll defeat you, just as I did. 
+		182		00:15:41		984		-->		00:15:46		822		Shall we wager on that? Your starship command against... 
+		183		00:15:47		031		-->		00:15:50		826		Against your keeping out of humanity's path for ever! 
+		184		00:15:51		493		-->		00:15:54		747		- Done? - Done. You've already lost. 
+		185		00:15:54		914		-->		00:15:58		918		Riker will be offered something impossible to refuse. 
+		186		00:16:13		807		-->		00:16:15		601		Geordi, can you see Worf? 
+		187		00:16:15		768		-->		00:16:19		063		I'd see the freckles on his nose if he had them, sir. 
+		188		00:16:19		229		-->		00:16:20		731		He's at the third ridge. 
+		189		00:16:20		898		-->		00:16:22		483		The third ridge? 
+		190		00:16:22		650		-->		00:16:24		234		Moving well, too. 
+		191		00:16:26		779		-->		00:16:29		031		Good. He sees them. 
+		192		00:17:04		775		-->		00:17:08		988		Listen to me, Q. You seem to have some need for humans. 
+		193		00:17:09		780		-->		00:17:11		907		Concern regarding them. 
+		194		00:17:12		074		-->		00:17:15		744		Why do you demonstrate it through this confrontation? 
+		195		00:17:15		911		-->		00:17:20		040		Why not a simple, direct explanation, a statement of what you seek? 
+		196		00:17:20		207		-->		00:17:22		001		Why these games? 
+		197		00:17:22		626		-->		00:17:25		546		Why these games? Why, the play's the thing! 
+		198		00:17:25		713		-->		00:17:30		134		I'm surprised you need ask. Your human Shakespeare explained it all. 
+		199		00:17:30		301		-->		00:17:32		636		He did but don't depend on one view... 
+		200		00:17:32		803		-->		00:17:35		889		A pity you don't know the content of your own library. 
+		201		00:17:36		056		-->		00:17:38		225		Hear this, and reflect. 
+		202		00:17:39		226		-->		00:17:41		937		"All the galaxy's a stage..." 
+		203		00:17:42		146		-->		00:17:45		065		World, not galaxy. "All the world's a stage." 
+		204		00:17:45		232		-->		00:17:49		028		You know it. If he were living now, he'd have said galaxy. 
+		205		00:17:49		194		-->		00:17:53		949		How about this? "Life is but a walking shadow, a poor player that struts and frets his hour upon the stage  and then is heard no more." 
+		208		00:18:02		041		-->		00:18:04		627		"It is a tale told by an idiot, full of sound and fury, signifying nothing." 
+		210		00:18:09		757		-->		00:18:13		761		I see. So how we respond to a game tells you more about us than our real life? This... tale told by an idiot. 
+		212		00:18:19		058		-->		00:18:20		225		Interesting. 
+		213		00:18:20		392		-->		00:18:24		271		Thank you. Glad you enjoyed it. Perhaps a little Hamlet? 
+		214		00:18:24		480		-->		00:18:29		652		I know Hamlet. What he might say with irony, I say with conviction. 
+		215		00:18:29		818		-->		00:18:34		239		"What a piece of work is man. How noble in reason." 
+		216		00:18:34		406		-->		00:18:36		033		"How infinite in faculty." 
+		217		00:18:36		200		-->		00:18:39		578		"In form, in moving, how express and admirable." 
+		218		00:18:39		745		-->		00:18:44		667		"In action, how like an angel. In apprehension, how like a god." 
+		219		00:18:45		793		-->		00:18:48		170		You don't see your species like that? 
+		220		00:18:48		337		-->		00:18:51		548		I see us one day becoming that, Q. 
+		221		00:18:52		800		-->		00:18:54		885		Is it that which concerns you? 
+		222		00:19:02		518		-->		00:19:06		814		Those soldiers have formed a skirmishing line, I think it is. 
+		223		00:19:06		981		-->		00:19:09		358		And they're headed this way. 
+		224		00:19:09		525		-->		00:19:12		027		Armed with ball-and-powder muskets? 
+		225		00:19:12		194		-->		00:19:14		113		That's what they look like, sir. 
+		226		00:19:14		280		-->		00:19:18		284		Muskets are appropriate to the 1790-1800 French uniform, sir. 
+		227		00:19:18		450		-->		00:19:20		911		But it is hardly a weapon by our standards. 
+		228		00:19:21		078		-->		00:19:25		583		A lead ball propelled by gunpowder. 100 meters at best, with accuracy. 
+		229		00:19:25		749		-->		00:19:30		588		Against phasers? Just one phaser could finish off an entire regiment. 
+		230		00:19:30		754		-->		00:19:35		384		Except that it hardly sounds like Q to give us an advantage like that. 
+		231		00:19:36		635		-->		00:19:38		304		Unless... 
+		232		00:19:45		519		-->		00:19:46		812		Drop your weapons! 
+		233		00:19:47		479		-->		00:19:51		734		That was me, Worf. I was checking that the phasers still operate. 
+		234		00:19:53		152		-->		00:19:55		946		Incredible. He came out of nowhere. 
+		235		00:19:57		406		-->		00:19:58		782		A warrior's reaction. 
+		236		00:19:58		949		-->		00:20:00		993		Report. What did you find? 
+		237		00:20:01		160		-->		00:20:06		206		They may wear old Earth uniforms, but they aren't human at all. 
+		238		00:20:06		999		-->		00:20:09		168		More like vicious animal things. 
+		239		00:20:15		382		-->		00:20:18		052		Those soldiers are moving in fast, sir. 
+		240		00:20:21		180		-->		00:20:24		892		Data, if you've got a theory about what's happening... 
+		241		00:20:27		478		-->		00:20:30		564		Think fast, Cmdr Riker, and move fast. 
+		242		00:20:43		577		-->		00:20:45		704		Those aren't muskets! 
+		243		00:20:51		543		-->		00:20:55		547		You have one chance to save them. Send them back to the ship. 
+		244		00:20:56		215		-->		00:20:57		758		You'll let me beam them? 
+		245		00:20:57		967		-->		00:21:01		595		Send them the same way I do. I've given you the power. 
+		246		00:21:01		762		-->		00:21:05		599		Do you understand? I've given you the power of the Q. 
+		247		00:21:06		433		-->		00:21:07		601		Use it. 
+		248		00:21:12		982		-->		00:21:14		608		Use your power. 
+		249		00:21:21		740		-->		00:21:23		325		Use your power. 
+		250		00:21:58		465		-->		00:22:01		802		Lieutenant, take the conn position. Engineering? 
+		251		00:22:01		969		-->		00:22:05		139		- Engineering, sir. - Are all systems back on line? 
+		252		00:22:05		306		-->		00:22:07		766		Back on line, sir? They were never off. 
+		253		00:22:11		020		-->		00:22:13		480		Captain, you'd better look at this. 
+		254		00:22:14		481		-->		00:22:19		236		There's been no interruption in course or speed. Both are constant. 
+		255		00:22:19		528		-->		00:22:21		697		It's as though we never stopped. 
+		256		00:22:23		073		-->		00:22:24		867		We never did, Lieutenant. 
+		257		00:22:25		993		-->		00:22:28		162		Q suspended time. 
+		258		00:22:33		709		-->		00:22:36		962		- Where's Cmdr Riker? - He was with us. 
+		259		00:22:37		129		-->		00:22:39		256		He must still be on the planet. 
+		260		00:22:39		965		-->		00:22:43		844		We were under attack by these... animal things. 
+		261		00:22:44		553		-->		00:22:49		058		- Animal things? - Maybe Data can explain better, sir. 
+		262		00:22:50		392		-->		00:22:54		313		You may find it aesthetically displeasing. I'll file a report. 
+		263		00:22:54		480		-->		00:22:55		231		Data... 
+		264		00:22:55		397		-->		00:22:58		859		Sir, the important thing is why is Cmdr Riker missing? 
+		265		00:22:59		068		-->		00:23:03		072		Understood. But I suspect Cmdr Riker is perfectly safe, at least in a physical sense. 
+		267		00:23:05		741		-->		00:23:08		827		Q has an interest in him. 
+		268		00:23:08		994		-->		00:23:12		623		In fact, Q's entire visit concerns our First Officer. 
+		269		00:23:12		790		-->		00:23:15		918		- And the reason for that, sir? - I wish I knew. 
+		270		00:23:16		085		-->		00:23:19		463		Q first became interested in him at Farpoint. 
+		271		00:23:19		630		-->		00:23:21		632		I have no idea what it means. 
+		272		00:23:21		799		-->		00:23:25		177		Meanwhile, we must proceed with our rescue mission. 
+		273		00:23:43		779		-->		00:23:47		950		Something amuses you? Perhaps you'll share the joke with me. 
+		274		00:23:48		117		-->		00:23:49		451		The joke is you! 
+		275		00:23:50		202		-->		00:23:52		246		Strange gratitude, from one who has been granted a gift beyond any human dream. 
+		277		00:24:00		087		-->		00:24:04		758		How can you not appreciate being able to send your friends to their ship, or send the soldiers back to the nothingness from which they came? 
+		279		00:24:09		930		-->		00:24:14		435		You must understand that you can send yourself back to the ship, or to Earth, or change your shape, become anything you want to be. 
+		281		00:24:18		772		-->		00:24:21		692		- What do you need? - Need? 
+		282		00:24:21		859		-->		00:24:24		528		You want something from us. Desperately. 
+		283		00:24:24		653		-->		00:24:29		491		Want something from you foolish, fragile nonentities? Come, Riker! 
+		284		00:24:29		700		-->		00:24:32		411		You sound like your Captain. 
+		285		00:24:32		578		-->		00:24:35		623		Now, that's a compliment, Q, but not an answer. 
+		286		00:24:41		670		-->		00:24:46		800		Riker, we have offered you a gift beyond all other gifts! 
+		287		00:24:47		718		-->		00:24:49		720		Out of the goodness of your heart. 
+		288		00:24:54		934		-->		00:25:00		189		After Farpoint, I returned to where we exist, the Q Continuum. 
+		289		00:25:00		356		-->		00:25:02		024		Which means what? 
+		290		00:25:02		191		-->		00:25:05		986		The limitless dimensions of the galaxy in which we exist. 
+		291		00:25:06		153		-->		00:25:09		240		- I don't understand. - Of course you don't. 
+		292		00:25:09		406		-->		00:25:12		618		And you never will, until you become one of us. 
+		293		00:25:12		785		-->		00:25:16		038		Until? Would you mind going over that again? 
+		294		00:25:17		248		-->		00:25:19		792		If you'd stop interrupting me! 
+		295		00:25:19		959		-->		00:25:24		797		This is hardly a time to be teaching you the true nature of the universe. 
+		296		00:25:26		840		-->		00:25:28		342		However... 
+		297		00:25:29		677		-->		00:25:34		181		At Farpoint... we saw you as savages only. 
+		298		00:25:34		932		-->		00:25:38		519		We discovered instead that you are unusual creatures... 
+		299		00:25:39		395		-->		00:25:42		565		...in your own limited ways. 
+		300		00:25:43		274		-->		00:25:46		277		Ways which, in time, will not be so limited. 
+		301		00:25:46		443		-->		00:25:48		529		We're growing. 
+		302		00:25:48		696		-->		00:25:52		908		Something about us compels us to learn, explore. 
+		303		00:25:53		075		-->		00:25:54		952		Yes, the human compulsion. 
+		304		00:25:55		119		-->		00:25:58		414		Unfortunately for us, this power will grow stronger, century after century, aeon after aeon. 
+		306		00:26:01		417		-->		00:26:06		171		Aeons... Have you any idea how far we'll advance? 
+		307		00:26:06		338		-->		00:26:11		552		Perhaps in a future that you cannot yet conceive, even beyond us. 
+		308		00:26:12		553		-->		00:26:16		265		You see, we must know more about this human compulsion. 
+		309		00:26:16		765		-->		00:26:20		185		That's why we selected you to become part of the Q, so you can bring to us this human need and hunger,  that we may better understand it. 
+		312		00:26:26		358		-->		00:26:29		153		I suppose that's meant as a compliment. 
+		313		00:26:30		696		-->		00:26:33		240		Or maybe it's my limited mind. 
+		314		00:26:33		407		-->		00:26:35		826		But to become a part of you? 
+		315		00:26:36		535		-->		00:26:37		912		I don't even like you. 
+		316		00:26:39		663		-->		00:26:41		665		You're gonna miss me. 
+		317		00:26:54		303		-->		00:26:56		263		Come on! Not again! 
+		318		00:27:05		147		-->		00:27:09		360		Cmdr Riker, what's going on? I was sitting in school and... 
+		319		00:27:09		526		-->		00:27:12		238		Worf! My phaser's gone. Are you armed? 
+		320		00:27:13		447		-->		00:27:14		448		No. 
+		321		00:27:19		245		-->		00:27:22		915		Where is Q? lf you have an answer to any of this... 
+		322		00:27:55		823		-->		00:27:56		991		Look out! 
+		323		00:27:57		157		-->		00:27:58		659		Wesley! No! 
+		324		00:28:02		705		-->		00:28:03		956		No, damn it! 
+		325		00:28:04		123		-->		00:28:05		791		Damn it to hell! 
+		326		00:28:10		004		-->		00:28:11		088		You... ! 
+		327		00:28:11		255		-->		00:28:13		591		You did that! 
+		328		00:28:14		466		-->		00:28:16		051		And that's not all! 
+		329		00:28:31		942		-->		00:28:34		153		That grid, their wounds... 
+		330		00:28:35		696		-->		00:28:37		698		Only the Q can do that. 
+		331		00:28:47		599		-->		00:28:50		978		Captain's log, stardate <stardate>41591</stardate>.4. 
+		332		00:28:51		186		-->		00:28:53		647		1 minutes out from Quadra Sigma III, where the survivors of a disaster desperately need us. 
+		334		00:28:57		317		-->		00:29:00		571		On the Enterprise, First Officer William T Riker needs help nearly as badly. 
+		336		00:29:02		990		-->		00:29:06		535		But this is a subject far out of my experience. 
+		337		00:29:06		702		-->		00:29:09		079		Out of any human's experience. 
+		338		00:29:15		252		-->		00:29:17		379		How the hell do I advise you? 
+		339		00:29:18		922		-->		00:29:21		592		You know the implications as well as I. 
+		340		00:29:23		510		-->		00:29:27		097		No one has ever offered to turn me into a god before. 
+		341		00:29:27		681		-->		00:29:31		560		What the Q has offered you has to be close to immortality. 
+		342		00:29:31		769		-->		00:29:34		563		It's no lie about controlling time and space. 
+		343		00:29:34		730		-->		00:29:38		567		- We've seen it in what they can do. - And in what I can do. 
+		344		00:29:39		485		-->		00:29:43		614		If you are to refuse his offer, you must not use this power again. 
+		345		00:29:43		781		-->		00:29:47		660		It's too great a temptation at our present stage of development. 
+		346		00:29:47		826		-->		00:29:49		870		You fear I won't be able to say no? 
+		347		00:29:50		037		-->		00:29:55		793		You tell me. Are you strong enough to refuse to use that power? 
+		348		00:29:55		959		-->		00:29:57		002		Certainly. 
+		349		00:29:57		169		-->		00:30:01		006		No matter how tempted? No matter how difficult Q makes it? 
+		350		00:30:03		175		-->		00:30:04		843		You have my word. 
+		351		00:30:05		552		-->		00:30:08		639		Good. I know what your word means. 
+		352		00:30:08		847		-->		00:30:10		974		In orbit of Quadra Sigma III. 
+		353		00:30:11		141		-->		00:30:15		437		Ready to beam down rescue team to underground emergency area. 
+		354		00:30:29		618		-->		00:30:31		370		This way, sir. 
+		355		00:30:49		972		-->		00:30:51		974		Are there any others? 
+		356		00:30:52		141		-->		00:30:54		685		Gone. It's just us. 
+		357		00:31:02		192		-->		00:31:03		777		Commander! 
+		358		00:31:08		741		-->		00:31:10		951		There's somebody under here! 
+		359		00:31:21		337		-->		00:31:23		255		You're getting close, Data. 
+		360		00:31:40		356		-->		00:31:43		317		It's too late. She's dead. 
+		361		00:31:46		945		-->		00:31:49		615		If only we'd gotten here a little sooner. 
+		362		00:31:50		908		-->		00:31:54		370		Sir, if indeed you have the power of Q... 
+		363		00:31:57		998		-->		00:32:02		044		I don't understand. Certainly you can't bring her back to life. 
+		364		00:32:02		211		-->		00:32:06		674		I can't. I'm prevented from that by a promise. 
+		365		00:32:32		449		-->		00:32:37		454		I was wrong to make that agreement. I could have saved that child. 
+		366		00:32:37		621		-->		00:32:42		584		You were right not to try. Once you get accustomed to that power... 
+		367		00:32:42		751		-->		00:32:46		088		When I used it before, I saved most of our bridge crew! 
+		368		00:32:46		296		-->		00:32:48		841		And when you grow to like it too much? 
+		369		00:32:49		883		-->		00:32:52		052		As soon as it's convenient, 
+		370		00:32:52		219		-->		00:32:54		972		I want a meeting with you and your bridge staff. 
+		371		00:32:55		139		-->		00:32:58		267		As soon as we are secure with this rescue operation, 
+		372		00:32:58		434		-->		00:33:01		186		I'll discuss all that this new power... 
+		373		00:33:27		880		-->		00:33:30		090		We can confer here, if no one objects. 
+		374		00:33:30		257		-->		00:33:33		635		The bridge is fine. I've called the entire staff. 
+		375		00:33:33		802		-->		00:33:36		805		Correction. Knowing the decision you face, 
+		376		00:33:36		972		-->		00:33:39		516		I have permitted you this gathering. 
+		377		00:33:40		184		-->		00:33:41		477		Of course, Jean-Luc. 
+		378		00:33:50		694		-->		00:33:52		821		Wesley, this meeting is not for you. 
+		379		00:33:52		988		-->		00:33:56		325		Why not, sir? You helped make me a bridge officer. 
+		380		00:33:57		284		-->		00:33:59		328		Acting Ensign. 
+		381		00:33:59		495		-->		00:34:01		372		Alright. He stays. 
+		382		00:34:11		382		-->		00:34:15		803		Because I've been given unusual powers, I'm not suddenly a monster. 
+		383		00:34:15		969		-->		00:34:20		474		Except for these abilities, and I don't yet know how far they go, 
+		384		00:34:20		641		-->		00:34:23		852		I'm the same William T Riker you've always known. 
+		385		00:34:27		356		-->		00:34:28		732		Well? 
+		386		00:34:32		903		-->		00:34:35		197		Everyone still looks uncomfortable. 
+		387		00:34:36		115		-->		00:34:39		868		Perhaps they all remember that saying, "power corrupts." 
+		388		00:34:40		035		-->		00:34:42		997		And absolute power corrupts absolutely. 
+		389		00:34:43		205		-->		00:34:46		583		You believe I haven't thought of that, Jean-Luc? 
+		390		00:34:46		750		-->		00:34:51		171		And have you noticed how you and I are now on a first-name basis? 
+		391		00:34:52		631		-->		00:34:54		425		Number One. 
+		392		00:34:54		591		-->		00:34:58		220		Will... something has happened already. 
+		393		00:35:00		139		-->		00:35:01		724		In what way? 
+		394		00:35:01		890		-->		00:35:05		894		Haven't you seen how much I regretted not saving that child? 
+		395		00:35:06		061		-->		00:35:09		356		Using the power of Q to save her may not have been wrong. 
+		396		00:35:09		523		-->		00:35:13		527		No more than it was wrong to save you from those soldier things. 
+		397		00:35:13		694		-->		00:35:18		407		Let's keep in mind that that particular danger was invented by Q. 
+		398		00:35:18		574		-->		00:35:23		329		What we represent to the Q, Commander, are lowly animals, tormented into performing for their amusement. 
+		400		00:35:27		291		-->		00:35:29		877		Actually, they think very highly of us. 
+		401		00:35:31		045		-->		00:35:35		174		We have a quality of growth which they admire. 
+		402		00:35:35		341		-->		00:35:36		842		Or fear. 
+		403		00:35:38		552		-->		00:35:42		431		No, we've learned the Q do not admire us. 
+		404		00:35:43		557		-->		00:35:45		559		The Q has muddled your mind. 
+		405		00:35:46		101		-->		00:35:50		022		Don't you understand his incredible gift to me? 
+		406		00:35:51		273		-->		00:35:55		194		Are these truly your friends, brother? 
+		407		00:36:09		778		-->		00:36:14		282		Let us pray. For understanding and for compassion. 
+		408		00:36:14		449		-->		00:36:19		329		Let us do no such damn thing! What is this need of yours for costumes? 
+		409		00:36:19		496		-->		00:36:21		498		Have you no identity of your own? 
+		410		00:36:21		665		-->		00:36:23		833		I come in search of the truth. 
+		411		00:36:24		000		-->		00:36:26		920		You come in search of what humanity is! 
+		412		00:36:27		087		-->		00:36:29		422		I forgive your blasphemy! 
+		413		00:36:35		136		-->		00:36:36		721		Don't you see, Riker? 
+		414		00:36:36		888		-->		00:36:41		309		He's nothing but a flimflam man. He has been since we met at Farpoint! 
+		415		00:36:42		060		-->		00:36:43		603		Flimflam? 
+		416		00:36:43		770		-->		00:36:46		147		You offer Riker jealousy. 
+		417		00:36:46		314		-->		00:36:49		776		What I offer is clearly beyond your comprehension. 
+		418		00:36:49		943		-->		00:36:52		404		How can you claim friendship for Riker, while obstructing the greatest adventure ever offered a human? 
+		420		00:36:57		909		-->		00:37:01		913		Obstructing? Then it's not certain. He's not yet committed. 
+		421		00:37:02		080		-->		00:37:05		542		The truly evil part of this is your jealousy. 
+		422		00:37:06		251		-->		00:37:08		837		You love each one of your people. 
+		423		00:37:09		004		-->		00:37:12		048		Demonstrate it. You have the power to leave each one of them with a gift proving your affection. 
+		425		00:37:16		636		-->		00:37:21		474		There'd be no harm to give them something I know they'd like? 
+		426		00:37:22		517		-->		00:37:24		519		How touching! 
+		427		00:37:24		686		-->		00:37:27		480		A plea to his former Captain. 
+		428		00:37:27		647		-->		00:37:32		777		"May I please give happiness to my friends, sir? Please, sir?" 
+		429		00:37:35		697		-->		00:37:39		784		In fact, I authorize and support your idea, Riker. 
+		430		00:37:42		162		-->		00:37:45		832		Please, feel free to cooperate with him if you wish. 
+		431		00:37:48		209		-->		00:37:50		712		- Are you certain, sir? - Quite certain. 
+		432		00:37:50		879		-->		00:37:54		507		By all means, demonstrate your gifts of affection. 
+		433		00:37:57		302		-->		00:38:01		473		Don't be frightened. There is no way I could harm any of you. 
+		434		00:38:04		351		-->		00:38:06		228		Shall I guess your dreams? 
+		435		00:38:10		982		-->		00:38:13		235		We'll leave now, Wesley. 
+		436		00:38:13		401		-->		00:38:17		864		No! Wesley I may know best of all. Our friendship, our long talks... 
+		437		00:38:18		031		-->		00:38:19		616		No, please! 
+		438		00:38:19		783		-->		00:38:22		911		Have your favorite wish, my young friend. 
+		439		00:38:26		223		-->		00:38:29		184		You're ten years older. A man! 
+		440		00:38:37		276		-->		00:38:38		735		Not bad! 
+		441		00:38:43		657		-->		00:38:45		075		No! 
+		442		00:38:46		285		-->		00:38:47		411		No, sir. 
+		443		00:38:47		578		-->		00:38:50		998		But it's what you've always wanted, to become human. 
+		444		00:38:51		707		-->		00:38:53		584		Yes, sir. That is true. 
+		445		00:38:54		710		-->		00:38:59		965		But I never wanted to compound one... illusion with another. 
+		446		00:39:01		133		-->		00:39:03		719		It might be real to Q... 
+		447		00:39:04		469		-->		00:39:06		054		...perhaps even you, sir. 
+		448		00:39:06		930		-->		00:39:08		932		But it would never be so to me. 
+		449		00:39:09		850		-->		00:39:13		729		Was it not one of the Captain's favorite authors who wrote, 
+		450		00:39:13		896		-->		00:39:17		316		"This above all: to thine own self be true"? 
+		451		00:39:19		359		-->		00:39:22		362		Sorry, Commander, I must decline. 
+		452		00:39:28		660		-->		00:39:32		748		And you, my friend. I know what you want. 
+		453		00:40:07		157		-->		00:40:09		827		You're as beautiful as I imagined. 
+		454		00:40:10		911		-->		00:40:12		871		And more. 
+		455		00:40:13		956		-->		00:40:16		375		Then we can throw away the visor? 
+		456		00:40:20		838		-->		00:40:22		506		I don't think so, sir. 
+		457		00:40:22		673		-->		00:40:25		342		The price is a little too high for me. 
+		458		00:40:25		926		-->		00:40:29		513		And... I don't like who I'd have to thank. 
+		459		00:40:36		103		-->		00:40:38		105		Make me the way I was. 
+		460		00:40:41		733		-->		00:40:43		235		Please! 
+		461		00:41:00		752		-->		00:41:03		130		Proud warrior Worf! 
+		462		00:41:04		047		-->		00:41:06		717		Without a single tie to his own kind. 
+		463		00:41:56		058		-->		00:41:57		434		No! 
+		464		00:41:59		520		-->		00:42:02		064		She is from a world now alien to me! 
+		465		00:42:03		440		-->		00:42:06		735		Worf, is this your idea of sex? 
+		466		00:42:07		402		-->		00:42:09		321		This is sex. 
+		467		00:42:10		864		-->		00:42:13		450		But I have no place for it in my life now! 
+		468		00:42:13		992		-->		00:42:17		246		No place, micro brain? What possesses you? 
+		469		00:42:22		543		-->		00:42:25		796		Cmdr Riker, it's too soon for this. 
+		470		00:42:25		963		-->		00:42:28		507		Is this because your mother objects? 
+		471		00:42:28		674		-->		00:42:30		425		No. 
+		472		00:42:33		178		-->		00:42:37		474		I just want to get there on my own. Honest. 
+		473		00:42:40		894		-->		00:42:44		398		But it's easier, boy! Listen to Riker! 
+		474		00:42:51		280		-->		00:42:53		157		How did you know, sir? 
+		475		00:42:53		657		-->		00:42:55		534		I feel like such an idiot. 
+		476		00:42:55		701		-->		00:42:58		036		Quite right. So you should. 
+		477		00:43:03		458		-->		00:43:05		836		It's over. You have no business here. 
+		478		00:43:06		003		-->		00:43:07		880		You have destroyed yourself. 
+		479		00:43:08		046		-->		00:43:10		340		- Pay off your wager. - I recall none! 
+		480		00:43:10		507		-->		00:43:14		136		Your fellow Q know you agreed never to trouble humans again, just as they know you failed to tempt a human to join you. 
+		482		00:43:17		931		-->		00:43:19		975		No! lf I can do one more thing... 
+		483		00:43:20		142		-->		00:43:24		271		I strongly suspect it's some explaining you have to do now. 
+		484		00:43:46		418		-->		00:43:47		794		Extraordinary! 
+		485		00:43:47		961		-->		00:43:51		882		Captain, we are showing that same hole in time again. 
+		486		00:43:52		049		-->		00:43:56		136		Our instruments say we just beamed back from our rescue mission. 
+		487		00:43:56		345		-->		00:43:59		765		Sir, how is it that the Q can... 
+		488		00:44:00		682		-->		00:44:04		853		...handle time and space so well, and us so badly? 
+		489		00:44:05		020		-->		00:44:07		189		Perhaps someday we will discover that space and time are simpler than the human equation. 
+		491		00:44:15		572		-->		00:44:18		116		No coordinates laid in, Number One? 
+		492		00:44:19		159		-->		00:44:22		621		Yes, sir. You have my coordinates, La Forge. 
+		493		00:44:22		788		-->		00:44:24		289		Aye, sir. 
+		494		00:44:24		456		-->		00:44:26		041		On the board. 
+		495		00:44:31		588		-->		00:44:33		257		Engage. 

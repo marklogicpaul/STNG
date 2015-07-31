@@ -1,0 +1,616 @@
+		1		00:00:03		861		-->		00:00:10		130		Counselor Deanna Troi, Personal Log, stardate <stardate>44805</stardate>.3. 
+		2		00:00:10		167		-->		00:00:12		158		My mother is on board. 
+		3		00:00:20		544		-->		00:00:23		172		Jean-Luc, you delicious man! 
+		4		00:00:23		214		-->		00:00:25		842		You were just thinking of me, weren't you? 
+		5		00:00:25		883		-->		00:00:26		975		As a matter of fact... 
+		6		00:00:27		017		-->		00:00:29		281		Well, think no further, dear heart. 
+		7		00:00:29		320		-->		00:00:30		947		She's here. 
+		8		00:00:30		988		-->		00:00:32		285		Yes, indeed. 
+		9		00:00:32		323		-->		00:00:33		620		Oh, serious. 
+		10		00:00:33		657		-->		00:00:35		386		You're always so serious. 
+		11		00:00:35		426		-->		00:00:36		688		Lwaxana... 
+		12		00:00:36		727		-->		00:00:37		751		Hmm? 
+		13		00:00:37		795		-->		00:00:40		286		As a matter of fact, I am rather busy at the moment. 
+		14		00:00:40		331		-->		00:00:43		300		And you're always busy with something or other. 
+		15		00:00:43		334		-->		00:00:45		859		Never the right thing, though. 
+		16		00:00:45		903		-->		00:00:47		632		My daughter tells me that we're, um, picking up someone interesting here. 
+		18		00:00:50		007		-->		00:00:54		307		Yes, the leading scientist from Kaelon Il, and... 
+		19		00:00:54		345		-->		00:00:55		937		Oh, Kaelon II! 
+		20		00:00:55		980		-->		00:00:57		971		I've never heard of that. 
+		21		00:00:58		015		-->		00:01:02		918		Well, Lwaxana, it is something of a rather delicate... 
+		22		00:01:02		953		-->		00:01:03		920		Oh... 
+		23		00:01:03		954		-->		00:01:05		148		...situation. 
+		24		00:01:05		189		-->		00:01:10		286		It's the first real contact with a rather reclusive race and... this is in the nature of an official greeting, so... 
+		26		00:01:14		965		-->		00:01:16		592		Oh, diplomacy. 
+		27		00:01:16		634		-->		00:01:18		932		Oh, I adore diplomacy. 
+		28		00:01:18		969		-->		00:01:21		164		Everyone dresses so well. 
+		29		00:01:27		711		-->		00:01:29		702		Mr. O'Brien, energize. 
+		30		00:01:35		886		-->		00:01:40		482		Dr. Timicin, I'm Jean-Luc Picard Captain of the Enterprise. 
+		31		00:01:40		524		-->		00:01:42		185		This is Lieutenant Commander La Forge. 
+		32		00:01:42		293		-->		00:01:43		692		I beg your pardon, Captain. 
+		33		00:01:43		727		-->		00:01:46		423		This is my first time aboard a Federation starship. 
+		34		00:01:49		567		-->		00:01:50		727		Oh, yes, they told me. 
+		35		00:01:50		768		-->		00:01:52		998		The shaking of hands... a form of greeting. 
+		36		00:01:54		905		-->		00:01:56		372		I beg your pardon. 
+		37		00:01:56		407		-->		00:01:59		376		Dr. Timicin, allow me to present 
+		38		00:01:59		410		-->		00:02:00		377		Lwaxana Troi of Betazed. 
+		39		00:02:00		411		-->		00:02:01		503		She is also a guest on board... 
+		40		00:02:01		545		-->		00:02:03		069		And Daughter of the Fifth House 
+		41		00:02:03		113		-->		00:02:04		876		Holder of the Sacred Chalice of Rixx 
+		42		00:02:04		915		-->		00:02:06		542		Heir to the Holy Rings of Betazed and what are you doing for dinner? 
+		44		00:02:09		687		-->		00:02:12		087		Well, I don't know really. 
+		45		00:02:12		122		-->		00:02:14		420		Lwaxana, we have quite a bit of work planned. 
+		46		00:02:14		458		-->		00:02:16		153		Well, the man's never been on board a starship before, Jean-Luc. 
+		48		00:02:18		596		-->		00:02:21		565		Certainly somebody ought to make him comfortable before you get started. 
+		50		00:02:22		933		-->		00:02:24		901		Well, it seems that Mrs. Troi is our acting ambassador of goodwill for today. 
+		52		00:02:28		606		-->		00:02:32		133		You just think of me as your entertainment director. 
+		53		00:02:34		512		-->		00:02:36		810		That man's in a lot of trouble. 
+		54		00:03:05		024		-->		00:03:09		427		Space, the final frontier. 
+		55		00:03:09		462		-->		00:03:13		296		These are the voyages of the Starship Enterprise. 
+		56		00:03:13		333		-->		00:03:15		301		Its continuing mission... to explore strange new worlds  to seek out new life and new civilizations  to boldly go where no one has gone before. 
+		60		00:04:25		305		-->		00:04:29		002		Captain's Log, stardate <stardate>44805</stardate>.7. 
+		61		00:04:29		042		-->		00:04:31		306		For generations, the people of Kaelon II have been working to revitalize their dying sun. 
+		63		00:04:34		147		-->		00:04:36		672		The Federation has offered to assist in testing what may be a solution to this problem. 
+		65		00:04:38		885		-->		00:04:41		547		Of course, the basic theories of helium fusion enhancement have been discussed for over a century  but there's been no practical method of application  until now. 
+		69		00:04:46		926		-->		00:04:48		655		The modifications you have made in the torpedoes guidance systems are remarkable, Doctor. 
+		71		00:04:51		464		-->		00:04:52		954		Well, we'll see. 
+		72		00:04:52		999		-->		00:04:56		093		They still have to be proved. 
+		73		00:04:57		670		-->		00:04:59		228		But now at least it's possible. 
+		74		00:04:59		272		-->		00:05:01		740		I'd never dared to hope for such a perfect match with our own sun. 
+		76		00:05:02		976		-->		00:05:05		604		My only regret is that it took us three years to find a suitable sun  after you had first contacted us. 
+		79		00:05:08		982		-->		00:05:13		681		We're not used to dealing with other worlds. 
+		80		00:05:13		720		-->		00:05:16		416		We're not used to asking for anything from others. 
+		81		00:05:16		456		-->		00:05:17		514		Your offer of help has given us a possible means of survival. 
+		83		00:05:20		093		-->		00:05:24		086		It has taken 40 years of my life to develop the programming that will control your photon torpedoes. 
+		85		00:05:26		799		-->		00:05:29		290		It has been my life. 
+		86		00:05:31		070		-->		00:05:33		436		Thank you for this opportunity. 
+		87		00:05:33		473		-->		00:05:37		603		My only wish has been to find a way to revive our sun... before I die. 
+		89		00:05:46		437		-->		00:05:48		405		Mrs. Troi, I must protest your unauthorized presence on the Bridge. 
+		91		00:05:51		643		-->		00:05:54		077		What does that little one do, Mr. Woof? 
+		92		00:05:54		112		-->		00:05:55		409		Please, madam! 
+		93		00:05:55		446		-->		00:05:58		347		That is a torpedo launch initiator, and... 
+		94		00:05:58		383		-->		00:06:01		011		And it is "Worf," madam, not "woof." 
+		95		00:06:01		052		-->		00:06:02		417		Oh... ah! 
+		96		00:06:02		453		-->		00:06:03		920		There you are, my dear. 
+		97		00:06:03		955		-->		00:06:05		252		Where have you been? 
+		98		00:06:05		290		-->		00:06:06		951		I've been waiting for you. 
+		99		00:06:08		293		-->		00:06:10		261		So nice to see you again so soon. 
+		100		00:06:10		295		-->		00:06:11		592		Mrs. Troi. 
+		101		00:06:11		629		-->		00:06:13		620		Mother, what did you want? 
+		102		00:06:13		665		-->		00:06:14		632		What? 
+		103		00:06:14		666		-->		00:06:16		293		You were waiting for me. 
+		104		00:06:16		334		-->		00:06:17		528		Oh, yes, dear, of course I was. 
+		105		00:06:17		569		-->		00:06:19		036		You really must let me do something to relieve the tedium  of all this work, work, work. 
+		108		00:06:23		541		-->		00:06:25		236		I'm afraid I'm expected in Engineering. 
+		109		00:06:25		276		-->		00:06:26		470		I'm really terribly sorry. 
+		110		00:06:26		511		-->		00:06:27		478		Oh. 
+		111		00:06:27		512		-->		00:06:28		979		Mrs. Troi 
+		112		00:06:29		013		-->		00:06:30		640		I have to ask you to clear the Bridge, please. 
+		113		00:06:30		682		-->		00:06:31		979		I don't see why. 
+		114		00:06:32		016		-->		00:06:34		143		There are lots of other people here. 
+		115		00:06:34		185		-->		00:06:36		449		Mother, please. 
+		116		00:06:38		823		-->		00:06:40		381		Well, don't you worry. 
+		117		00:06:40		425		-->		00:06:43		952		We'll just have our little chat later. 
+		118		00:06:51		936		-->		00:06:55		167		I'd never have thought her old enough to be your mother. 
+		119		00:06:55		206		-->		00:06:56		935		She is so... vibrant. 
+		121		00:07:07		085		-->		00:07:08		848		If you look at the next simulation, you'll see that we need the temperature to stabilize at 220 million. 
+		123		00:07:11		189		-->		00:07:12		315		Otherwise there's a secondary then a tertiary reaction to the... 
+		125		00:07:13		725		-->		00:07:15		249		Ah, ah, ah! Enough is enough. 
+		126		00:07:15		293		-->		00:07:16		760		Rescue is at hand. 
+		127		00:07:16		794		-->		00:07:18		421		Ah, Dr. Timicin. 
+		128		00:07:18		463		-->		00:07:20		761		Oh, would you clear all this mess off the table, please? 
+		130		00:07:22		400		-->		00:07:24		527		This mess, Mrs. Troi... 
+		131		00:07:24		569		-->		00:07:25		536		Now, now, now. 
+		132		00:07:25		570		-->		00:07:27		003		You boys have been shut up in here for hours. 
+		134		00:07:28		373		-->		00:07:31		865		Now, if you don't eat something, you're going to get sick and who's that going to help? 
+		136		00:07:34		178		-->		00:07:37		875		I've made some perfectly marvelous Mantickian pate. 
+		137		00:07:37		915		-->		00:07:41		407		Mr. Homn will lay it out for us. 
+		138		00:07:41		452		-->		00:07:44		148		Oh, Mr. Homn is my valet. 
+		139		00:07:44		188		-->		00:07:46		156		He doesn't say much. 
+		140		00:07:46		190		-->		00:07:47		817		How can he? 
+		141		00:07:47		859		-->		00:07:50		054		It is true that the intellectual efficiency of high-order beings does diminish proportionately  with the deprivation of nutritious fuel... 
+		144		00:07:54		932		-->		00:07:56		661		All right, all right. Don't you start. 
+		145		00:07:56		701		-->		00:07:59		534		Mrs. Troi, you're a wise woman. 
+		146		00:07:59		570		-->		00:08:02		164		I'm sure we could use a respite. 
+		147		00:08:02		206		-->		00:08:06		666		These two call me Mrs. Troi. 
+		148		00:08:06		711		-->		00:08:10		238		You call me Lwaxana. 
+		149		00:08:10		281		-->		00:08:12		647		Mr. Homn spread it. 
+		151		00:08:21		492		-->		00:08:23		483		So, knowing my daughter's starship would be passing fairly close to Betazed again 
+		153		00:08:26		330		-->		00:08:28		730		I maneuvered a ride and, um, here I am. 
+		154		00:08:33		404		-->		00:08:35		031		Deck eight. 
+		155		00:08:35		073		-->		00:08:37		041		I also have a grown daughter. 
+		156		00:08:37		075		-->		00:08:38		542		She has a small son of her own. 
+		157		00:08:38		576		-->		00:08:42		034		Oh. Then, you're married. 
+		158		00:08:42		080		-->		00:08:44		742		My wife died quite some years ago. 
+		159		00:08:58		596		-->		00:09:01		190		You know, one thing I don't understand. 
+		160		00:09:01		232		-->		00:09:03		325		If your people have known for generations that their sun is dying  why not simply evacuate the planet? 
+		163		00:09:07		538		-->		00:09:10		006		It is our home. 
+		164		00:09:10		041		-->		00:09:12		009		It defines who we are as a people. 
+		165		00:09:12		076		-->		00:09:13		668		If Kaelon II ceases to exist so do we. 
+		167		00:09:15		046		-->		00:09:18		447		Well, then you definitely should fix it. 
+		168		00:09:18		483		-->		00:09:21		475		With the Federation's help, I... I hope we will. 
+		169		00:09:21		519		-->		00:09:23		350		And the Federation will be pleased to offer whatever help it can. 
+		171		00:09:26		891		-->		00:09:28		722		Would you come in for a nightcap? 
+		172		00:09:30		394		-->		00:09:33		727		Well, that's extremely kind of you, but... 
+		173		00:09:33		765		-->		00:09:35		756		My valet sleeps elsewhere. 
+		174		00:09:39		170		-->		00:09:40		569		You're delightful. 
+		175		00:09:41		572		-->		00:09:43		301		You make me laugh. 
+		176		00:09:44		642		-->		00:09:45		609		I mean, l-I don't mean that your invitation makes me laugh. 
+		178		00:09:47		211		-->		00:09:48		769		I mean, I take that quite seriously. l-I mean... 
+		180		00:09:49		814		-->		00:09:51		304		Oh, but... Don't... Just say yes. 
+		181		00:09:51		349		-->		00:09:52		748		I'll make you laugh some more. 
+		182		00:09:53		918		-->		00:09:55		112		I wish I could... but I must say no. 
+		184		00:10:02		393		-->		00:10:04		258		Good night, Lwaxana. 
+		185		00:10:17		441		-->		00:10:21		036		Captain's Log, stardate <stardate>44807</stardate>.5. 
+		186		00:10:21		078		-->		00:10:23		672		The Enterprise has arrived at the Praxillus system where we will conduct 
+		188		00:10:25		316		-->		00:10:27		944		Dr. Timicin's helium ignition test. 
+		189		00:10:29		453		-->		00:10:30		715		Mother, how much...? 
+		190		00:10:30		755		-->		00:10:34		054		Little One, why do you refuse to use telepathy even when we're alone? 
+		192		00:10:36		093		-->		00:10:38		220		We're not alone, mother. 
+		193		00:10:38		262		-->		00:10:40		560		Now, how much longer is this going to take? 
+		194		00:10:40		598		-->		00:10:43		567		You've been selecting for 20 minutes. 
+		195		00:10:43		601		-->		00:10:45		626		I am a woman dressing for a man. 
+		196		00:10:45		670		-->		00:10:48		503		Something you might try now and then, dear. 
+		197		00:10:48		539		-->		00:10:51		007		I wonder if Timicin likes green. 
+		198		00:10:51		042		-->		00:10:53		567		That's not very telepathic of you. 
+		199		00:10:53		611		-->		00:10:55		511		Oh, I tried telepathy on him. 
+		200		00:10:55		546		-->		00:10:57		411		He's the wrong species. 
+		201		00:10:57		448		-->		00:11:00		008		Right species for everything else, though. 
+		202		00:11:00		051		-->		00:11:02		952		You might try that once in a while, too. 
+		203		00:11:04		522		-->		00:11:07		923		You know, you're not just incorrigible you're insatiable. 
+		205		00:11:14		565		-->		00:11:17		193		I have completed long-range scans. 
+		206		00:11:17		235		-->		00:11:21		069		There are no other life-forms present in this system. 
+		207		00:11:21		105		-->		00:11:22		697		Spacecraft? 
+		208		00:11:22		740		-->		00:11:25		709		None within sensor range. 
+		209		00:11:25		743		-->		00:11:27		335		Picard to Engineering. 
+		210		00:11:27		378		-->		00:11:29		539		Mr. La Forge, the system is clear. 
+		211		00:11:29		580		-->		00:11:33		573		Final pre-launch diagnostic, level-5. 
+		212		00:11:33		618		-->		00:11:35		176		All systems verified. 
+		213		00:11:35		219		-->		00:11:37		414		We're ready here when you are, Captain. 
+		214		00:11:39		423		-->		00:11:41		050		Very well. 
+		215		00:11:41		092		-->		00:11:42		286		Mr. Worf? 
+		216		00:11:42		326		-->		00:11:47		229		Photon torpedoes armed... and targeted. 
+		217		00:11:47		265		-->		00:11:49		529		Fire in sequence. 
+		218		00:11:55		573		-->		00:11:57		438		First volley released. 
+		219		00:11:57		475		-->		00:11:59		340		Tracking torpedoes. 
+		220		00:11:59		377		-->		00:12:01		038		Entry program confirmed. 
+		221		00:12:01		078		-->		00:12:03		239		Second volley released. 
+		222		00:12:12		623		-->		00:12:15		057		Torpedoes now entering the stellar core. 
+		223		00:12:15		159		-->		00:12:16		217		Their shields are holding. 
+		224		00:12:16		260		-->		00:12:17		386		Guidance systems normal. 
+		225		00:12:17		428		-->		00:12:20		625		Ignition sequence, six seconds... five seconds...  four...  three seconds...  now. 
+		230		00:12:33		311		-->		00:12:35		279		Shock wave patterns within predicted range. 
+		231		00:12:35		313		-->		00:12:39		079		1700 percent rise in gamma radiation levels. 
+		232		00:12:39		183		-->		00:12:42		084		Helium fusion rate... increasing. 
+		233		00:12:42		119		-->		00:12:44		314		What about heat and pressure levels? 
+		234		00:12:44		355		-->		00:12:45		413		Steady so far. 
+		235		00:12:45		456		-->		00:12:46		910		Density at 1100 grams per cubic centimeter. 
+		236		00:12:46		910		-->		00:12:48		673		Density at 1100 grams per cubic centimeter. 
+		237		00:12:48		712		-->		00:12:52		011		Temperature approaching 60 million degrees Kelvin. 
+		238		00:12:52		048		-->		00:12:54		846		We want it to stabilize at 220 million. 
+		239		00:12:54		884		-->		00:12:56		749		Pressure wave harmonics dispersing. 
+		240		00:12:56		786		-->		00:12:58		754		Temperature in target zone increasing to 81 million degrees, sir. 
+		242		00:13:02		325		-->		00:13:03		656		Still rising. 
+		243		00:13:03		693		-->		00:13:06		287		Temperature at 90 million degrees Kelvin. 
+		244		00:13:06		329		-->		00:13:09		526		And now 110 million. 
+		245		00:13:09		566		-->		00:13:11		329		Looking good. 
+		246		00:13:11		367		-->		00:13:14		996		One hundred thirty-seven... 
+		247		00:13:15		105		-->		00:13:17		972		Radiation and pressure levels still stable. 
+		248		00:13:18		007		-->		00:13:21		499		Temperature is 170 million degrees Kelvin. 
+		249		00:13:21		544		-->		00:13:23		876		One ninety... and now, 200 million. 
+		251		00:13:25		949		-->		00:13:27		439		It's happening. 
+		252		00:13:34		324		-->		00:13:37		623		207... and rising. 
+		253		00:13:37		660		-->		00:13:41		152		Two nineteen... and twenty. 
+		255		00:13:43		399		-->		00:13:44		889		Two twenty... and holding. 
+		257		00:13:47		704		-->		00:13:52		334		Looks like congratulations may be in order. 
+		258		00:13:56		780		-->		00:13:57		804		Mr. Data? 
+		259		00:13:57		847		-->		00:14:00		975		Turbulence patterns are within predicted parameters. 
+		260		00:14:10		493		-->		00:14:13		929		Two twenty-two. 
+		261		00:14:15		932		-->		00:14:17		900		Temperature is rising in the core again, Captain. 
+		262		00:14:17		934		-->		00:14:22		166		230 million degrees Kelvin. 
+		263		00:14:22		205		-->		00:14:24		002		Still rising, Captain. 
+		264		00:14:24		040		-->		00:14:27		009		Two fifty-one. 
+		265		00:14:27		076		-->		00:14:29		135		Rate exceeding critical level. 
+		266		00:14:29		179		-->		00:14:31		010		Core density is becoming unstable. 
+		267		00:14:31		080		-->		00:14:32		274		Let's get the hell out of here. 
+		268		00:14:32		315		-->		00:14:34		340		Ensign, warp two, now! 
+		269		00:14:42		225		-->		00:14:44		284		I'm sorry. 
+		270		00:14:51		201		-->		00:14:52		668		Captain Picard? 
+		271		00:14:52		702		-->		00:14:53		930		Doctor. 
+		272		00:14:53		970		-->		00:14:56		939		Permit me to express my appreciation to you and your crew. 
+		274		00:14:58		975		-->		00:15:00		340		I am most grateful. 
+		275		00:15:01		978		-->		00:15:03		411		Most grateful. 
+		276		00:15:08		351		-->		00:15:11		218		Ensign, lay in a course for Kaelon II. 
+		277		00:15:11		254		-->		00:15:13		279		Warp factor five. 
+		278		00:15:13		323		-->		00:15:14		654		Aye, sir. 
+		279		00:15:33		710		-->		00:15:35		678		I'm so sorry, Timicin. 
+		280		00:15:45		221		-->		00:15:47		553		I had one of those named after me once. 
+		281		00:15:47		590		-->		00:15:50		559		Brilliant, young astronomer from Rigel IV. 
+		282		00:15:50		593		-->		00:15:57		522		Of course, l, um, I sparkled a bit myself in those days. 
+		283		00:15:57		567		-->		00:15:59		899		You see, that's called fishing for a compliment. 
+		284		00:15:59		936		-->		00:16:02		063		You're supposed to tell me I still sparkle. 
+		285		00:16:06		175		-->		00:16:07		142		I'm sorry. 
+		286		00:16:07		176		-->		00:16:08		473		I'm not helping, am I? 
+		287		00:16:08		511		-->		00:16:10		103		You're very kind. 
+		288		00:16:10		146		-->		00:16:12		876		I'm just not adequate company right now. 
+		289		00:16:12		916		-->		00:16:13		883		Oh, that's all right. 
+		290		00:16:13		917		-->		00:16:15		976		I can make enough conversation for both of us. 
+		291		00:16:21		024		-->		00:16:22		651		I'll leave you alone. 
+		292		00:16:22		692		-->		00:16:23		989		No. 
+		293		00:16:24		027		-->		00:16:25		324		Please stay. 
+		294		00:16:28		197		-->		00:16:30		188		I wanted to tell you how much I wish we had met years ago. 
+		296		00:16:33		937		-->		00:16:38		670		What difference do a few years make? 
+		297		00:16:38		708		-->		00:16:42		735		Unfortunately, a great deal. 
+		298		00:16:42		779		-->		00:16:46		840		You see, Lwaxana, I'm on my way home now... to... die. 
+		300		00:17:01		564		-->		00:17:05		193		Captain's Log, stardate <stardate>44812</stardate>.6. 
+		301		00:17:05		234		-->		00:17:07		065		We have returned to Kaelon II and established contact with Science Minister B'tardat. 
+		303		00:17:10		606		-->		00:17:13		131		The experiment achieved a stable core temperature for a short time, Minister. 
+		305		00:17:14		610		-->		00:17:16		373		That's a significant step forward. 
+		306		00:17:16		412		-->		00:17:19		245		We've been studying the sensor logs and the torpedo telemetry to determine if there was any malfunction. 
+		308		00:17:21		284		-->		00:17:23		650		If there was and we are able to isolate the problem another test might be successful. 
+		310		00:17:25		254		-->		00:17:27		552		And in the meantime, all of our facilities would be made available to Dr. Timicin. 
+		312		00:17:29		759		-->		00:17:31		590		A most thoughtful and generous offer but Timicin has obligations at home  and it would take us some time to select a replacement. 
+		315		00:17:39		702		-->		00:17:42		967		We would be more than willing to extend our visit, sir. 
+		316		00:17:43		006		-->		00:17:44		871		That will not be necessary. 
+		317		00:17:44		907		-->		00:17:47		876		We'll contact you as soon as we're ready. 
+		318		00:17:47		910		-->		00:17:51		209		We expect Timicin to return home as soon as possible and again, gentlemen, many thanks. 
+		320		00:17:58		521		-->		00:17:59		852		Come. 
+		321		00:18:03		493		-->		00:18:05		961		Are you aware these people you are so graciously helping are murderers? 
+		323		00:18:07		130		-->		00:18:08		495		I beg your pardon? 
+		324		00:18:08		531		-->		00:18:10		692		Well, the next thing to it. 
+		325		00:18:10		733		-->		00:18:13		702		When a person on this benighted little planet reaches the age of 60... which Timicin is about to do...  they're expected to simply kill themselves. 
+		328		00:18:19		308		-->		00:18:20		366		Did you know that? 
+		329		00:18:21		744		-->		00:18:22		938		Mr. Data? 
+		330		00:18:22		979		-->		00:18:25		812		The people of Kaelon II are isolationists almost to the point of being xenophobes. 
+		332		00:18:27		884		-->		00:18:30		614		Regrettably, we know very little about their customs. 
+		333		00:18:30		653		-->		00:18:31		677		Well, I know. 
+		334		00:18:31		721		-->		00:18:33		450		Timicin himself just told me. 
+		335		00:18:33		489		-->		00:18:36		981		He is supposed to go down there to his loving friends be wined, dined, honored for his achievements  and then kill himself. 
+		338		00:18:40		530		-->		00:18:42		760		It's a barbaric ritual. 
+		339		00:18:42		799		-->		00:18:45		359		The, um..."The Resolution," it's called. 
+		340		00:18:45		401		-->		00:18:48		370		Obviously, you can't let him go, Jean-Luc. 
+		341		00:18:48		404		-->		00:18:50		304		I'm afraid I have no choice. 
+		342		00:18:50		339		-->		00:18:53		638		I don't think you've been listening to me. 
+		343		00:18:53		676		-->		00:18:57		476		The man is supposed to kill himself. 
+		344		00:18:57		513		-->		00:18:59		947		Now, you don't just let that happen. 
+		345		00:18:59		982		-->		00:19:01		313		You don't just turn your back. 
+		346		00:19:01		350		-->		00:19:02		544		What's the matter with you? 
+		347		00:19:02		585		-->		00:19:05		520		Lwaxana, I'm sorry, but whatever my personal feelings 
+		348		00:19:05		555		-->		00:19:07		147		I have no jurisdiction here. 
+		349		00:19:07		190		-->		00:19:08		851		I simply cannot interfere. 
+		350		00:19:08		891		-->		00:19:10		825		But you have to. 
+		351		00:19:10		860		-->		00:19:15		422		In a situation like this, you absolutely have to interfere. 
+		352		00:19:15		465		-->		00:19:17		626		You've got to go down there. 
+		353		00:19:17		667		-->		00:19:19		726		Talk to those people, Jean-Luc. 
+		354		00:19:19		769		-->		00:19:21		669		Open their eyes... educate them. 
+		355		00:19:21		704		-->		00:19:23		194		The Prime Directive forbids us to interfere with the social order of any planet. 
+		357		00:19:27		376		-->		00:19:30		834		Well, it's your Prime Directive not mine. 
+		359		00:19:37		720		-->		00:19:40		052		Computer, locate Counselor Troi. 
+		360		00:19:46		459		-->		00:19:48		518		What do you mean I can't go down there? 
+		361		00:19:48		561		-->		00:19:51		155		Are you telling me that I'm a prisoner on this ship? 
+		362		00:19:51		197		-->		00:19:52		824		Mother, what's going on? 
+		363		00:19:52		865		-->		00:19:54		162		What are you doing? 
+		364		00:19:54		200		-->		00:19:55		428		I'm sorry, Counselor. 
+		365		00:19:55		468		-->		00:19:57		129		I'm not sure what to do here. 
+		366		00:19:57		169		-->		00:19:58		136		Well, I am sure. 
+		367		00:19:58		170		-->		00:19:59		501		I am a Betazoid ambassador. 
+		368		00:19:59		538		-->		00:20:01		165		I'm a Daughter of the Fifth House and those people are going to answer to me. 
+		370		00:20:03		676		-->		00:20:05		735		So, y-you just energize this damn thing and get me down there! 
+		372		00:20:07		046		-->		00:20:08		308		He can't, Mother. 
+		373		00:20:08		347		-->		00:20:10		679		He has his orders. 
+		374		00:20:10		716		-->		00:20:12		377		His orders don't apply to me. 
+		375		00:20:12		418		-->		00:20:14		978		No, they apply to him. 
+		376		00:20:15		087		-->		00:20:18		113		And don't you try your professional patronizing on me, young lady. 
+		378		00:20:19		392		-->		00:20:23		522		They expect Timicin to die, don't you realize that? 
+		379		00:20:23		562		-->		00:20:26		360		Just because he's 60. 
+		380		00:20:26		399		-->		00:20:27		991		What's 60? 
+		381		00:20:28		067		-->		00:20:29		432		It's nothing. 
+		382		00:20:32		772		-->		00:20:35		741		I'll go check the pattern buffers. 
+		383		00:20:40		746		-->		00:20:43		408		Come on, Mother, let's sit down. l- I'm sorry, Little One.  l- I don't know what's wrong with me. 
+		386		00:20:50		890		-->		00:20:53		154		I'm... I'm sorry. 
+		387		00:20:53		192		-->		00:20:55		160		There's no need to be. 
+		388		00:20:55		194		-->		00:20:57		321		But I'm crying. 
+		389		00:20:57		363		-->		00:20:59		490		I don't cry. 
+		390		00:20:59		532		-->		00:21:01		864		You cried when father died. 
+		391		00:21:04		537		-->		00:21:06		505		You remember that? 
+		392		00:21:06		539		-->		00:21:08		404		Of course I remember. 
+		393		00:21:08		441		-->		00:21:11		808		We both cried. 
+		394		00:21:11		844		-->		00:21:14		711		But... but this isn't the same. 
+		395		00:21:16		382		-->		00:21:17		713		Is it? 
+		396		00:21:17		750		-->		00:21:19		741		What do you think? 
+		397		00:21:19		785		-->		00:21:22		879		Oh... l-I don't know. 
+		398		00:21:25		391		-->		00:21:29		350		I... I just can't accept that... that fate would allow me to meet him like this  and then take him away. 
+		401		00:21:35		568		-->		00:21:38		002		I mean, he's not ill. 
+		402		00:21:38		070		-->		00:21:41		198		He hasn't had a tragic accident. 
+		403		00:21:41		240		-->		00:21:44		209		He's just going to die and for no good reason. 
+		405		00:21:49		348		-->		00:21:53		648		Because his society has decided that's he's too old so they just dispose of him. 
+		407		00:21:59		191		-->		00:22:06		962		As... as though his life no longer had any value or meaning. 
+		408		00:22:07		032		-->		00:22:09		762		You can't possibly understand at your age, but, well, at mine... 
+		410		00:22:17		576		-->		00:22:23		947		Well, sometimes you feel tired and-and afraid. 
+		411		00:22:23		983		-->		00:22:27		851		You're feeling very vulnerable. 
+		412		00:22:27		887		-->		00:22:31		288		Very mortal, if I may say so. 
+		413		00:22:33		359		-->		00:22:38		797		But I know you, Mother, and believe me you will never be one of those who dies before they die. 
+		415		00:22:54		513		-->		00:22:56		174		Come in. 
+		416		00:23:03		823		-->		00:23:07		657		I've been studying the preliminary reports of the test. l-I don't understand where it went wrong. 
+		418		00:23:10		696		-->		00:23:14		530		I thought I had taken into account all of the variables... deep convection patterns, proton reactions  neutrino count. 
+		421		00:23:24		743		-->		00:23:25		801		Oh. 
+		422		00:23:28		214		-->		00:23:32		344		I will say it again... you are a kind woman. 
+		423		00:23:32		384		-->		00:23:36		343		No, no, I'm a hateful woman. 
+		424		00:23:36		388		-->		00:23:38		948		I hate what you're going to do and I hate you for doing it. 
+		426		00:23:43		729		-->		00:23:46		698		It is the way of my world. 
+		427		00:23:46		732		-->		00:23:49		064		I wish you could accept that. 
+		428		00:23:51		170		-->		00:23:53		468		I never will. 
+		429		00:23:53		506		-->		00:23:55		167		Never. 
+		430		00:24:20		666		-->		00:24:22		725		How long have you been sitting there? 
+		431		00:24:22		768		-->		00:24:27		296		Oh, I don't know... a minute, an hour. 
+		432		00:24:28		440		-->		00:24:29		407		Lwaxana... 
+		433		00:24:29		441		-->		00:24:30		806		Do you want anything? 
+		434		00:24:30		843		-->		00:24:32		071		Some tea? 
+		435		00:24:32		111		-->		00:24:35		478		I want to explain. 
+		436		00:24:35		514		-->		00:24:43		319		I want... very much for you to understand. 
+		437		00:24:43		355		-->		00:24:48		122		15 to 20 centuries ago, we had no Resolution. 
+		438		00:24:48		160		-->		00:24:50		651		We had no such concern for our elders. 
+		439		00:24:50		696		-->		00:24:53		426		As people aged, they... 
+		440		00:24:53		465		-->		00:24:55		160		Their health failed. 
+		441		00:24:55		200		-->		00:24:57		566		They became invalids and those whose families could no longer care for them  were put away into deathwatch facilities  where they waited in loneliness for the end to come  sometimes... for years. 
+		446		00:25:12		184		-->		00:25:16		143		They had meant something and they were forced to live beyond that  into a time of meaning nothing...  of knowing that they could now only be  the beneficiaries of younger people's patience. 
+		451		00:25:33		005		-->		00:25:37		237		We are no longer that cruel, Lwaxana. 
+		452		00:25:37		276		-->		00:25:40		973		No, no, you're not cruel to them, you just kill them. 
+		453		00:25:41		013		-->		00:25:43		811		The Resolution is a celebration of life. 
+		454		00:25:43		849		-->		00:25:46		511		It allows us to end our lives with dignity. 
+		455		00:25:46		552		-->		00:25:48		452		"Celebration of life." 
+		456		00:25:48		487		-->		00:25:50		978		Sounds very noble, very caring. 
+		457		00:25:51		090		-->		00:25:52		455		What you're really saying is you got rid of the problem by getting rid of the people. 
+		459		00:25:55		761		-->		00:25:57		729		It may sound that way but it is a time of transition...  one generation passing on the responsibilities of life  to the next. 
+		463		00:26:07		139		-->		00:26:10		131		What about the responsibility of caring for the elderly? 
+		464		00:26:12		478		-->		00:26:15		572		That would place a dreadful burden on the children. 
+		465		00:26:15		614		-->		00:26:20		381		We raise them, we care for them, we suffer for them we keep them from harm their whole lives. 
+		467		00:26:22		554		-->		00:26:25		955		Now, eventually, it's their turn to take care of us. 
+		468		00:26:26		025		-->		00:26:27		822		No parent should expect to be paid back for the love they've given their children. 
+		470		00:26:29		862		-->		00:26:32		695		Well, why the hell not? 
+		471		00:26:32		731		-->		00:26:34		722		Oskoids. 
+		472		00:26:40		299		-->		00:26:41		857		What's that? 
+		473		00:26:41		900		-->		00:26:45		358		Oskoids... a Betazed delicacy. 
+		474		00:26:45		404		-->		00:26:46		962		Looks very interesting. 
+		475		00:26:47		005		-->		00:26:49		496		You should have tried it while you were still alive. 
+		476		00:26:49		541		-->		00:26:51		065		No reason to bother now. 
+		477		00:26:52		077		-->		00:26:53		408		Why 60? 
+		478		00:26:53		445		-->		00:26:55		572		Why not 62? 58? 
+		479		00:26:55		614		-->		00:26:57		707		A reasonable age had to be set. 
+		480		00:26:57		749		-->		00:27:00		582		But it's not reasonable, certainly not in your case. 
+		481		00:27:00		619		-->		00:27:04		214		You're as vital and healthy a man as I've ever known. 
+		482		00:27:04		256		-->		00:27:06		019		That is why I wish to say good-bye to my family and colleagues while I am this way...  in full command of my faculties  knowing that they will always remember me  as a strong and vigorous man. 
+		487		00:27:14		066		-->		00:27:16		830		But it makes no sense. 
+		488		00:27:16		868		-->		00:27:20		065		Some of your people could still be active at 70 or 80 and others might be seriously ill at 50. 
+		490		00:27:22		874		-->		00:27:26		037		How cruel of you to make them wait so long to commit suicide. 
+		491		00:27:26		078		-->		00:27:28		273		Setting a standard age for the Resolution makes it uniform for everybody. 
+		493		00:27:29		982		-->		00:27:31		745		To ask individual families to decide when their elders are to die...  that would be heartless. 
+		496		00:27:36		154		-->		00:27:37		280		I agree. 
+		497		00:27:37		322		-->		00:27:40		052		Why not let everybody die when they die? 
+		498		00:27:40		092		-->		00:27:41		719		Lwaxana... 
+		499		00:27:41		760		-->		00:27:44		354		You have a grandson, you said. 
+		500		00:27:44		396		-->		00:27:47		229		Yes, almost seven. 
+		501		00:27:47		266		-->		00:27:50		963		Well, wouldn't it be better for him to know his grandfather? 
+		502		00:27:51		036		-->		00:27:54		733		I mean, not some vague memory of someone who once loved him but a real, living person who does love him. 
+		504		00:27:58		744		-->		00:28:01		838		Don't you really think that would be better? 
+		505		00:28:04		616		-->		00:28:07		744		I attended the Resolution of my parents when it was their time. 
+		507		00:28:10		155		-->		00:28:13		056		It was beautiful. 
+		508		00:28:13		091		-->		00:28:16		026		Lwaxana, this is a custom that I have known and accepted all my life. 
+		510		00:28:19		798		-->		00:28:22		926		The women of Betazed used to wear these enormous wigs with large holes in the center  for tiny, caged creatures. 
+		513		00:28:27		172		-->		00:28:29		140		Yes? 
+		514		00:28:29		174		-->		00:28:30		801		First, it was a fashion then it went on long enough to become a custom...  a tradition...  but it was uncomfortable for the woman  and cruel to the animal. 
+		519		00:28:39		217		-->		00:28:42		380		So then one day, one very formidable woman finally said so...  refused to ever wear another of those wigs. 
+		522		00:28:47		025		-->		00:28:50		961		Fairly soon, the custom stopped. 
+		523		00:28:51		063		-->		00:28:56		126		She had the courage to stand up and fight for change. 
+		524		00:28:57		436		-->		00:29:00		963		She must have been a lot like you. 
+		525		00:29:01		073		-->		00:29:03		166		Timicin, there is no one more qualified more experienced, or more likely to save their planet than you  and they would have you kill yourself. 
+		528		00:29:09		281		-->		00:29:12		079		Younger scientists will take my place. 
+		529		00:29:12		117		-->		00:29:14		108		My work... the work will continue. 
+		531		00:29:16		788		-->		00:29:19		416		Your planet has what, 30, 40 years left? 
+		532		00:29:19		458		-->		00:29:22		791		What if your scientists can't find the answer without you? 
+		533		00:29:22		828		-->		00:29:23		795		What then? 
+		534		00:29:23		829		-->		00:29:25		888		What chance do you think your grandson has of reaching the age of 60? 
+		536		00:29:27		299		-->		00:29:29		927		Enough, please! 
+		537		00:29:30		001		-->		00:29:33		937		It is my time, Lwaxana and that is the way it is. 
+		539		00:29:44		416		-->		00:29:46		441		Well, if that's the way it is, I don't know why anyone's bothering to try to save your planet at all. 
+		541		00:29:49		254		-->		00:29:51		722		If it's time has come, let it die. 
+		542		00:29:55		327		-->		00:29:58		125		Where is the difference, Timicin? 
+		543		00:29:58		163		-->		00:29:59		994		Where? 
+		544		00:30:09		107		-->		00:30:12		474		Convection boundary uncoupling. 
+		545		00:30:12		511		-->		00:30:14		706		The reaction... caused gas turbulence of a totally unexpected magnitude. 
+		547		00:30:17		416		-->		00:30:18		747		Why? 
+		548		00:30:18		784		-->		00:30:21		878		There was evidence of a delayed surface shock. 
+		549		00:30:21		920		-->		00:30:23		114		No, I'd anticipated that. 
+		550		00:30:24		689		-->		00:30:28		147		I thought I'd anticipated all possible variables but stars, you know, they're like living entities in a way...  quite unpredictable. 
+		553		00:30:38		036		-->		00:30:40		004		You know... 
+		554		00:30:40		071		-->		00:30:45		634		I wouldn't be at all surprised if this were a result of... 
+		555		00:30:47		646		-->		00:30:49		238		Look here. 
+		556		00:30:49		281		-->		00:30:52		307		42 seconds into the test, there is a sudden rise in the level of hydrogen-alpha emissions. 
+		558		00:30:54		986		-->		00:30:56		510		And here is another. 
+		559		00:30:56		555		-->		00:30:58		614		I'm right, aren't I? 
+		560		00:30:58		657		-->		00:31:00		625		There had to be neutron migration within the star's inner core as the reaction grew. 
+		562		00:31:04		329		-->		00:31:06		695		Perhaps, Doctor, but there is no known method for controlling a neutron migration. 
+		564		00:31:08		667		-->		00:31:11		636		Yes, yes, but theoretically, it is possible. 
+		565		00:31:11		670		-->		00:31:14		070		Using these test results, we could construct a new computer model of the energy dynamic of a star  that can test a new detonation program. 
+		568		00:31:20		579		-->		00:31:24		174		I'm certain it can be accomplished, certain. 
+		569		00:31:24		216		-->		00:31:26		514		It's just a matter of time. 
+		570		00:31:29		521		-->		00:31:31		512		A matter of time. 
+		571		00:31:37		195		-->		00:31:38		526		Come. 
+		572		00:31:39		865		-->		00:31:41		492		Timicin. 
+		573		00:31:41		533		-->		00:31:44		400		Time for you to leave us then. 
+		574		00:31:44		436		-->		00:31:46		768		Captain... 
+		575		00:31:46		805		-->		00:31:51		742		I have come to officially request... asylum aboard the Enterprise. 
+		577		00:32:06		191		-->		00:32:08		318		Timicin, I cannot believe this. 
+		578		00:32:08		360		-->		00:32:09		884		Why asylum? 
+		579		00:32:09		928		-->		00:32:11		452		Asylum from what? 
+		580		00:32:11		496		-->		00:32:14		465		I turn 60 in four days, Minister. 
+		581		00:32:14		499		-->		00:32:15		898		Yes, and your family and colleagues are already gathering for your Resolution. 
+		583		00:32:17		736		-->		00:32:22		173		I believe that it is time for us to reexamine as a people, the wisdom of the Resolution. 
+		585		00:32:28		179		-->		00:32:29		942		Are they forcing you into this? 
+		586		00:32:29		981		-->		00:32:31		676		Are you being coerced? 
+		587		00:32:31		716		-->		00:32:33		684		Influenced, perhaps. 
+		588		00:32:33		718		-->		00:32:35		310		Coerced? No. 
+		589		00:32:35		353		-->		00:32:38		845		Our only influence, Minister, is by example. 
+		590		00:32:38		890		-->		00:32:42		986		Timicin's decision is his own free will, I assure you. 
+		591		00:32:43		061		-->		00:32:45		928		I cannot believe that a man of Timicin's stature would freely choose to reject his own culture. 
+		593		00:32:48		767		-->		00:32:51		429		No one on Kaelon II understands this project as I do. 
+		594		00:32:51		469		-->		00:32:52		595		There are new theories that would take others a decade to test and confirm. 
+		596		00:32:55		173		-->		00:32:57		733		With my guidance, it could be done in half that time. 
+		597		00:32:57		776		-->		00:32:59		004		I must finish my work. 
+		598		00:32:59		110		-->		00:33:02		136		Others started your work, others will finish it. 
+		599		00:33:02		180		-->		00:33:04		148		It has always been this way. It always will. 
+		600		00:33:04		182		-->		00:33:07		640		Captain, scanners indicate two Kaelon warships rising on an intercept course. 
+		602		00:33:09		287		-->		00:33:11		653		Acknowledged, Commander. 
+		603		00:33:11		690		-->		00:33:14		318		Minister, we are here in friendship hoping to be of assistance. 
+		605		00:33:16		628		-->		00:33:18		823		You have helped quite enough, Captain. 
+		606		00:33:18		863		-->		00:33:21		195		I suggest you return Timicin and depart. 
+		607		00:33:21		232		-->		00:33:24		065		If you attempt to leave orbit with Timicin on board our ships have been ordered to open fire. 
+		609		00:33:26		304		-->		00:33:29		671		B'tardat, there's no purpose at all in letting this become... 
+		610		00:33:36		748		-->		00:33:38		978		It shouldn't have happened. 
+		611		00:33:39		050		-->		00:33:41		730		I've handled this poorly. 
+		612		00:33:41		863		-->		00:33:43		421		You acted in good conscience, Doctor. 
+		613		00:33:43		465		-->		00:33:45		490		I don't see what else you could have done. 
+		614		00:33:46		735		-->		00:33:50		068		I could have let well enough alone. 
+		615		00:33:50		105		-->		00:33:52		096		I could have returned home. 
+		616		00:33:53		942		-->		00:33:55		910		What do you think, Captain? 
+		617		00:33:55		944		-->		00:33:59		505		Have I done... the right thing? 
+		618		00:34:01		983		-->		00:34:04		918		I'm afraid you're the only one who can answer that. 
+		619		00:34:08		790		-->		00:34:10		451		Lwaxana would... 
+		620		00:34:12		294		-->		00:34:15		593		Would have me lead a revolt. 
+		621		00:34:15		630		-->		00:34:19		031		I'm only a scientist. 
+		622		00:34:19		067		-->		00:34:21		262		I wish I had her strength. 
+		623		00:34:21		303		-->		00:34:25		239		She is a woman of extraordinary conviction, isn't she? 
+		624		00:34:28		310		-->		00:34:29		800		Isn't she. 
+		625		00:34:34		549		-->		00:34:35		914		Any communications, Number One? 
+		626		00:34:35		984		-->		00:34:37		747		No, sir. We have an open channel. 
+		627		00:34:37		786		-->		00:34:40		721		The warships are taking a standard attack posture. 
+		628		00:34:40		755		-->		00:34:43		383		Staggered approach vectors, within weapons range. 
+		629		00:34:43		425		-->		00:34:44		392		Shields up. Red Alert. 
+		630		00:34:44		426		-->		00:34:45		484		Captain... 
+		631		00:34:45		527		-->		00:34:47		654		Doctor, I suggest that you return to your quarters. 
+		632		00:34:47		696		-->		00:34:49		027		I don't want there to be any bloodshed because of my decision. 
+		634		00:34:50		131		-->		00:34:51		928		They will do everything they can to avoid it. 
+		635		00:34:52		000		-->		00:34:53		763		I think we should get out of their way now. 
+		636		00:34:53		802		-->		00:34:55		929		Yes, yes, of course. I understand. 
+		637		00:34:56		037		-->		00:34:58		904		Mr. Worf, ascertain their offensive potential. 
+		638		00:34:58		940		-->		00:35:00		237		Aye, sir. 
+		639		00:35:06		281		-->		00:35:07		714		We must transmit the new analysis of neutron migration, immediately. 
+		641		00:35:09		250		-->		00:35:11		718		If I can make them see the direction that I've taken... 
+		642		00:35:11		753		-->		00:35:13		220		We've already tried. 
+		643		00:35:13		254		-->		00:35:15		552		They refuse to accept further reports from you, Doctor. 
+		644		00:35:15		590		-->		00:35:17		217		They have to accept it. 
+		645		00:35:17		258		-->		00:35:18		885		If I can reestablish a computer interface with the Science Ministry... 
+		647		00:35:20		261		-->		00:35:22		320		They've disengaged the linkup, Doctor. 
+		648		00:35:24		099		-->		00:35:25		623		Why don't they answer?! 
+		649		00:35:27		302		-->		00:35:31		762		Even if I find the solution, you will not accept it?! 
+		650		00:35:34		309		-->		00:35:37		278		Because I do not terminate my life they terminate my work. 
+		652		00:35:39		314		-->		00:35:43		614		Alive, I am a greater threat to my world than a dying sun. 
+		653		00:35:52		293		-->		00:35:53		920		But Jean-Luc will find a way to settle this. 
+		654		00:35:53		962		-->		00:35:54		929		No. 
+		655		00:35:54		963		-->		00:35:55		930		He always does. 
+		656		00:35:55		964		-->		00:35:57		022		No, my decision will only lead to more distrust of other worlds. 
+		658		00:35:58		299		-->		00:35:59		266		Nothing will change. 
+		659		00:35:59		300		-->		00:36:00		267		Now, don't be foolish. 
+		660		00:36:00		301		-->		00:36:01		325		I am not being foolish! 
+		661		00:36:06		708		-->		00:36:09		871		Lwaxana, I want to live because I see in you how much I have to live for. 
+		663		00:36:12		047		-->		00:36:16		609		You make me realize that my life still has value. 
+		664		00:36:16		651		-->		00:36:19		745		I can be an example to my people. 
+		665		00:36:19		788		-->		00:36:21		779		I can finish my work. 
+		666		00:36:21		823		-->		00:36:24		257		But discovering these new desires and not being able to do anything about them...  not being able to finish my work  not even being able to reach my people... 
+		670		00:36:32		100		-->		00:36:34		432		You are making a statement about the sanctity of life and it will be heard, Timicin. 
+		672		00:36:35		804		-->		00:36:38		773		Who will hear it from light years away? 
+		673		00:36:38		807		-->		00:36:41		708		Where will I go now, Lwaxana? 
+		674		00:36:41		743		-->		00:36:45		201		I'm a man without a world. 
+		675		00:36:45		246		-->		00:36:47		407		I can't go home. 
+		676		00:36:48		717		-->		00:36:49		684		Oh, Timicin... 
+		677		00:36:49		718		-->		00:36:51		549		Bridge to Dr. Timicin. 
+		678		00:36:51		586		-->		00:36:55		215		You have a visitor coming aboard. 
+		679		00:36:55		256		-->		00:36:56		814		B'tardat? 
+		680		00:36:56		858		-->		00:36:58		917		No, sir, it's your daughter. 
+		681		00:37:08		269		-->		00:37:09		236		Dara. 
+		682		00:37:09		270		-->		00:37:10		396		Father. 
+		683		00:37:10		438		-->		00:37:13		236		This is Lwaxana Troi. 
+		684		00:37:13		274		-->		00:37:14		798		She has been host and friend. 
+		685		00:37:14		843		-->		00:37:17		311		I've been looking forward to meeting you, Dara. 
+		686		00:37:19		748		-->		00:37:24		685		Whatever you have to say to me can be said in front of her. 
+		687		00:37:24		719		-->		00:37:26		277		I see. 
+		688		00:37:28		323		-->		00:37:30		814		Father, come home. 
+		689		00:37:30		859		-->		00:37:32		588		This is wrong. 
+		690		00:37:32		627		-->		00:37:36		085		Dara, if I could show you the work I have begun. 
+		691		00:37:36		131		-->		00:37:38		531		There's still so much for me to do. 
+		692		00:37:38		566		-->		00:37:40		898		There is nothing for me to look at. 
+		693		00:37:41		002		-->		00:37:42		367		It is irrelevant. 
+		694		00:37:42		403		-->		00:37:45		372		Your father's work may save your world, my dear. 
+		695		00:37:45		406		-->		00:37:47		306		I would hardly consider that irrelevant. 
+		696		00:37:47		342		-->		00:37:51		210		All I'm concerned with now is you, not your work. 
+		697		00:37:51		246		-->		00:37:52		907		Your work is over. 
+		698		00:37:53		014		-->		00:37:54		709		It is your time to rest. 
+		699		00:37:54		749		-->		00:37:56		910		Perhaps you will feel differently as you get a little older...  say, approaching 60. 
+		702		00:38:01		723		-->		00:38:04		453		My father taught me to cherish the Resolution. 
+		703		00:38:04		492		-->		00:38:06		790		I don't know how you have poisoned him to reject it. 
+		705		00:38:08		263		-->		00:38:09		958		It's an obscene ritual. 
+		706		00:38:09		998		-->		00:38:11		124		How dare you? 
+		707		00:38:11		166		-->		00:38:14		533		How dare you criticize my way of life and my beliefs? 
+		708		00:38:14		569		-->		00:38:16		230		Please, please. Dara. 
+		709		00:38:18		907		-->		00:38:20		135		Please. 
+		710		00:38:23		278		-->		00:38:25		007		Where will you go? 
+		711		00:38:25		046		-->		00:38:26		274		Hmm. 
+		712		00:38:28		283		-->		00:38:29		841		I don't know. 
+		713		00:38:32		520		-->		00:38:34		511		And where will you die? 
+		714		00:38:34		556		-->		00:38:37		855		I cannot bear the thought of you being laid to rest on some other world. 
+		716		00:38:42		797		-->		00:38:45		994		That you will not lie beside my mother. 
+		717		00:38:47		769		-->		00:38:50		363		That I will not be able to lie beside you when my Resolution comes. 
+		719		00:38:55		276		-->		00:38:57		210		I'm sorry. 
+		720		00:38:57		245		-->		00:39:01		113		I don't know how you can go on with your life knowing that each day is an insult  to everything we believe in. 
+		723		00:39:10		425		-->		00:39:13		519		Father, I love you... but I am ashamed. 
+		725		00:39:44		292		-->		00:39:46		783		I would like to be alone now, please. 
+		726		00:40:10		785		-->		00:40:13		777		Well, I'm suddenly not sure of myself. 
+		727		00:40:13		821		-->		00:40:17		279		It's a feeling l-I'm not at all used to. 
+		728		00:40:17		325		-->		00:40:21		785		I... I don't think I like it very much, Little One. 
+		729		00:40:21		829		-->		00:40:23		820		Not sure of yourself? 
+		730		00:40:25		333		-->		00:40:29		292		My life has been full. 
+		731		00:40:29		337		-->		00:40:32		795		Oh... now and then, perhaps it's overflowed a little, but... but l-I enjoy living. 
+		733		00:40:36		844		-->		00:40:38		812		And now I'm asking myself is it possible I was wrong to encourage Timicin  to choose life? 
+		736		00:40:44		118		-->		00:40:46		586		You were honest with him, Mother. 
+		737		00:40:46		621		-->		00:40:48		248		You had to be. 
+		738		00:40:48		289		-->		00:40:52		937		Maybe I want him to live just to keep me company. 
+		739		00:40:53		070		-->		00:40:55		732		Of course, you do but you didn't do this for yourself. 
+		741		00:40:58		142		-->		00:40:59		439		You did it for him. 
+		742		00:40:59		477		-->		00:41:01		240		Did I? 
+		743		00:41:03		247		-->		00:41:06		216		Then look what I've done to him. 
+		744		00:41:06		250		-->		00:41:08		844		He's like a... 
+		745		00:41:08		919		-->		00:41:12		047		He's like a man who has lost his faith. 
+		746		00:41:12		089		-->		00:41:15		718		I never considered how deeply ingrained this Resolution liturgy is. 
+		748		00:41:18		262		-->		00:41:21		527		Ritual provides structure in society... good rituals and bad rituals alike. 
+		750		00:41:24		268		-->		00:41:26		736		Well, this is a bad one. 
+		751		00:41:26		771		-->		00:41:28		534		Your point of view. 
+		752		00:41:28		572		-->		00:41:30		836		Well, it should be the point of view of any reasonably intelligent, middle-aged person. 
+		754		00:41:36		147		-->		00:41:38		581		Unfortunately, it is not. 
+		755		00:41:50		194		-->		00:41:53		686		I'll, uh... see you later, Mother. 
+		756		00:41:53		731		-->		00:41:55		198		Excuse me. 
+		757		00:41:55		232		-->		00:41:56		221		Thank you. 
+		758		00:42:00		237		-->		00:42:02		171		You're going back. 
+		759		00:42:05		543		-->		00:42:07		204		Do you believe that I love you? 
+		760		00:42:14		852		-->		00:42:16		581		I do, you know. 
+		761		00:42:19		256		-->		00:42:23		522		But, finally, if that is my only reason to stay alive... 
+		763		00:42:25		596		-->		00:42:27		188		It's not enough. 
+		764		00:42:27		231		-->		00:42:30		223		Almost. 
+		765		00:42:30		267		-->		00:42:32		861		Almost, but not quite. 
+		766		00:42:32		937		-->		00:42:35		872		I can't be that selfish, Lwaxana. 
+		767		00:42:41		478		-->		00:42:45		209		I am not the person to lead the revolt. 
+		768		00:42:55		559		-->		00:42:59		893		I do apologize for all the turmoil that I've created. 
+		769		00:42:59		930		-->		00:43:03		525		Doctor, I would deeply regret it if you were returning only to ease diplomatic tensions. 
+		771		00:43:06		904		-->		00:43:10		670		It is more... much more. 
+		772		00:43:10		708		-->		00:43:15		202		Then I wish you and your people well. 
+		773		00:43:15		246		-->		00:43:16		838		When it is time for another test 
+		774		00:43:16		881		-->		00:43:19		748		I will encourage my people to seek your assistance again. 
+		775		00:43:24		388		-->		00:43:25		514		If for any reason you would like to wait for a few minutes... 
+		777		00:43:27		825		-->		00:43:32		853		No, we have already said our good-byes. 
+		778		00:43:41		939		-->		00:43:42		871		Lwaxana. 
+		779		00:43:42		940		-->		00:43:45		636		It is the custom for your loved ones to join you at this Resolution, is it not? 
+		781		00:43:50		915		-->		00:43:53		042		You do not have to do this. 
+		782		00:43:53		083		-->		00:43:56		018		Yes, I do. 
+		783		00:43:59		323		-->		00:44:02		053		Permission to disembark, Captain? 
+		784		00:44:02		092		-->		00:44:05		584		I promise I won't cause any problems down there. 
+		785		00:44:13		237		-->		00:44:14		761		Permission granted. 
+		786		00:44:23		269		-->		00:44:25		203		We are ready, Mr. O'Brien. 

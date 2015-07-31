@@ -1,0 +1,554 @@
+		1		00:00:07		883		-->		00:00:10		719		All hands, this is the Captain. 
+		2		00:00:11		845		-->		00:00:15		891		The sun in the Delos system is undergoing large-scale magnetic field changes, producing violent, gigantic flares. 
+		4		00:00:20		354		-->		00:00:22		731		We shall study this star at close range. 
+		5		00:00:22		898		-->		00:00:25		359		Even though we'll have full deflectors, the closeness of this event and its severity will create problems. 
+		7		00:00:30		489		-->		00:00:32		115		Intense magnetic fields have a disruptive effect on electrical systems. 
+		9		00:00:35		410		-->		00:00:37		788		We can expect communication interruptions and temporary loss of other systems. 
+		11		00:00:40		374		-->		00:00:44		628		As a precaution, we're going to yellow alert. Stay sharp, everyone. 
+		12		00:00:45		254		-->		00:00:48		006		Attention all decks. Yellow alert. 
+		13		00:00:49		508		-->		00:00:52		219		Engineering, this is Lt Cmdr Data. 
+		14		00:00:52		386		-->		00:00:55		681		Bring all systems on line and direct power to the shields. 
+		15		00:00:56		515		-->		00:00:58		600		- All sections secure. - Lt La Forge? 
+		16		00:00:58		767		-->		00:01:00		978		- Course is set. - Half impulse? 
+		17		00:01:01		144		-->		00:01:04		439		- Aye, sir, one half impulse. - On main viewer. 
+		18		00:01:08		694		-->		00:01:10		070		Mask out the photosphere. 
+		19		00:01:15		784		-->		00:01:19		830		Magnify. Quadrant 07. 
+		20		00:01:19		997		-->		00:01:22		666		Magnification, factor 12. 
+		21		00:01:33		260		-->		00:01:35		804		I've never seen anything like this before. 
+		22		00:01:35		971		-->		00:01:38		765		The violence of those eruptions is awesome. 
+		23		00:01:39		349		-->		00:01:44		730		I'm reading an unusual number of sunspots and eruptive prominences. 
+		24		00:01:44		897		-->		00:01:48		609		The magnetic field is extremely... irregular. 
+		25		00:01:55		449		-->		00:01:58		952		Captain, deflectors are being hit by huge bursts of X-rays. 
+		26		00:02:06		335		-->		00:02:07		377		Look. 
+		27		00:02:10		464		-->		00:02:12		716		My console seems to be overloading. 
+		28		00:02:12		883		-->		00:02:15		385		The X-ray burst is disrupting systems. 
+		29		00:02:15		552		-->		00:02:18		388		I'm adjusting deflectors to compensate. 
+		30		00:02:19		681		-->		00:02:22		392		Engineering, increase power to forward shields. 
+		31		00:02:22		559		-->		00:02:24		686		Forward deflectors on line, sir. 
+		32		00:02:32		236		-->		00:02:33		529		Status report. 
+		33		00:02:33		695		-->		00:02:36		198		All systems operational, sir. 
+		34		00:02:36		365		-->		00:02:40		285		Captain, the level of tension on the ship is mounting. 
+		35		00:02:43		080		-->		00:02:44		540		Understandable. 
+		36		00:02:47		334		-->		00:02:50		045		If we are to investigate, we must get closer. 
+		37		00:02:53		257		-->		00:02:55		759		- Move us in closer. - Aye, sir. 
+		38		00:02:57		010		-->		00:03:01		139		This is the Captain. We will be pushing the shields to the limit, but we are getting a splendid view of this phenomenon. 
+		40		00:03:05		561		-->		00:03:09		648		Captain, I've intercepted what appears to be a distress signal. 
+		41		00:03:09		815		-->		00:03:11		191		Let me hear it. 
+		42		00:03:13		610		-->		00:03:15		153		This is T'Jon. 
+		43		00:03:15		320		-->		00:03:20		117		I'm on the Ornaran freighter. We have a serious problem we can't fix. 
+		44		00:03:21		243		-->		00:03:23		036		We need help. 
+		45		00:03:23		203		-->		00:03:25		873		The transmission is coming from a freighter in orbit around the fourth planet in the system. 
+		47		00:03:28		959		-->		00:03:32		379		However, the receiving station is on the third planet. 
+		48		00:03:32		546		-->		00:03:35		966		- Open hailing frequencies. - Hailing frequencies open. 
+		49		00:03:36		133		-->		00:03:40		220		Unidentified freighter, this is the USS Enterprise. 
+		50		00:03:40		387		-->		00:03:42		181		May we be of assistance? 
+		51		00:03:43		015		-->		00:03:46		226		Whoever you are, yes. I'm having trouble navigating. 
+		52		00:03:46		977		-->		00:03:50		522		We can't maintain a steady course. Please help us. 
+		53		00:03:51		607		-->		00:03:55		402		- Can't you enhance the frequency? - Too much interference. 
+		54		00:03:55		569		-->		00:03:58		989		Set course to intercept with the freighter. Warp two. 
+		55		00:03:59		156		-->		00:04:00		908		Maintain yellow alert. 
+		56		00:04:01		074		-->		00:04:04		369		I can't control the helm any longer. I'm losing orbit. 
+		57		00:04:04		536		-->		00:04:07		372		We're heading into the atmosphere. Please do something! 
+		58		00:04:07		539		-->		00:04:11		251		We're going to burn up! We haven't much time... 
+		59		00:04:31		480		-->		00:04:35		067		Space, the final frontier. 
+		60		00:04:36		193		-->		00:04:39		488		These are the voyages of the Starship Enterprise. 
+		61		00:04:40		364		-->		00:04:44		618		Its continuing mission, to explore strange new worlds... 
+		62		00:04:46		036		-->		00:04:49		706		...to seek out new life and new civilizations... 
+		63		00:04:50		499		-->		00:04:54		753		...to boldly go where no one has gone before. 
+		64		00:06:04		531		-->		00:06:07		743		It is a freighter, very old. 
+		65		00:06:07		910		-->		00:06:12		456		Captain, our sensors are being affected by the sun flares. 
+		66		00:06:12		623		-->		00:06:15		751		Take us as close as possible to the freighter's orbit. 
+		67		00:06:15		918		-->		00:06:18		879		- Moving in. - There are six life forms aboard. 
+		68		00:06:19		046		-->		00:06:21		298		The freighter's orbit is decaying. 
+		69		00:06:21		465		-->		00:06:23		800		How long before it loses integrity? 
+		70		00:06:24		384		-->		00:06:25		969		A matter of minutes. 
+		71		00:06:26		678		-->		00:06:31		016		Unidentified freighter, this is the USS Enterprise. 
+		72		00:06:31		183		-->		00:06:34		603		This is the Ornaran freighter Sanction. 
+		73		00:06:34		770		-->		00:06:36		605		Put this on the main viewer. 
+		74		00:06:40		692		-->		00:06:43		737		The visual transmission is still breaking up. 
+		75		00:06:48		867		-->		00:06:51		411		Sanction, this is the Enterprise. 
+		76		00:06:51		578		-->		00:06:55		666		- What is your situation? - Not so good. 
+		77		00:06:58		252		-->		00:07:00		379		What is the problem? 
+		78		00:07:00		963		-->		00:07:03		924		This is the Enterprise. With all this interference, it is difficult to copy your transmission. 
+		80		00:07:06		760		-->		00:07:09		137		If you all talk at once, it is impossible. 
+		81		00:07:09		304		-->		00:07:12		766		Now, please say again, what is your situation? 
+		82		00:07:14		852		-->		00:07:18		730		I am T'Jon, Captain of the Sanction. 
+		83		00:07:19		773		-->		00:07:22		693		At last. How can we help? 
+		84		00:07:22		860		-->		00:07:26		321		We've lost... I don't know... something. 
+		85		00:07:26		488		-->		00:07:29		575		I am not able maintain this orbit, nor can I use the main thrusters. 
+		87		00:07:33		495		-->		00:07:35		706		It's all, you know, dead, I guess. 
+		88		00:07:36		540		-->		00:07:39		459		It's all... shut down? 
+		89		00:07:41		003		-->		00:07:45		340		Well, that is a little vague. What is the computer analysis? 
+		90		00:07:45		507		-->		00:07:48		635		Our computer's not working very well. 
+		91		00:07:50		345		-->		00:07:53		473		Data, can you tap into their computer and clarify this? 
+		92		00:07:54		141		-->		00:07:55		392		I will attempt it, sir. 
+		93		00:07:55		559		-->		00:07:59		438		Captain, the tractor beam is available if you want it. 
+		94		00:07:59		605		-->		00:08:03		442		We could pull them out of orbit before they enter the atmosphere. 
+		95		00:08:03		609		-->		00:08:07		404		Freighter, we're going to pull you out of orbit. 
+		96		00:08:08		447		-->		00:08:10		032		Hey, that's great. 
+		97		00:08:19		750		-->		00:08:23		170		Captain, the freighter's orbit continues to deteriorate. 
+		98		00:08:23		337		-->		00:08:26		673		The solar flares are interfering with the tractor beam. 
+		99		00:08:26		840		-->		00:08:31		803		We're unable to attach the tractor beam because of the solar activity. 
+		100		00:08:31		970		-->		00:08:34		932		I understand. Thanks for trying. 
+		101		00:08:35		098		-->		00:08:38		185		I have determined what is malfunctioning on the freighter. 
+		102		00:08:38		852		-->		00:08:41		146		- We have analyzed your problem. - Great. 
+		103		00:08:42		105		-->		00:08:44		691		Your ship uses an electromagnetic coil to constrict the exhaust flow. 
+		105		00:08:46		818		-->		00:08:49		738		- This coil is misaligned. - Really? 
+		106		00:08:49		905		-->		00:08:53		617		- Do you have tools to realign it? - I don't think so. 
+		107		00:08:53		784		-->		00:08:56		286		We can provide them with a temporary substitute. 
+		108		00:08:56		453		-->		00:08:59		039		Our ship's stores contain a coil. 
+		109		00:08:59		206		-->		00:09:01		083		- Can we beam one over? - Yes. 
+		110		00:09:01		250		-->		00:09:04		086		Captain, we're beaming over a replacement coil. 
+		111		00:09:04		253		-->		00:09:07		506		That's great. And that'll fix us up? 
+		112		00:09:08		549		-->		00:09:10		008		Yes, once it's installed. 
+		113		00:09:10		175		-->		00:09:11		343		Right... 
+		114		00:09:12		678		-->		00:09:14		513		And how do we do that? 
+		115		00:09:16		974		-->		00:09:19		059		What is the matter with these people? 
+		116		00:09:19		226		-->		00:09:22		187		How can he be Captain and not understand? 
+		117		00:09:23		438		-->		00:09:25		899		Captain, how long have you been in command? 
+		118		00:09:26		066		-->		00:09:29		862		Seven years. This is my 26th voyage to Brekka. 
+		119		00:09:30		863		-->		00:09:33		448		You don't know how to align a control coil? 
+		120		00:09:33		615		-->		00:09:35		117		It's never come up. 
+		121		00:09:35		284		-->		00:09:39		913		- Can anyone else over there do it? - Hold on. I'll ask. 
+		122		00:09:44		209		-->		00:09:46		044		Sorry. 
+		123		00:09:46		211		-->		00:09:50		841		- Nobody knows anything about it. - I'd better go over with a team. 
+		124		00:09:51		008		-->		00:09:54		595		I strongly recommend against anyone from this ship beaming over. 
+		125		00:09:54		761		-->		00:09:56		638		The solar interference is too great. 
+		126		00:09:56		805		-->		00:10:00		601		It has entered the atmosphere. Disintegration is imminent. 
+		127		00:10:00		767		-->		00:10:03		687		- We're running out of options. - Let's get them off. 
+		128		00:10:04		438		-->		00:10:06		815		T'Jon, stand by to beam over. 
+		129		00:10:06		982		-->		00:10:08		567		If you think that's best... 
+		130		00:10:09		151		-->		00:10:12		779		Unless you have any other options, yes, I think that's best. 
+		131		00:10:12		946		-->		00:10:14		823		Whatever you say. 
+		132		00:10:25		417		-->		00:10:27		628		I can't maintain a positive lock. 
+		133		00:10:29		296		-->		00:10:32		925		Unusual EM burst, sir. Readings off scale. 
+		134		00:10:33		091		-->		00:10:36		261		Sanction, we're having difficulty getting a fix. 
+		135		00:10:36		428		-->		00:10:38		972		Have them go to their transporter room. 
+		136		00:10:39		139		-->		00:10:43		227		Perhaps I can link two transporters and use the increased power. 
+		137		00:10:43		393		-->		00:10:44		394		Worth a try. 
+		138		00:10:44		561		-->		00:10:48		357		Go to your transporter room. Contact me from there. 
+		139		00:10:48		524		-->		00:10:51		318		Right, Enterprise. It's right next door. 
+		140		00:10:51		485		-->		00:10:55		322		But what makes you think our transporter will do the job? 
+		141		00:10:56		240		-->		00:10:57		908		I'm going to interconnect them. 
+		142		00:10:58		075		-->		00:11:01		078		- I didn't know you could do that. - Hurry! 
+		143		00:11:01		245		-->		00:11:03		956		- We're on our way. - They won't make it. 
+		144		00:11:04		122		-->		00:11:06		458		Capt T'Jon doesn't sound like he cares. 
+		145		00:11:06		625		-->		00:11:09		503		- How much time left? - One minute, 28 seconds. 
+		146		00:11:09		670		-->		00:11:12		673		- Capt T'Jon? - We're in the transporter room. 
+		147		00:11:12		840		-->		00:11:17		678		Activate your transporter. Set coordinates 9703, mark 268. 
+		148		00:11:17		845		-->		00:11:21		098		Did you say 286 or 886? 
+		149		00:11:21		265		-->		00:11:24		893		- Mark 268! - Got it. 
+		150		00:11:25		060		-->		00:11:28		897		Sir, the hull temperature of the freighter is passing 3,000 degrees. 
+		151		00:11:29		064		-->		00:11:30		649		What's the hold-up? 
+		152		00:11:30		816		-->		00:11:33		026		We're establishing the link right now. 
+		153		00:11:33		193		-->		00:11:33		944		We're ready. 
+		154		00:11:34		111		-->		00:11:36		822		All six of you, get on the transporter platform. 
+		155		00:11:36		989		-->		00:11:38		615		On my signal, energize. 
+		156		00:11:38		782		-->		00:11:41		535		I've got their signal. Interlock complete. 
+		157		00:11:41		702		-->		00:11:46		540		Energize on my mark. Four, three, two, one. Energize! 
+		158		00:12:03		724		-->		00:12:05		809		Did you get them off? 
+		159		00:12:06		560		-->		00:12:10		606		They stayed in the freighter, but they beamed over their cargo. 
+		160		00:12:11		190		-->		00:12:15		986		Cargo? Are those people crazy? What could be so important? 
+		161		00:12:16		987		-->		00:12:19		948		Sir, the freighter is disintegrating. 
+		162		00:12:28		832		-->		00:12:33		378		Their lives are in danger and they beam over cargo?! I don't understand. 
+		163		00:12:33		545		-->		00:12:36		798		The freighter's hull temperature is approaching critical. 
+		164		00:12:37		674		-->		00:12:38		592		Unbelievable. 
+		165		00:12:38		759		-->		00:12:41		678		We've got to beam those people over now. 
+		166		00:12:41		845		-->		00:12:44		515		- Beam the cargo to a hold. - Aye, sir. 
+		167		00:12:49		353		-->		00:12:52		272		Sanction, get to your transporter... No, forget that. 
+		168		00:12:52		439		-->		00:12:55		192		Lock on to any life form. Get them here. 
+		169		00:12:55		359		-->		00:12:56		026		Trying, sir. 
+		170		00:12:56		193		-->		00:13:00		405		- The freighter is going down. - You're out of time. 
+		171		00:13:00		572		-->		00:13:04		785		- Six life forms but no solid lock. - We have no choice. Energize. 
+		172		00:13:10		499		-->		00:13:13		710		- Where are the other two? - The lock didn't hold. 
+		173		00:13:13		877		-->		00:13:15		629		- Re-establish. - It's too late. 
+		174		00:13:20		843		-->		00:13:21		885		Number One? 
+		175		00:13:25		472		-->		00:13:27		599		Two are lost, sir. 
+		176		00:13:27		766		-->		00:13:29		685		But we saved four. 
+		177		00:13:31		562		-->		00:13:34		273		I'm Cmdr William Riker of the USS Enterprise. 
+		178		00:13:34		439		-->		00:13:37		693		I'm sorry we were unable to rescue the other two. 
+		179		00:13:37		860		-->		00:13:39		695		We did everything we could. 
+		180		00:13:39		862		-->		00:13:43		615		If you had come instead of sending your cargo, you'd have made it. 
+		181		00:13:43		782		-->		00:13:47		369		- The cargo! Where is it? - You did save it? 
+		182		00:13:47		536		-->		00:13:49		830		Yes. It's in one of our cargo holds. 
+		183		00:13:52		207		-->		00:13:54		710		It seems more important to you than your comrades. 
+		184		00:13:54		877		-->		00:13:57		462		The cargo... May we see it? 
+		185		00:14:00		966		-->		00:14:02		384		Follow me. 
+		186		00:14:10		309		-->		00:14:13		478		Thank you. We thought we had lost it. 
+		187		00:14:13		645		-->		00:14:17		733		Careful with your choice of words, T'Jon. It's ours, not yours. 
+		188		00:14:17		900		-->		00:14:19		776		We paid a fair price. 
+		189		00:14:19		943		-->		00:14:22		654		You offered a price. We have not received it. 
+		190		00:14:22		821		-->		00:14:25		365		You accepted our goods in trade! 
+		191		00:14:25		532		-->		00:14:27		117		Then, where are they? 
+		192		00:14:28		202		-->		00:14:31		788		- Tell me. - That's not our problem. 
+		193		00:14:31		955		-->		00:14:34		124		The barrel is not your property. 
+		194		00:14:34		500		-->		00:14:37		711		It's simple. The goods were never delivered. 
+		195		00:14:37		878		-->		00:14:39		296		They were destroyed. 
+		196		00:14:39		463		-->		00:14:43		592		Hence the deal was incomplete. Hence the felicium remains ours. 
+		197		00:14:43		759		-->		00:14:45		135		We need it! 
+		198		00:14:45		302		-->		00:14:50		474		Commander, I request you transport my associate and myself to Brekka 
+		199		00:14:50		641		-->		00:14:53		060		- with our merchandise. - Yes. 
+		200		00:14:53		227		-->		00:14:56		605		Get them out of here. But the barrel stays. 
+		201		00:14:57		439		-->		00:14:59		149		There's no reasoning with you. 
+		202		00:14:59		316		-->		00:15:02		152		Langor, you expect too much from them. 
+		203		00:15:02		319		-->		00:15:05		739		You always have and you've always been disappointed. 
+		204		00:15:06		740		-->		00:15:09		868		You didn't pay for it, therefore it's not yours! 
+		205		00:15:10		035		-->		00:15:11		912		Damn you, Sobi! 
+		206		00:15:23		215		-->		00:15:25		133		Stop this! Now! 
+		207		00:15:25		801		-->		00:15:28		011		Security to cargo bay 11. 
+		208		00:15:33		433		-->		00:15:36		103		Behave yourselves... gentlemen. 
+		209		00:15:48		198		-->		00:15:51		994		Escort our visitors to the observation lounge. 
+		210		00:16:01		753		-->		00:16:04		631		- A natural electrical charge? - Formidable. 
+		211		00:16:04		798		-->		00:16:08		468		Yes, and a difficult weapon to confiscate. 
+		212		00:16:12		097		-->		00:16:15		809		I have never seen humanoids with that power. I wonder how it evolved. 
+		213		00:16:15		976		-->		00:16:18		729		The strong magnetic field of their sun? 
+		214		00:16:18		896		-->		00:16:21		773		Could be. I wonder how much power they produce. 
+		215		00:16:21		940		-->		00:16:26		195		- Or if they need to recharge. - How do I defend against them? 
+		216		00:16:26		361		-->		00:16:28		655		- They're a threat? - I don't know. 
+		217		00:16:28		822		-->		00:16:31		950		- But I'd better be ready. - Precisely, Lieutenant. 
+		218		00:16:41		335		-->		00:16:44		213		We have to resolve this. There isn't much time. 
+		219		00:16:44		922		-->		00:16:46		423		What can you offer? 
+		220		00:16:46		590		-->		00:16:49		134		Everything we had was on the Sanction. 
+		221		00:16:49		301		-->		00:16:52		262		Then it's going be difficult to accommodate you. 
+		222		00:16:53		180		-->		00:16:57		184		Solar flares increasing. Shields are shaky but they're holding. 
+		223		00:16:57		351		-->		00:16:58		769		Maintain. 
+		224		00:17:01		730		-->		00:17:06		527		- How are our quarrelsome guests? - They're waiting for you, sir. 
+		225		00:17:06		693		-->		00:17:10		030		Data, what information can you give us about the inhabitants? 
+		226		00:17:10		197		-->		00:17:15		369		The only recorded contact with the Delos system was 200 years ago. 
+		227		00:17:15		536		-->		00:17:17		996		A scout ship reported two inhabited planets, one on the verge of acquiring space travel. 
+		229		00:17:20		791		-->		00:17:23		919		Odd, that in two centuries neither advanced much further. 
+		230		00:17:24		086		-->		00:17:28		590		Sir, I find it strange that none of our visitors feels much remorse about the two passengers who perished. 
+		232		00:17:31		385		-->		00:17:34		847		Yet that cargo is a source of great anxiety to them. 
+		233		00:17:35		848		-->		00:17:39		226		Yes. Let's pay a call, get some answers. Number One, Mr. Data. 
+		234		00:17:39		393		-->		00:17:42		271		- La Forge, you have the bridge. - Aye, sir. 
+		235		00:17:49		611		-->		00:17:52		823		Captain, may I present Sobi and Langor from the planet Brekka? 
+		236		00:17:52		990		-->		00:17:57		244		- And T'Jon and Romas from Ornara. - Sorry we couldn't save your ship. 
+		237		00:17:57		411		-->		00:18:00		080		Tell me. You could have repaired it? 
+		238		00:18:00		873		-->		00:18:01		623		Yes. 
+		239		00:18:04		334		-->		00:18:06		920		We have only two left. Neither works properly. 
+		240		00:18:07		087		-->		00:18:10		257		They are critical to our survival. Will you fix them? 
+		241		00:18:10		424		-->		00:18:11		550		Mr. Data? 
+		242		00:18:11		717		-->		00:18:14		178		Our computer has downloaded the specifications for the magnetic coils the freighters depend on. 
+		244		00:18:16		930		-->		00:18:21		226		Assuming the malfunction is similar, replacements can be fabricated. 
+		245		00:18:23		353		-->		00:18:25		898		- Instruct Engineering to proceed. - Aye, sir. 
+		246		00:18:28		775		-->		00:18:30		319		Now, as for our cargo... 
+		247		00:18:30		485		-->		00:18:33		989		- Our cargo, Captain. - Wrong, Sobi! 
+		248		00:18:34		156		-->		00:18:37		910		My First Officer has said that ownership is in dispute, but this must be settled  by whatever legal machinery exists between your societies. 
+		251		00:18:43		999		-->		00:18:47		252		You don't understand. This is a matter of life and death. 
+		252		00:18:48		086		-->		00:18:50		088		Why is that? What is this cargo? 
+		253		00:18:52		591		-->		00:18:53		467		Medicine. 
+		254		00:18:55		677		-->		00:18:56		637		Indeed? 
+		255		00:18:56		803		-->		00:19:02		142		Our planet is in desperate need. People have a lethal plague. 
+		256		00:19:03		143		-->		00:19:06		855		The cargo is the only hope of life for our people. 
+		257		00:19:08		899		-->		00:19:10		359		Is that so? 
+		258		00:19:10		526		-->		00:19:11		777		Yes. 
+		259		00:19:11		944		-->		00:19:15		864		You must think us heartless, but look at our side of it. 
+		260		00:19:16		031		-->		00:19:21		370		The plant which yields felicium grows only in remote areas of Brekka. 
+		261		00:19:21		495		-->		00:19:25		457		It must be painstakingly cultivated, harvested, purified. 
+		262		00:19:25		624		-->		00:19:28		293		A complex and expensive process. 
+		263		00:19:28		460		-->		00:19:32		589		That single shipment represents an enormous investment. 
+		264		00:19:33		090		-->		00:19:35		050		We can't just give it away. 
+		265		00:19:35		217		-->		00:19:38		595		We paid for it. We ask for only what is ours. 
+		266		00:19:38		762		-->		00:19:42		641		That is your viewpoint. Ours, of course, differs. 
+		267		00:19:43		559		-->		00:19:45		686		You will hold to that position? 
+		268		00:19:45		853		-->		00:19:49		815		I am constrained to abide by the terms of our agreement. 
+		269		00:19:49		982		-->		00:19:52		150		- You condemn us to death! - Romas! 
+		270		00:19:52		317		-->		00:19:57		990		You disgust me! lf you could see the suffering the plague has caused! 
+		271		00:20:03		203		-->		00:20:06		039		Well... you are going to... 
+		272		00:20:07		166		-->		00:20:10		169		...when you see what it does to us. 
+		273		00:20:13		839		-->		00:20:18		302		Romas, are you and T'Jon carrying this plague? 
+		274		00:20:21		597		-->		00:20:22		764		Yes. 
+		275		00:20:27		269		-->		00:20:29		563		Every Ornaran does. 
+		276		00:20:30		856		-->		00:20:33		025		Then you may have brought it aboard. 
+		277		00:20:34		067		-->		00:20:35		861		Was there a medical scan? 
+		278		00:20:36		028		-->		00:20:39		615		Unverified. The solar flares could have caused a malfunction. 
+		279		00:20:42		701		-->		00:20:46		830		Med alert. Dr Crusher to the observation lounge at once. 
+		280		00:20:56		798		-->		00:20:58		842		You find us well, I trust? 
+		281		00:20:59		009		-->		00:21:01		178		As far as I can tell. 
+		282		00:21:01		303		-->		00:21:04		640		Your physiology is different than I've ever encountered, but I detect no dangerous virus or bacteria. 
+		284		00:21:08		268		-->		00:21:10		729		I assure you, we're in perfect health. 
+		285		00:21:10		896		-->		00:21:14		525		- We are not. We need our medicine. - Our medicine! 
+		286		00:21:14		691		-->		00:21:17		402		- We paid for it. It's ours now. - Enough! 
+		287		00:21:18		612		-->		00:21:20		989		Of course. You are right, Doctor. 
+		288		00:21:23		951		-->		00:21:27		746		- Could we leave now? - I see no reason why not. 
+		289		00:21:27		913		-->		00:21:29		873		Escort them to their quarters. 
+		290		00:21:30		874		-->		00:21:33		460		- Doctor... - Captain, could I speak with you? 
+		291		00:21:33		627		-->		00:21:35		045		In private. 
+		292		00:21:35		212		-->		00:21:37		631		Not right now! Captain... 
+		293		00:21:47		307		-->		00:21:51		687		- What've you learned? - The Brekkians appear uninfected. 
+		294		00:21:51		854		-->		00:21:55		774		The Ornarans show all the symptoms, but I can't find a cause. 
+		295		00:21:55		941		-->		00:21:58		735		Perhaps it was filtered out by the transporter. 
+		296		00:21:58		902		-->		00:22:01		655		There's no record of it, but the flare activity might have caused a malfunction in the biofilters. 
+		298		00:22:04		992		-->		00:22:06		493		Are they going to die? 
+		299		00:22:06		660		-->		00:22:09		454		I need to check, but my instinct says no. 
+		300		00:22:10		539		-->		00:22:14		668		- Do you think we're in any danger? - Again, I need more time. 
+		301		00:22:15		794		-->		00:22:18		297		There are some missing pieces to this puzzle. 
+		302		00:22:18		463		-->		00:22:21		008		What's missing is some compassion. 
+		303		00:22:21		175		-->		00:22:23		468		Are we losing our professional detachment? 
+		304		00:22:23		635		-->		00:22:24		595		Perhaps. 
+		305		00:22:24		761		-->		00:22:29		349		But I'm developing a very active dislike for these Brekkians. 
+		306		00:22:30		642		-->		00:22:31		894		Understandable. 
+		307		00:22:37		608		-->		00:22:40		652		Captain, you must give us back our cargo. 
+		308		00:22:41		778		-->		00:22:43		113		I can't do that. 
+		309		00:22:43		280		-->		00:22:45		616		Why? It belongs to us. 
+		310		00:22:45		782		-->		00:22:48		452		- The Brekkians claim it's theirs. - They lie. 
+		311		00:22:49		161		-->		00:22:52		164		Maybe so, but it is not my decision. 
+		312		00:22:52		331		-->		00:22:57		294		We need some now. I don't care if it's your decision. Get us some. 
+		313		00:22:58		170		-->		00:23:01		381		This is happening to thousands more on Ornara. 
+		314		00:23:01		548		-->		00:23:03		967		Please understand the size of the problem. 
+		315		00:23:04		134		-->		00:23:07		763		You don't need it. The Brekkians don't need it! Our people do! 
+		316		00:23:07		930		-->		00:23:11		975		If you don't give it to us, you will murder not only us but an entire civilization! 
+		318		00:23:18		232		-->		00:23:21		985		I... I'm sorry. I do not mean to insult you. 
+		319		00:23:23		153		-->		00:23:25		030		I'm feeling very shaky. 
+		320		00:23:25		197		-->		00:23:28		158		We cannot hold out much longer. 
+		321		00:23:32		496		-->		00:23:36		708		They believe it will help. That in itself might control their symptoms. 
+		322		00:23:41		338		-->		00:23:42		840		I'll talk with the Brekkians. 
+		323		00:23:43		590		-->		00:23:47		761		Thank you, Captain. We appreciate anything you can do. 
+		324		00:24:15		873		-->		00:24:20		502		May I say how impressed we are with your ship and all its facilities? 
+		325		00:24:20		669		-->		00:24:22		671		- Thank you. - And its crew. 
+		326		00:24:22		838		-->		00:24:25		382		Everyone is so efficient and professional. 
+		327		00:24:25		549		-->		00:24:29		720		I've come to seek your agreement to an Ornaran request. 
+		328		00:24:30		554		-->		00:24:32		222		- We cannot agree... - Wait. 
+		329		00:24:32		389		-->		00:24:36		018		Let the Captain speak. We want to be reasonable. 
+		330		00:24:38		729		-->		00:24:42		983		The two Ornarans are ill, and insisting they need the felicium. 
+		331		00:24:43		692		-->		00:24:44		943		That is not surprising. 
+		332		00:24:45		110		-->		00:24:49		573		Would you give them enough for their own immediate needs? 
+		333		00:24:50		574		-->		00:24:53		535		Captain, we Brekkians are in business. 
+		334		00:24:53		702		-->		00:24:58		290		We are not in the habit of giving away that which hasn't been paid for. 
+		335		00:24:58		457		-->		00:25:00		834		You'd see them die rather than share it? 
+		336		00:25:01		585		-->		00:25:03		504		We want to be fair. 
+		337		00:25:04		129		-->		00:25:08		675		We agree to permitting them two doses for immediate use. 
+		338		00:25:09		384		-->		00:25:10		427		No charge. 
+		339		00:25:11		887		-->		00:25:14		223		I'll let my Medical Officer handle it. 
+		340		00:25:16		350		-->		00:25:19		811		You won't mind if we're present while you open the cargo? 
+		341		00:25:37		371		-->		00:25:39		456		What does that device do? 
+		342		00:25:40		582		-->		00:25:43		627		This measures the individual portions. 
+		343		00:25:43		794		-->		00:25:45		462		What's the dosage? 
+		344		00:25:45		629		-->		00:25:47		631		0.01 milliliters. 
+		345		00:25:49		550		-->		00:25:51		802		Very potent substance. 
+		346		00:25:52		511		-->		00:25:55		556		We've improved our distillation process over the years. 
+		347		00:25:55		722		-->		00:25:57		724		Years ago, the same amount of felicium would have filled five rooms this size. 
+		349		00:26:00		811		-->		00:26:02		688		Now, with our improved processes, this barrel contains over four billion doses. 
+		351		00:26:06		608		-->		00:26:10		070		I estimate four billion, 375 million... 
+		352		00:26:10		237		-->		00:26:11		530		Thank you, Mr. Data. 
+		353		00:26:13		365		-->		00:26:17		286		- How long is the dosage effective? - It varies. 
+		354		00:26:17		452		-->		00:26:19		913		But never more than 72 hours. 
+		355		00:26:20		080		-->		00:26:22		916		- And then the symptoms return. - Yes. 
+		356		00:26:23		083		-->		00:26:25		460		There is no cure for the plague. 
+		357		00:26:25		627		-->		00:26:29		423		But felicium inhibits the sickness with total efficiency. 
+		358		00:26:29		590		-->		00:26:32		301		Allowing the Ornarans to lead normal lives. 
+		359		00:26:33		385		-->		00:26:35		345		An unusual disease. 
+		360		00:26:36		138		-->		00:26:41		560		Virulent, extremely persistent, yet I can't isolate it. 
+		361		00:26:42		269		-->		00:26:46		106		The plague has baffled doctors on both planets for 200 years. 
+		362		00:26:46		273		-->		00:26:48		692		We've therefore concentrated on treatment, finding new ways to improve the potency and purity of felicium. 
+		364		00:26:53		155		-->		00:26:55		866		No doubt you applied technology from other industries to the refinement of this product. 
+		366		00:26:57		951		-->		00:27:01		163		- We have no other industry. - None at all? 
+		367		00:27:01		330		-->		00:27:05		167		We don't need any. The Ornarans provide us with everything we need in exchange for this. 
+		369		00:27:06		793		-->		00:27:08		420		Fascinating. 
+		370		00:27:08		587		-->		00:27:12		508		Your society is dedicated to the production of a single product. 
+		371		00:27:12		674		-->		00:27:17		012		For which you have no use but which the Ornarans cannot live without. 
+		372		00:27:18		055		-->		00:27:20		182		One of life's little ironies. 
+		373		00:27:20		349		-->		00:27:23		769		But one we'd be fools not to take advantage of. It's... 
+		374		00:27:24		269		-->		00:27:25		562		...mutually beneficial. 
+		375		00:27:25		729		-->		00:27:28		982		The Ornarans provide us with the necessities of life and we provide them with the necessities of living. 
+		377		00:27:32		653		-->		00:27:34		363		It is a fair exchange. 
+		378		00:27:35		489		-->		00:27:40		452		- Interesting relationship. - I'll take that to sickbay. 
+		379		00:27:50		212		-->		00:27:51		964		- Can I help? - No. 
+		380		00:28:02		307		-->		00:28:04		184		Hurry up! 
+		381		00:28:26		290		-->		00:28:30		085		- You're feeling better? - Yes, thank you. 
+		382		00:28:31		837		-->		00:28:33		505		I'm fine now. 
+		383		00:28:44		892		-->		00:28:46		185		Come! 
+		384		00:28:52		482		-->		00:28:56		028		I may not know felicium's effect on Ornaran physiology but I know how to interpret physical reaction. 
+		386		00:28:59		740		-->		00:29:01		450		Are the Ornarans recovering? 
+		387		00:29:01		617		-->		00:29:06		246		T'Jon and Romas are feeling fine. In fact, too fine. 
+		388		00:29:06		413		-->		00:29:08		040		Felicium's a narcotic. 
+		389		00:29:09		166		-->		00:29:12		419		Then T'Jon and Romas and everyone on their world... 
+		390		00:29:12		586		-->		00:29:14		463		Is a drug addict. 
+		391		00:29:30		812		-->		00:29:33		023		It's a fascinating tale we've come across. 
+		392		00:29:33		190		-->		00:29:35		776		You've piqued my interest. Please continue. 
+		393		00:29:35		901		-->		00:29:39		196		- Data, what have we got? - Several thousand years ago, the two planets took different paths. 
+		395		00:29:42		366		-->		00:29:45		744		Ornara became technologically sophisticated, Brekka did not. 
+		396		00:29:45		911		-->		00:29:50		374		200 years ago, Ornara was stricken by a devastating plague. 
+		397		00:29:50		541		-->		00:29:53		293		Their advanced technology could provide no solution. 
+		398		00:29:53		460		-->		00:29:56		672		Somehow, and there is limited information on this point, a cure was found in a plant indigenous only to Brekka,  which rejected all attempts at cultivation on Ornara. 
+		401		00:30:03		846		-->		00:30:06		932		A trading situation developed which still exists. 
+		402		00:30:07		099		-->		00:30:10		352		- A nice deal for the Brekkians. - And the Ornarans. 
+		403		00:30:10		519		-->		00:30:13		564		- Without the medicine, they'd die. - No, they wouldn't. 
+		404		00:30:13		730		-->		00:30:16		900		Despite what the Ornarans say, it is not a medicine. 
+		405		00:30:17		067		-->		00:30:20		654		It was a medicine, but it cured the plague 200 years ago. 
+		406		00:30:20		821		-->		00:30:23		866		The plague is irrelevant now. It doesn't exist. 
+		407		00:30:24		032		-->		00:30:26		201		Why are they so desperate for felicium? 
+		408		00:30:26		368		-->		00:30:27		494		It's an addiction. 
+		409		00:30:27		661		-->		00:30:30		414		The physiological and psychological need is very real. 
+		410		00:30:34		626		-->		00:30:35		878		Thank you. 
+		411		00:30:37		421		-->		00:30:41		133		- What are you going to do? - There's nothing I can do. 
+		412		00:30:41		300		-->		00:30:43		677		You don't think drug addiction and exploitation is sufficient cause to do something? 
+		414		00:30:46		263		-->		00:30:48		515		This situation has existed for a long time. 
+		415		00:30:48		682		-->		00:30:54		438		These two societies are intertwined in a symbiotic relationship. 
+		416		00:30:54		605		-->		00:30:58		108		With one society profiting at the expense of the other. 
+		417		00:30:58		275		-->		00:30:59		693		That's how you see it. 
+		418		00:31:01		528		-->		00:31:04		823		I can synthesize a non-addictive substitute which will ease their withdrawal symptoms. 
+		420		00:31:09		411		-->		00:31:12		080		No, I can't do that either. 
+		421		00:31:13		290		-->		00:31:15		334		You can't let them have the felicium! 
+		422		00:31:15		501		-->		00:31:18		170		Why? Because it offends against our sensibilities? 
+		423		00:31:18		295		-->		00:31:23		425		It is not our mission to impose Federation or Earth values on others. 
+		424		00:31:24		426		-->		00:31:28		305		In this case, Captain, I disagree, 100 percent! 
+		425		00:31:29		556		-->		00:31:32		059		Captain, I'm receiving a call from Ornara. 
+		426		00:31:32		226		-->		00:31:34		937		I think I can put it on the viewscreen. 
+		427		00:31:35		103		-->		00:31:36		313		Do it. 
+		428		00:31:40		567		-->		00:31:42		653		I'm Margan. 
+		429		00:31:43		737		-->		00:31:47		074		Are my people on board your ship? 
+		430		00:31:50		911		-->		00:31:52		204		Some of them, yes. 
+		431		00:31:53		580		-->		00:31:55		582		May I speak to them? 
+		432		00:31:56		834		-->		00:32:00		504		Yes. Lt Yar, have the Ornarans brought in. No, wait. 
+		433		00:32:02		130		-->		00:32:05		342		I don't want them to have access to the bridge. 
+		434		00:32:05		509		-->		00:32:07		803		We will contact you in a few minutes. 
+		435		00:32:13		684		-->		00:32:17		271		I will continue this in the guest quarters. Commander, Doctor. 
+		436		00:32:26		155		-->		00:32:30		742		Data, I can understand how this could happen to the Ornarans. 
+		437		00:32:30		909		-->		00:32:32		536		What I can't understand is why anyone would voluntarily become dependent on a chemical. 
+		439		00:32:36		248		-->		00:32:39		960		Addiction to drugs is a recurrent theme in many cultures. 
+		440		00:32:40		127		-->		00:32:43		922		Wesley, no one wants to become dependent. That happens later. 
+		441		00:32:44		089		-->		00:32:47		301		But it does happen, so why do people start? 
+		442		00:32:47		801		-->		00:32:51		555		On my home planet, there was so much poverty and violence, for some, their escape was through drugs. 
+		444		00:32:55		100		-->		00:32:57		769		How can a chemical substance provide an escape? 
+		445		00:32:57		895		-->		00:33:01		190		It doesn't, but it makes you think it does. 
+		446		00:33:01		982		-->		00:33:06		987		You have to understand, drugs can make you feel good. 
+		447		00:33:08		155		-->		00:33:12		743		You feel on top of the world. You're sure of yourself, in control. 
+		448		00:33:14		244		-->		00:33:16		914		- But it's artificial. - It doesn't feel artificial until the drug wears off. 
+		450		00:33:19		833		-->		00:33:21		335		Then you pay the price. 
+		451		00:33:21		502		-->		00:33:25		380		Before you know it, you're taking the drug, not to feel good, but to keep from feeling bad. 
+		453		00:33:27		716		-->		00:33:29		218		And that's the trap? 
+		454		00:33:29		384		-->		00:33:32		304		All you care about is getting your next dosage. 
+		455		00:33:32		471		-->		00:33:34		097		Nothing else matters. 
+		456		00:33:36		350		-->		00:33:40		979		- I guess I just don't understand. - I hope you never do. 
+		457		00:33:41		939		-->		00:33:45		108		Lt Yar, we're ready in the guest quarters. 
+		458		00:33:56		411		-->		00:34:00		082		T'Jon... do you have it? 
+		459		00:34:01		250		-->		00:34:03		377		Yes, it is here, but... 
+		460		00:34:03		544		-->		00:34:06		755		You've got to get it to us. T'Jon, please... 
+		461		00:34:07		631		-->		00:34:12		135		We're dying down here. It's worse than it's ever been before. 
+		462		00:34:12		302		-->		00:34:16		265		I'm doing everything I can. You see, what happened was... 
+		463		00:34:16		431		-->		00:34:18		559		Stop! I can't listen any more. 
+		464		00:34:19		601		-->		00:34:24		857		T'Jon, there are so many people here... So much suffering. 
+		465		00:34:25		023		-->		00:34:30		737		We need the medicine. You've got to get it to us. I can't go on. 
+		466		00:34:33		699		-->		00:34:35		075		Help, T'Jon. 
+		467		00:34:39		037		-->		00:34:40		372		Please. 
+		468		00:34:47		546		-->		00:34:48		839		I'm sorry. 
+		469		00:34:55		721		-->		00:34:59		641		You will take us to our planet with our medicine or he dies! 
+		470		00:35:01		143		-->		00:35:02		644		I have no choice! 
+		471		00:35:03		312		-->		00:35:05		772		We were sent to bring felicium back. 
+		472		00:35:05		939		-->		00:35:09		526		The suffering on my planet is too great. People are dying. 
+		473		00:35:09		693		-->		00:35:13		697		It doesn't matter whether we're entitled to it. We must have it. 
+		474		00:35:13		864		-->		00:35:17		034		- Let him go. - You will take us there now. 
+		475		00:35:17		868		-->		00:35:21		538		Or give us a shuttle. But we must have the medicine. 
+		476		00:35:22		623		-->		00:35:26		126		If you refuse, this person will die. 
+		477		00:35:26		710		-->		00:35:28		462		I will not be coerced. 
+		478		00:35:29		338		-->		00:35:31		423		I will do it. 
+		479		00:35:31		590		-->		00:35:33		300		I will kill him. 
+		480		00:35:36		386		-->		00:35:40		641		No, you won't. You're not a killer. 
+		481		00:35:50		400		-->		00:35:52		194		Help us, please! 
+		482		00:36:01		453		-->		00:36:03		539		I'm not sure that I can. 
+		483		00:36:18		637		-->		00:36:22		474		My insides are still shaking, but I'm alright. 
+		484		00:36:24		977		-->		00:36:27		646		Capt Picard, could I see you a moment? 
+		485		00:36:29		731		-->		00:36:31		149		I'll stay here. 
+		486		00:36:32		150		-->		00:36:34		653		Come with me, Doctor. This could be interesting. 
+		487		00:36:43		871		-->		00:36:46		290		We have thought about this a great deal. 
+		488		00:36:46		456		-->		00:36:50		043		We both feel deeply about what is happening on Ornara. 
+		489		00:36:50		210		-->		00:36:54		715		And although it will cause hardship to us and to our people, we have decided to give the felicium to them. 
+		491		00:36:58		218		-->		00:37:00		888		They can pay whenever they are able. 
+		492		00:37:01		013		-->		00:37:04		641		We don't want to be responsible for their suffering. 
+		493		00:37:05		559		-->		00:37:07		352		There goes the other shoe. 
+		494		00:37:08		145		-->		00:37:10		814		- They know. - What do they know? 
+		495		00:37:10		939		-->		00:37:13		108		That Ornarans no longer have the plague, that felicium is no longer a medicine. 
+		497		00:37:16		862		-->		00:37:19		865		So, of course they are willing to give this shipment. 
+		498		00:37:20		449		-->		00:37:23		869		They don't want the Ornarans to lose their addiction. 
+		499		00:37:24		036		-->		00:37:26		914		They don't want to lose their only customers. 
+		500		00:37:27		414		-->		00:37:31		960		How would they have known all that unless they once had the plague, too? 
+		501		00:37:32		127		-->		00:37:36		089		They were infected. They used the felicium to cure themselves, but their ancestors realized that it was a narcotic. 
+		503		00:37:40		177		-->		00:37:43		639		They broke the cycle of addiction and never told the Ornarans. 
+		504		00:37:43		805		-->		00:37:47		601		They let them believe that without the felicium they would die. 
+		505		00:37:47		768		-->		00:37:49		728		I think it's worse than that. 
+		506		00:37:49		895		-->		00:37:53		440		I guess this refining process of which you are so proud... 
+		507		00:37:53		607		-->		00:37:57		903		...is only to increase the potency of the felicium and tighten your grip! 
+		508		00:38:00		364		-->		00:38:04		034		- What are you going to do? - Will you tell them? 
+		509		00:38:04		910		-->		00:38:08		622		No. I'm bound by the rules of the United Federation of Planets, which order me not to interfere with other worlds, other cultures. 
+		511		00:38:12		417		-->		00:38:15		754		If I were to tell them, I'd violate the Prime Directive. 
+		512		00:38:15		921		-->		00:38:19		675		But you are talking to us about it. 
+		513		00:38:19		842		-->		00:38:24		137		This is information you already know. And so nothing has changed. 
+		514		00:38:24		304		-->		00:38:28		100		If you can't interfere, you are going to allow the Ornarans to have the felicium? 
+		516		00:38:31		311		-->		00:38:34		231		- Yes, I am. - No! Don't do it. 
+		517		00:38:35		065		-->		00:38:38		277		Jean-Luc, this is not a symbiotic relationship. 
+		518		00:38:38		443		-->		00:38:41		363		This is exploitation, pure and simple! 
+		519		00:38:41		530		-->		00:38:43		699		The Brekkians have caused this suffering only to make their pitiful lives easier! 
+		521		00:38:46		118		-->		00:38:48		579		And all of it based on a lie! 
+		522		00:38:49		538		-->		00:38:54		042		No, deny them this shipment. It is the least we can do. 
+		523		00:38:54		209		-->		00:38:58		172		From the moment they agreed to give the felicium, my hands were tied. 
+		524		00:38:58		338		-->		00:39:02		843		You are absolutely right, Captain. It's not your business. 
+		525		00:39:05		888		-->		00:39:08		807		Are these the spare parts for our freighters? 
+		526		00:39:09		349		-->		00:39:10		559		They look complicated. 
+		527		00:39:10		726		-->		00:39:12		519		Are they already...? 
+		528		00:39:13		562		-->		00:39:14		897		- Aligned? - Right. 
+		529		00:39:15		063		-->		00:39:16		857		You'd have to ask the Captain. 
+		530		00:39:19		610		-->		00:39:23		071		Capt Picard, we've arrived at Ornara and assumed standard orbit. 
+		531		00:39:23		238		-->		00:39:24		781		Acknowledged. Thank you. 
+		532		00:39:26		700		-->		00:39:29		536		Captain, please, my planet is suffering. 
+		533		00:39:29		703		-->		00:39:32		706		We beg you to give us our medicine. 
+		534		00:39:32		873		-->		00:39:34		333		The matter is decided. 
+		535		00:39:34		500		-->		00:39:37		085		You're beaming down to your world, with the felicium. 
+		536		00:39:38		795		-->		00:39:40		088		Great! 
+		537		00:39:41		924		-->		00:39:45		636		- I knew it. I knew you'd help us. - We thank you. 
+		538		00:39:46		303		-->		00:39:51		517		Don't thank me. Sobi and Langor decided to let you have it. 
+		539		00:39:52		559		-->		00:39:55		270		We'll discuss the payment terms later. 
+		540		00:39:55		437		-->		00:39:58		815		There's no reason to deprive you of your needed medicine. 
+		541		00:39:59		983		-->		00:40:00		901		That's terrific. 
+		542		00:40:01		068		-->		00:40:05		113		I'm sure we can come to a fair deal for payment. 
+		543		00:40:05		280		-->		00:40:07		950		May we beam down with you and discuss it? 
+		544		00:40:08		909		-->		00:40:12		120		- Of course. - You are quite welcome on Ornara. 
+		545		00:40:12		287		-->		00:40:14		039		We appreciate your hospitality. 
+		546		00:40:15		415		-->		00:40:21		171		Captain, we appreciate your gift of the coils. 
+		547		00:40:22		172		-->		00:40:25		634		Once our freighters are fixed, everything will be back to normal. 
+		548		00:40:25		801		-->		00:40:26		593		No. 
+		549		00:40:27		302		-->		00:40:28		720		No? 
+		550		00:40:29		847		-->		00:40:31		181		The coils stay here. 
+		551		00:40:34		268		-->		00:40:36		144		What about our freighters? 
+		552		00:40:36		311		-->		00:40:40		524		You want to repair them, you'll have to do it yourselves. 
+		553		00:40:41		275		-->		00:40:42		651		We can't. 
+		554		00:40:43		026		-->		00:40:46		196		If you don't help us, our ships will soon be inoperable. 
+		555		00:40:46		363		-->		00:40:47		614		Quite possibly. 
+		556		00:40:47		781		-->		00:40:49		324		If you withhold the coils, you'll be disrupting the stability of both our planets. 
+		558		00:40:52		911		-->		00:40:56		456		And interfering with an agreement that has lasted for generations. 
+		559		00:40:56		623		-->		00:40:59		001		What of your Prime Directive? 
+		560		00:40:59		168		-->		00:41:02		588		In this case, the Prime Directive prohibits me from helping. 
+		561		00:41:02		754		-->		00:41:04		173		That's absurd! 
+		562		00:41:05		299		-->		00:41:07		551		You did not think so when it favored you. 
+		563		00:41:08		719		-->		00:41:13		557		- Do you want our world to suffer? - No, I don't want that. 
+		564		00:41:13		724		-->		00:41:17		603		Without the freighters, there will be no more shipments of felicium. 
+		565		00:41:18		604		-->		00:41:19		563		We will die. 
+		566		00:41:19		730		-->		00:41:25		402		You must trust yourselves. There are... other options. 
+		567		00:41:31		116		-->		00:41:35		120		Ensign, prepare to beam our guests and their cargo down to Ornara. 
+		568		00:41:45		923		-->		00:41:49		676		Captain, I hope you realize what you've done to us. 
+		569		00:41:51		386		-->		00:41:53		096		Of that you can be sure. 
+		570		00:41:56		141		-->		00:41:57		351		Good luck. 
+		571		00:42:19		957		-->		00:42:21		291		Main bridge. 
+		572		00:42:26		213		-->		00:42:28		173		When the felicium runs out, the people of Ornara will suffer horrible withdrawal pains. 
+		574		00:42:31		844		-->		00:42:33		595		No doubt, but they will pass. 
+		575		00:42:35		722		-->		00:42:39		726		That seems so cruel. We could have made their burden easier. 
+		576		00:42:40		477		-->		00:42:41		895		Could we have? 
+		577		00:42:43		313		-->		00:42:45		148		Perhaps in the short term. 
+		578		00:42:47		734		-->		00:42:49		194		But to what end? 
+		579		00:42:49		361		-->		00:42:50		821		Hold. 
+		580		00:42:58		328		-->		00:43:01		707		Beverly, the Prime Directive is not just a set of rules. 
+		581		00:43:02		833		-->		00:43:05		794		It is a philosophy. And a very correct one. 
+		582		00:43:08		422		-->		00:43:10		757		History has proved again and again that whenever mankind interferes with a less developed civilization,  no matter how well intentioned that may be,  the results are invariably disastrous. 
+		586		00:43:24		271		-->		00:43:28		609		It's hard to be philosophical when faced with suffering. 
+		587		00:43:29		026		-->		00:43:31		528		Believe me, there was only one decision. 
+		588		00:43:31		695		-->		00:43:36		533		- I just hope it was the right one. - And we may never know. 
+		589		00:43:38		160		-->		00:43:39		161		Resume. 
+		590		00:43:46		710		-->		00:43:49		796		- La Forge, take us out of orbit. - Destination, sir? 
+		591		00:43:53		133		-->		00:43:57		054		I don't care. Get some distance between us and this system. 
+		592		00:43:57		221		-->		00:43:58		138		Aye, sir. 
+		593		00:43:58		555		-->		00:44:03		685		Course 970, mark 318. Speed, warp three. 
+		594		00:44:04		353		-->		00:44:05		938		Where will that take us? 
+		595		00:44:06		104		-->		00:44:07		940		The Opraline system. 
+		596		00:44:10		067		-->		00:44:13		320		An interesting choice. Why? 
+		597		00:44:14		196		-->		00:44:17		199		Curiosity. We've never been there. 
+		598		00:44:25		249		-->		00:44:26		583		Engage. 

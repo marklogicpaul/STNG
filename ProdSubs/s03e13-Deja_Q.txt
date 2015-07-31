@@ -1,0 +1,536 @@
+		1		00:00:04		046		-->		00:00:10		001		Captain's log, stardate <stardate>43539</stardate>.1. We are orbiting around Bre'el IV. 
+		2		00:00:10		135		-->		00:00:14		844		Its emergency centre is helping us investigate the catastrophic threat to the population from a descending asteroidal moon. 
+		4		00:00:19		603		-->		00:00:23		683		The satellite's trajectory is deteriorating. 
+		5		00:00:23		815		-->		00:00:27		481		This orbit will put it within 500 km of the surface. 
+		6		00:00:27		611		-->		00:00:31		312		Atmospheric drag will bring it down on the next orbit. 
+		7		00:00:31		448		-->		00:00:34		864		Have you found any explanation for this? 
+		8		00:00:34		993		-->		00:00:38		409		No, Doctor. It is a most unusual phenomenon. 
+		9		00:00:38		539		-->		00:00:43		497		- Won't the moon disintegrate? - No. It has a ferrous structure. 
+		10		00:00:43		627		-->		00:00:47		126		It will be able to withstand tidal forces. 
+		11		00:00:47		256		-->		00:00:49		248		Could we blow it into pieces? 
+		12		00:00:49		383		-->		00:00:52		586		The total mass of the moon would remain the same. 
+		13		00:00:52		719		-->		00:00:56		468		Fragments would spread destruction over an even wider area. 
+		14		00:00:56		598		-->		00:00:59		516		- How long before impact? - 29 hours. 
+		15		00:00:59		643		-->		00:01:05		349		Somewhere in the west. That would destroy an area 800 km in radius. 
+		16		00:01:05		482		-->		00:01:08		685		That damage would be insignificant compared to the seismic repercussions,  massive land quakes and tsunami. 
+		19		00:01:15		909		-->		00:01:18		661		The resulting cloud of dust round the planet would cause a temperature reduction. It could be our own Ice Age. 
+		21		00:01:29		214		-->		00:01:33		508		Mr. La Forge, could the Enterprise coax that satellite 
+		22		00:01:33		635		-->		00:01:36		636		- back where it belongs? - We'd need a Delta-V of 4 km per second. Even with warp power,  it'd mean exceeding the recommended engine output by 47 percent. 
+		25		00:01:44		813		-->		00:01:48		941		It'd be like an ant pushing a tricycle. A slim chance. 
+		26		00:01:49		067		-->		00:01:52		401		Given the choice between slim and none, I'll take slim. 
+		27		00:01:52		529		-->		00:01:53		560		Make it so. 
+		28		00:01:53		697		-->		00:01:58		525		Lt Worf, contact all ships to rendezvous and join us in this. 
+		29		00:01:58		660		-->		00:02:01		151		We'll advise you of our progress. 
+		30		00:02:05		083		-->		00:02:08		618		- Can you give us any more, Geordi? - We'd burn out the emitter. 
+		31		00:02:08		754		-->		00:02:14		210		- We're already beyond the limit. - Delta-V is 92 metres per second. 
+		32		00:02:14		343		-->		00:02:18		292		The mass is too great. We are having a negligible effect. 
+		33		00:02:20		641		-->		00:02:23		677		- What is that? - Unable to identify source. 
+		34		00:02:24		102		-->		00:02:28		515		Impulse engines passing safety limits. We're seconds from shutdown. 
+		35		00:02:28		649		-->		00:02:31		104		Reduce power. Tractor beam off. 
+		36		00:02:31		235		-->		00:02:34		235		Lt Worf, what the hell do the sensors say? 
+		37		00:02:34		363		-->		00:02:36		320		The sound is not registering. 
+		38		00:02:39		868		-->		00:02:41		991		Q. 
+		39		00:02:45		082		-->		00:02:46		493		Red alert. 
+		40		00:04:40		980		-->		00:04:43		269		Captain's log, supplemental. 
+		41		00:04:43		399		-->		00:04:47		812		We haven't found a solution to the moon's deteriorating orbit. 
+		42		00:04:47		946		-->		00:04:52		157		But with the arrival of Q, we have a good idea of the cause. 
+		43		00:04:52		283		-->		00:04:55		984		- Our options? - We've done everything. 
+		44		00:04:56		120		-->		00:04:59		454		We need more time and more power. 
+		45		00:04:59		582		-->		00:05:02		334		I'll see what rules I haven't broken. 
+		46		00:05:02		460		-->		00:05:03		741		Keep me informed. 
+		47		00:05:05		547		-->		00:05:08		417		We know you're behind this, Q. 
+		48		00:05:08		550		-->		00:05:11		087		These aren't my colours. 
+		49		00:05:11		219		-->		00:05:14		054		And what are you blathering about? 
+		50		00:05:14		180		-->		00:05:18		807		What twisted pleasure does it give you to bring terror to their lives? 
+		51		00:05:18		935		-->		00:05:21		390		- Whose lives? - The millions down there, watching their moon falling. 
+		53		00:05:23		982		-->		00:05:28		442		I have no idea what you mean. I have a much more serious problem. 
+		54		00:05:28		570		-->		00:05:33		397		I'm out of the Continuum. My superiors decided to punish me. 
+		55		00:05:33		533		-->		00:05:35		858		And punish us, it would seem. 
+		56		00:05:35		994		-->		00:05:41		450		They said I spread chaos. They stripped me of my powers. 
+		57		00:05:42		917		-->		00:05:46		832		You don't believe me? Would I humiliate myself like this? 
+		58		00:05:46		963		-->		00:05:49		454		If it served your purpose, yes. 
+		59		00:05:49		591		-->		00:05:51		583		It's the truth. 
+		60		00:05:52		343		-->		00:05:54		965		I stand before you defrocked. 
+		61		00:05:55		096		-->		00:05:58		382		Condemned to be a member of this lowest of species. 
+		62		00:05:58		516		-->		00:06:02		134		A normal, imperfect, lumpen human being. 
+		63		00:06:02		270		-->		00:06:05		970		They made you human as part of your punishment? 
+		64		00:06:06		107		-->		00:06:10		816		No, it was my request. I could have become a Markoffian sea lizard or a Belzoidian flea. 
+		66		00:06:12		488		-->		00:06:16		486		Anything I wished, as long as it was mortal. 
+		67		00:06:16		618		-->		00:06:20		200		Since I only had a second to mull, I chose this 
+		68		00:06:20		330		-->		00:06:23		165		- and asked to come here. - Why? 
+		69		00:06:23		291		-->		00:06:28		202		Because you're the closest thing I have to a friend, Jean-Luc. 
+		70		00:06:29		172		-->		00:06:33		917		- Sir, he is reading as fully human. - Is there an echo in here? 
+		71		00:06:34		052		-->		00:06:37		385		I am sensing an emotional presence. 
+		72		00:06:37		513		-->		00:06:40		717		I would normally describe it as being terrified. 
+		73		00:06:40		850		-->		00:06:44		136		- How rude! - What do you want, Q? 
+		74		00:06:44		270		-->		00:06:46		014		Your compassion. 
+		75		00:06:48		358		-->		00:06:53		185		Alright, sanctuary on this ship, dreary as it sounds to both of us. 
+		76		00:06:53		947		-->		00:06:59		024		- Return that moon to its orbit. - I have no powers. Q the ordinary. 
+		77		00:06:59		160		-->		00:07:03		489		- Q the liar. Q the misanthrope. - Q the miserable and desperate. 
+		78		00:07:03		623		-->		00:07:06		992		- What must I do to convince you? - Die. 
+		79		00:07:08		461		-->		00:07:12		589		Very clever, Worf. Eat any good books lately? 
+		80		00:07:12		715		-->		00:07:15		752		Fine. You want to be treated as human? 
+		81		00:07:15		885		-->		00:07:19		052		- Absolutely. - Alright. Mr. Worf. 
+		82		00:07:19		180		-->		00:07:22		715		- Throw him in the brig. - Delighted, Captain. 
+		83		00:07:23		810		-->		00:07:26		811		You can't do this to me, Jean-Luc. 
+		84		00:07:26		938		-->		00:07:31		232		- You will walk or I will carry you. - Given the option, I'll walk. 
+		85		00:07:32		402		-->		00:07:35		403		You've disappointed me, Jean-Luc. 
+		86		00:07:35		530		-->		00:07:37		487		I'm claustrophobic! 
+		87		00:07:39		742		-->		00:07:44		535		I never should have picked human. I knew it the moment I said it. 
+		88		00:07:44		664		-->		00:07:48		792		A future in this shell! Forced to cover myself with fabric because of outdated human morality. 
+		90		00:07:51		629		-->		00:07:56		872		To say nothing of being too hot or cold, growing feeble with age, losing my hair,  catching a disease, being ticklish,  sneezing, having an itch,  a pimple, bad breath. 
+		95		00:08:09		439		-->		00:08:11		977		Having to bathe. 
+		96		00:08:12		108		-->		00:08:13		851		Too bad. 
+		97		00:08:15		820		-->		00:08:18		228		Klingon. I should have said Klingon. 
+		98		00:08:18		364		-->		00:08:21		365		In my heart of hearts, I am a Klingon, Worf. 
+		99		00:08:21		910		-->		00:08:22		858		Sorry. 
+		100		00:08:22		994		-->		00:08:28		498		I could not survive in confinement. This is cruel and unusual punishment. 
+		101		00:08:28		625		-->		00:08:31		080		The universe has been my back yard. 
+		102		00:08:31		210		-->		00:08:35		078		As a fellow Klingon, if you'd speak to the Captain for me, 
+		103		00:08:35		215		-->		00:08:39		544		I would be eternally grateful, which doesn't mean as much as it used to. 
+		104		00:08:39		677		-->		00:08:43		212		Be quiet! Or disappear back where you came from. 
+		105		00:08:43		348		-->		00:08:47		345		I can't disappear, any more than you could win a beauty contest. 
+		106		00:08:50		647		-->		00:08:54		894		If I were to ask a simple question, might you be able to answer without troubling your intellect? Ready? 
+		108		00:08:58		488		-->		00:09:03		280		Here goes. Would I permit you to lock me away if I still had all my powers? 
+		109		00:09:03		409		-->		00:09:09		080		- You have fooled us too often. - Perspicacity incarnate. 
+		110		00:09:09		207		-->		00:09:12		955		Please don't tell me the story of the boy who cried Worf. 
+		111		00:09:14		420		-->		00:09:16		627		Computer, activate force field. 
+		112		00:09:18		591		-->		00:09:20		916		I demand to be let out of here. 
+		113		00:09:21		052		-->		00:09:25		180		You will deactivate this cell immediately. 
+		114		00:09:27		100		-->		00:09:28		677		Romulan! 
+		115		00:09:30		603		-->		00:09:34		471		I should have said Romulan. That Klingon goat. 
+		116		00:09:34		607		-->		00:09:39		400		The question is, what sort of jaded game is he up to this time? 
+		117		00:09:39		529		-->		00:09:44		274		Maybe he'll take Bre'el IV to the brink and then pull the moon back. 
+		118		00:09:46		619		-->		00:09:49		454		Or he may have nothing to do with it at all. 
+		119		00:09:49		581		-->		00:09:51		454		You think Q is telling the truth? 
+		120		00:09:51		583		-->		00:09:57		169		Unlikely. But we must proceed with our dilemma as if Q is powerless. 
+		121		00:09:57		297		-->		00:10:01		460		- While he watches us struggle. - I don't see that we have a choice. 
+		122		00:10:01		593		-->		00:10:05		008		Mr. Worf, hail the Bre'el IV science station. 
+		123		00:10:05		138		-->		00:10:06		965		They're standing by. 
+		124		00:10:09		767		-->		00:10:11		427		Yes, Capt Picard? 
+		125		00:10:11		561		-->		00:10:17		267		Our first attempt to restore the moon to its orbit has failed. 
+		126		00:10:21		821		-->		00:10:25		024		We have less than 25 hours before impact. 
+		127		00:10:25		158		-->		00:10:28		527		Our Chief Engineer is working on the tractor beam. 
+		128		00:10:28		661		-->		00:10:32		706		There is hope, but if you have an evacuation plan... 
+		129		00:10:32		832		-->		00:10:36		664		We have started moving people from the coast. 
+		130		00:10:36		794		-->		00:10:40		578		We are going to make another attempt soon. Picard out. 
+		131		00:10:41		215		-->		00:10:43		671		Geordi is not at all optimistic. 
+		132		00:10:45		470		-->		00:10:47		178		What the devil...? 
+		133		00:10:48		097		-->		00:10:49		971		Data? 
+		134		00:10:50		099		-->		00:10:54		845		Sensors are showing broadband emissions, including berthold rays. 
+		135		00:10:54		979		-->		00:10:56		723		- Lethal? - No, Commander. 
+		136		00:10:56		856		-->		00:11:02		313		Overall exposure is less than 75 rems, like a soft medical scan. 
+		137		00:11:02		445		-->		00:11:06		359		- I speculate we are being probed. - By whom? 
+		138		00:11:06		491		-->		00:11:08		898		Sensors cannot identify the origin. 
+		139		00:11:09		035		-->		00:11:11		277		It seems to be coming from all around us. 
+		140		00:11:36		229		-->		00:11:40		274		You've come to apologise. How nice. All's forgiven. 
+		141		00:11:40		400		-->		00:11:44		444		- No offence taken. - Enough. What is going on? 
+		142		00:11:44		571		-->		00:11:48		900		How can I know what's going on? I've been in this dungeon of yours, alone, helpless, bored to tears. 
+		144		00:11:52		954		-->		00:11:56		287		We have a moon inexplicably falling out of orbit and just now the ship was probed with radiation. 
+		146		00:12:00		044		-->		00:12:05		169		I wasn't aware of this. Truthfully, Jean-Luc. 
+		147		00:12:05		300		-->		00:12:10		839		I have been preoccupied by a frightening experience of my own. 
+		148		00:12:10		972		-->		00:12:12		466		A couple of hours ago, 
+		149		00:12:12		599		-->		00:12:16		679		I realized that my body was no longer functioning properly. 
+		150		00:12:16		811		-->		00:12:22		232		I felt weak. I could no longer stand. Life oozed out of me. 
+		151		00:12:22		358		-->		00:12:25		145		- I lost consciousness. - You fell asleep. 
+		152		00:12:26		863		-->		00:12:30		279		Terrifying. How can you stand it day after day? 
+		153		00:12:31		117		-->		00:12:34		533		- You get used to it. - What other dangers await me? 
+		154		00:12:34		662		-->		00:12:37		153		I'm not prepared. I need guidance. 
+		155		00:12:37		290		-->		00:12:42		960		Q, if you want to continue this charade, you can do it alone. 
+		156		00:12:43		087		-->		00:12:44		961		Jean-Luc, wait! 
+		157		00:12:45		673		-->		00:12:49		837		This is getting on my nerves, now that I have them. 
+		158		00:12:49		969		-->		00:12:55		260		You have a moon in a deteriorating orbit. I've known lots of moons. 
+		159		00:12:55		391		-->		00:12:58		595		Big ones, small ones. I'm an expert. 
+		160		00:12:58		728		-->		00:13:01		931		I could help you, if you let me out of here. 
+		161		00:13:03		066		-->		00:13:07		775		There are millions of lives at risk. If you have the power... 
+		162		00:13:07		904		-->		00:13:10		477		I don't have any powers. 
+		163		00:13:10		615		-->		00:13:15		277		But I have the knowledge, locked up in this puny brain. 
+		164		00:13:16		913		-->		00:13:20		033		You cannot afford to not take that advantage, can you? 
+		165		00:13:23		002		-->		00:13:26		039		Mr. Data, report to detention cell three. 
+		166		00:13:26		172		-->		00:13:27		999		On my way, sir. 
+		167		00:13:31		636		-->		00:13:35		847		Computer, remove the force field. If you are human, which I doubt, you'll have to work hard to earn our trust. 
+		169		00:13:41		020		-->		00:13:44		354		I'm not worried about that. You only dislike me. 
+		170		00:13:44		482		-->		00:13:47		685		Others in the cosmos truly despise me. 
+		171		00:13:50		154		-->		00:13:55		611		Mr. Data, you are assigned to Q for the remainder of his stay. 
+		172		00:13:55		743		-->		00:13:58		495		Escort him to Mr. La Forge in Engineering. 
+		173		00:13:58		621		-->		00:14:02		204		- Aye, sir. - Can I have a Starfleet uniform? 
+		174		00:14:03		960		-->		00:14:05		502		What are you looking at? 
+		175		00:14:05		628		-->		00:14:09		246		I was considering the possibility of you telling the truth, 
+		176		00:14:09		382		-->		00:14:12		798		- that you really are human. - It's the ghastly truth. 
+		177		00:14:12		927		-->		00:14:15		418		I can stub my toe with the best of them. 
+		178		00:14:15		555		-->		00:14:16		551		An irony. 
+		179		00:14:16		681		-->		00:14:20		679		You have achieved in disgrace what I have always aspired to be. 
+		180		00:14:30		862		-->		00:14:33		435		Humans are such commonplace creatures. 
+		181		00:14:33		573		-->		00:14:37		024		They search the galaxy for something, they know not what. 
+		182		00:14:37		160		-->		00:14:42		035		They have an enduring desire for knowledge and self-improvement. 
+		183		00:14:42		165		-->		00:14:46		957		There's room for that. But they're a minor species in the grand scheme, not worth your envy. 
+		185		00:14:48		838		-->		00:14:51		163		- I do not feel envy. - That's good. 
+		186		00:14:51		299		-->		00:14:55		379		I feel nothing at all. That is part of my dilemma. 
+		187		00:14:55		511		-->		00:15:00		423		I have their curiosity, but there are things I will never know. 
+		188		00:15:00		558		-->		00:15:06		478		What it is like to laugh, or cry. Or to experience any emotions. 
+		189		00:15:07		523		-->		00:15:12		518		If you ask me, these emotions are not what they're cracked up to be. 
+		190		00:15:13		446		-->		00:15:17		111		The moon will hit its perigee in 1 0 hours. 
+		191		00:15:17		242		-->		00:15:19		400		We can match its trajectory and apply continuous warp-equivalent power nine to the tractor beam. 
+		193		00:15:24		374		-->		00:15:28		668		We can push it for nearly seven hours and that just might do it. 
+		194		00:15:28		795		-->		00:15:30		538		But there's a problem. 
+		195		00:15:30		672		-->		00:15:33		341		We will be too close to the atmosphere. 
+		196		00:15:33		466		-->		00:15:36		087		- That's the problem. - This is incredible. 
+		197		00:15:36		219		-->		00:15:39		635		- See something, Q? - I think I just hurt my back. 
+		198		00:15:39		764		-->		00:15:43		180		I'm feeling pain. I don't like it. 
+		199		00:15:43		309		-->		00:15:45		598		What's the right thing to say? 
+		200		00:15:48		731		-->		00:15:52		811		- I can't straighten up. - Medical assistance to Engineering. 
+		201		00:15:52		944		-->		00:15:55		316		People on Bre'el IV will be hurt... 
+		202		00:15:55		446		-->		00:16:00		108		Yes. Your plan will not only destroy the moon, but your ship, too. 
+		203		00:16:00		243		-->		00:16:01		571		Got a better idea? 
+		204		00:16:01		703		-->		00:16:05		950		I'd begin by examining the cause, not the symptom. 
+		205		00:16:06		082		-->		00:16:08		122		We've done that. There's no way... 
+		206		00:16:08		251		-->		00:16:11		750		A large celestial object must have passed through at right angles to the plane of the star system. 
+		208		00:16:14		966		-->		00:16:19		213		- Probably a black hole. - Can we counter the effect? 
+		209		00:16:19		345		-->		00:16:22		382		Change the gravitational constant of the universe. 
+		210		00:16:22		515		-->		00:16:25		350		- What? - Change the gravitational constant, so altering the mass of the asteroid. 
+		212		00:16:27		896		-->		00:16:31		893		- Redefine gravity? How? - You just do it. 
+		213		00:16:32		609		-->		00:16:35		182		Where's that Doctor, anyway? 
+		214		00:16:35		320		-->		00:16:39		946		He means that changing gravity is beyond our capabilities. 
+		215		00:16:41		910		-->		00:16:44		697		Well, in that case, never mind. 
+		216		00:16:46		831		-->		00:16:48		740		Dr Crusher, 
+		217		00:16:48		875		-->		00:16:51		710		Starfleet has shipped you back into exile. 
+		218		00:16:51		836		-->		00:16:54		244		Q says he has hurt his back. 
+		219		00:17:00		595		-->		00:17:05		173		If I didn't see it with my own eyes, I wouldn't believe it. 
+		220		00:17:05		308		-->		00:17:08		973		He has classic back trauma. Muscle spasms. 
+		221		00:17:09		103		-->		00:17:12		519		I've been under pressure. Family problems. 
+		222		00:17:12		649		-->		00:17:14		725		Don't expect sympathy from me. 
+		223		00:17:14		859		-->		00:17:17		777		You've been a pain in our backside often enough. 
+		224		00:17:19		364		-->		00:17:21		736		Your bedside manner is admirable. 
+		225		00:17:21		866		-->		00:17:26		078		I'm sure your patients recover quickly, just to get away from you. 
+		226		00:17:27		747		-->		00:17:30		155		You know, this might work. 
+		227		00:17:30		291		-->		00:17:34		123		We could wrap a low-level warp field around the moon to reduce its gravitational constant. Make it easier to push. 
+		229		00:17:39		467		-->		00:17:44		295		Glad I could help. I think... 
+		230		00:17:44		430		-->		00:17:46		257		Now what? 
+		231		00:17:47		183		-->		00:17:50		219		- Something's wrong with my stomach. - It hurts? 
+		232		00:17:50		353		-->		00:17:55		809		- It's making noises. - Maybe you're hungry. 
+		233		00:18:00		947		-->		00:18:03		782		I've never eaten before. What do I ask for? 
+		234		00:18:03		908		-->		00:18:06		364		The choice depends on individual taste. 
+		235		00:18:06		494		-->		00:18:08		487		What do you like? 
+		236		00:18:08		621		-->		00:18:11		159		Although I do not require sustenance, 
+		237		00:18:11		291		-->		00:18:16		415		I sometimes ingest semi-organic nutrient in a silicon-based liquid. 
+		238		00:18:16		546		-->		00:18:18		337		Is it good? 
+		239		00:18:18		464		-->		00:18:22		842		It is good for me. It lubricates my bio-functions. 
+		240		00:18:22		969		-->		00:18:25		674		That's not appealing. What else is there? 
+		241		00:18:25		805		-->		00:18:27		513		A wide variety of items. 
+		242		00:18:27		640		-->		00:18:30		677		The replicator can make anything you desire. 
+		243		00:18:30		810		-->		00:18:33		052		How do I know what I desire? 
+		244		00:18:34		731		-->		00:18:37		732		I have observed that the selection of food is influenced by the mood of the person ordering. 
+		246		00:18:41		321		-->		00:18:45		270		I'm in a dreadful mood. Get me something appropriate. 
+		247		00:18:45		408		-->		00:18:47		780		When Counsellor Troi is unhappy, she usually eats something chocolate. 
+		249		00:18:51		998		-->		00:18:53		243		Chocolate? 
+		250		00:18:53		374		-->		00:18:55		948		A chocolate sundae, for example. 
+		251		00:18:56		085		-->		00:18:58		755		I do not speak from personal experience, but I have seen it have a profound psychological impact. 
+		253		00:19:03		801		-->		00:19:07		384		- I'll have ten chocolate sundaes. - Ten? 
+		254		00:19:07		513		-->		00:19:10		717		I have never seen anyone eat ten sundaes. 
+		255		00:19:10		850		-->		00:19:14		184		I'm in a really bad mood and since I've never eaten before, 
+		256		00:19:14		312		-->		00:19:16		885		I should be very hungry. 
+		257		00:19:20		818		-->		00:19:24		022		This is not a moment I've been looking forward to. 
+		258		00:19:33		748		-->		00:19:36		998		I hear they drummed you out of the Continuum. 
+		259		00:19:37		126		-->		00:19:40		626		I like to think of it as a significant career change. 
+		260		00:19:40		755		-->		00:19:46		793		- Just one of the boys? - A boy with an IQ of 2,005. 
+		261		00:19:47		720		-->		00:19:51		932		The Captain and many of the crew are not convinced he is human. 
+		262		00:19:52		684		-->		00:19:54		308		Really? 
+		263		00:20:02		569		-->		00:20:05		142		Seems human enough to me. 
+		264		00:20:06		155		-->		00:20:08		148		This is a dangerous creature. 
+		265		00:20:08		283		-->		00:20:11		983		Why Picard would make her a member of the crew and not me... 
+		266		00:20:12		120		-->		00:20:14		693		How terribly frightening for you, to be defenceless after all those centuries of being omnipotent. 
+		268		00:20:19		252		-->		00:20:21		957		I still have friends in high places. 
+		269		00:20:22		088		-->		00:20:24		661		Frightening one race after the other, teasing them like frightened animals,  enjoying every moment of your victims' fears. 
+		272		00:20:30		888		-->		00:20:33		426		From now on, I'll do missionary work, OK? 
+		273		00:20:34		017		-->		00:20:38		513		- That would be a noble cause, Q. - You could learn from this one. 
+		274		00:20:38		646		-->		00:20:41		184		Sure, the robot humanities teacher. 
+		275		00:20:41		316		-->		00:20:44		767		- I am an android, not a robot. - I beg your pardon. 
+		276		00:20:44		903		-->		00:20:47		191		I'd enjoy that. Get used to it. 
+		277		00:20:47		322		-->		00:20:49		113		- What? - Begging. 
+		278		00:20:49		240		-->		00:20:54		614		You're a pitiful excuse for a human. You'll only survive on charity. 
+		279		00:21:06		007		-->		00:21:08		130		I'm not hungry. 
+		280		00:21:09		469		-->		00:21:12		920		Sensors are picking up a cloud of energetic plasma. 
+		281		00:21:13		056		-->		00:21:15		095		Bearing 341 , mark 20. 
+		282		00:21:15		224		-->		00:21:18		142		Range, 12 km and closing. 
+		283		00:21:18		269		-->		00:21:20		262		On screen. 
+		284		00:21:24		609		-->		00:21:28		025		Energy patterns are reading as highly organized. 
+		285		00:21:28		154		-->		00:21:32		899		- A life form? - Attempt to make contact, Mr. Worf. 
+		286		00:21:33		034		-->		00:21:35		951		Receiving a signal, sir. On speaker. 
+		287		00:21:37		497		-->		00:21:39		157		Computer, analyze signal. 
+		288		00:21:39		290		-->		00:21:41		366		Patterns indicate intelligence. 
+		289		00:21:41		501		-->		00:21:46		744		Unable to derive necessary referents to establish translation matrix. 
+		290		00:21:48		216		-->		00:21:50		671		- What's that? - I don't know. 
+		291		00:21:54		222		-->		00:21:55		965		Calamarain. 
+		292		00:22:04		899		-->		00:22:08		767		Captain, a field of energetic tachyons is penetrating the hull. 
+		293		00:22:08		903		-->		00:22:12		272		- Location, deck ten, forward. - Red alert. 
+		294		00:22:12		407		-->		00:22:17		911		- Geordi, increase shield power. - Increasing by 20 percent. 
+		295		00:22:18		037		-->		00:22:18		951		No effect. 
+		296		00:22:19		080		-->		00:22:23		030		- Increasing to 40 percent. - Still no effect. 
+		297		00:22:31		801		-->		00:22:36		677		Adjusting shield harmonics, diverting power to forward grids. 
+		298		00:22:38		099		-->		00:22:41		515		The added harmonics are blocking the tachyon field. 
+		299		00:22:44		647		-->		00:22:47		732		Help me! Somebody help me! 
+		300		00:22:48		860		-->		00:22:51		185		How the mighty have fallen. 
+		301		00:22:54		782		-->		00:22:58		401		Captain's log, supplemental. We have sustained light damage from an attack by the Calamarain. 
+		303		00:23:01		581		-->		00:23:04		582		They apparently have a grievance with Q. 
+		304		00:23:04		709		-->		00:23:07		745		No doubt one of many life forms that do. 
+		305		00:23:07		879		-->		00:23:10		880		The Calamarain are not very hospitable. 
+		306		00:23:11		007		-->		00:23:14		043		They exist as swirls of ionised gas. 
+		307		00:23:14		177		-->		00:23:16		169		What did you do to them, Q? 
+		308		00:23:16		304		-->		00:23:20		432		Nothing bizarre, nothing grotesque. 
+		309		00:23:20		558		-->		00:23:24		556		- You tormented them. - A subjective term. 
+		310		00:23:24		687		-->		00:23:27		688		One creature's torment is another's delight. 
+		311		00:23:27		815		-->		00:23:33		605		They have no sense of humour, a flaw with which you can identify. 
+		312		00:23:33		738		-->		00:23:35		529		I say we turn him over to them. 
+		313		00:23:35		657		-->		00:23:39		820		I take it back. You do have a sense of humour. A dreadful one. 
+		314		00:23:39		953		-->		00:23:41		495		I'm serious. 
+		315		00:23:41		621		-->		00:23:45		369		Of course. You knew this would happen. 
+		316		00:23:46		459		-->		00:23:49		164		One can never anticipate the Calamarain. 
+		317		00:23:49		295		-->		00:23:51		537		Very intelligent, but flighty. 
+		318		00:23:51		673		-->		00:23:55		207		Yes, but you must have so many enemies. 
+		319		00:23:55		343		-->		00:24:00		764		You knew that once you became mortal, some of them might look you up. 
+		320		00:24:01		891		-->		00:24:03		551		It had occurred to me. 
+		321		00:24:03		685		-->		00:24:07		018		And for all your protestations of friendship, your real reason for being here is protection. 
+		323		00:24:12		944		-->		00:24:17		570		You're very smart, Jean-Luc, but I know human beings. 
+		324		00:24:17		699		-->		00:24:21		364		They're sopping over with compassion and forgiveness. 
+		325		00:24:21		494		-->		00:24:27		947		They can't wait to absolve almost any offence. It's an inherent weakness. 
+		326		00:24:28		084		-->		00:24:31		916		- No, it is a strength. - Call it what you will, but you'll protect me, even though I've tormented you. 
+		328		00:24:35		925		-->		00:24:40		836		Fighting off all your enemies is not the mission I signed up for. 
+		329		00:24:40		972		-->		00:24:45		433		Indeed. Human or not, I want no part of you. 
+		330		00:24:45		560		-->		00:24:48		561		We will deposit you at the first starbase. 
+		331		00:24:48		688		-->		00:24:54		062		But I could be a valuable member of the team. I'm human. I can learn. 
+		332		00:24:54		193		-->		00:24:59		069		He has provided guidance for the analysis of the Bre'el satellite. 
+		333		00:24:59		198		-->		00:25:04		620		- It seems you have an advocate, Q. - I am merely stating a fact. 
+		334		00:25:06		205		-->		00:25:07		997		Mr. La Forge, your status? 
+		335		00:25:08		124		-->		00:25:12		371		My program should extend the forward lobe of the warp field. 
+		336		00:25:12		503		-->		00:25:17		296		I'm attempting to modify the field coils' alignment parameters. 
+		337		00:25:17		425		-->		00:25:20		177		Maintaining integrity will be difficult. 
+		338		00:25:20		303		-->		00:25:25		973		We can do it manually. The moon reaches its perigee in 1 4 minutes. 
+		339		00:25:26		100		-->		00:25:31		225		Mr. Data, escort Q to Engineering. You will assist Mr. La Forge. 
+		340		00:25:31		356		-->		00:25:34		725		Mr. Worf, hail the Bre'el IV science station. 
+		341		00:25:34		859		-->		00:25:36		318		Aye, sir. 
+		342		00:25:39		239		-->		00:25:42		239		Picard thinks I can't cut it on his starship. 
+		343		00:25:42		367		-->		00:25:45		368		I can do anything his trained minions can do. 
+		344		00:25:45		495		-->		00:25:49		623		Your skills are not in doubt. The Captain is merely concerned with your ability to successfully interact with his trained minions. 
+		346		00:25:54		671		-->		00:25:57		244		Human relationships are complex. 
+		347		00:25:57		382		-->		00:26:01		593		Your experience may not have adequately prepared you. 
+		348		00:26:01		719		-->		00:26:07		306		I'm not interested in relationships. I want to prove I'm indispensable. 
+		349		00:26:10		311		-->		00:26:12		268		Engineering. 
+		350		00:26:12		397		-->		00:26:16		346		To function aboard a starship or in any human activity, 
+		351		00:26:16		484		-->		00:26:20		434		- you must form relationships. - It's so hard. 
+		352		00:26:20		571		-->		00:26:24		616		Of more importance is your ability to work in groups. 
+		353		00:26:24		742		-->		00:26:27		150		I'm not good in groups. 
+		354		00:26:27		287		-->		00:26:30		786		It's difficult to work in a group when you're omnipotent. 
+		355		00:26:32		417		-->		00:26:37		755		The tides reached ten metres and are beginning to swell again. 
+		356		00:26:37		880		-->		00:26:41		166		We have a lot of frightened people down here. 
+		357		00:26:41		301		-->		00:26:45		381		The moon is nearing its perigee. We are preparing to make our attempt. 
+		358		00:26:45		513		-->		00:26:52		560		Our population has taken shelter, but it will not be adequate if you fail, especially for those on the western continent. 
+		360		00:26:56		983		-->		00:27:00		933		Whatever the results, we know you've done your best, Picard. 
+		361		00:27:02		822		-->		00:27:06		820		- It's appreciated. - We'll keep you advised, Doctor. 
+		362		00:27:06		951		-->		00:27:12		028		Sensors are picking up increased energy output from the Calamarain. 
+		363		00:27:12		165		-->		00:27:13		540		La Forge to bridge. 
+		364		00:27:13		666		-->		00:27:17		960		The moon has reached its minimum orbital distance. It's time. 
+		365		00:27:18		087		-->		00:27:21		088		- We'll have to lower shields. - Proceed. 
+		366		00:27:21		215		-->		00:27:24		631		Mr. Worf, keep a close eye on Q's friends out there. 
+		367		00:27:24		761		-->		00:27:25		923		Understood. 
+		368		00:27:29		390		-->		00:27:31		430		Right, this is what we will do. 
+		369		00:27:31		559		-->		00:27:34		643		Everybody already knows what to do except for you. 
+		370		00:27:34		771		-->		00:27:39		349		- Here's what I need... - My knowledge far exceeds yours by about a billion times. So, step aside gracefully. 
+		372		00:27:44		447		-->		00:27:46		819		Your experience would be most valuable if you control the field integrity. 
+		374		00:27:49		244		-->		00:27:51		651		That would be a waste of my talents. 
+		375		00:27:51		788		-->		00:27:54		160		Get to the controls or get out of here. 
+		376		00:27:57		752		-->		00:28:00		836		Data, you're my liaison to the bridge. Stay with me. 
+		377		00:28:01		881		-->		00:28:04		550		Who does he think he is, giving me orders? 
+		378		00:28:04		676		-->		00:28:08		543		Geordi thinks he is in command here. And he is correct. 
+		379		00:28:12		725		-->		00:28:18		312		- Engineering, holding at 640 metres. - Fields to flight tolerance. 
+		380		00:28:18		439		-->		00:28:20		646		Warp core to 90 percent. 
+		381		00:28:20		775		-->		00:28:24		440		Engage field coils. Tractor beam to stand by. 
+		382		00:28:24		570		-->		00:28:28		022		Field output? Field output? 
+		383		00:28:29		033		-->		00:28:33		161		- 21 7. - Impulse engines to full. 
+		384		00:28:34		414		-->		00:28:36		205		Ready to engage tractor beam. 
+		385		00:28:36		332		-->		00:28:38		621		Lowering shields. Engage tractor beam. 
+		386		00:28:42		714		-->		00:28:47		043		- Extending warp field forward. - Is that the forward limit? 
+		387		00:28:47		176		-->		00:28:50		343		Yes. We can't encompass the entire moon. 
+		388		00:28:50		471		-->		00:28:51		847		Should we proceed? 
+		389		00:28:51		973		-->		00:28:55		721		The two parts of the moon will have different densities. 
+		390		00:28:55		852		-->		00:28:59		684		Stand by. I can adjust the field symmetry to compensate. 
+		391		00:28:59		814		-->		00:29:00		845		I doubt it. 
+		392		00:29:00		982		-->		00:29:05		810		You don't know what this ship can do. I still believe it will work. 
+		393		00:29:05		945		-->		00:29:09		279		Increasing power to warp field and tractor beam. 
+		394		00:29:09		407		-->		00:29:13		274		If you're wrong, the moon will crumble. 
+		395		00:29:13		411		-->		00:29:14		407		Shut up, Q. 
+		396		00:29:14		537		-->		00:29:16		744		I will not be spoken to in this manner. 
+		397		00:29:16		873		-->		00:29:18		700		Data. 
+		398		00:29:18		833		-->		00:29:22		783		Q, I strongly suggest that you cooperate. 
+		399		00:29:26		299		-->		00:29:31		459		Inertial mass of the moon is decreasing to 2.5 million tonnes. 
+		400		00:29:31		596		-->		00:29:36		424		It is working. We can move it. Firing impulse engines. 
+		401		00:29:39		520		-->		00:29:44		811		Captain, the moon's trajectory has moved 0.3 percent... 0.4 percent. 
+		402		00:29:45		568		-->		00:29:47		727		Emergency! Shields up. 
+		403		00:29:47		862		-->		00:29:51		148		- Disengage tractor beam. - Calamarain attacking. 
+		404		00:29:52		825		-->		00:29:55		316		Shields holding. Tachyon field repelled. 
+		405		00:29:55		453		-->		00:29:58		988		The blast is pushing us into the upper atmosphere. 
+		406		00:30:04		420		-->		00:30:06		994		Hull temperature rising. 2,000 degrees. 
+		407		00:30:07		131		-->		00:30:09		005		2,500. 
+		408		00:30:09		133		-->		00:30:12		799		- Moving to full power. - Calamarain resuming attack. 
+		409		00:30:16		224		-->		00:30:20		304		They've overpowered the shields at deck 36, Engineering. 
+		410		00:30:20		436		-->		00:30:22		892		Can we get power to the shields? 
+		411		00:30:23		022		-->		00:30:26		356		We need all the power we have to get out of the atmosphere. 
+		412		00:30:37		078		-->		00:30:40		198		- Try activating the integrity field. - Yes, sir. 
+		413		00:30:45		503		-->		00:30:48		374		It's not working. Harmonics on manual. 
+		414		00:30:50		466		-->		00:30:53		670		Hull temperature falling. We're in the clear. 
+		415		00:30:53		803		-->		00:30:56		376		Diverting power to forward sections. 
+		416		00:31:13		071		-->		00:31:16		571		That charge nearly knocked out his positronic net. 
+		417		00:31:16		700		-->		00:31:20		650		- What can you do? - Reset the motor pathways, recouple the autonomic nodes. 
+		419		00:31:23		540		-->		00:31:27		123		There's pressure in his fluidic systems. Thermal shock. 
+		420		00:31:27		252		-->		00:31:29		328		If he was mortal, he'd be dead. 
+		421		00:31:29		463		-->		00:31:33		923		Let's not overstate the matter here. I'm mortal and I survived. 
+		422		00:31:36		303		-->		00:31:38		426		The cheers are overwhelming. 
+		423		00:31:38		555		-->		00:31:42		304		You exceed your own standards of self-preoccupation. 
+		424		00:31:42		434		-->		00:31:46		681		- He may have saved your life. - He's strong. He'll survive. 
+		425		00:31:46		813		-->		00:31:51		559		Osmotic pressure still rising. Maybe we can bypass the regulator. 
+		426		00:31:51		693		-->		00:31:54		860		It would be helpful if everybody got out of here. 
+		427		00:31:58		825		-->		00:32:00		569		Stay with Q. 
+		428		00:32:03		914		-->		00:32:05		242		Geordi? 
+		429		00:32:05		374		-->		00:32:07		331		The moon's trajectory? 
+		430		00:32:08		669		-->		00:32:13		911		We only bought another orbit. We can try again at the next perigee. 
+		431		00:32:14		049		-->		00:32:17		085		And the Calamarain will go after Q. 
+		432		00:32:17		219		-->		00:32:20		255		Commander, he's not worth it. 
+		433		00:32:27		813		-->		00:32:29		556		Come. 
+		434		00:32:32		234		-->		00:32:36		101		You're right, I'm extraordinarily selfish. 
+		435		00:32:36		238		-->		00:32:39		192		But it has served me so well in the past. 
+		436		00:32:39		324		-->		00:32:41		815		It will not serve you here. 
+		437		00:32:41		952		-->		00:32:44		194		Don't be so hard on me, Jean-Luc. 
+		438		00:32:44		329		-->		00:32:47		579		You've always been mortal. You know about dying. 
+		439		00:32:47		708		-->		00:32:53		046		I've never given it a second thought. Or a first one, for that matter. 
+		440		00:32:53		171		-->		00:32:55		544		I could have been killed. 
+		441		00:32:55		674		-->		00:33:00		419		If it hadn't been for Data creating that delay, I would have been gone. 
+		442		00:33:00		554		-->		00:33:06		758		No more me. And no one would have missed me, would they? 
+		443		00:33:10		314		-->		00:33:14		561		Data may have sacrificed himself for me. Why? 
+		444		00:33:14		693		-->		00:33:20		032		That is his special nature. He learned the lessons of humanity well. 
+		445		00:33:20		157		-->		00:33:23		941		When I ask myself if I would have done the same for him, and I am forced to answer no, I feel... 
+		447		00:33:30		208		-->		00:33:32		201		I feel ashamed. 
+		448		00:33:32		336		-->		00:33:34		827		Q, I'm not your father confessor. 
+		449		00:33:34		963		-->		00:33:37		633		You will receive no absolution from me. 
+		450		00:33:37		758		-->		00:33:40		545		You've brought us nothing but pain. 
+		451		00:33:40		677		-->		00:33:42		884		And I'm still not convinced that all this isn't your latest attempt at a puerile joke. 
+		453		00:33:47		809		-->		00:33:50		182		It is a joke. On me. 
+		454		00:33:50		312		-->		00:33:53		847		The joke of the universe. The king who would be man. 
+		455		00:33:53		982		-->		00:33:57		102		As I learn more and more what it is to be human, 
+		456		00:33:57		235		-->		00:34:02		360		I am more and more convinced that I would never make a good one. 
+		457		00:34:02		491		-->		00:34:06		654		Without my powers, I am frightened of everything. 
+		458		00:34:06		787		-->		00:34:10		321		I'm a coward. And I'm miserable. 
+		459		00:34:12		251		-->		00:34:14		920		And I can't go on this way. 
+		460		00:34:26		014		-->		00:34:28		340		He's going to be alright. 
+		461		00:34:29		101		-->		00:34:32		386		We're recalibrating his circuits. He can't talk yet. 
+		462		00:34:35		691		-->		00:34:38		016		There are creatures in the universe who would consider you the ultimate achievement, android. 
+		464		00:34:42		239		-->		00:34:47		197		No feelings, no emotions, no pain. 
+		465		00:34:47		995		-->		00:34:51		909		And yet you covet those qualities of humanity. 
+		466		00:34:52		040		-->		00:34:54		827		Believe me, you're missing nothing. 
+		467		00:34:56		837		-->		00:35:01		546		But if it means anything to you, you're a better human than l. 
+		468		00:35:12		728		-->		00:35:16		677		- Where's the main shuttle bay? - Located on deck four. 
+		469		00:35:16		815		-->		00:35:18		689		Take me there. 
+		470		00:35:19		610		-->		00:35:24		106		Captain, an unscheduled shuttle has just been launched. 
+		471		00:35:24		239		-->		00:35:26		066		On main viewer. 
+		472		00:35:31		204		-->		00:35:34		739		- Hailing frequency. - Frequencies open. 
+		473		00:35:34		875		-->		00:35:37		282		Shuttle occupant, identify yourself. 
+		474		00:35:38		045		-->		00:35:42		089		- Don't try and talk me out of it. - Return to the ship. 
+		475		00:35:42		215		-->		00:35:44		706		I can't get used to following orders. 
+		476		00:35:44		843		-->		00:35:48		841		Captain, the plasma cloud is moving toward the shuttle. 
+		477		00:35:48		972		-->		00:35:53		385		It's easier this way. They won't bother you after I'm gone. 
+		478		00:35:53		518		-->		00:35:58		430		- Engineering, extend shields. - Don't use your tired cliché of charging to the rescue just in the nick of time. 
+		480		00:36:02		152		-->		00:36:04		228		I don't want to be rescued. 
+		481		00:36:04		363		-->		00:36:07		529		As a human being, I have been a dismal failure. 
+		482		00:36:07		658		-->		00:36:10		493		Perhaps my death will have dignity. 
+		483		00:36:10		619		-->		00:36:13		288		Q, there is no dignity in suicide. 
+		484		00:36:13		413		-->		00:36:17		328		Yes, you're right. Death of a coward, then. So be it. 
+		485		00:36:17		459		-->		00:36:20		793		But as a human, I would have died of boredom. 
+		486		00:36:37		645		-->		00:36:41		097		This goes against my better judgement. 
+		487		00:36:41		232		-->		00:36:44		815		Transporter room three, beam shuttle one back to its bay. 
+		488		00:36:44		944		-->		00:36:46		487		Aye, Captain. 
+		489		00:36:48		364		-->		00:36:51		034		It's a perfectly good shuttlecraft. 
+		490		00:36:51		159		-->		00:36:56		366		Unable to transport. I can't lock on to the shuttlecraft. 
+		491		00:36:56		498		-->		00:37:01		243		- Interference from the Calamarain? - No, but they are following him. 
+		492		00:37:01		377		-->		00:37:05		589		- Extend shields around shuttle one. - Extending shields. 
+		493		00:37:06		674		-->		00:37:09		794		- Commander, the shields are frozen. - Cause? 
+		494		00:37:11		513		-->		00:37:14		679		- Unknown. - Lock on tractor beam. 
+		495		00:37:16		559		-->		00:37:18		303		Not functioning either. 
+		496		00:37:18		436		-->		00:37:20		808		What the hell is going on? 
+		497		00:37:20		939		-->		00:37:22		599		Not bad, Q. 
+		498		00:37:26		194		-->		00:37:27		818		Not great. 
+		499		00:37:32		575		-->		00:37:33		690		But not bad. 
+		500		00:37:34		577		-->		00:37:35		740		Q! 
+		501		00:37:37		831		-->		00:37:43		785		Sacrificing yourself for humans? Do I detect a little selfless act? 
+		502		00:37:43		920		-->		00:37:45		118		You flatter me. 
+		503		00:37:45		255		-->		00:37:49		751		I was only trying to put a quick end to a miserable existence. 
+		504		00:37:51		010		-->		00:37:53		762		- What a dreadful colour. - Yeah. 
+		505		00:37:53		888		-->		00:37:58		135		- What are you doing here? - I've been keeping track of you. 
+		506		00:37:58		268		-->		00:38:03		642		- I knew you'd be in my corner. - No, I got you kicked out. 
+		507		00:38:04		524		-->		00:38:08		569		You're a lost cause, Q. Whichever solar system I go to, 
+		508		00:38:08		695		-->		00:38:13		108		I have to apologise for you. And I'm tired of it. 
+		509		00:38:13		241		-->		00:38:16		906		I wasn't the one who misplaced the Deltived Asteroid Belt. 
+		510		00:38:17		036		-->		00:38:21		580		This isn't about me. I've got better places to be. 
+		511		00:38:21		708		-->		00:38:26		168		But somebody had to make sure you still didn't cause trouble. 
+		512		00:38:26		296		-->		00:38:31		421		Even as a member of this... limited species. 
+		513		00:38:31		551		-->		00:38:34		837		Well, I hope I've been entertaining you. 
+		514		00:38:36		097		-->		00:38:37		757		Barely. 
+		515		00:38:37		891		-->		00:38:43		561		But I find these humans interesting. I understand what you see in them. 
+		516		00:38:43		688		-->		00:38:47		139		After all you've done, they still want to keep you safe. 
+		517		00:38:47		275		-->		00:38:51		273		- A weakness of the race. - And they're still at it! 
+		518		00:38:51		404		-->		00:38:56		909		They just tried to beam you up, back, whatever it is they call it. 
+		519		00:38:57		035		-->		00:38:59		786		- Really? - I stopped them. 
+		520		00:38:59		913		-->		00:39:04		242		If the Calamarain finish me off, you can be back on your way. 
+		521		00:39:04		375		-->		00:39:09		796		They're on hold, too. There's still this matter of the selfless act. 
+		522		00:39:11		883		-->		00:39:16		960		The Calamarain would have destroyed the Enterprise to get to you. 
+		523		00:39:17		097		-->		00:39:19		967		That's really why you left, right? 
+		524		00:39:20		100		-->		00:39:23		967		- It was a teeny bit selfless. - There's my problem! 
+		525		00:39:24		104		-->		00:39:28		232		I can't tell the Continuum you committed a selfless act. 
+		526		00:39:28		358		-->		00:39:32		190		There'd be questions and explanations for centuries. 
+		527		00:39:32		320		-->		00:39:36		982		- I've learned my lesson. - Remember who you're talking to. 
+		528		00:39:37		534		-->		00:39:40		203		All-knowing, all-seeing. 
+		529		00:39:44		958		-->		00:39:48		291		Fine, you got your powers back. 
+		530		00:39:49		796		-->		00:39:52		287		Try and stay out of trouble. 
+		531		00:39:58		763		-->		00:40:02		428		So, they wanted to destroy me, did they? 
+		532		00:40:05		687		-->		00:40:08		604		If you think I tormented you in the past, wait until you see what I do with you now. 
+		534		00:40:11		526		-->		00:40:12		522		Q? 
+		535		00:40:14		696		-->		00:40:17		780		I was just seeing if you were still watching. 
+		536		00:40:21		578		-->		00:40:25		872		Captain, the aliens have disappeared and so has the shuttle. 
+		537		00:40:25		999		-->		00:40:29		000		- Scan the sector. - I have, sir. 
+		538		00:40:29		127		-->		00:40:34		466		Well,... I suppose that is the end of Q. 
+		539		00:40:38		887		-->		00:40:43		845		Au contraire, mon capitaine. He's back! 
+		540		00:40:59		824		-->		00:41:04		700		I'm forgiven. My brothers and sisters of the Continuum have taken me back. 
+		541		00:41:04		829		-->		00:41:08		494		I'm immortal again. Omnipotent again. 
+		542		00:41:08		625		-->		00:41:09		739		Swell. 
+		543		00:41:09		876		-->		00:41:14		337		Don't fret, Riker. My good fortune is your good fortune. 
+		544		00:41:18		259		-->		00:41:20		382		I don't need your fantasy women. 
+		545		00:41:20		512		-->		00:41:23		797		You're so stolid! You weren't before the beard. 
+		546		00:41:26		893		-->		00:41:28		173		Very well. 
+		547		00:41:32		816		-->		00:41:33		811		Q! 
+		548		00:41:33		942		-->		00:41:37		227		- But I feel like celebrating. - I don't! 
+		549		00:41:38		363		-->		00:41:40		023		Alright. 
+		550		00:41:44		452		-->		00:41:45		615		All of it. 
+		551		00:41:51		835		-->		00:41:56		378		- At the risk of being rude... - Yes, I've overstayed my welcome. 
+		552		00:41:56		506		-->		00:41:58		712		As a human, I couldn't thank you. 
+		553		00:41:58		842		-->		00:42:02		376		But as myself, you have my everlasting gratitude. 
+		554		00:42:02		512		-->		00:42:04		255		Until next time. 
+		555		00:42:05		306		-->		00:42:08		343		But, before I go, there is a debt I wish to repay to my professor of the humanities. 
+		557		00:42:13		189		-->		00:42:17		353		Data, I've decided to give you something very, very special. 
+		558		00:42:17		485		-->		00:42:20		522		- If you intend to make me human... - No, no. 
+		559		00:42:20		655		-->		00:42:23		691		I would never curse you by making you human. 
+		560		00:42:23		825		-->		00:42:28		368		Think of it as a going-away present. 
+		561		00:42:46		097		-->		00:42:47		176		Data? 
+		562		00:42:57		400		-->		00:42:59		192		Data, why are you laughing? 
+		563		00:43:09		788		-->		00:43:11		780		I do not know. 
+		564		00:43:14		459		-->		00:43:18		077		But it was a wonderful... feeling. 
+		565		00:43:19		005		-->		00:43:23		252		Captain, Bre'el IV is hailing us. 
+		566		00:43:23		384		-->		00:43:24		879		On screen. 
+		567		00:43:25		804		-->		00:43:28		341		Capt Picard, you've done it. 
+		568		00:43:29		599		-->		00:43:30		678		I'm sorry? 
+		569		00:43:30		809		-->		00:43:34		391		The moon is back to its normal orbit. 
+		570		00:43:34		521		-->		00:43:37		640		However you did it, thank you. 
+		571		00:43:40		985		-->		00:43:42		729		Let's see it, Worf. 
+		572		00:43:49		035		-->		00:43:53		993		- Mr. Data, your analysis? - The moon's altitude is 55,000 km. 
+		573		00:43:54		124		-->		00:43:57		706		Orbit is circular. There is no further danger to the planet. 
+		574		00:44:04		968		-->		00:44:08		965		Ensign, set course for Station Nigala IV. 
+		575		00:44:09		097		-->		00:44:10		093		Aye, sir. 
+		576		00:44:16		396		-->		00:44:22		849		Perhaps there's a residue of humanity in Q after all. 
+		577		00:44:25		697		-->		00:44:28		817		Ensign. 
+		578		00:44:28		950		-->		00:44:31		523		Don't bet on it, Picard. 

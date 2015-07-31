@@ -1,0 +1,523 @@
+		1		00:00:08		509		-->		00:00:11		261		We are approaching Star base 179, sir. 
+		2		00:00:11		428		-->		00:00:14		515		- Half impulse, Mr Crusher. - Going to half impulse. 
+		3		00:00:14		681		-->		00:00:18		143		Captain, this is the bridge. We have arrived at Star base 179. 
+		4		00:00:18		310		-->		00:00:20		020		Acknowledged, Number One. 
+		5		00:00:20		187		-->		00:00:25		442		Establish position 090, mark 345 at 27,000 kilometers. 
+		6		00:00:26		151		-->		00:00:27		569		Hailing frequencies. 
+		7		00:00:28		237		-->		00:00:29		196		Open. 
+		8		00:00:29		363		-->		00:00:32		032		Star base 179, this is the Enterprise. 
+		9		00:00:32		199		-->		00:00:36		954		Enterprise, this is Star base 179. Ready for transfer on your mark. 
+		10		00:00:37		120		-->		00:00:40		874		Cmdr Data, you have the bridge. Ensign Crusher, you're with me. 
+		11		00:00:55		973		-->		00:00:59		226		Star base 179, we are ready to commence transfer. 
+		12		00:00:59		393		-->		00:01:02		145		Acknowledged, Enterprise. Begin transfer. 
+		13		00:01:10		237		-->		00:01:14		449		Welcome aboard the Enterprise. I'm Cmdr Riker, your First Officer. 
+		14		00:01:14		616		-->		00:01:18		412		Those here as replacements, step outside and follow Lt Lewis. 
+		15		00:01:18		579		-->		00:01:20		914		He will assign you to your crew quarters. 
+		16		00:01:22		165		-->		00:01:25		711		Ensign, you're on the exchange programme. Follow Mr Crusher. 
+		17		00:01:25		878		-->		00:01:29		173		Mordoc, how are you here? You can't have graduated already. 
+		18		00:01:31		049		-->		00:01:33		177		I am not Mordoc. I am Mendon. 
+		19		00:01:33		343		-->		00:01:35		929		Ensign Mendon, from the planet Benzar. 
+		20		00:01:36		638		-->		00:01:40		017		Sorry. It's a friend of mine. You look just like him. 
+		21		00:01:40		184		-->		00:01:44		062		We are from the same geostructure. Naturally, we look alike. 
+		22		00:01:44		855		-->		00:01:47		191		How do you tell each other apart? 
+		23		00:01:48		942		-->		00:01:50		360		We just do. 
+		24		00:01:52		070		-->		00:01:54		114		It's nice to have you here, Ensign. 
+		25		00:01:54		990		-->		00:01:58		035		Briefing and indoctrination begin in 15 minutes. 
+		26		00:01:58		952		-->		00:02:02		623		I want to say how happy I am to be assigned to the Enterprise. 
+		27		00:02:02		789		-->		00:02:05		125		It wasn't just luck. I requested it. 
+		28		00:02:05		292		-->		00:02:08		378		I know I can be of great help to the ship. 
+		29		00:02:09		254		-->		00:02:11		632		Yes. Of course. Just follow Mr Crusher. 
+		30		00:02:11		798		-->		00:02:13		467		Yes, sir. 
+		31		00:02:18		472		-->		00:02:21		308		Cmdr Riker, report to the phaser range, please. 
+		32		00:02:21		475		-->		00:02:22		851		On my way. 
+		33		00:02:32		611		-->		00:02:35		072		I wondered if you had any feelings about the officer exchange programme initiated by Starfleet. 
+		35		00:02:39		076		-->		00:02:40		577		Just positive ones, sir. 
+		36		00:02:40		744		-->		00:02:44		873		Actually, I just welcomed Ensign Mendon on board. 
+		37		00:02:45		040		-->		00:02:46		834		He seems eager to please. 
+		38		00:02:47		000		-->		00:02:48		877		Well, that's a Benzite trait. 
+		39		00:02:53		173		-->		00:02:58		136		It's been suggested an officer from the Enterprise might participate. 
+		40		00:02:59		429		-->		00:03:01		557		That's probably a good idea. 
+		41		00:03:02		432		-->		00:03:05		602		Well, there is a Klingon vessel in the area. 
+		42		00:03:09		648		-->		00:03:13		652		I don't recall a Federation officer ever serving on a Klingon vessel. 
+		43		00:03:13		819		-->		00:03:16		154		No. Neither do I. 
+		44		00:03:16		822		-->		00:03:18		532		It might prove beneficial. 
+		45		00:03:18		699		-->		00:03:21		368		Having Worf on board certainly has been. 
+		46		00:03:21		493		-->		00:03:22		911		Yes, sir. 
+		47		00:03:24		538		-->		00:03:26		415		Who did you intend to send, sir? 
+		48		00:03:26		582		-->		00:03:29		293		I thought of asking for a volunteer. 
+		49		00:03:29		459		-->		00:03:33		755		- I might be interested, sir. - Damn! Sorry, what was that? 
+		50		00:03:33		922		-->		00:03:36		258		I wouldn't mind the assignment, sir. 
+		51		00:03:38		093		-->		00:03:39		887		Any particular reason? 
+		52		00:03:40		053		-->		00:03:42		556		Because nobody's ever done it before. 
+		53		00:03:45		100		-->		00:03:47		644		I'll inform Star base of your acceptance. 
+		54		00:03:47		811		-->		00:03:50		939		They'll contact the Klingons, make the arrangements. 
+		55		00:04:12		961		-->		00:04:16		048		Space, the final frontier. 
+		56		00:04:17		758		-->		00:04:21		678		These are the voyages of the Starship Enterprise. 
+		57		00:04:21		845		-->		00:04:25		933		Its continuing mission, to explore strange new worlds,... 
+		58		00:04:27		768		-->		00:04:31		438		..to seek out new life and new civilizations,... 
+		59		00:04:32		356		-->		00:04:36		026		..to boldly go where no one has gone before. 
+		60		00:05:32		708		-->		00:05:36		128		Captain's log, stardate <stardate>42506</stardate>.5. 
+		61		00:05:36		295		-->		00:05:39		089		We have departed from Star base 179 and are headed for a rendezvous with the Klingon vessel, Pagh. 
+		63		00:05:43		051		-->		00:05:47		014		I have informed the staff of Cmdr Riker's temporary assignment. 
+		64		00:05:47		181		-->		00:05:49		850		I have studied everything about my heritage. 
+		65		00:05:50		017		-->		00:05:52		019		Just the man I need to talk to. 
+		66		00:05:52		186		-->		00:05:57		024		Is it true that a Klingon First Officer must assassinate his Captain? 
+		67		00:05:57		191		-->		00:05:58		150		Yes, sir. 
+		68		00:05:58		317		-->		00:06:01		320		- Wouldn't that bring about chaos? - Of course not. 
+		69		00:06:01		486		-->		00:06:04		865		When or if the Captain becomes weak or unable to perform, it is expected that his honourable retirement be assisted by his First. 
+		71		00:06:09		703		-->		00:06:13		832		Your Second Officer will assassinate you for the same reasons. 
+		72		00:06:13		999		-->		00:06:16		335		Must take a little getting used to. 
+		73		00:06:16		502		-->		00:06:20		506		The Klingon system has operated successfully for centuries. 
+		74		00:06:20		672		-->		00:06:22		257		It is different. 
+		75		00:06:23		383		-->		00:06:25		385		Many things will be different. 
+		76		00:06:56		458		-->		00:06:58		043		Can I help you, sir? 
+		77		00:06:58		210		-->		00:07:03		131		A wonderful way to maintain constant control over defensive shields. 
+		78		00:07:03		298		-->		00:07:06		677		But I'm sure there's a way to improve response time. 
+		79		00:07:09		054		-->		00:07:11		348		Sorry. Didn't mean to interrupt you. 
+		80		00:07:11		515		-->		00:07:14		101		Just thought I could be of some help. 
+		81		00:07:14		810		-->		00:07:17		646		However, I am correct in what I said. 
+		82		00:07:32		286		-->		00:07:35		831		That is superb designing. Absolutely first-rate. 
+		83		00:07:36		623		-->		00:07:39		585		Yes, it is. Would you care to be more specific? 
+		84		00:07:39		751		-->		00:07:43		589		The input sampling. It's simple, yet efficient enough. 
+		85		00:07:43		755		-->		00:07:46		008		A minor change of the helm read-out would be more helpful in emergency situations. 
+		87		00:07:49		303		-->		00:07:52		556		We've never had problems with it. Have you seen it work? 
+		88		00:07:52		723		-->		00:07:54		975		Not in a practical exercise. 
+		89		00:07:55		142		-->		00:08:00		480		But in theory - my theory - it would be more than a marginal improvement. 
+		90		00:08:00		647		-->		00:08:02		733		I'll mention it to the Captain. 
+		91		00:08:02		900		-->		00:08:06		612		He is open to astute observations, isn't he? 
+		92		00:08:07		237		-->		00:08:10		824		I've never known the Captain not to listen to his officers. 
+		93		00:08:10		991		-->		00:08:14		870		Outstanding. Soon we'll get things running perfectly. 
+		94		00:08:32		262		-->		00:08:34		264		What is that? 
+		95		00:08:34		848		-->		00:08:36		350		A Klingon delicacy. 
+		96		00:08:36		517		-->		00:08:40		145		Pipius claw. This is heart of targ. 
+		97		00:08:40		312		-->		00:08:42		189		This, of course, is gagh. 
+		98		00:08:44		399		-->		00:08:47		736		- Yes, serpent worms. Like some? - No. Thanks. 
+		99		00:08:47		903		-->		00:08:52		533		I never heard of a Klingon starving on his own vessel, but you might. 
+		100		00:08:52		699		-->		00:08:56		537		- Not if I weaken first. - Their beliefs are rather brutal, but usually what kills us kills them. 
+		102		00:09:00		916		-->		00:09:03		585		That's good to know. Like something to drink? 
+		103		00:09:03		752		-->		00:09:07		214		I'll abstain in honour of your last hour on board. 
+		104		00:09:07		381		-->		00:09:10		217		Your sacrifice will not go unnoticed. 
+		105		00:09:16		056		-->		00:09:18		600		I'm aware of the feast before the transfer. 
+		106		00:09:18		767		-->		00:09:20		352		I've done it dozens of times. 
+		107		00:09:21		186		-->		00:09:24		022		However, I usually made more palatable choices. 
+		108		00:09:24		815		-->		00:09:27		693		Well, these are the more palatable choices. 
+		109		00:09:28		569		-->		00:09:29		736		Thank you. 
+		110		00:09:36		410		-->		00:09:40		372		We know so little about them. There really is so much to learn. 
+		111		00:09:41		331		-->		00:09:43		083		This is a great opportunity. 
+		112		00:09:44		543		-->		00:09:46		128		I envy you, Mr Riker. 
+		113		00:09:55		470		-->		00:09:56		805		Thank you. 
+		114		00:10:13		614		-->		00:10:14		781		Commander. 
+		115		00:10:17		659		-->		00:10:19		286		An emergency transponder? 
+		116		00:10:19		453		-->		00:10:23		540		Altered to give an omni directional signal and an emergency call. 
+		117		00:10:23		707		-->		00:10:26		502		- You suspect trouble? - A security precaution. 
+		118		00:10:26		668		-->		00:10:29		630		I want to ensure your return to this ship. 
+		119		00:10:29		796		-->		00:10:31		507		Sentiment, Lt Worf? 
+		120		00:10:32		508		-->		00:10:34		301		Efficiency, Commander. 
+		121		00:10:34		760		-->		00:10:36		887		I understand. Thank you. 
+		122		00:10:42		893		-->		00:10:45		646		We have a Klingon vessel approaching. 
+		123		00:10:45		812		-->		00:10:47		940		- Hailing frequencies. - Open. 
+		124		00:10:49		149		-->		00:10:53		153		They are returning our hail in proper language. It is the Pagh. 
+		125		00:10:53		862		-->		00:10:55		364		On view screen. 
+		126		00:10:58		825		-->		00:11:01		036		I'm Capt Picard of the USS Enterprise. 
+		127		00:11:02		538		-->		00:11:05		874		This is Capt Kargan of the Klingon vessel, the Pagh. 
+		128		00:11:06		041		-->		00:11:09		253		Beam your First Officer on board immediately. 
+		129		00:11:09		419		-->		00:11:11		839		We are preparing to do so. 
+		130		00:11:12		005		-->		00:11:15		133		And, Captain, you are getting a fine officer. 
+		131		00:11:15		300		-->		00:11:19		721		Thank you for your opinion, but I will judge that for myself. 
+		132		00:11:19		888		-->		00:11:21		306		Screen off. 
+		133		00:11:27		020		-->		00:11:29		231		Not very hospitable, are they? 
+		134		00:11:29		398		-->		00:11:33		402		That is not your concern. Observe your station, Ensign Mendon. 
+		135		00:11:35		571		-->		00:11:37		281		Didn't mean to offend you. 
+		136		00:11:37		447		-->		00:11:40		158		You didn't. Yet. 
+		137		00:12:18		322		-->		00:12:21		283		Transporter, prepare to beam Cmdr Riker to the Pagh. 
+		138		00:12:21		450		-->		00:12:23		035		Acknowledged, Captain. 
+		139		00:12:23		952		-->		00:12:26		788		- Mr Data, you have the bridge. - Aye, sir. 
+		140		00:12:38		967		-->		00:12:41		512		- Good luck, Commander. - Thanks, O'Brien. 
+		141		00:12:41		678		-->		00:12:43		764		- I wouldn't wanna go. - Why? 
+		142		00:12:43		931		-->		00:12:47		267		- You're not afraid, are you? - No, I'm not. 
+		143		00:12:48		185		-->		00:12:50		687		I would be... Ready, sir. 
+		144		00:12:52		105		-->		00:12:53		398		Thanks. 
+		145		00:12:53		565		-->		00:12:54		900		Energize. 
+		146		00:13:13		585		-->		00:13:16		380		- Resume course, Mr Crusher. - Aye, sir. 
+		147		00:13:17		214		-->		00:13:20		384		Take over, Cmdr Data. I'll be in observation. 
+		148		00:13:22		219		-->		00:13:23		512		Sir. 
+		149		00:13:24		638		-->		00:13:26		014		I am Ensign Mendon. 
+		150		00:13:26		181		-->		00:13:29		977		I just wanted to tell you how pleased I am to be aboard. 
+		151		00:13:31		103		-->		00:13:34		314		Yes, of course. Good to have you aboard. 
+		152		00:13:34		481		-->		00:13:39		069		If you have a few minutes, I've noted a few procedural changes which might speed up bridge operations. 
+		154		00:13:41		697		-->		00:13:43		532		I pick things up very fast. 
+		155		00:13:43		699		-->		00:13:46		660		Of course you do. You have an excellent record. 
+		156		00:13:46		827		-->		00:13:50		247		However, on the Enterprise we use the chain of command. 
+		157		00:13:50		414		-->		00:13:53		667		You will report your observations to Lt Worf. 
+		158		00:13:53		834		-->		00:13:56		920		I beg your pardon. I just wanted to impress upon... 
+		159		00:13:57		087		-->		00:14:01		633		No need to apologize. We should have explained at your indoctrination. 
+		160		00:14:09		349		-->		00:14:11		059		Ensign Mendon. 
+		161		00:14:14		897		-->		00:14:16		690		You may impress me. 
+		162		00:14:38		462		-->		00:14:40		881		- Is something wrong? - No. 
+		163		00:14:41		798		-->		00:14:43		383		It's just... 
+		164		00:14:44		176		-->		00:14:47		554		..Iíve never seen anyone of your species before. 
+		165		00:14:47		721		-->		00:14:52		017		I'm just an average, everyday human who happens to be a Commander. 
+		166		00:14:52		893		-->		00:14:56		730		- Now, what were your orders? - To escort you to the Captain. 
+		167		00:14:59		733		-->		00:15:02		778		- Proceed. - Yes, Commander. 
+		168		00:15:30		597		-->		00:15:33		433		Cmdr William Riker of the Starship Enterprise. 
+		169		00:15:33		600		-->		00:15:35		310		That is incorrect. 
+		170		00:15:36		854		-->		00:15:38		230		I don't understand. 
+		171		00:15:38		397		-->		00:15:41		358		You are Cmdr William Riker, 
+		172		00:15:41		525		-->		00:15:45		112		First Officer of the Klingon cruiser, the Pagh. 
+		173		00:15:45		904		-->		00:15:49		575		Or do you intend to disobey Federation orders? 
+		174		00:15:50		409		-->		00:15:52		119		I have no such intention, sir. 
+		175		00:15:52		286		-->		00:15:56		164		Exactly where are your loyalties, Commander? 
+		176		00:15:57		916		-->		00:16:00		335		I'm afraid I still don't understand, sir. 
+		177		00:16:00		502		-->		00:16:05		132		This ship is equipped with our best weapons and our finest warriors. 
+		178		00:16:05		299		-->		00:16:09		636		We are on a peaceful mission, but can be ready for battle, instantly. 
+		179		00:16:09		803		-->		00:16:13		223		I know I can count on every Klingon warrior in this crew to serve and die in that battle. 
+		181		00:16:15		976		-->		00:16:20		898		So I ask you again, Cmdr Riker. Where are your loyalties? 
+		182		00:16:23		650		-->		00:16:27		821		I have been assigned to serve this ship and to obey your orders. 
+		183		00:16:27		988		-->		00:16:30		115		I will do exactly that. 
+		184		00:16:30		282		-->		00:16:32		701		Will you take an oath to that effect? 
+		185		00:16:32		868		-->		00:16:34		411		I just did. 
+		186		00:16:45		881		-->		00:16:49		259		This is your Second Officer, Lt Klag. 
+		187		00:16:52		221		-->		00:16:54		806		Something you wanted to say to me, Lieutenant? 
+		188		00:16:58		977		-->		00:17:00		562		Yes, sir. 
+		189		00:17:02		689		-->		00:17:05		192		I do not believe you. 
+		190		00:17:06		360		-->		00:17:08		904		Then you challenge my authority over you? 
+		191		00:17:09		947		-->		00:17:11		657		Correct. 
+		192		00:17:13		700		-->		00:17:16		161		And your position on this, Captain? 
+		193		00:17:16		328		-->		00:17:21		333		I would say it is your first command decision. 
+		194		00:17:56		201		-->		00:18:00		581		My oath is between Capt Kargan... and myself. 
+		195		00:18:01		290		-->		00:18:04		418		Your only concern is with how you obey my orders. 
+		196		00:18:05		836		-->		00:18:08		839		Or do you prefer the rank of prisoner to lieutenant? 
+		197		00:18:10		007		-->		00:18:12		009		I will take your orders. 
+		198		00:18:14		511		-->		00:18:17		973		And you, Cmdr Riker, will obey my orders. 
+		199		00:18:18		557		-->		00:18:20		267		Of course, Capt Kargan. 
+		200		00:18:32		779		-->		00:18:36		408		Sir, automatic scan has registered an unknown substance on the aft quarter of the exterior skin, dorsal section. 
+		202		00:18:40		037		-->		00:18:42		331		- Target it and define. - Aye, sir. 
+		203		00:18:43		790		-->		00:18:47		294		I've located it, sir. Dorsal of the Engineering section. 
+		204		00:18:47		878		-->		00:18:49		338		View screen on. 
+		205		00:18:51		340		-->		00:18:53		050		Focus on area. 
+		206		00:18:53		634		-->		00:18:55		260		Magnification factor ten. 
+		207		00:18:57		721		-->		00:18:59		473		Increase magnification to 50. 
+		208		00:19:01		016		-->		00:19:02		809		Analyze. 
+		209		00:19:02		976		-->		00:19:06		063		It appears to be a rare form of subatomic bacteria, capable of doubling itself in size every 15 minutes. 
+		211		00:19:10		275		-->		00:19:14		279		It's reacting with two compounds present in the ship's structure. 
+		212		00:19:14		446		-->		00:19:16		031		- Origin? - Captain. 
+		213		00:19:16		198		-->		00:19:19		326		I noticed it when I did an intensive scan of the Pagh. 
+		214		00:19:20		410		-->		00:19:21		995		The Klingon ship. 
+		215		00:19:22		704		-->		00:19:24		164		And whom did you inform? 
+		216		00:19:24		331		-->		00:19:27		960		No one. I have not yet completed my full analysis. 
+		217		00:19:28		126		-->		00:19:31		380		You should report whatever is out of the ordinary. 
+		218		00:19:32		381		-->		00:19:35		050		And I think that falls into this category. 
+		219		00:19:35		217		-->		00:19:38		595		But, sir, I have not completed my full analysis. 
+		220		00:19:38		762		-->		00:19:41		640		It would be improper to report it until then. 
+		221		00:19:41		807		-->		00:19:44		476		How did you come to that decision? 
+		222		00:19:45		435		-->		00:19:47		437		It is a Benzite regulation. 
+		223		00:19:47		604		-->		00:19:51		733		No officer on our ships would report an occurrence like this without a full analysis and a resolution. 
+		225		00:19:55		112		-->		00:19:57		823		I have simply followed proper procedures. 
+		226		00:20:04		830		-->		00:20:06		832		It is our procedure, Ensign, to notify command of any possible danger to the ship. 
+		228		00:20:12		546		-->		00:20:15		507		The decision is not yours. Do you understand? 
+		229		00:20:15		674		-->		00:20:16		758		Yes, sir. 
+		230		00:20:17		968		-->		00:20:21		221		Now, continue your analysis and determine the danger, not only to our ship, but to the Klingon vessel, also. 
+		232		00:20:24		933		-->		00:20:28		729		Yes, Captain. That will take a couple of hours. 
+		233		00:20:28		896		-->		00:20:31		231		Use whatever resources are necessary. 
+		234		00:20:31		398		-->		00:20:33		942		We may have encountered a new life form. 
+		235		00:20:34		109		-->		00:20:38		155		I want to know everything about it, quickly. Cmdr Data, supervise. 
+		236		00:20:38		322		-->		00:20:39		573		Aye, sir. 
+		237		00:20:47		372		-->		00:20:50		626		And then I will instruct you in Enterprise etiquette. 
+		238		00:20:57		674		-->		00:20:59		551		First Officer's personal log. 
+		239		00:20:59		718		-->		00:21:02		221		I have been aboard the Pagh a short time, but am impressed with the Klingons' abilities and single-mindedness. 
+		241		00:21:34		795		-->		00:21:37		464		Commander, you're not eating very much. 
+		242		00:21:38		257		-->		00:21:39		842		I'm not that hungry. 
+		243		00:21:40		008		-->		00:21:42		970		- Is the food alright, Commander? - Delicious. 
+		244		00:21:43		554		-->		00:21:46		640		The pipius claw was excellent. And the bregit lung. 
+		245		00:21:47		182		-->		00:21:49		393		And the rokeg blood pie? 
+		246		00:21:50		143		-->		00:21:51		645		Delicious. 
+		247		00:21:52		271		-->		00:21:56		817		Good. Then you'll also enjoy... this. 
+		248		00:21:59		194		-->		00:22:00		863		Isn't that gagh? 
+		249		00:22:01		029		-->		00:22:04		783		Very good. You did some research on our nutritional choices. 
+		250		00:22:04		950		-->		00:22:05		993		Yes, but, ... 
+		251		00:22:10		163		-->		00:22:11		331		..it's still moving. 
+		252		00:22:11		498		-->		00:22:14		459		Gagh is always best served live. 
+		253		00:22:20		591		-->		00:22:22		926		Would you like something easier? 
+		254		00:22:23		635		-->		00:22:24		845		Easier? 
+		255		00:22:27		055		-->		00:22:31		351		Yes. If Klingon food is too strong for you, perhaps we could get one of the females to breast-feed you. 
+		257		00:22:48		952		-->		00:22:52		623		You're not worried about my weakening, are you? 
+		258		00:22:52		789		-->		00:22:57		211		Look around you. There are no old warriors. 
+		259		00:22:57		377		-->		00:23:00		088		No, sir. I'm sure they all died with honour. 
+		260		00:23:01		256		-->		00:23:02		841		Exactly. 
+		261		00:23:04		259		-->		00:23:07		471		You may live long enough to learn about us. 
+		262		00:23:09		264		-->		00:23:11		642		He is not very attractive... 
+		263		00:23:12		309		-->		00:23:14		311		..but I will have him. 
+		264		00:23:15		437		-->		00:23:16		980		They are inquisitive. 
+		265		00:23:17		147		-->		00:23:19		483		They want to know how you would endure. 
+		266		00:23:19		650		-->		00:23:21		026		Endure what? 
+		267		00:23:21		693		-->		00:23:23		278		Them. 
+		268		00:23:31		912		-->		00:23:33		664		One or both? 
+		269		00:23:45		050		-->		00:23:47		886		I may be back for you. 
+		270		00:23:55		269		-->		00:23:58		105		- Is she serious? - Yes. 
+		271		00:24:06		530		-->		00:24:11		869		Commander, would you say you're... a typical Federation officer? 
+		272		00:24:12		995		-->		00:24:14		705		I suppose so. Why? 
+		273		00:24:14		872		-->		00:24:18		125		- Well, you're not what I expected. - In what way? 
+		274		00:24:18		292		-->		00:24:20		210		You have a sense of humour. 
+		275		00:24:20		377		-->		00:24:22		838		I was thinking the same about you. 
+		276		00:24:23		005		-->		00:24:26		383		In all my dealings with Klingons, including our Lt Worf, the thought never occurred to me of Klingons laughing. 
+		278		00:24:30		345		-->		00:24:33		348		There is much about us you do not know. 
+		279		00:24:34		057		-->		00:24:37		102		- That's why I'm here. - You should ask. 
+		280		00:24:37		895		-->		00:24:41		815		I may. After this tour, I may have some worthy questions. 
+		281		00:24:41		982		-->		00:24:43		775		Questions about what? 
+		282		00:24:44		484		-->		00:24:48		280		About our future? Our future is honour. 
+		283		00:24:49		072		-->		00:24:51		074		Our present is serving this ship. 
+		284		00:24:52		618		-->		00:24:55		412		Like you, I have a mother and a father. 
+		285		00:24:55		579		-->		00:24:58		582		They look like me. I look like them. 
+		286		00:24:58		749		-->		00:25:00		167		Are they still alive? 
+		287		00:25:00		334		-->		00:25:04		796		My mother lives. My father was killed in battle at Tranome Sar. 
+		288		00:25:07		841		-->		00:25:09		760		And your father? 
+		289		00:25:11		386		-->		00:25:12		763		My... father? 
+		290		00:25:23		065		-->		00:25:28		820		My father was captured in battle by Romulans and not allowed to die. 
+		291		00:25:30		989		-->		00:25:32		991		He eventually escaped. 
+		292		00:25:33		700		-->		00:25:35		077		Where is he now? 
+		293		00:25:36		620		-->		00:25:38		413		He is on our planet. 
+		294		00:25:41		291		-->		00:25:42		626		He waits. 
+		295		00:25:45		712		-->		00:25:47		798		He waits for his death. 
+		296		00:25:49		007		-->		00:25:54		680		He will fade of a natural illness and die, weakened and useless. 
+		297		00:25:55		389		-->		00:25:56		765		Honourless. 
+		298		00:25:57		891		-->		00:25:59		685		I will not see him. 
+		299		00:26:00		686		-->		00:26:02		271		He's your father. 
+		300		00:26:02		437		-->		00:26:06		775		A Klingon is his work, not his family. 
+		301		00:26:08		318		-->		00:26:10		737		That is the way of things. 
+		302		00:26:16		034		-->		00:26:17		619		He's your father. 
+		303		00:26:17		786		-->		00:26:22		624		Klingons do not express feeling the way you do. 
+		304		00:26:23		208		-->		00:26:24		418		Perhaps you should. 
+		305		00:26:25		836		-->		00:26:28		255		We would not know how. 
+		306		00:26:34		678		-->		00:26:38		473		Yesterday, I did not know how... to eat gagh. 
+		307		00:26:55		324		-->		00:27:00		287		I can confirm the organisms feed on compounds in the Enterprise's hull. 
+		308		00:27:00		454		-->		00:27:04		333		- And the Klingon ship, the Pagh? - They are more susceptible. 
+		309		00:27:04		499		-->		00:27:06		877		Their hull contains more of the compounds. 
+		310		00:27:08		378		-->		00:27:09		338		Projection. 
+		311		00:27:11		715		-->		00:27:14		635		At this rate of reproduction, there should be a 12-centimeter opening in the Klingon hull. 
+		313		00:27:17		638		-->		00:27:21		225		Signal them at once. They may be unaware of it and need help. 
+		314		00:27:21		391		-->		00:27:22		643		Aye, sir. 
+		315		00:27:22		809		-->		00:27:25		145		- Change course to intercept. - Aye, sir. 
+		316		00:27:25		312		-->		00:27:27		314		It will take time to locate them. 
+		317		00:27:27		481		-->		00:27:30		192		They are on manoeuvres in the Pheben system. 
+		318		00:27:30		359		-->		00:27:31		568		Find them. 
+		319		00:27:47		292		-->		00:27:50		295		Tell me, Cmdr Riker, what do you make of this? 
+		320		00:27:53		298		-->		00:27:55		843		I felt no collision. Were we hit by a meteor? 
+		321		00:27:56		009		-->		00:27:57		594		No collision. 
+		322		00:27:57		761		-->		00:28:00		347		- Corrosion, then? - No, not corrosion. 
+		323		00:28:00		514		-->		00:28:02		933		- Science Station, analyse. - We have. 
+		324		00:28:03		100		-->		00:28:07		521		Fortunately, that section could with stand the change in pressure. 
+		325		00:28:07		688		-->		00:28:08		772		Then what is it? 
+		326		00:28:08		939		-->		00:28:11		441		A space organism, eating away at our hull. 
+		327		00:28:11		608		-->		00:28:14		778		What are you talking about? Surely you can repair it? 
+		328		00:28:14		945		-->		00:28:16		697		I'm afraid not. 
+		329		00:28:16		864		-->		00:28:19		324		We estimate that in less than eight hours, we will have lost too much shell to remain intact. 
+		331		00:28:23		662		-->		00:28:27		124		Our only contact recently was with the Enterprise. 
+		332		00:28:27		291		-->		00:28:30		210		There was no direct contact with the Enterprise. 
+		333		00:28:30		836		-->		00:28:33		797		Tactics Officer, report to Cmdr Riker. 
+		334		00:28:34		506		-->		00:28:38		302		The Enterprise did conduct an extensive scan of this vessel. 
+		335		00:28:38		468		-->		00:28:39		845		Normal procedure. 
+		336		00:28:40		012		-->		00:28:44		224		What type of beam did the Enterprise use to cause this damage to us? 
+		337		00:28:44		391		-->		00:28:46		727		None. Why would they? We're allies. 
+		338		00:28:46		894		-->		00:28:51		523		My logs show that the Enterprise directed an intense scanning beam at this specific area, for a duration of two minutes. 
+		340		00:28:56		486		-->		00:28:58		113		Explain that. 
+		341		00:29:02		868		-->		00:29:04		286		I can't. 
+		342		00:29:04		453		-->		00:29:05		913		It could be a weapon. 
+		343		00:29:07		539		-->		00:29:09		166		It's no weapon. 
+		344		00:29:09		333		-->		00:29:13		462		The Enterprise has no reason to do that. It makes no sense. Why? 
+		345		00:29:13		629		-->		00:29:16		131		Why is no longer important. 
+		346		00:29:16		298		-->		00:29:19		176		What is important is our response to this attack. 
+		347		00:29:19		343		-->		00:29:23		055		Engage cloaking device. Set course to intercept the Enterprise. 
+		348		00:29:23		222		-->		00:29:25		307		What do you intend to do, Captain? 
+		349		00:29:25		474		-->		00:29:28		143		Intend? There is only one response. 
+		350		00:29:28		310		-->		00:29:31		772		I intend to attack the Enterprise and destroy it. 
+		351		00:29:56		255		-->		00:29:57		798		You're making progress. 
+		352		00:29:58		757		-->		00:30:02		010		You've eliminated half the possibilities already. 
+		353		00:30:02		803		-->		00:30:06		932		Thank you. But I seem to have become efficient after it was needed. 
+		354		00:30:07		099		-->		00:30:09		810		It was my responsibility to learn and adapt to the Enterprise's regulations. And I didn't do that. 
+		356		00:30:16		275		-->		00:30:19		444		Not really. You just made an error. 
+		357		00:30:21		905		-->		00:30:26		577		Capt Picard may not like them, but he knows they turn up sometimes. 
+		358		00:30:26		743		-->		00:30:30		706		I've failed. I had an opportunity to show the Captain my superior capabilities and I failed. 
+		360		00:30:35		252		-->		00:30:37		546		I can never recover from that. 
+		361		00:30:38		922		-->		00:30:41		592		Mendon, it was a mistake. 
+		362		00:30:41		717		-->		00:30:45		137		You didn't put the organism on the hull, you discovered it. 
+		363		00:30:45		304		-->		00:30:50		058		You were trying to analyse it and messed up on protocol a little. 
+		364		00:31:02		988		-->		00:31:06		867		I realise you are being nice to me, and I appreciate it. 
+		365		00:31:07		576		-->		00:31:09		745		What I don't understand is why. 
+		366		00:31:10		662		-->		00:31:13		790		Why not? I thought you could use a friend. 
+		367		00:31:15		083		-->		00:31:16		460		Thank you. 
+		368		00:31:16		960		-->		00:31:20		631		I hope I can learn your ways before I mess up again. 
+		369		00:31:21		548		-->		00:31:24		259		I imagine my methods must seem foolish to you. 
+		370		00:31:24		968		-->		00:31:27		095		They're... different. 
+		371		00:31:27		804		-->		00:31:30		307		But that's what this exchange is all about. 
+		372		00:31:30		474		-->		00:31:34		228		You learn how we do things and take that back to your command. 
+		373		00:31:34		895		-->		00:31:37		272		It's up to them to decide which is better. 
+		374		00:31:38		524		-->		00:31:40		609		You're right. I'll do it your way. 
+		375		00:31:40		776		-->		00:31:45		447		I'll work even harder than before and I'll succeed brilliantly. 
+		376		00:31:53		455		-->		00:31:55		040		What is the status? 
+		377		00:31:55		624		-->		00:31:59		086		Unchanged. The rate of increase continues. 
+		378		00:31:59		253		-->		00:32:03		924		Cmdr Riker, check the organism growth with Engineering. 
+		379		00:32:12		641		-->		00:32:14		852		Keep him under scrutiny. 
+		380		00:32:17		020		-->		00:32:22		985		Captain, I'm not convinced Riker knew of any plot against us. 
+		381		00:32:23		151		-->		00:32:27		197		If he did, why would he have come on board? 
+		382		00:32:28		073		-->		00:32:31		034		- Because he was ordered to. - To die? 
+		383		00:32:31		201		-->		00:32:36		206		It's the expectation of any officer to be ordered to die at any time. 
+		384		00:32:36		373		-->		00:32:37		749		For a Klingon, perhaps. 
+		385		00:32:37		916		-->		00:32:42		212		But Riker's people do not volunteer for death so easily. 
+		386		00:32:43		714		-->		00:32:45		299		He may be a spy, ... 
+		387		00:32:46		842		-->		00:32:49		094		..but he's no coward. 
+		388		00:32:49		261		-->		00:32:52		389		That only proves that he's intelligent. 
+		389		00:32:53		182		-->		00:32:57		436		And you might not be as strong as you used to be. 
+		390		00:32:59		146		-->		00:33:01		148		I've picked up the Enterprise. 
+		391		00:33:01		315		-->		00:33:03		150		So soon? 
+		392		00:33:04		151		-->		00:33:06		987		The Enterprise is on an intercept course with us. 
+		393		00:33:11		033		-->		00:33:15		370		You almost had me believing this was a misunderstanding. 
+		394		00:33:16		872		-->		00:33:17		748		But? 
+		395		00:33:17		915		-->		00:33:22		628		The Enterprise has changed course and is following us. Why? 
+		396		00:33:23		212		-->		00:33:26		089		- Ask them. - The reason is obvious. 
+		397		00:33:26		256		-->		00:33:28		258		Their intent is clear. 
+		398		00:33:28		425		-->		00:33:32		012		- How long before we make contact? - Less than 15 minutes. 
+		399		00:33:32		179		-->		00:33:35		974		Put the ship on full battle alert. Arm all photon torpedoes. 
+		400		00:33:36		141		-->		00:33:39		311		Let them charge into their destruction. 
+		401		00:33:42		606		-->		00:33:46		944		Captain, bearings show we should be in contact with the Pagh now. 
+		402		00:33:47		110		-->		00:33:49		780		- Slow to impulse. - Aye, sir. Impulse speed. 
+		403		00:33:49		905		-->		00:33:53		283		Hailing frequencies are open. There is no response. 
+		404		00:33:53		450		-->		00:33:54		952		Continue transmission. 
+		405		00:33:55		118		-->		00:33:57		871		The Pagh is either cloaked or destroyed, sir. 
+		406		00:34:00		332		-->		00:34:03		085		Conduct an intensive scan of the area. 
+		407		00:34:05		879		-->		00:34:10		133		Enterprise has slowed to impulse. It is making an intensive sweep. 
+		408		00:34:10		300		-->		00:34:14		137		Hold your position. Let them come to us. 
+		409		00:34:14		304		-->		00:34:17		057		They may be here to help you. Don't be a fool. 
+		410		00:34:18		392		-->		00:34:21		770		Do not forget my rank. 
+		411		00:34:21		937		-->		00:34:25		816		I haven't. I am simply trying to help you understand. 
+		412		00:34:25		983		-->		00:34:28		110		I understand fully. 
+		413		00:34:28		277		-->		00:34:32		489		Now, you understand. I am still Captain of this vessel. 
+		414		00:34:32		656		-->		00:34:37		202		You are still crew and sworn to obey me. You gave me your oath. 
+		415		00:34:37		369		-->		00:34:38		537		Yes, sir, I did. 
+		416		00:34:38		704		-->		00:34:43		333		Then fulfil that oath and serve this ship as you swore to. 
+		417		00:34:44		668		-->		00:34:48		755		Tell me of the surest method of attack against the Enterprise. 
+		418		00:34:50		090		-->		00:34:51		258		I won't. 
+		419		00:34:51		425		-->		00:34:55		345		You must. It is a matter of honour and loyalty to your oath. 
+		420		00:34:55		512		-->		00:34:58		974		I will not surrender the secrets of the Enterprise to you. 
+		421		00:34:59		766		-->		00:35:03		979		If your word is no good, then how can we ever trust Starfleet? 
+		422		00:35:04		146		-->		00:35:06		481		I will not break a vow I made in the past. 
+		423		00:35:06		648		-->		00:35:09		818		I also made an oath to your ship. I will not break that. 
+		424		00:35:09		985		-->		00:35:13		155		- They are in conflict. - No, sir, they are not. 
+		425		00:35:13		322		-->		00:35:16		700		I will obey your orders. I will serve as First Officer. 
+		426		00:35:16		867		-->		00:35:21		622		In an attack against the Enterprise, I will die with this crew. 
+		427		00:35:21		788		-->		00:35:25		667		But I will not break my oath of loyalty to Starfleet. 
+		428		00:35:28		337		-->		00:35:31		840		If you had told those secrets about the Enterprise, 
+		429		00:35:32		007		-->		00:35:36		094		I would have labelled you a traitor and killed you where you stood. 
+		430		00:35:39		097		-->		00:35:41		517		But instead you will die with us. 
+		431		00:35:43		060		-->		00:35:45		062		You'll die like a Klingon. 
+		432		00:36:11		839		-->		00:36:14		675		Sir, I have something to report immediately. 
+		433		00:36:14		842		-->		00:36:18		846		- Go ahead, Ensign. - I have isolated the organisms. 
+		434		00:36:19		012		-->		00:36:20		722		They are a submicron form, capable of breaking nuclear bonds in the tritanium. 
+		436		00:36:24		184		-->		00:36:26		103		Can they be removed from the hull? 
+		437		00:36:26		645		-->		00:36:30		649		Yes. They are controllable and can be removed from both ships by using a tunnelling neutrino beam. 
+		439		00:36:33		443		-->		00:36:37		197		Thank you, Ensign. Well done. Initiate that procedure. 
+		440		00:36:37		364		-->		00:36:41		076		Lieutenant, add that information to the hailing messages. 
+		441		00:36:41		243		-->		00:36:42		286		Aye, sir. 
+		442		00:36:45		289		-->		00:36:46		582		Lieutenant. 
+		443		00:36:52		504		-->		00:36:55		174		The Enterprise has changed hailing message. 
+		444		00:36:55		299		-->		00:36:58		760		It promises help in cleaning the organisms and in repairs. 
+		445		00:36:59		678		-->		00:37:01		805		I told you, they're here to help. 
+		446		00:37:02		723		-->		00:37:04		641		I do not believe them. 
+		447		00:37:04		808		-->		00:37:07		227		Arm all weapons. Prepare to attack. 
+		448		00:37:10		564		-->		00:37:14		651		Captain's log, stardate <stardate>42507</stardate>.8. 
+		449		00:37:14		818		-->		00:37:17		029		Although our search has been extensive we are still unable to locate the Klingon ship,  or any evidence of its destruction. 
+		452		00:37:22		618		-->		00:37:24		870		Considering the absence of debris, one must assume the Klingon vessel is in the area and cloaked. 
+		454		00:37:31		168		-->		00:37:32		252		Agreed. 
+		455		00:37:32		419		-->		00:37:36		757		Since we do not know its intent, I recommend we go to red alert. 
+		456		00:37:36		924		-->		00:37:39		468		- Make it so, Lieutenant. - Aye, sir. 
+		457		00:37:41		595		-->		00:37:43		931		The Enterprise has raised its shields. 
+		458		00:37:44		097		-->		00:37:47		059		A normal procedure in a suspicious situation. 
+		459		00:37:47		226		-->		00:37:50		395		It's not an act of aggression. They will not fire first. 
+		460		00:37:51		188		-->		00:37:53		106		Then they are fools. 
+		461		00:37:54		733		-->		00:37:56		026		For we will. 
+		462		00:37:56		818		-->		00:38:00		322		- You'll get only one shot. - We'll only need one. 
+		463		00:38:00		489		-->		00:38:06		119		Stand by on phasers and torpedoes. Prepare to fire them simultaneously. 
+		464		00:38:06		662		-->		00:38:10		541		I recommend you don't fire until you're within 40,000 km. 
+		465		00:38:10		707		-->		00:38:12		125		Why? 
+		466		00:38:12		292		-->		00:38:14		294		To cut down their response time. 
+		467		00:38:14		461		-->		00:38:17		047		You are honouring your promise to serve us? 
+		468		00:38:17		214		-->		00:38:19		424		Would you do less? 
+		469		00:38:19		591		-->		00:38:23		136		You will give the order to fire, Cmdr Riker. 
+		470		00:38:25		097		-->		00:38:26		682		Call out distances. 
+		471		00:38:28		308		-->		00:38:30		185		Any questions, Mr Riker? 
+		472		00:38:30		352		-->		00:38:33		146		I'd like to say I question your judgement. 
+		473		00:38:33		313		-->		00:38:38		652		In my opinion, your reason for this confrontation is not valid. 
+		474		00:38:39		486		-->		00:38:41		154		Are you finished? 
+		475		00:38:42		281		-->		00:38:43		282		Yes, sir. 
+		476		00:38:43		448		-->		00:38:45		659		Commence with attack, as ordered. 
+		477		00:38:46		243		-->		00:38:48		787		55,000 km and closing. 
+		478		00:38:51		582		-->		00:38:53		500		Is that a weapon, Commander? 
+		479		00:38:53		667		-->		00:38:55		210		No, sir. 
+		480		00:38:57		921		-->		00:38:59		506		Give it to me. 
+		481		00:39:04		678		-->		00:39:08		390		We are receiving an emergency signal from a command transponder. 
+		482		00:39:08		557		-->		00:39:10		809		Location 035, mark 313. 
+		483		00:39:10		976		-->		00:39:13		562		Frequency and code designate Cmdr Riker. 
+		484		00:39:13		729		-->		00:39:16		315		Chief O'Brien, lock on to that signal. 
+		485		00:39:16		481		-->		00:39:20		652		Yes, Captain. We're not yet in safe range for a transfer. 
+		486		00:39:20		819		-->		00:39:24		448		- Defensive shields remain in place. - We may have to stretch it. 
+		487		00:39:24		615		-->		00:39:28		202		We must know what's going on, and only Cmdr Riker can tell us. 
+		488		00:39:28		368		-->		00:39:31		872		Beam him directly onto the bridge on my command. 
+		489		00:39:32		039		-->		00:39:34		291		Yes, sir. I'll wait till 40,000. 
+		490		00:39:35		250		-->		00:39:36		752		48,000. 
+		491		00:39:38		086		-->		00:39:39		463		44,000. 
+		492		00:39:39		630		-->		00:39:41		340		Transporter room, stand by. 
+		493		00:39:41		507		-->		00:39:43		842		- You control the shields. - Ready, sir. 
+		494		00:39:44		009		-->		00:39:45		260		40,000. 
+		495		00:39:45		427		-->		00:39:47		554		40,000 kilometers. 
+		496		00:39:48		180		-->		00:39:52		100		Prepare to drop cloaking shields and fire when ready. 
+		497		00:39:52		768		-->		00:39:54		561		Steady... 
+		498		00:39:54		728		-->		00:39:56		605		Transporter room, energize. 
+		499		00:40:04		112		-->		00:40:07		658		Hold where you are, Klag. I've relieved Capt Kargan. 
+		500		00:40:07		824		-->		00:40:10		494		He was acting in an irrational manner. 
+		501		00:40:14		790		-->		00:40:16		917		I'm your Captain now. 
+		502		00:40:22		714		-->		00:40:24		716		Where am I? 
+		503		00:40:24		883		-->		00:40:26		760		Aboard the Starship Enterprise. 
+		504		00:40:29		680		-->		00:40:31		515		Riker has no honour. 
+		505		00:40:31		682		-->		00:40:33		350		He tricked me. 
+		506		00:40:40		524		-->		00:40:43		777		- He is only dazed, sir. - Well, that's fine, ... 
+		507		00:40:44		820		-->		00:40:46		780		..but where's Cmdr Riker? 
+		508		00:40:47		865		-->		00:40:49		491		Cloaking shields off. 
+		509		00:40:55		122		-->		00:40:58		625		- Obey my orders. - We will be destroyed. 
+		510		00:40:58		792		-->		00:41:02		546		If we are, it will be in battle, and I will die with you. 
+		511		00:41:02		713		-->		00:41:06		842		So I repeat, cloaking shields off. 
+		512		00:41:17		352		-->		00:41:19		188		It is the Pagh, sir. 
+		513		00:41:19		354		-->		00:41:22		191		It has all armament locked on us and ready to fire. 
+		514		00:41:22		357		-->		00:41:24		568		Hold position. Hailing frequencies. 
+		515		00:41:24		735		-->		00:41:28		405		Enterprise to Pagh. We are here to assist. Do not fire. 
+		516		00:41:29		406		-->		00:41:31		575		They will not believe you. 
+		517		00:41:31		742		-->		00:41:34		786		Pagh, we're here to assist. Do you read me? 
+		518		00:41:37		372		-->		00:41:41		251		Enterprise, this is Capt William Riker of the Klingon vessel, Pagh. 
+		519		00:41:42		252		-->		00:41:45		255		I order you to lower your shields and surrender. 
+		520		00:41:50		302		-->		00:41:52		095		Lower shields. 
+		521		00:41:53		013		-->		00:41:54		806		Surrender, as ordered. 
+		522		00:41:56		141		-->		00:41:59		645		I demand to be beamed back aboard my vessel. 
+		523		00:42:00		812		-->		00:42:04		691		Transporter Chief, prepare to beam Capt Kargan aboard the Pagh. 
+		524		00:42:04		858		-->		00:42:06		068		Aye, sir. 
+		525		00:42:06		235		-->		00:42:10		614		Capt Riker, we can carry out your repairs immediately. 
+		526		00:42:11		573		-->		00:42:13		784		Thank you, Capt Picard. 
+		527		00:42:27		214		-->		00:42:30		259		- You should have killed me. - I don't want your command. 
+		528		00:42:30		425		-->		00:42:34		179		- But you tricked me to get it. - Either way, you can have it back. 
+		529		00:42:36		473		-->		00:42:38		851		Then return to your station. 
+		530		00:42:54		199		-->		00:42:56		326		Get him off my ship. 
+		531		00:42:56		910		-->		00:42:58		203		Yes, Captain. 
+		532		00:43:00		581		-->		00:43:04		251		You understand the Klingons better than I thought, Commander. 
+		533		00:43:04		418		-->		00:43:06		128		Thank you, my friend. 
+		534		00:43:41		038		-->		00:43:44		708		Almost the shortest assignment in the history of Starfleet. 
+		535		00:43:44		875		-->		00:43:49		213		Wrong, Number One. It was almost the longest. Well done. 
+		536		00:43:49		922		-->		00:43:52		049		Thank you. I learned quite a bit. 
+		537		00:43:53		050		-->		00:43:54		843		Apparently, not when to duck. 
+		538		00:43:55		010		-->		00:43:57		679		When not to duck would be more accurate. 
+		539		00:43:59		181		-->		00:44:01		266		Welcome aboard, Number One. 
+		540		00:44:01		433		-->		00:44:04		311		Lieutenant, conduct the Commander to sickbay. 
+		541		00:44:04		478		-->		00:44:05		562		Aye, sir. 
+		542		00:44:06		480		-->		00:44:07		439		Commander? 
+		543		00:44:12		819		-->		00:44:14		947		Your little toy worked. Thanks. 
+		544		00:44:15		113		-->		00:44:16		949		I'm glad it did. 
+		545		00:44:18		075		-->		00:44:20		577		You come from a very brave and unique people. 
+		546		00:44:20		744		-->		00:44:23		080		I'm glad you're with us on the Enterprise. 
+		547		00:44:23		247		-->		00:44:25		290		Thank you, Commander. And... 
+		548		00:44:26		375		-->		00:44:27		960		..welcome home. 

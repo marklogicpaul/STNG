@@ -1,0 +1,467 @@
+		1		00:00:05		003		-->		00:00:08		704		Captain's log, star date 43957.2. 
+		2		00:00:06		840		-->		00:00:11		169		We are charting an unexplored star system in the Zeta Gelis Cluster. 
+		3		00:00:11		303		-->		00:00:16		214		This routine assignment has made for a quiet time aboard the Enterprise. 
+		4		00:00:17		601		-->		00:00:19		392		That's her. 
+		5		00:00:20		604		-->		00:00:23		142		- Which one? - The one on the right. 
+		6		00:00:24		316		-->		00:00:26		439		Don't stare! 
+		7		00:00:26		568		-->		00:00:29		735		- Why not? - Because she'll see. 
+		8		00:00:29		863		-->		00:00:34		905		Good. You must let her see the fire in your eyes. 
+		9		00:00:37		829		-->		00:00:40		118		But what would I say? 
+		10		00:00:41		959		-->		00:00:43		998		Words come later. 
+		11		00:00:44		127		-->		00:00:48		208		It is the scent that first speaks of love. 
+		12		00:00:50		092		-->		00:00:53		295		Thanks, Worf. That helps a lot. 
+		13		00:01:02		354		-->		00:01:04		181		Hi, Geordi. 
+		14		00:01:06		692		-->		00:01:07		890		Hi. 
+		15		00:01:08		860		-->		00:01:13		072		- So, how have you been? - Good. I... 
+		16		00:01:14		491		-->		00:01:18		441		- How are things down in Engineering? - Fine. They... 
+		17		00:01:20		998		-->		00:01:27		118		- They've been fine. - Well, I'll see you around. 
+		18		00:01:32		592		-->		00:01:35		084		I have much to teach you about women. 
+		19		00:01:35		220		-->		00:01:38		969		Mr. La Forge, report to transporter room three. 
+		20		00:01:45		856		-->		00:01:47		350		What's this all about? 
+		21		00:01:47		482		-->		00:01:50		483		A one-man spaceship crashed on the planet. 
+		22		00:01:50		610		-->		00:01:54		193		We picked up life signs, humanoid, faint and fading. 
+		23		00:02:04		916		-->		00:02:08		416		Radiation levels within acceptable limits. 
+		24		00:02:29		231		-->		00:02:31		687		We can beam him out into sickbay. 
+		25		00:02:31		817		-->		00:02:35		566		He's not stable enough. His brain stem's damaged. 
+		26		00:02:35		696		-->		00:02:39		776		Autonomic functions failing. His heart needs neurofeedback. 
+		27		00:02:39		909		-->		00:02:43		075		It can't regulate itself. I need a volunteer. 
+		28		00:02:43		204		-->		00:02:44		781		Right here. 
+		29		00:02:46		999		-->		00:02:50		867		I'll hook up your nervous systems through the tricorder. 
+		30		00:02:51		003		-->		00:02:53		375		Your brain will regulate both systems. 
+		31		00:02:53		506		-->		00:02:57		206		That'll stabilize him long enough to get him to the ship. 
+		32		00:02:57		343		-->		00:03:02		384		Take deep breaths. If anything goes wrong, I'll break the connection. 
+		33		00:03:02		515		-->		00:03:03		510		OK. 
+		34		00:03:08		771		-->		00:03:09		720		Geordi! 
+		35		00:03:11		148		-->		00:03:12		726		I'm fine. No problem. 
+		36		00:03:12		858		-->		00:03:17		271		Transporter room, three to beam directly to sickbay. 
+		37		00:05:31		196		-->		00:05:34		232		Autonomic still low. Begin cardio stimulation. 
+		38		00:05:34		366		-->		00:05:36		691		60cc of inaprovaline. 
+		39		00:05:38		954		-->		00:05:43		699		Massive infection is setting in. Use the protodynoplaser to stabilize. 
+		40		00:05:44		292		-->		00:05:49		001		We need to design a virus that will boost his ATP production. 
+		41		00:05:49		130		-->		00:05:51		752		What about Cmdr La Forge? He's waiting. 
+		42		00:05:51		883		-->		00:05:57		044		Give him a full bioscan for any residual effect from the neurolink. 
+		43		00:05:57		555		-->		00:06:02		182		Keep his arm in cryogenic stasis until he's strong enough for surgery. 
+		44		00:06:04		354		-->		00:06:07		687		The wreckage appears to be an escape pod. 
+		45		00:06:07		816		-->		00:06:11		481		A damaged control system probably caused the crash. 
+		46		00:06:11		611		-->		00:06:14		446		An escape pod? They can't have travelled far. 
+		47		00:06:14		572		-->		00:06:17		739		Mr. Data, any other signs of ships in the area? 
+		48		00:06:17		867		-->		00:06:21		817		There is a scattering of debris around the planet. 
+		49		00:06:21		955		-->		00:06:25		620		Refined metals and other synthetic compounds. 
+		50		00:06:25		750		-->		00:06:30		661		Remains of a larger vessel. He must have left before it was destroyed. 
+		51		00:06:30		797		-->		00:06:35		839		Sensors show elements in the debris indicating phaser fire was exchanged. 
+		52		00:06:36		011		-->		00:06:38		134		Did you salvage anything else? 
+		53		00:06:38		263		-->		00:06:40		836		That's all that's left on their computer. 
+		54		00:06:40		974		-->		00:06:44		094		- Can you access it? - It will take time, sir. 
+		55		00:06:44		227		-->		00:06:48		011		Downloading will require fabrication of a matrix translator to emulate their computer. 
+		57		00:06:50		108		-->		00:06:53		607		- Keep me apprised of your progress. - Aye, sir. 
+		58		00:07:13		381		-->		00:07:16		382		Limb refusion appears to be successful. 
+		59		00:07:16		509		-->		00:07:20		424		Tissue oxygenation is within norms. 
+		60		00:07:20		555		-->		00:07:22		429		That's all we can do for now. 
+		61		00:07:22		557		-->		00:07:26		424		We can't test neuromuscular function for a few days. 
+		62		00:07:28		563		-->		00:07:31		350		- Geordi. - Can I go now, Doc? 
+		63		00:07:31		483		-->		00:07:34		649		No need to keep you. Your bioscan is negative. 
+		64		00:07:34		778		-->		00:07:37		944		Could've told you that. I feel great! 
+		65		00:07:41		534		-->		00:07:42		863		How's your patient? 
+		66		00:07:45		121		-->		00:07:47		612		I never thought he'd make it this far. 
+		67		00:07:47		749		-->		00:07:50		501		Major trauma to his head and chest cavity, massive plasma loss, severe damage to most organs. 
+		69		00:07:54		089		-->		00:07:57		173		- What are his chances? - I believe he'll live. 
+		70		00:07:57		300		-->		00:08:00		965		I'm afraid I can't take the credit for it, though. 
+		71		00:08:01		096		-->		00:08:05		508		His body seems to have amazing recuperative powers. 
+		72		00:08:05		642		-->		00:08:10		980		The damaged tissue is repairing itself at a phenomenal rate. 
+		73		00:08:11		106		-->		00:08:15		055		- One thing troubles me though. - What's that? 
+		74		00:08:16		152		-->		00:08:18		643		Take a look at this. 
+		75		00:08:21		616		-->		00:08:25		032		- Cell regeneration. - Yes. 
+		76		00:08:25		161		-->		00:08:29		539		The thing is, it has nothing to do with the injuries. 
+		77		00:08:29		666		-->		00:08:33		366		These are undamaged cells that seem to be mutating. 
+		78		00:08:33		503		-->		00:08:34		962		Do you have a theory? 
+		79		00:08:35		088		-->		00:08:38		255		No. I've never seen anything like it in my life. 
+		80		00:08:39		008		-->		00:08:43		717		There is a possibility that it's part of his natural healing process. 
+		81		00:08:43		847		-->		00:08:48		343		I hope it is, because there's nothing I can do to stop it. 
+		82		00:08:49		477		-->		00:08:53		724		There's got to be some way to decode the information in this thing. 
+		83		00:08:53		857		-->		00:08:57		356		I agree. But the data matrix within the capsule does not match any standard format. 
+		85		00:09:00		113		-->		00:09:03		197		All we have determined is that the device contains a chemical system for energy encoding. 
+		87		00:09:06		161		-->		00:09:09		909		But the computer can't analyze the specific chemicals. 
+		88		00:09:10		039		-->		00:09:13		373		It must be part of a data-processing system. 
+		89		00:09:13		501		-->		00:09:17		202		What if it's a feedback-loop controller? 
+		90		00:09:17		338		-->		00:09:22		415		The shape suggests rapid chemical processing and storage capacity. 
+		91		00:09:22		552		-->		00:09:25		802		We found it near the escape pod's instrumentation. 
+		92		00:09:25		930		-->		00:09:28		717		It might process the ship's dynamic motions and augment its control inputs. 
+		94		00:09:30		852		-->		00:09:35		229		Let's send it test signals. Make it think the assemblage is operating. 
+		95		00:09:35		356		-->		00:09:39		899		An intriguing experiment. It might give us information without having to decode the storage medium. 
+		97		00:09:43		823		-->		00:09:49		908		- We should examine your theory. - Less talk, more synthahol. 
+		98		00:09:52		248		-->		00:09:55		368		- We came here to relax. - I am relaxed. 
+		99		00:09:55		502		-->		00:09:57		874		In fact, I've never felt better. 
+		100		00:10:02		342		-->		00:10:05		259		But you know, Worf? You're right. 
+		101		00:10:05		386		-->		00:10:08		056		The storage capsule can wait awhile. 
+		102		00:10:14		854		-->		00:10:16		432		See you. 
+		103		00:10:17		106		-->		00:10:20		310		Christi, you're not leaving, are you? 
+		104		00:10:20		443		-->		00:10:23		230		I was just on my way down to the arboretum. 
+		105		00:10:23		363		-->		00:10:27		312		- Would you care for some company? - I'd love some. 
+		106		00:10:27		450		-->		00:10:29		906		I didn't think you were interested. 
+		107		00:10:30		036		-->		00:10:34		994		There are a lot of things that you don't know about me. 
+		108		00:10:41		130		-->		00:10:46		042		I've been tutoring him. He learns very quickly. 
+		109		00:10:48		555		-->		00:10:52		801		Medical log, star date 43958. 8. 
+		110		00:10:52		934		-->		00:10:58		723		I have removed patient John Doe from the emergency biosupport unit. 
+		111		00:10:58		856		-->		00:11:03		483		In just 36 hours, most of his organ systems have regenerated themselves to the point where they can now function on their own. 
+		113		00:11:27		343		-->		00:11:30		795		I am alive? 
+		114		00:11:30		930		-->		00:11:33		600		You certainly are. 
+		115		00:11:34		934		-->		00:11:37		259		Thank you for my life. 
+		116		00:11:39		897		-->		00:11:41		440		Tell me,... 
+		117		00:11:42		650		-->		00:11:44		892		..who am l? 
+		118		00:11:51		451		-->		00:11:55		116		Captain's log, star date 43960.6. 
+		119		00:11:55		246		-->		00:11:59		955		Our mission to map the Zeta Gelis Star Cluster is proceeding on time. 
+		120		00:12:00		084		-->		00:12:04		830		Dr Crusher reports that the recovery of the patient she calls John Doe continues at a remarkable pace. 
+		122		00:12:14		599		-->		00:12:17		968		Are you experiencing any discomfort? 
+		123		00:12:19		354		-->		00:12:24		015		None. I can feel the life returning to my body. 
+		124		00:12:24		150		-->		00:12:28		100		Your neurofibre waves are functioning almost normally again. 
+		125		00:12:28		237		-->		00:12:32		899		That puts you about six weeks ahead of my original schedule. 
+		126		00:12:33		034		-->		00:12:35		821		That'll give you something to talk about. 
+		127		00:12:35		953		-->		00:12:39		868		You are all we've talked about since your arrival. 
+		128		00:12:40		708		-->		00:12:43		709		I'm ready for the next phase of my treatment. 
+		129		00:12:43		836		-->		00:12:47		668		You are right. You're taking up valuable bed space. 
+		130		00:12:48		341		-->		00:12:51		544		These motor-assist bands will provide you with electrical stimulation for your arms and legs. 
+		132		00:12:55		807		-->		00:12:59		425		They'll help you relearn how to control your muscles. 
+		133		00:12:59		560		-->		00:13:02		929		You've been off your feet for almost a month. 
+		134		00:13:03		064		-->		00:13:07		144		Don't be disappointed if at first your mobility's restricted. 
+		135		00:13:07		276		-->		00:13:09		767		Your limbs are still weak. 
+		136		00:13:09		904		-->		00:13:15		243		I appreciate your concern, Doctor, but I think I may surprise you again. 
+		137		00:13:15		910		-->		00:13:20		038		I feel strong enough to fly. 
+		138		00:13:27		630		-->		00:13:28		828		Whoops! 
+		139		00:13:31		634		-->		00:13:34		469		I should concentrate on walking first. 
+		140		00:13:34		595		-->		00:13:38		344		Let's try it again, but a little more slowly this time. 
+		141		00:13:38		474		-->		00:13:40		514		Much more slowly. 
+		142		00:14:14		385		-->		00:14:16		674		I envy your reflexes, Captain. 
+		143		00:14:16		804		-->		00:14:19		046		I envy your strength of will. 
+		144		00:14:19		182		-->		00:14:23		760		Dr Crusher has kept me informed of your progress. It's extraordinary. 
+		145		00:14:23		895		-->		00:14:27		145		I have an extraordinary doctor. 
+		146		00:14:27		273		-->		00:14:29		645		She gave me back my life. 
+		147		00:14:29		775		-->		00:14:33		061		I hope that I am worthy of her efforts. 
+		148		00:14:35		531		-->		00:14:39		196		Are you still unable to recall anything about your past? 
+		149		00:14:43		915		-->		00:14:48		992		Unfortunately, my memories begin the moment I woke up in sickbay. 
+		150		00:14:51		130		-->		00:14:54		048		Dr Crusher said you think I was in a battle. 
+		151		00:14:54		175		-->		00:14:55		634		I'm quite sure of that. 
+		152		00:14:55		760		-->		00:14:59		176		Have you any idea how you came to be in that escape pod 
+		153		00:14:59		305		-->		00:15:02		472		- or what happened to the ship? - No. 
+		154		00:15:03		601		-->		00:15:09		141		Believe me, it's horrible not knowing who you are or where you're from. 
+		155		00:15:09		273		-->		00:15:12		227		Have you tried synaptic induction? 
+		156		00:15:12		360		-->		00:15:15		147		His neural nets don't fit known patterns. 
+		157		00:15:15		279		-->		00:15:18		731		Conventional neurotherapy has proven ineffective. 
+		158		00:15:18		866		-->		00:15:23		777		Hopefully, his memory pathways will re-establish themselves naturally. 
+		159		00:15:26		707		-->		00:15:29		163		- That same pain? - Yes. 
+		160		00:15:32		046		-->		00:15:35		213		I think I've made enough progress for one day. 
+		161		00:15:35		341		-->		00:15:36		966		Not a relapse, I hope. 
+		162		00:15:37		093		-->		00:15:40		047		It's nothing to do with his previous wounds. 
+		163		00:15:40		179		-->		00:15:44		047		It's to do with the mutation of his cell structure. 
+		164		00:15:44		183		-->		00:15:47		599		- You have no theory as to the cause? - It makes no sense. 
+		165		00:15:47		728		-->		00:15:50		433		I seem to be a mystery, Doctor. 
+		166		00:15:50		565		-->		00:15:54		064		To you and to myself. 
+		167		00:16:04		870		-->		00:16:07		278		Well, this is where I get off. 
+		168		00:16:07		915		-->		00:16:11		995		- See you tonight in ten-forward? - Yeah, I'll be there. 
+		169		00:16:12		670		-->		00:16:15		920		- Hello, Commander. - Miss Henshaw. 
+		170		00:16:20		011		-->		00:16:22		928		- Bridge. - Deck six. 
+		171		00:16:24		015		-->		00:16:27		466		You and Miss Henshaw are seeing a lot of each other. 
+		172		00:16:27		602		-->		00:16:29		096		Every night this week. 
+		173		00:16:29		228		-->		00:16:33		771		Is that all? You've had that smile on your face a lot longer than that. 
+		174		00:16:33		899		-->		00:16:38		727		I guess I have. This last month, everything seems to be going my way. 
+		175		00:16:38		863		-->		00:16:41		354		Something has changed around here. 
+		176		00:16:41		490		-->		00:16:43		946		- What's changed is you. - Me? 
+		177		00:16:45		077		-->		00:16:48		114		- I'm the same guy I always was. - If you say so. 
+		178		00:16:48		247		-->		00:16:50		287		I don't remember the old Geordi having much success with Miss Henshaw. 
+		180		00:16:54		962		-->		00:16:59		423		Well, maybe I am more confident than I used to be. 
+		181		00:17:12		772		-->		00:17:14		349		What happened to you? 
+		182		00:17:14		482		-->		00:17:17		020		I was kayaking in the holodeck again. 
+		183		00:17:20		946		-->		00:17:23		438		You dislocated your shoulder. 
+		184		00:17:23		908		-->		00:17:26		909		Sit down. I'll get the osteotractor frame. 
+		185		00:17:27		662		-->		00:17:32		240		- Hi, Mom. We still on for dinner? - 7.30 sharp. I'll be right back. 
+		186		00:17:33		793		-->		00:17:36		710		- Kayaking again? - Yeah. 
+		187		00:17:38		047		-->		00:17:41		795		- How's my mom's favourite patient? - Judge for yourself. 
+		188		00:17:44		053		-->		00:17:45		796		Not bad. 
+		189		00:17:46		681		-->		00:17:50		429		Your mom promised me a tour of the ship tomorrow. 
+		190		00:17:50		559		-->		00:17:55		684		You may find this hard to believe, but sickbay can be very boring. 
+		191		00:17:55		815		-->		00:17:59		729		Doc! I'm dying out here. 
+		192		00:18:04		657		-->		00:18:07		574		Don't worry, my friend. You'll be alright. 
+		193		00:18:14		875		-->		00:18:16		785		The pain's gone. 
+		194		00:18:19		755		-->		00:18:22		293		It's completely healed. 
+		195		00:18:22		425		-->		00:18:24		501		I don't understand. 
+		196		00:18:24		635		-->		00:18:27		589		- What did you do? - I don't know. 
+		197		00:18:28		347		-->		00:18:31		681		It was instinct. I just touched him. 
+		198		00:18:42		570		-->		00:18:46		614		I've run every test and scan on him that I can think of. 
+		199		00:18:46		741		-->		00:18:49		196		There's no physiological evidence to indicate that he would possess such powers. 
+		201		00:18:53		664		-->		00:18:57		080		But then, so much about John is a mystery. 
+		202		00:18:57		209		-->		00:19:01		456		- You know, I really like him. - He does have a certain charm. 
+		203		00:19:02		089		-->		00:19:05		209		The entire medical staff has commented on it. 
+		204		00:19:06		594		-->		00:19:08		836		You seem taken with him yourself. 
+		205		00:19:09		972		-->		00:19:14		017		He has a strength and serenity that I find very attractive. 
+		206		00:19:14		769		-->		00:19:16		761		And yet he's vulnerable. 
+		207		00:19:17		688		-->		00:19:21		686		I guess I find him intriguing. 
+		208		00:19:21		817		-->		00:19:24		688		Seems there's more to it than that. 
+		209		00:19:25		988		-->		00:19:29		772		Are you asking whether I'm getting romantically involved? 
+		210		00:19:29		909		-->		00:19:32		234		You said it. I didn't. 
+		211		00:19:32		369		-->		00:19:38		242		My feelings towards him aren't romantic exactly. 
+		212		00:19:38		918		-->		00:19:42		666		I mean, I know the doctor/patient relationship can create a false sense of intimacy, but this is different. 
+		214		00:19:49		970		-->		00:19:54		513		There's an almost spiritual connection. 
+		215		00:19:55		267		-->		00:19:57		937		I guess I'm not making any sense, am l? 
+		216		00:19:59		355		-->		00:20:01		098		I think I understand. 
+		217		00:20:10		950		-->		00:20:14		817		Data, I was thinking about the storage capsule last night. 
+		218		00:20:14		954		-->		00:20:19		248		I was wondering, what if we've been going about this the wrong way? 
+		219		00:20:19		375		-->		00:20:22		245		We've analyzed its mechanical properties. 
+		220		00:20:22		378		-->		00:20:25		083		What if it's a biochemical storage medium? 
+		221		00:20:25		214		-->		00:20:29		128		Do you think it employs memory RNA like an organic cell? 
+		222		00:20:29		260		-->		00:20:31		833		It does contain nucleic acids. 
+		223		00:20:31		971		-->		00:20:35		671		The information may be encoded in the molecular patterns. 
+		224		00:20:35		808		-->		00:20:38		560		Computer, scan the storage capsule. 
+		225		00:20:38		686		-->		00:20:42		351		Analyze molecular sequences on nucleic acid chains. 
+		226		00:20:45		401		-->		00:20:48		686		What do you know. A navigational chart. 
+		227		00:20:48		821		-->		00:20:51		526		It appears your hypothesis was correct. 
+		228		00:20:51		657		-->		00:20:54		065		I knew it. Captain! 
+		229		00:20:54		201		-->		00:20:55		482		Found something? 
+		230		00:20:55		619		-->		00:21:00		614		The storage capsule from the pod contains navigational information. 
+		231		00:21:00		749		-->		00:21:03		323		Can you match these stars to our charts? 
+		232		00:21:03		460		-->		00:21:07		161		Computer, run transformational matrix calculations. 
+		233		00:21:07		298		-->		00:21:11		378		Match navigational reference to known stars in this sector. 
+		234		00:21:11		510		-->		00:21:15		804		Information incomplete. No correlation. 
+		235		00:21:15		931		-->		00:21:19		431		I'm not giving up. Not after coming so close. 
+		236		00:21:19		560		-->		00:21:24		056		You know, that might be flight-path information from John's ship, but with no frame of reference, I can't determine its origin. 
+		238		00:21:28		235		-->		00:21:31		604		Computer, assume those paths are course corrections. 
+		239		00:21:31		739		-->		00:21:36		033		Derive gravitational values for stellar objects near flight paths. 
+		240		00:21:39		747		-->		00:21:42		451		Most are ordinary G-type stars. 
+		241		00:21:42		583		-->		00:21:46		830		This would appear to be a neutron star, possibly a pulsar. 
+		242		00:21:46		962		-->		00:21:50		627		Which means this may be a rotational time reference. 
+		243		00:21:50		758		-->		00:21:54		802		Computer, assume these symbols are pulsars, translate associated values into standard temporal notations. 
+		245		00:22:00		476		-->		00:22:03		975		Computer, is there a pulsar with a rotational period of 1 .5244 seconds within sensor range? 
+		247		00:22:08		317		-->		00:22:09		562		Affirmative. 
+		248		00:22:09		693		-->		00:22:10		856		Bingo! 
+		249		00:22:10		986		-->		00:22:16		063		Computer, overlay navigation chart and project a flight path back. 
+		250		00:22:18		118		-->		00:22:23		195		Flight path originated at bearing 003, mark 015. 
+		251		00:22:23		666		-->		00:22:26		583		Distance, 2.3 parsecs. 
+		252		00:22:26		710		-->		00:22:29		462		That's it. That's where John Doe came from. 
+		253		00:22:29		588		-->		00:22:32		423		That bearing is on our planned course. 
+		254		00:22:32		549		-->		00:22:38		054		Good. We can continue our mission without significant interruption. 
+		255		00:22:48		732		-->		00:22:49		728		Home? 
+		256		00:22:49		858		-->		00:22:52		610		Yes. With information from your escape pod, we may be able to return you to your people. 
+		258		00:22:57		199		-->		00:22:58		859		I cannot go back. 
+		259		00:23:00		577		-->		00:23:01		906		Why's that? 
+		260		00:23:02		037		-->		00:23:04		493		You must not take me home, Captain. 
+		261		00:23:04		623		-->		00:23:07		790		John, your memory, has it returned? 
+		262		00:23:07		918		-->		00:23:10		160		All I know is we came here to escape. 
+		263		00:23:10		295		-->		00:23:12		288		- Escape? - There were others? 
+		264		00:23:12		423		-->		00:23:14		914		Yes, I was not alone. 
+		265		00:23:16		969		-->		00:23:20		302		But what happened to the others, or what we were escaping from, I cannot remember. 
+		267		00:23:27		896		-->		00:23:31		597		But I do know you must not take me back. Not yet! 
+		268		00:23:35		029		-->		00:23:38		195		We won't get to your star system for three weeks. 
+		269		00:23:38		323		-->		00:23:41		942		That gives us plenty of time to discuss this further. 
+		270		00:23:42		077		-->		00:23:45		660		Hopefully, you will have regained more of your memory. 
+		271		00:23:45		789		-->		00:23:48		114		You're right, of course, Captain. 
+		272		00:23:48		250		-->		00:23:50		326		I apologize for my outburst. 
+		273		00:23:50		461		-->		00:23:54		672		It's understandable. 
+		274		00:24:33		796		-->		00:24:37		924		This ship is astounding. It seems to stretch on without end. 
+		275		00:24:38		050		-->		00:24:40		623		We can see the rest of it some other time. 
+		276		00:24:40		761		-->		00:24:45		470		It's your first day out of sickbay and I don't want you overexerted. 
+		277		00:24:46		475		-->		00:24:49		844		This looks like an ideal place to rest. 
+		278		00:24:49		978		-->		00:24:52		469		My thoughts exactly. 
+		279		00:25:06		495		-->		00:25:09		780		- Truly remarkable. - What is? 
+		280		00:25:09		915		-->		00:25:14		910		These people are so different and yet they work together freely. 
+		281		00:25:15		045		-->		00:25:20		799		- That surprises you? - It is new to me. 
+		282		00:25:22		010		-->		00:25:25		047		My people are different somehow. 
+		283		00:25:26		014		-->		00:25:27		972		If only I could remember. 
+		284		00:25:31		228		-->		00:25:36		768		Yesterday, for one terrifying moment, there was clarity. 
+		285		00:25:36		900		-->		00:25:38		608		You mean the energy pulse? 
+		286		00:25:38		735		-->		00:25:43		611		Yes, for that moment, my purpose seemed clear. 
+		287		00:25:46		451		-->		00:25:48		361		And then it was gone. 
+		288		00:25:51		790		-->		00:25:55		373		The pain, the energy pulse, must be linked to the cell mutation in the body. 
+		290		00:26:00		340		-->		00:26:02		914		I wish I could help you find the truth. 
+		291		00:26:04		636		-->		00:26:07		423		Beverly, you've done so much for me. 
+		292		00:26:07		556		-->		00:26:11		601		- I only wish I could repay you. - But you have. 
+		293		00:26:11		727		-->		00:26:15		807		The friendship we've developed has made me very happy. 
+		294		00:26:17		983		-->		00:26:21		684		The rapport between us also means a great deal to me. 
+		295		00:26:23		155		-->		00:26:27		105		But I am on some kind of a journey. 
+		296		00:26:28		660		-->		00:26:31		412		Whatever brought me here, whatever is happening to my body,  is all part of that journey. 
+		299		00:26:39		630		-->		00:26:41		622		And I must complete it... 
+		300		00:26:42		925		-->		00:26:46		625		..before any other consideration. 
+		301		00:26:55		520		-->		00:26:58		806		Sir, I am reading a vessel on long-range scanners. 
+		302		00:26:58		941		-->		00:27:02		890		- It is coming from Sector 9569. - What configuration? 
+		303		00:27:04		154		-->		00:27:06		906		Impossible to identify at this distance. 
+		304		00:27:07		032		-->		00:27:09		488		However, it is on an intercept course. 
+		305		00:27:09		618		-->		00:27:13		283		Captain, the ship is travelling at warp 9.72. 
+		306		00:27:13		413		-->		00:27:15		323		Warp 9.72? 
+		307		00:27:15		958		-->		00:27:20		418		- Time till intercept? - 1 0 hours, 53 minutes. 
+		308		00:27:20		545		-->		00:27:23		119		Try and hail them, Mr. Worf. 
+		309		00:27:23		799		-->		00:27:25		341		No response, Captain. 
+		310		00:27:26		510		-->		00:27:28		134		Monitor their approach. 
+		311		00:27:28		261		-->		00:27:30		503		Repeat the hail every half-hour. 
+		312		00:27:30		639		-->		00:27:34		506		Whoever they are, they're in a big hurry to get here. 
+		313		00:27:50		450		-->		00:27:53		535		Dr Crusher, medical emergency, room four. 
+		314		00:27:58		041		-->		00:28:00		413		I can't make it stop. 
+		315		00:28:07		968		-->		00:28:11		088		- John, is it worse than before? - Much worse. 
+		316		00:28:11		221		-->		00:28:13		379		Shall I get something for the pain? 
+		317		00:28:13		515		-->		00:28:18		972		No, it wouldn't do any good. His cell structure is transforming. 
+		318		00:28:19		104		-->		00:28:22		888		- I have to leave, Beverly. - John, where do you have to go? 
+		319		00:28:23		025		-->		00:28:26		974		- I must get off this ship. - That's impossible. 
+		320		00:28:27		112		-->		00:28:29		864		- Not in your condition. - I must! 
+		321		00:28:44		129		-->		00:28:45		837		Security. 
+		322		00:28:57		851		-->		00:29:02		312		OK, let's realign the magnetic inducer on the starboard nacelle. 
+		323		00:29:31		301		-->		00:29:32		380		John! 
+		324		00:29:35		138		-->		00:29:37		808		Leave the control booth immediately. 
+		325		00:29:56		993		-->		00:29:58		785		John, listen to me. 
+		326		00:29:58		912		-->		00:30:03		076		You must come down. I'll try to help you. 
+		327		00:30:04		251		-->		00:30:06		789		Step away from the controls. 
+		328		00:30:19		808		-->		00:30:21		966		Get back. Please, stay away. 
+		329		00:30:22		102		-->		00:30:27		642		I have no wish to harm you, but you must return to sickbay immediately. 
+		330		00:30:28		191		-->		00:30:32		687		Do not come any closer. I cannot control what is happening to me. 
+		331		00:30:46		376		-->		00:30:48		784		His neck is broken. No life signs. 
+		332		00:30:50		297		-->		00:30:53		463		Sickbay, form a resuscitation team. 
+		333		00:30:53		592		-->		00:30:55		418		Transporter room, stand by. 
+		334		00:30:55		552		-->		00:30:57		011		- Hold it! - No, don't. 
+		335		00:31:15		780		-->		00:31:18		354		- Hold still. - Doc. 
+		336		00:31:20		368		-->		00:31:22		160		I can't believe it. 
+		337		00:31:24		748		-->		00:31:27		239		There's no trace of injury. 
+		338		00:31:36		259		-->		00:31:39		509		You admit you were trying to steal a shuttlecraft? 
+		339		00:31:39		638		-->		00:31:42		425		- Yes. - So I ask you again, why? 
+		340		00:31:43		558		-->		00:31:44		673		I don't know. 
+		341		00:31:44		809		-->		00:31:47		894		Unacceptable. You had a reason. What was it? 
+		342		00:31:48		021		-->		00:31:50		726		- You nearly killed Worf. - And healed him. 
+		343		00:31:50		857		-->		00:31:53		894		That's why he's here and not in the brig. 
+		344		00:31:54		027		-->		00:31:56		814		I warned him. I told him it was dangerous. 
+		345		00:31:56		947		-->		00:32:02		700		Why? Why was it dangerous? What is happening to you? 
+		346		00:32:02		827		-->		00:32:05		663		I don't know. 
+		347		00:32:05		789		-->		00:32:08		196		The metamorphosis is accelerating. 
+		348		00:32:08		333		-->		00:32:10		290		It's as if your body generates an electrical field that warps the tissue. 
+		350		00:32:15		548		-->		00:32:18		715		Who are you? What are you? 
+		351		00:32:19		594		-->		00:32:21		801		I'm afraid. 
+		352		00:32:21		930		-->		00:32:25		678		For myself. For all of you. 
+		353		00:32:27		602		-->		00:32:31		351		I have to get away. Isolate myself. 
+		354		00:32:32		107		-->		00:32:35		273		Whatever is happening to me, it's dangerous. 
+		355		00:32:35		402		-->		00:32:40		644		- As Lt Worf discovered. - I don't want to hurt anyone. 
+		356		00:32:41		658		-->		00:32:46		201		For the sake of your crew, let me go before this happens again. 
+		357		00:32:46		329		-->		00:32:49		414		I don't believe you're capable of harming... 
+		358		00:32:49		541		-->		00:32:54		203		Captain, the alien vessel is within weapons range. Its shields are up. 
+		359		00:32:54		337		-->		00:32:58		252		I'm on my way. I want him kept under constant surveillance. 
+		360		00:33:03		013		-->		00:33:07		306		John. I really want to thank you. 
+		361		00:33:08		685		-->		00:33:09		764		For what? 
+		362		00:33:09		894		-->		00:33:11		887		I don't know how or even why but down on the planet you gave me something. 
+		364		00:33:15		608		-->		00:33:17		435		A new confidence. 
+		365		00:33:17		944		-->		00:33:20		981		I doubt I can take credit for that. 
+		366		00:33:21		114		-->		00:33:24		981		Perhaps I only helped you find something you already had. 
+		367		00:33:29		622		-->		00:33:31		580		Captain, on screen. 
+		368		00:33:33		335		-->		00:33:36		585		Alien vessel approaching at half-impulse, sir. 
+		369		00:33:36		713		-->		00:33:40		129		Heading 051, mark 114. 
+		370		00:33:40		258		-->		00:33:43		425		Raise shields. Slow to one-third impulse power. 
+		371		00:33:43		553		-->		00:33:48		630		Bring us to 1 03, mark 025. Mr. Worf, hail the alien vessel. 
+		372		00:33:49		601		-->		00:33:52		602		They continue to ignore our hail, sir. 
+		373		00:33:53		271		-->		00:33:54		979		They are scanning us, sir. 
+		374		00:33:55		106		-->		00:33:58		724		- They are answering our hail. - On screen. 
+		375		00:34:00		779		-->		00:34:02		321		Sunad! 
+		376		00:34:09		079		-->		00:34:11		570		- You know him? - Yes. 
+		377		00:34:11		706		-->		00:34:15		656		I don't know how, but he's dangerous. 
+		378		00:34:19		339		-->		00:34:22		293		I am Cmdr Sunad of Zalkon. 
+		379		00:34:22		425		-->		00:34:25		260		You are trespassing into our space. 
+		380		00:34:25		387		-->		00:34:27		842		You are holding a Zalkonian citizen. 
+		381		00:34:27		972		-->		00:34:30		926		I am Capt Picard of the United Federation. 
+		382		00:34:31		059		-->		00:34:35		436		- We do not intend... - Return him to us immediately. 
+		383		00:34:36		648		-->		00:34:39		483		This individual is a guest aboard our ship. 
+		384		00:34:39		609		-->		00:34:43		773		We found him dying in a shipwreck. We returned him to health. 
+		385		00:34:43		905		-->		00:34:46		443		Then you aided a criminal. 
+		386		00:34:46		574		-->		00:34:48		947		He is one of four escaped prisoners. 
+		387		00:34:49		077		-->		00:34:53		739		We eliminated the other three. We thought this one dead. 
+		388		00:34:53		873		-->		00:34:57		077		Return him so we may complete our task. 
+		389		00:34:57		210		-->		00:35:01		255		- Of what is he accused? - He is a disruptive influence. 
+		390		00:35:01		381		-->		00:35:04		964		He spreads lies. He encourages dissent. 
+		391		00:35:05		093		-->		00:35:08		129		He disturbs the natural order of our society. 
+		392		00:35:08		263		-->		00:35:09		721		In what way? 
+		393		00:35:09		848		-->		00:35:14		889		It is not your concern. I will give you two hours to comply. 
+		394		00:35:16		020		-->		00:35:18		013		Tactical analysis. 
+		395		00:35:18		148		-->		00:35:20		389		The Zalkonian ship is formidable. 
+		396		00:35:20		525		-->		00:35:23		063		Their weaponry is comparable to ours. 
+		397		00:35:23		194		-->		00:35:25		768		They are as fast and manoeuvrable as us. 
+		398		00:35:26		990		-->		00:35:30		738		- Counsellor, will they do it? - I believe so. 
+		399		00:35:31		536		-->		00:35:34		490		Sunad's hatred for John was evident, but there is something else. 
+		401		00:35:36		833		-->		00:35:39		240		The Zalkonians are afraid of John. 
+		402		00:35:40		545		-->		00:35:43		748		Cmdr Riker, Counsellor, Doctor, John, join us. 
+		403		00:35:43		882		-->		00:35:48		294		Data, you have the bridge. Mr. Worf, counter any Zalkonian moves. 
+		404		00:35:48		428		-->		00:35:49		673		Aye, sir. 
+		405		00:35:54		100		-->		00:35:58		809		I can neither confirm nor deny what the Zalkonians told you. 
+		406		00:35:58		938		-->		00:36:02		521		They make serious accusations against you. 
+		407		00:36:02		650		-->		00:36:05		735		They may be true. I don't know. 
+		408		00:36:07		030		-->		00:36:09		865		I don't believe that I am a criminal. 
+		409		00:36:09		991		-->		00:36:14		036		You understand the difficult position in which I am placed? 
+		410		00:36:14		162		-->		00:36:15		442		Completely. 
+		411		00:36:16		247		-->		00:36:19		581		And I refuse to place your ship in danger. 
+		412		00:36:22		295		-->		00:36:25		498		If necessary, I will surrender to them. 
+		413		00:36:26		925		-->		00:36:31		088		But I am convinced there is more at stake here than my life. 
+		414		00:36:32		222		-->		00:36:36		385		There's something important I must complete. 
+		415		00:36:38		645		-->		00:36:40		602		My survival is vital. 
+		416		00:36:44		692		-->		00:36:47		148		If I could explain it, I would. 
+		417		00:36:53		993		-->		00:36:56		828		I'll inform you of my decision shortly. 
+		418		00:37:05		672		-->		00:37:09		586		- You're not considering...? - We must consider all options, and not let our feelings impede our judgement. 
+		420		00:37:12		720		-->		00:37:15		555		It's irrelevant that he'll die? 
+		421		00:37:15		682		-->		00:37:19		893		Our approval of the Zalkonians' intentions is not the issue. 
+		422		00:37:20		603		-->		00:37:25		016		But for what it's worth, I believe that John is correct that his existence has broader ramifications  than that of a criminal. 
+		425		00:37:30		530		-->		00:37:34		397		Sunad thinks so. He's personally threatened by John. 
+		426		00:37:34		534		-->		00:37:38		995		Sunad called John a disruptive influence. Hardly a capital offence. 
+		427		00:37:39		122		-->		00:37:41		613		It's not up to us to judge their laws. 
+		428		00:37:41		749		-->		00:37:45		083		I know how I would feel if the situation were reversed, if they held a Federation citizen. 
+		430		00:37:47		714		-->		00:37:52		672		The Zalkonians don't understand our indecision about returning John. 
+		431		00:37:52		802		-->		00:37:55		293		They think we shouldn't be involved. 
+		432		00:37:55		430		-->		00:38:01		053		But we are involved! I saved his life. For what? 
+		433		00:38:01		185		-->		00:38:04		969		So they can chase him down and take away that life again? 
+		434		00:38:16		618		-->		00:38:19		191		We will not tolerate more delays. 
+		435		00:38:19		329		-->		00:38:24		370		Commander, let me remind you, we are on a mission of exploration. 
+		436		00:38:24		500		-->		00:38:28		830		We want to establish peaceful relations with those we encounter. 
+		437		00:38:28		963		-->		00:38:31		501		We do not want relations with you. 
+		438		00:38:31		633		-->		00:38:34		302		If that is your wish, we will respect it. 
+		439		00:38:34		427		-->		00:38:39		385		We want you to leave our space after you return the criminal. 
+		440		00:38:39		515		-->		00:38:41		804		We will leave. 
+		441		00:38:41		934		-->		00:38:45		683		It is not our policy to intervene in other cultures. 
+		442		00:38:45		813		-->		00:38:49		063		But before I return the survivor to you, 
+		443		00:38:49		192		-->		00:38:51		943		I would appreciate an explanation of what he has done to merit a death sentence. 
+		445		00:38:54		989		-->		00:38:58		773		- It is not your concern! - Agreed. 
+		446		00:38:58		910		-->		00:39:02		528		But there are circumstances of which you may be unaware. 
+		447		00:39:02		664		-->		00:39:05		368		The survivor has suffered a memory loss. 
+		448		00:39:05		500		-->		00:39:08		335		He is ill-equipped to defend himself. 
+		449		00:39:08		461		-->		00:39:11		711		There is no defence! Our judgement is final. 
+		450		00:39:11		839		-->		00:39:16		916		One more thing. Since recovery, he's manifested unusual abilities. 
+		451		00:39:17		887		-->		00:39:19		465		What kind of abilities? 
+		452		00:39:19		597		-->		00:39:23		677		He has the power to heal injuries with a simple touch. 
+		453		00:39:23		810		-->		00:39:27		973		- Lies. - And even to reverse death itself. 
+		454		00:39:28		106		-->		00:39:33		313		Obviously he has corrupted you as well. I see I'm wasting my time. 
+		455		00:39:51		712		-->		00:39:53		504		I can't breathe. 
+		456		00:40:06		269		-->		00:40:09		388		It's come back to me, Beverly. 
+		457		00:40:10		481		-->		00:40:12		273		I know who I am. 
+		458		00:40:14		110		-->		00:40:16		019		What I am. 
+		459		00:40:50		980		-->		00:40:53		436		Ready all weapons. 
+		460		00:40:55		610		-->		00:40:58		183		You will no longer harm these people. 
+		461		00:40:58		321		-->		00:41:00		894		Fire upon that ship. 
+		462		00:41:04		911		-->		00:41:06		239		Do not be afraid. 
+		463		00:41:07		288		-->		00:41:09		446		I won't hurt you. 
+		464		00:41:09		582		-->		00:41:12		583		Kill him, Captain. He's evil. 
+		465		00:41:12		710		-->		00:41:16		624		You could learn from these people, Sunad. They do not fear me. 
+		466		00:41:16		756		-->		00:41:20		670		They don't know how dangerous you are. You and your kind. 
+		467		00:41:20		801		-->		00:41:26		092		Leaders like you have maintained that for generations. It is not true. 
+		468		00:41:27		517		-->		00:41:32		178		Captain, my species is on the verge of a wondrous evolutionary change. 
+		469		00:41:32		313		-->		00:41:36		014		A transmutation beyond our physical being. 
+		470		00:41:37		276		-->		00:41:41		654		I am the first of my kind to approach this metamorphosis. 
+		471		00:41:42		281		-->		00:41:45		567		They said it was a sickness we would never survive. 
+		472		00:41:45		701		-->		00:41:49		236		That the pain and energy pulses would kill us. 
+		473		00:41:49		372		-->		00:41:51		199		They said we were dangerous. 
+		474		00:41:51		332		-->		00:41:54		666		They killed anyone undergoing the transfiguration. 
+		475		00:41:54		794		-->		00:41:59		254		- We were protecting our society. - By murdering us. 
+		476		00:41:59		382		-->		00:42:01		458		You saw us as a threat. 
+		477		00:42:01		592		-->		00:42:04		712		You were terrified of what you didn't understand. 
+		478		00:42:04		845		-->		00:42:09		591		Some suspected that what was happening to them was not evil. 
+		479		00:42:10		101		-->		00:42:12		307		Four of us decided to flee Zalkon and let the metamorphosis take its course. 
+		481		00:42:16		399		-->		00:42:19		732		You hunted us down, killed the others, but I survived... 
+		483		00:42:23		030		-->		00:42:25		319		..with the help of a kind... 
+		484		00:42:26		659		-->		00:42:28		865		..and generous people. 
+		485		00:42:47		471		-->		00:42:49		594		There is nothing to fear. 
+		486		00:42:49		724		-->		00:42:53		223		You can join me. All Zalkonians can. 
+		487		00:42:53		352		-->		00:42:55		724		- Let me show you. - Don't touch me! 
+		488		00:42:55		855		-->		00:42:57		017		As you wish. 
+		489		00:42:57		148		-->		00:43:01		644		But others will listen now that I can tell the truth. 
+		490		00:43:01		777		-->		00:43:05		027		Those who are willing will follow me. 
+		491		00:43:11		203		-->		00:43:14		987		Sunad is back aboard the Zalkonian vessel, Captain. 
+		492		00:43:29		096		-->		00:43:31		634		My people are embarking on a new realm, a new plane of existence, thanks to you. 
+		494		00:43:34		852		-->		00:43:37		770		It is our mission to seek out life in all forms. 
+		495		00:43:37		897		-->		00:43:42		060		We're privileged to be present at the emergence of a new species. 
+		496		00:43:44		153		-->		00:43:48		400		Beverly, you gave me life and more. 
+		497		00:43:49		241		-->		00:43:52		029		I do not have the words for my gratitude,... 
+		498		00:43:53		579		-->		00:43:57		030		..or my sorrow at leaving you. 

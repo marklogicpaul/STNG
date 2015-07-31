@@ -1,0 +1,472 @@
+		1		00:00:03		837		-->		00:00:07		299		Captain's log, stardate <stardate>41636</stardate>.9. 
+		2		00:00:07		466		-->		00:00:11		845		As feared, our examination of the overdue Federation freighter Odin, disabled by an asteroid collision, revealed no life signs. 
+		4		00:00:16		642		-->		00:00:19		019		However three escape pods were missing, suggesting the possibility of survivors. 
+		6		00:00:22		606		-->		00:00:27		861		- Ready to orbit Angel One. - What kind of place is this, Data? 
+		7		00:00:28		028		-->		00:00:31		615		A Class-M planet supporting carbon-based flora and fauna, sparsely populated with intelligent life. 
+		9		00:00:34		493		-->		00:00:38		497		Similar in technological development to mid-20th century Earth. 
+		10		00:00:38		664		-->		00:00:41		000		Kinda like being marooned at home. 
+		11		00:00:41		166		-->		00:00:43		586		Assuming any survivors made it this far. 
+		12		00:00:43		794		-->		00:00:49		174		It is the closest planet, but to go the distance we did in two days, would've taken the Odin escape pod five months. 
+		14		00:00:52		511		-->		00:00:54		680		Five months, six days, 11 hours, two min... 
+		15		00:00:54		847		-->		00:00:58		392		- Thank you, Data. - ...and 57 seconds. 
+		16		00:00:58		559		-->		00:01:01		353		Receiving an audio signal from Angel One. 
+		17		00:01:01		520		-->		00:01:05		816		Starfleet are adamant we maintain excellent relations with this planet. 
+		18		00:01:05		983		-->		00:01:10		446		Mr. Data, is there any other pertinent information before we reply? 
+		19		00:01:11		030		-->		00:01:14		158		Angel One evolved into a constitutional oligarchy. 
+		20		00:01:14		325		-->		00:01:18		287		It is governed by a parliamentary body of six elected Mistresses, and headed by a female called "The Elected One." 
+		22		00:01:21		832		-->		00:01:24		418		It sounds like my own planet. 
+		23		00:01:24		585		-->		00:01:27		046		Klingons appreciate strong women. 
+		24		00:01:29		673		-->		00:01:31		634		How current is this information? 
+		25		00:01:32		259		-->		00:01:36		347		A Federation vessel last visited this planet 62 years ago, Captain. 
+		26		00:01:37		056		-->		00:01:41		393		Counselor, as this is a female-dominated society, you might wish to make first contact. 
+		28		00:01:43		979		-->		00:01:46		815		- Thank you, sir. - Open hailing frequencies. 
+		29		00:01:46		982		-->		00:01:48		859		Hailing frequencies open, sir. 
+		30		00:01:49		485		-->		00:01:52		947		This is Counselor Deanna Troi from the USS Enterprise. 
+		31		00:01:53		739		-->		00:01:57		451		I am Beata, The Elected One. How may we assist you, Counselor? 
+		32		00:01:58		285		-->		00:02:02		665		The Federation has neglected to visit your planet for far too long. 
+		33		00:02:02		831		-->		00:02:07		086		With your permission, we would like to correct that oversight. 
+		34		00:02:07		253		-->		00:02:09		922		We feel in no way neglected, Counselor. 
+		35		00:02:10		089		-->		00:02:13		592		A diplomatic courtesy call is not expected nor required. 
+		36		00:02:15		719		-->		00:02:20		349		We also come in search of possible survivors from one of our freighters. 
+		37		00:02:22		977		-->		00:02:25		980		A brief visit will be tolerated. 
+		38		00:02:27		481		-->		00:02:29		233		They've broken off transmission. 
+		39		00:02:30		067		-->		00:02:32		903		Ever feel like you're not really wanted? 
+		40		00:02:57		928		-->		00:03:01		015		Space, the final frontier. 
+		41		00:03:02		725		-->		00:03:06		645		These are the voyages of the Starship Enterprise. 
+		42		00:03:06		812		-->		00:03:10		899		Its continuing mission, to explore strange new worlds... 
+		43		00:03:12		735		-->		00:03:16		614		...to seek out new life and new civilizations... 
+		44		00:03:17		156		-->		00:03:20		826		...to boldly go where no one has gone before. 
+		45		00:04:30		938		-->		00:04:34		942		- Where're you fellows off to? - Skiing in the Denubian Alps. 
+		46		00:04:35		067		-->		00:04:39		321		- Save us some deep powder. - Sure. The holodecks have lots. 
+		47		00:04:49		957		-->		00:04:51		166		The away team's ready. 
+		48		00:04:51		333		-->		00:04:54		795		Angel One's strategic importance in this area may be vital. 
+		49		00:04:54		962		-->		00:04:58		257		Starfleet hopes they may one day join the Federation. 
+		50		00:04:58		424		-->		00:05:01		093		We'll do our best to make a good impression. 
+		51		00:05:02		303		-->		00:05:03		887		Energize. 
+		52		00:05:10		728		-->		00:05:12		521		Captain's log, supplemental. 
+		53		00:05:12		688		-->		00:05:16		817		Our away team has beamed down to an unusual matriarchal society where the female is as aggressively dominant  as the male was on Earth hundreds of years ago. 
+		56		00:05:22		906		-->		00:05:26		285		Here, the female is the hunter, the soldier, larger and stronger than the male,  an arrangement considered most sensible and natural. 
+		59		00:05:33		167		-->		00:05:35		502		I am Beata, Elected One of Angel One. 
+		60		00:05:35		961		-->		00:05:39		340		Representatives of the Enterprise, you wish to petition? 
+		61		00:05:39		506		-->		00:05:42		301		We do. We have reason to hope that survivors from a damaged Federation freighter may be marooned on your planet. 
+		63		00:05:47		181		-->		00:05:49		600		We are seeking to learn if this is so. 
+		64		00:05:51		602		-->		00:05:55		731		Even a world as remote as Angel One has heard of Starfleet. 
+		65		00:05:55		856		-->		00:06:00		694		Searching for survivors seems a petty task for one of their vessels. 
+		66		00:06:02		196		-->		00:06:05		282		We don't consider even one survivor petty. 
+		67		00:06:06		784		-->		00:06:10		955		Is this man implying that we put a lesser value on life than you do? 
+		68		00:06:12		539		-->		00:06:17		878		Not at all. Our discovery of the freighter was unexpected. 
+		69		00:06:18		045		-->		00:06:19		964		We have a duty to investigate. 
+		70		00:06:20		589		-->		00:06:22		258		I see. 
+		71		00:06:24		051		-->		00:06:27		930		And if you find any survivors, what then? 
+		72		00:06:28		097		-->		00:06:31		934		We would take them with us and reunite them with their families. 
+		73		00:06:32		101		-->		00:06:35		479		Are we to take these strangers at their word? 
+		74		00:06:35		646		-->		00:06:36		605		Good question. 
+		75		00:06:36		772		-->		00:06:39		525		What reason could we have to deceive you? 
+		76		00:06:39		692		-->		00:06:41		652		Another good question. 
+		77		00:06:42		444		-->		00:06:46		073		Are there survivors from the freighter Odin on your planet? 
+		78		00:06:48		909		-->		00:06:51		704		I'm not prepared to answer... yet. 
+		79		00:06:51		829		-->		00:06:53		414		See to their comforts. 
+		80		00:06:55		249		-->		00:06:56		500		What's going on? 
+		81		00:07:11		015		-->		00:07:13		434		You will remain here until summoned. 
+		82		00:07:24		945		-->		00:07:27		281		Is this area secure? Can we talk? 
+		83		00:07:27		448		-->		00:07:32		870		Yes. No listening devices or anything of a threatening nature. 
+		84		00:07:33		037		-->		00:07:37		416		- Good. Troi? - There was much fear in that room. 
+		85		00:07:37		625		-->		00:07:39		627		Paranoia, I'd say. But of what? 
+		86		00:07:39		793		-->		00:07:43		589		I cannot say. But their fear was not focused. 
+		87		00:07:43		756		-->		00:07:47		718		I sensed they were all not concerned for the same reason. 
+		88		00:07:47		843		-->		00:07:51		513		Undoubtedly, there are survivors from the Odin on this planet. 
+		89		00:07:51		680		-->		00:07:55		184		I agree, otherwise why would they be so circumspect? 
+		90		00:07:55		351		-->		00:07:59		396		As Mistress Beata is so fond of saying, good question. 
+		91		00:07:59		563		-->		00:08:02		608		What do we do if they deny there are survivors? 
+		92		00:08:03		317		-->		00:08:04		735		Let's not look for problems. 
+		93		00:08:11		533		-->		00:08:14		828		Have everyone prepare for a trip into the Neutral Zone as soon as the away team returns. 
+		95		00:08:17		623		-->		00:08:19		208		Trouble, Captain? 
+		96		00:08:19		375		-->		00:08:22		962		Insurance. Romulan battle cruisers have been detected near one of our border posts. 
+		98		00:08:26		048		-->		00:08:29		176		They've requested our assistance as soon as... 
+		99		00:08:36		392		-->		00:08:38		060		Report, Mr. Crusher. 
+		100		00:08:38		769		-->		00:08:42		731		We finished our ski lesson, sir... and it kinda just happened. 
+		101		00:08:42		856		-->		00:08:48		070		On the Enterprise, nothing "just happens"... What is that smell? 
+		102		00:08:48		862		-->		00:08:54		994		Hm. Reminiscent of Night-Blooming throgni, Captain... from home. 
+		103		00:08:56		912		-->		00:08:58		789		Quite stimulating, isn't it? 
+		104		00:08:58		956		-->		00:09:00		040		No. 
+		105		00:09:00		874		-->		00:09:04		461		I don't smell anything. I'm a little congested. The snow. 
+		106		00:09:05		170		-->		00:09:08		007		Don't let this "just happen" again, Mr. Crusher. 
+		107		00:09:08		382		-->		00:09:09		758		Yes, sir. 
+		108		00:09:23		230		-->		00:09:26		400		Interesting. An alcohol-based synthetic, artificially reproducing a floral scent. 
+		110		00:09:29		320		-->		00:09:31		322		It's called perfume, Data. 
+		111		00:09:31		530		-->		00:09:32		865		And the purpose is...? 
+		112		00:09:33		032		-->		00:09:36		243		Certain cultures consider perfume an aphrodisiac. 
+		113		00:09:36		702		-->		00:09:38		787		I am unfamiliar with that term. 
+		114		00:09:38		954		-->		00:09:42		583		An aphrodisiac is something used to stimulate or enhance... 
+		115		00:09:42		750		-->		00:09:44		335		...sexual pleasure. 
+		116		00:09:44		835		-->		00:09:49		548		How does stimulation of olfactory nerves affect the enjoyment of sex? 
+		117		00:09:52		551		-->		00:09:54		762		The Elected One will see you now. 
+		118		00:10:05		272		-->		00:10:08		609		You say you will remove these survivors from our world. 
+		119		00:10:09		151		-->		00:10:11		946		Are you ready to give your word on that? 
+		120		00:10:12		112		-->		00:10:13		238		We are. 
+		121		00:10:13		405		-->		00:10:16		533		You should know that the vote was not unanimous. 
+		122		00:10:17		451		-->		00:10:19		870		Some of those among us are suspicious. 
+		123		00:10:21		705		-->		00:10:24		541		Yet the majority feel we have to trust you. 
+		124		00:10:25		000		-->		00:10:29		213		We do not understand your misgivings, but appreciate your faith in us. 
+		125		00:10:29		380		-->		00:10:32		216		Make certain that faith is not misplaced. 
+		126		00:10:34		760		-->		00:10:38		180		There are four survivors from the ship you call Odin. 
+		127		00:10:38		973		-->		00:10:43		769		All male. Their leader is a man who calls himself Ramsey. 
+		128		00:10:44		395		-->		00:10:49		024		If you'll deliver them to us, we'll have them off your planet at once. 
+		129		00:10:49		233		-->		00:10:52		861		If they were mine to deliver, I would, without hesitation. 
+		130		00:10:53		028		-->		00:10:55		906		Unfortunately, their hiding place eludes us. 
+		131		00:10:56		073		-->		00:10:59		034		Hiding place? Why are they in hiding? 
+		132		00:10:59		159		-->		00:11:03		914		Because they're fugitives here, and the quicker they're gone, the better. 
+		133		00:11:04		081		-->		00:11:09		670		When these men came to us seven years ago, they accepted our hospitality. 
+		134		00:11:10		879		-->		00:11:13		549		But they gradually became restive, started making unreasonable demands, went against the natural order. 
+		136		00:11:20		598		-->		00:11:25		394		Using our technology, we might be able to find these men. 
+		137		00:11:25		603		-->		00:11:31		692		I assumed as much. But be warned, Counselor, these men are dangerous. 
+		138		00:11:48		167		-->		00:11:50		085		Sickbay to Capt Picard. 
+		139		00:11:50		252		-->		00:11:51		211		Picard here. 
+		140		00:11:51		378		-->		00:11:55		090		Wesley and a friend have contracted a respiratory ailment. 
+		141		00:11:55		257		-->		00:11:58		385		A respiratory ailment? Is it contained? 
+		142		00:11:58		552		-->		00:12:03		474		I hope so. I've isolated the 12 students who were on the field trip. 
+		143		00:12:04		266		-->		00:12:05		476		How contagious is it? 
+		144		00:12:05		643		-->		00:12:07		269		Still running tests. 
+		145		00:12:07		436		-->		00:12:11		148		The key is to figure out how the virus is transmitted. 
+		146		00:12:11		315		-->		00:12:14		610		So far, I've ruled out person-to-person contact. 
+		147		00:12:14		777		-->		00:12:17		947		Keep at it. Starfleet has important business for us once the away team returns. 
+		149		00:12:19		907		-->		00:12:23		369		I don't fancy the idea of my crew being infected. 
+		150		00:12:33		629		-->		00:12:37		633		Data, what's the best way to find Ramsey and the other survivors? 
+		151		00:12:37		800		-->		00:12:41		387		If we can isolate something unique to the Odin survivors, an element not otherwise found on Angel One,  we can utilize the Enterprise scanners. 
+		154		00:12:49		520		-->		00:12:51		939		Mr. Data will need access to your library. 
+		155		00:12:52		648		-->		00:12:56		652		Our library's far too sophisticated for a man to comprehend. 
+		156		00:12:56		819		-->		00:13:00		281		I am an android, Mistress, though anatomically, I am a male. 
+		157		00:13:01		740		-->		00:13:03		701		An amusing notion. 
+		158		00:13:04		868		-->		00:13:07		454		Maybe you could teach our males something. 
+		159		00:13:07		621		-->		00:13:10		374		Trent, see to the android's needs. 
+		160		00:13:19		174		-->		00:13:22		094		- Bridge to Picard. - Go ahead, Lieutenant. 
+		161		00:13:22		303		-->		00:13:27		474		The away team requests that we scan the planet's surface for platinum. 
+		162		00:13:27		641		-->		00:13:32		021		Have Mr. La Forge break fixed orbit and initiate a search pattern. 
+		163		00:13:33		188		-->		00:13:34		607		Aye, Captain. 
+		164		00:13:34		773		-->		00:13:38		861		- Geordi? - Search pattern initiated... now. 
+		165		00:13:47		328		-->		00:13:49		622		This was delivered for you. 
+		166		00:13:49		788		-->		00:13:52		458		Good. It's for my meeting with Beata. 
+		167		00:13:54		919		-->		00:13:56		837		You're not going to wear that? 
+		168		00:13:57		004		-->		00:13:59		298		Yes. Part of this mission is diplomatic. 
+		169		00:13:59		506		-->		00:14:01		884		I have an audience with a head of state. 
+		170		00:14:02		051		-->		00:14:05		512		I will honor her by wearing indigenous apparel. 
+		171		00:14:05		679		-->		00:14:10		267		I don't believe this. You're going to parade around like one of them? 
+		172		00:14:10		434		-->		00:14:12		061		Why, what is this attitude? 
+		173		00:14:12		227		-->		00:14:17		816		On Kabatris, I wore furs to meet with the leaders. On Armus IX, feathers. 
+		174		00:14:21		820		-->		00:14:24		782		This objection doesn't have anything to do with 
+		175		00:14:24		949		-->		00:14:27		618		Beata being an attractive woman, does it? 
+		176		00:14:36		543		-->		00:14:38		921		This is quite unnecessary. I'm fine. 
+		177		00:14:39		088		-->		00:14:41		340		You're infected with the virus. 
+		178		00:14:41		507		-->		00:14:45		135		In my opinion, you are not able to command this vessel. 
+		179		00:14:45		302		-->		00:14:47		137		That is ridiculous. 
+		180		00:14:47		304		-->		00:14:50		474		I have an away team down in unfriendly territory, and also have an appointment with several Romulan battle crui... 
+		182		00:14:56		355		-->		00:15:00		067		You have an appointment in your cabin. With your bed. 
+		183		00:15:00		234		-->		00:15:02		987		- Is that an order, Doctor? - Yes. 
+		184		00:15:04		238		-->		00:15:07		825		- I think I may sneeze. - A Klingon sneeze? 
+		185		00:15:07		992		-->		00:15:09		576		Only kind I know. 
+		186		00:15:10		869		-->		00:15:15		374		Lt La Forge... you have command until further notice. 
+		187		00:15:16		959		-->		00:15:20		629		- Make the proper ship's log entries. - Aye, sir. 
+		188		00:15:31		432		-->		00:15:34		476		Scanners indicate... a platinum trace. 
+		189		00:15:34		761		-->		00:15:37		013		Shall I notify the away team? 
+		190		00:15:37		180		-->		00:15:38		097		Make it so. 
+		191		00:15:59		327		-->		00:16:01		079		What do you think? 
+		192		00:16:06		292		-->		00:16:07		877		Well... 
+		193		00:16:09		629		-->		00:16:12		507		I gotta say, it's... kinda sexy. 
+		194		00:16:13		800		-->		00:16:18		304		Thank you, Lieutenant. Actually, it feels quite... comfortable. 
+		195		00:16:23		810		-->		00:16:25		228		How handsome you look. 
+		196		00:16:25		770		-->		00:16:27		605		Thank you. 
+		197		00:16:27		772		-->		00:16:31		776		The Enterprise reports a possible location for the survivors. 
+		198		00:16:31		985		-->		00:16:35		280		- So soon. I'm impressed. - I'm suspicious. 
+		199		00:16:35		905		-->		00:16:37		240		You don't believe me? 
+		200		00:16:37		407		-->		00:16:41		619		Not yet. I hear the words, but not the sincerity. 
+		201		00:16:41		786		-->		00:16:45		290		You objected earlier, Ariel. You were in the minority. 
+		202		00:16:45		457		-->		00:16:48		543		After seven years, the great ship Enterprise comes to repatriate a small group of insignificant people. 
+		204		00:16:53		298		-->		00:16:56		259		Mistress Ariel, I hear the words, but not the sincerity. 
+		205		00:16:56		759		-->		00:17:00		972		You should listen more carefully. Excuse me, Mistress. 
+		206		00:17:02		307		-->		00:17:04		851		I have matters to attend to elsewhere. 
+		207		00:17:09		731		-->		00:17:13		109		With permission, we'd like to begin our search immediately. 
+		208		00:17:13		276		-->		00:17:14		986		By all means. 
+		209		00:17:15		153		-->		00:17:19		449		But I'm sure Counselor Troi and the others can see to that without you. 
+		210		00:17:20		158		-->		00:17:23		203		If I recall, you had a gesture of goodwill for me. 
+		211		00:17:23		369		-->		00:17:26		539		That can wait until we've recovered the survivors. 
+		212		00:17:27		040		-->		00:17:29		626		Are you suggesting the women in your party cannot accomplish that without a man? 
+		214		00:17:32		378		-->		00:17:37		300		Not at all. Lt Yar and Counselor Troi are completely qualified. 
+		215		00:17:39		135		-->		00:17:41		554		You're very generous with your praise. 
+		216		00:17:42		263		-->		00:17:45		099		Inform them that you will remain here with me. 
+		217		00:17:51		064		-->		00:17:52		273		Riker to Lt Yar. 
+		218		00:17:53		566		-->		00:17:54		859		This is Yar. 
+		219		00:17:55		026		-->		00:17:57		695		For diplomacy, I'll stay with Mistress Beata while you conduct our search. 
+		221		00:18:00		865		-->		00:18:03		368		- Commander? - You have your instructions. 
+		222		00:18:06		621		-->		00:18:09		415		Relax. We have much to discuss. 
+		223		00:18:14		546		-->		00:18:17		590		- Set phasers to stun. - I wish they weren't necessary. 
+		224		00:18:17		757		-->		00:18:20		009		A justified precaution, Counselor. 
+		225		00:18:20		176		-->		00:18:24		222		Mistress Beata observed that Mr. Ramsey and his men are dangerous. 
+		226		00:18:24		430		-->		00:18:27		016		- Yar to Enterprise. - Go ahead. 
+		227		00:18:27		183		-->		00:18:30		145		Three to beam to that platinum trace. 
+		228		00:18:30		311		-->		00:18:33		398		- Coordinates set. - Energize. 
+		229		00:18:49		497		-->		00:18:50		999		Welcome. 
+		230		00:18:55		336		-->		00:18:57		338		I've been expecting you. 
+		231		00:19:09		942		-->		00:19:11		151		Picard to bridge. 
+		232		00:19:14		863		-->		00:19:16		073		La Forge here. 
+		233		00:19:16		782		-->		00:19:20		744		- Status report. - 82 more cases of the virus, sir. 
+		234		00:19:20		911		-->		00:19:24		582		Dr Crusher's converted the holodeck into an isolation ward. 
+		235		00:19:25		499		-->		00:19:28		335		And... the away team? 
+		236		00:19:29		003		-->		00:19:30		838		Well, no recent contact, sir, but I informed them of our medical situation,  and of the growing Romulan threat to our Neutral Zone outpost. 
+		239		00:19:38		679		-->		00:19:44		435		Keep me advised. You have the bridge... until Cmdr Riker returns. 
+		240		00:19:45		394		-->		00:19:48		355		Engineering reports a computer mal... 
+		241		00:19:53		902		-->		00:19:55		487		I'm sorry. 
+		242		00:19:56		155		-->		00:19:57		990		I'm getting sick. 
+		243		00:19:58		157		-->		00:20:00		659		Half the ship knows that by now. 
+		244		00:20:00		826		-->		00:20:03		329		Report to sickbay, Lieutenant. 
+		245		00:20:03		495		-->		00:20:05		080		Engineering to bridge. 
+		246		00:20:07		041		-->		00:20:07		917		La Forge here. 
+		247		00:20:08		083		-->		00:20:10		753		The computer won't accept the climate controls. 
+		248		00:20:10		920		-->		00:20:11		879		On my way. 
+		249		00:20:12		046		-->		00:20:15		716		With respect, Lieutenant, there are people to do that job now. 
+		250		00:20:19		178		-->		00:20:20		512		La Forge to Engineering. 
+		251		00:20:20		679		-->		00:20:24		767		Lt Wong knows that system. I'm sure she can resolve all problems. 
+		252		00:20:28		979		-->		00:20:30		564		Thanks for the advice. 
+		253		00:20:37		863		-->		00:20:40		991		How did you... find me? 
+		254		00:20:41		158		-->		00:20:43		077		Actually, it was quite simple. 
+		255		00:20:43		244		-->		00:20:47		957		Angel One has no platinum. Enterprise scanners did the rest. 
+		256		00:20:49		166		-->		00:20:50		751		Platinum, was it? 
+		257		00:20:52		503		-->		00:20:56		298		My wings. I kept them for their sentimental value. 
+		258		00:20:56		924		-->		00:20:59		134		Where are the other survivors, Mr. Ramsey? 
+		259		00:20:59		301		-->		00:21:04		139		They're nearby. They're packing, since we can't remain here. 
+		260		00:21:04		306		-->		00:21:06		809		Seven years on an alien planet, and I sense no anticipation, no excitement at being rescued. 
+		262		00:21:11		063		-->		00:21:13		399		What do you think you're rescuing me from? 
+		263		00:21:13		565		-->		00:21:17		528		My shipmates and I have taken wives. A few even have children. 
+		264		00:21:17		695		-->		00:21:21		115		You can't rescue a man from a place that he calls his home. 
+		265		00:21:26		704		-->		00:21:30		165		Why were you so hesitant to tell us about the survivors? 
+		266		00:21:30		332		-->		00:21:33		210		Because Ramsey and his men are anarchists. 
+		267		00:21:34		044		-->		00:21:37		214		I had to be sure you weren't here to fuel their struggle. 
+		268		00:21:41		260		-->		00:21:44		513		I like the way your eyes pick up the color of your tunic. 
+		269		00:21:46		056		-->		00:21:51		061		We do not interfere in the domestic affairs of other societies. 
+		270		00:21:51		228		-->		00:21:52		479		But you can interact? 
+		271		00:21:52		646		-->		00:21:56		317		Of course. Otherwise, how can we learn? 
+		272		00:21:56		900		-->		00:22:00		029		Is that why you're here with me tonight? To learn? 
+		273		00:22:00		988		-->		00:22:02		323		Yes. 
+		274		00:22:02		489		-->		00:22:05		534		- About our society? - Yes. 
+		275		00:22:07		661		-->		00:22:12		374		Well, in our society, it is the men who are the fortunate ones, enjoying all life has to offer... 
+		277		00:22:15		794		-->		00:22:20		215		...while we women devote ourselves to the obligation of making life work. 
+		278		00:22:22		301		-->		00:22:27		306		In our society, we share the responsibilities and pleasures. 
+		279		00:22:28		015		-->		00:22:32		311		Which is why I am here with you while the women look for Ramsey. 
+		280		00:22:33		020		-->		00:22:37		107		Remind me to thank them when they come back for giving us this time. 
+		281		00:22:45		532		-->		00:22:49		620		You resist. Don't you find me attractive? 
+		282		00:22:52		206		-->		00:22:54		917		Yes, I find you very attractive. 
+		283		00:22:55		876		-->		00:22:58		212		You attract me like no man ever has. 
+		284		00:22:58		379		-->		00:23:02		925		It's not my function to seduce or be seduced by the leader of another world. 
+		286		00:23:06		262		-->		00:23:08		347		- It's not the reason. - No. 
+		287		00:23:08		514		-->		00:23:11		016		But will you still respect me tomorrow? 
+		288		00:23:11		183		-->		00:23:12		768		I hope so. 
+		289		00:23:25		364		-->		00:23:26		448		Thank you, Trent. 
+		290		00:23:28		951		-->		00:23:30		411		You may go. 
+		291		00:23:40		004		-->		00:23:43		048		Compliments of the USS Enterprise. 
+		292		00:23:46		677		-->		00:23:49		346		It's called an Albeni meditation crystal. 
+		293		00:23:54		184		-->		00:23:56		186		Very impressive. 
+		294		00:23:57		938		-->		00:24:00		357		Now I must repay you in kind. 
+		295		00:24:09		241		-->		00:24:12		912		Five months in a rescue pod no bigger than this room is an eternity I hope none of you will ever have to face. 
+		297		00:24:18		500		-->		00:24:20		711		When we finally made it here... 
+		298		00:24:22		296		-->		00:24:26		800		...we thought we'd died and gone to heaven. You've seen the women here. 
+		299		00:24:26		967		-->		00:24:30		137		They're tall and strong and very lovely. 
+		300		00:24:30		304		-->		00:24:34		224		But after the newness wore off, we saw how the men were treated. 
+		301		00:24:36		560		-->		00:24:40		189		There's no votes. There's no opinions. 
+		302		00:24:40		940		-->		00:24:42		232		There's no respect. 
+		303		00:24:42		441		-->		00:24:45		736		None of which is your concern any longer, Mr. Ramsey. 
+		304		00:24:49		323		-->		00:24:52		701		Call the others in, please. It's time to leave. 
+		305		00:24:52		868		-->		00:24:56		330		Despite their problems, we like it here on Angel One. 
+		306		00:24:56		497		-->		00:24:58		332		We're not going anywhere. 
+		307		00:24:58		499		-->		00:25:00		042		But Mistress Beata... 
+		308		00:25:00		209		-->		00:25:04		338		Be damned. Her wish is not my command, and neither is yours. 
+		309		00:25:04		505		-->		00:25:06		090		You can't force us to go. 
+		310		00:25:06		715		-->		00:25:08		801		Mr. Ramsey is correct. 
+		311		00:25:09		260		-->		00:25:11		262		The Odin was not a starship, so her crew is not bound by the Prime Directive. 
+		313		00:25:15		140		-->		00:25:19		979		If he and the others wish to stay here, there is nothing we can do. 
+		314		00:25:32		950		-->		00:25:36		745		Bridge to sickbay. How are you doing, Doctor? 
+		315		00:25:36		912		-->		00:25:39		331		We have more sick than we do beds. 
+		316		00:25:40		416		-->		00:25:44		628		So far I've had to confine over 300 to their private quarters. 
+		317		00:25:44		795		-->		00:25:49		008		We're going to be badly undermanned if we engage the Romulans in battle. 
+		318		00:25:49		174		-->		00:25:51		760		The Romulans are your problem, Lieutenant. 
+		319		00:25:51		927		-->		00:25:54		179		Finding an inoculant is mine. 
+		320		00:25:55		472		-->		00:25:58		392		This virus mutates every 20 minutes. 
+		321		00:25:58		892		-->		00:26:02		813		But we haven't had any fatalities... yet. 
+		322		00:26:02		980		-->		00:26:06		400		If this continues, there'll be no one to run the ship. 
+		323		00:26:06		567		-->		00:26:08		694		If this continues, Lt La Forge, nobody will be healthy enough to care. 
+		325		00:26:13		449		-->		00:26:14		950		Yar to Enterprise. 
+		326		00:26:15		743		-->		00:26:17		578		Enterprise here. Go ahead. 
+		327		00:26:17		745		-->		00:26:20		331		Prepare to beam three to our previous location. 
+		328		00:26:20		497		-->		00:26:23		542		After re-grouping with Cmdr Riker, we'll return to the ship. 
+		329		00:26:24		084		-->		00:26:28		422		Make that on the double. We have a medical emergency brewing here. 
+		330		00:26:28		589		-->		00:26:33		010		One third of the crew is down, and word from the Neutral Zone is more Romulan vessels are converging there. 
+		332		00:26:36		013		-->		00:26:38		557		I'll inform the Commander. Yar out. 
+		333		00:26:40		184		-->		00:26:41		727		One thing before we go. 
+		334		00:26:42		478		-->		00:26:46		148		You said you were expecting us. Why? 
+		335		00:26:47		066		-->		00:26:49		068		I can't answer that. 
+		336		00:26:52		696		-->		00:26:54		281		We wish you well, Mr. Ramsey. 
+		337		00:26:57		076		-->		00:26:58		035		Energize. 
+		338		00:27:06		669		-->		00:27:08		254		They're gone. 
+		339		00:27:22		977		-->		00:27:26		438		How refreshing, to be with a man who knows what he wants. 
+		340		00:27:26		605		-->		00:27:29		108		And doesn't have to be told by a woman? 
+		341		00:27:29		275		-->		00:27:30		651		Exactly. 
+		342		00:27:31		944		-->		00:27:34		905		I knew you were bright enough to understand. 
+		343		00:27:35		072		-->		00:27:39		368		See, women, by our very nature, want only what is best for their men. 
+		344		00:27:39		868		-->		00:27:44		081		Men are not objects to be possessed, Mistress Beata. 
+		345		00:27:44		873		-->		00:27:47		293		Of course they're not. 
+		346		00:27:48		419		-->		00:27:51		589		It was merely a figure of speech. 
+		347		00:28:00		139		-->		00:28:01		015		Enter. 
+		348		00:28:03		225		-->		00:28:06		729		What is so important that you intrude upon my privacy? 
+		349		00:28:06		895		-->		00:28:11		567		They have returned, Mistress, but without Ramsey or the others. 
+		350		00:28:17		031		-->		00:28:20		200		Your advanced technology has proven inadequate? 
+		351		00:28:21		410		-->		00:28:22		494		What happened? 
+		352		00:28:22		661		-->		00:28:26		040		Mr. Ramsey and the other survivors refused to leave. 
+		353		00:28:26		707		-->		00:28:29		168		You gave me your solemn word. 
+		354		00:28:33		422		-->		00:28:35		966		I'm sorry, there's nothing else we can do. 
+		355		00:28:37		301		-->		00:28:39		595		I'm sorry as well. 
+		356		00:28:45		225		-->		00:28:47		895		Since you refuse to take them with you... 
+		357		00:28:48		520		-->		00:28:52		316		...I am left with no choice but to sentence them all to death. 
+		358		00:29:03		494		-->		00:29:05		079		Come. 
+		359		00:29:15		714		-->		00:29:19		593		It looks horrible... tastes worse, but it's absolutely guaranteed to make you feel better. 
+		361		00:29:37		987		-->		00:29:42		575		I knew you'd like it. Are you wearing cologne? 
+		362		00:29:43		951		-->		00:29:47		538		Like something I smelled earlier, something... Klingon. 
+		363		00:29:49		331		-->		00:29:52		626		Lt Worf and I... detected the same scent... when we bumped into your son... at the holodeck. 
+		365		00:29:59		341		-->		00:30:00		634		It's that smell. 
+		366		00:30:01		760		-->		00:30:04		013		That's how the virus travels. 
+		367		00:30:04		805		-->		00:30:10		603		An airborne particle whose sweet scent inspires deep inhalation. 
+		368		00:30:11		645		-->		00:30:15		024		And once inside the body, it becomes that damn virus. 
+		369		00:30:15		190		-->		00:30:16		984		I have work to do. 
+		370		00:30:19		695		-->		00:30:21		989		You are excused, Doctor. 
+		371		00:30:26		702		-->		00:30:29		371		What's the latest on the medical situation? 
+		372		00:30:29		538		-->		00:30:33		667		Dr Crusher feels the virus will run unchecked through the entire ship. 
+		373		00:30:33		834		-->		00:30:37		087		Attempts to develop an inoculant have ended in failure. 
+		374		00:30:37		254		-->		00:30:41		091		Lt La Forge still has bridge command, pending your return, sir. 
+		375		00:30:41		800		-->		00:30:44		678		And the Romulans entering the Neutral Zone? 
+		376		00:30:44		845		-->		00:30:49		767		The outpost reports seven Romulan battle cruisers within sensor range. 
+		377		00:30:49		934		-->		00:30:52		478		The USS Berlin answered the distress call. 
+		378		00:30:52		645		-->		00:30:54		563		However, if hostilities erupt, the outpost and the starship will be out-gunned. 
+		380		00:30:58		734		-->		00:31:03		530		They feel the Enterprise's presence will be a vital show of force. 
+		381		00:31:03		739		-->		00:31:07		618		Some show of force. The Enterprise could fly on autopilot, but with that virus around, we'll be in sorry shape if things turn ugly. 
+		383		00:31:15		167		-->		00:31:16		585		It's time we leave. 
+		384		00:31:16		752		-->		00:31:20		756		It doesn't feel right with Beata determined to execute those people. 
+		385		00:31:20		923		-->		00:31:25		052		She has to find them first. They've been fugitives for years. 
+		386		00:31:25		219		-->		00:31:27		346		They must be good at evading capture. 
+		387		00:31:30		140		-->		00:31:31		725		Something's wrong. 
+		388		00:31:37		856		-->		00:31:42		069		Before you go back to your ship, there's something I want you to see. 
+		389		00:31:51		829		-->		00:31:57		418		We were no harm to anyone. Why did you tell them where we were? 
+		390		00:31:57		585		-->		00:32:01		255		You brought this upon yourself... you and the traitor. 
+		391		00:32:02		298		-->		00:32:06		343		One does not need technology to follow Mistress Ariel sneaking out to warn her husband. 
+		393		00:32:10		222		-->		00:32:12		016		Let her stand with him now. 
+		394		00:32:15		436		-->		00:32:18		230		For tomorrow, they will die together. 
+		395		00:32:27		990		-->		00:32:30		576		Your "advanced society" uses executions to suppress those who reject your views? 
+		397		00:32:33		412		-->		00:32:37		917		- I don't expect you to understand. - Why, because I'm only a man? 
+		398		00:32:41		378		-->		00:32:43		881		You'll accomplish nothing with that attitude. 
+		399		00:32:52		765		-->		00:32:53		891		Mistress Beata... 
+		400		00:32:54		892		-->		00:32:58		896		...if you had an alternative to executing Ramsey and his followers, would you take it? 
+		402		00:33:02		399		-->		00:33:04		944		Is that not the way of an advanced society? 
+		403		00:33:06		153		-->		00:33:09		240		Then let us meet with them one last time. 
+		404		00:33:09		406		-->		00:33:12		159		Let me try to convince them to leave with us. 
+		405		00:33:14		495		-->		00:33:16		288		Will you include others here who choose to follow Ramsey and his group? 
+		407		00:33:19		917		-->		00:33:22		086		Yes, all of them. 
+		408		00:33:38		936		-->		00:33:42		731		Mistress Beata is willing to give you a second chance. 
+		409		00:33:42		898		-->		00:33:46		694		We're prepared to take your entire group with us. 
+		410		00:33:49		780		-->		00:33:51		782		That's very kind of you. 
+		411		00:33:55		619		-->		00:33:57		413		But we're not going. 
+		412		00:33:59		582		-->		00:34:02		293		Haven't you been paying attention, Ramsey? 
+		413		00:34:02		918		-->		00:34:05		838		You're scheduled to be executed tomorrow. 
+		414		00:34:07		089		-->		00:34:08		674		We don't want to die. 
+		415		00:34:15		681		-->		00:34:17		474		We don't want to leave either. 
+		416		00:34:18		183		-->		00:34:22		146		There's no time to debate the issues. You're leaving, like it or not. 
+		417		00:34:22		980		-->		00:34:28		027		Excuse me, Commander, but removing these people against their will would violate several regulations, including the Prime Directive. 
+		419		00:34:32		990		-->		00:34:34		992		I realize that, Mr. Data. 
+		420		00:34:36		619		-->		00:34:38		871		I'd rather face a court-martial than live with the guilt of leaving these people to their death. 
+		422		00:34:43		208		-->		00:34:47		296		- Cmdr Riker to the Enterprise. - Enterprise. Crusher here. 
+		423		00:34:48		213		-->		00:34:50		466		Must be worse there than we thought. 
+		424		00:34:50		633		-->		00:34:52		468		Doctor, where's Lt La Forge? 
+		425		00:34:52		635		-->		00:34:55		554		He's right here, but he's in bad shape. 
+		426		00:34:56		347		-->		00:34:59		892		Notify the transporter room I have 14 to beam up. 
+		427		00:35:01		352		-->		00:35:02		978		I can't allow it. 
+		428		00:35:03		145		-->		00:35:06		273		This virus is totally out of control here. 
+		429		00:35:07		358		-->		00:35:11		403		Doctor, these people are facing their deaths down here. 
+		430		00:35:11		946		-->		00:35:14		406		They might be facing the same here. 
+		431		00:35:14		573		-->		00:35:19		245		Until I have a better idea of what this is, no one beams up. 
+		432		00:35:19		411		-->		00:35:21		622		I'm sorry, Will, but you must wait. 
+		433		00:35:23		082		-->		00:35:27		795		Understood. Doctor, would this virus have any effect on Mr. Data? 
+		434		00:35:29		380		-->		00:35:30		965		Not likely. 
+		435		00:35:32		091		-->		00:35:34		176		You're going back there alone. 
+		436		00:35:34		802		-->		00:35:38		681		Get the Enterprise into the Neutral Zone before it's too late. 
+		437		00:35:45		437		-->		00:35:48		107		This is Data, standing by to beam up. 
+		438		00:35:56		574		-->		00:35:58		158		What of them? 
+		439		00:36:03		831		-->		00:36:05		833		I don't know. 
+		440		00:36:21		689		-->		00:36:25		944		Mistress Beata invites you to witness this morning's reaffirmation of Angel One's moral imperative. 
+		442		00:36:28		905		-->		00:36:32		200		Is that the civilized word for murder on this world? 
+		443		00:36:32		700		-->		00:36:34		911		You send Mistress Beata our regrets. 
+		444		00:36:35		954		-->		00:36:39		958		- The Elected One will not... - Enterprise to Cmdr Riker. 
+		445		00:36:40		125		-->		00:36:43		712		- They're still here. - Riker here. 
+		446		00:36:43		920		-->		00:36:47		924		I said to go to the Neutral Zone immediately. Explain the delay. 
+		447		00:36:48		091		-->		00:36:51		511		Actually, sir, you ordered me to reach the Neutral Zone before it is too late. 
+		449		00:36:53		722		-->		00:36:57		308		After relieving Lt La Forge, I computed the length of time the outpost and the USS Berlin can withstand a Romulan attack,  and deducted our time to destination at maximum warp speed. 
+		452		00:37:06		985		-->		00:37:10		280		That leaves Dr Crusher 48 minutes to develop an inoculant to the virus. 
+		454		00:37:13		116		-->		00:37:16		786		- So we still have time to act. - 48 minutes. 
+		455		00:37:16		953		-->		00:37:19		080		47, sir. 
+		456		00:37:20		290		-->		00:37:22		625		Perhaps, Data, perhaps. 
+		457		00:37:22		792		-->		00:37:26		337		Thank you for following my orders so precisely. 
+		458		00:37:28		798		-->		00:37:30		550		On second thought, Trent, we would be honored to witness your moral imperative in action. 
+		460		00:37:47		150		-->		00:37:51		571		We have determined that the heretical teachings of Ramsey and his followers are inconsistent with harmonious life on Angel One. 
+		462		00:37:55		700		-->		00:38:01		247		Our patient efforts to silence revolutionary voices have failed. 
+		463		00:38:07		670		-->		00:38:11		716		Therefore, we are left with none but the most final alternative. 
+		464		00:38:28		650		-->		00:38:31		444		As you can see, we are not without compassion. 
+		465		00:38:32		862		-->		00:38:35		281		Your deaths will be swift and painless. 
+		466		00:38:36		324		-->		00:38:41		413		Mistress Beata, before we see living examples of your compassion, may I speak? 
+		468		00:38:42		706		-->		00:38:44		457		Is this a plea for leniency? 
+		469		00:38:44		624		-->		00:38:46		084		Nothing of the sort. 
+		470		00:38:46		251		-->		00:38:48		211		As the governing body here, you're entitled to execute your laws, or your citizens, as you see fit. 
+		472		00:38:54		259		-->		00:38:58		012		Make your point so we can proceed with this unpleasant business. 
+		473		00:38:58		763		-->		00:39:02		767		When you spoke of the prisoners, you used the term revolutionary. 
+		474		00:39:02		934		-->		00:39:06		813		Indeed, death has been known to stop revolutions. 
+		475		00:39:08		565		-->		00:39:13		069		But I suspect it's not a revolution that Angel One is hoping to stop. 
+		476		00:39:13		820		-->		00:39:14		904		It's evolution. 
+		477		00:39:15		613		-->		00:39:18		742		Mr. Ramsey and the Odin survivors did not initiate the waves of dissent rippling through your planet. 
+		479		00:39:23		079		-->		00:39:25		498		Their presence here merely reinforced the change in attitudes between men and women that was already under way. 
+		481		00:39:30		086		-->		00:39:35		508		They became symbols around whom those with similar views gathered. 
+		482		00:39:36		342		-->		00:39:38		261		You may eliminate the symbols, but that does not mean death to the issues those symbols represent. 
+		484		00:39:43		850		-->		00:39:48		897		No power in the universe can hope to stop the force of evolution. 
+		485		00:39:49		064		-->		00:39:50		648		Be warned. 
+		486		00:39:53		485		-->		00:39:56		571		The execution of Mr. Ramsey and his followers may elevate them to the status of martyrs. 
+		488		00:40:02		243		-->		00:40:04		788		Martyrs cannot be silenced. 
+		489		00:40:52		836		-->		00:40:54		003		Stop. 
+		490		00:41:03		179		-->		00:41:05		849		We will adjourn to consider your words. 
+		491		00:41:23		491		-->		00:41:24		826		Thank you. 
+		492		00:41:27		912		-->		00:41:29		914		I don't know if it was enough. 
+		493		00:41:33		326		-->		00:41:37		205		- Sickbay to Bridge. - Go ahead, Doctor. 
+		494		00:41:37		372		-->		00:41:38		957		Bingo, Data. 
+		495		00:41:40		417		-->		00:41:45		088		Bingo? I fail to see the relevance, Doctor. 
+		496		00:41:45		297		-->		00:41:47		674		Is that not an ancient Earth game? 
+		497		00:41:48		341		-->		00:41:53		555		It's also a reference to success. I've got the inoculant. 
+		498		00:41:53		722		-->		00:41:57		309		Excellent, Doctor. We still have 17 minutes left. 
+		499		00:41:57		476		-->		00:42:01		605		I will inform the away team immediately. Enterprise to Riker. 
+		500		00:42:02		230		-->		00:42:05		233		We are now ready to beam you up, Commander. 
+		501		00:42:05		400		-->		00:42:09		446		Data, Ramsey and the prisoners are with us in the Great Hall. 
+		502		00:42:09		613		-->		00:42:13		492		Lock in the transporter. Prepare to evacuate the entire group. 
+		503		00:42:13		658		-->		00:42:18		121		- But for now, stand by. - Understood, Commander. 
+		504		00:42:32		511		-->		00:42:37		432		On consideration, this legislature has voted to stay the execution. 
+		505		00:42:38		975		-->		00:42:41		645		Their children will be returned immediately. 
+		506		00:42:42		604		-->		00:42:44		898		Do not rejoice prematurely. 
+		507		00:42:45		649		-->		00:42:48		485		Ramsey and his followers are to be exiled to a distant and unpopulated region. 
+		509		00:42:51		613		-->		00:42:53		740		Life will be difficult there, with little time for revolutionary... or evolutionary upheaval. 
+		511		00:43:00		705		-->		00:43:04		042		As some observed, we may not be able to stop evolution, but perhaps we can reduce it to a slow crawl. 
+		513		00:43:10		924		-->		00:43:14		803		For a man, you can be very clever, Cmdr Riker. 
+		514		00:43:20		684		-->		00:43:22		269		Riker to Enterprise. 
+		515		00:43:23		437		-->		00:43:25		897		Belay my previous order, Mr. Data. 
+		516		00:43:26		064		-->		00:43:29		693		There will now be only three to beam up. Energize. 
+		517		00:43:39		119		-->		00:43:40		704		Welcome home. 
+		518		00:43:40		871		-->		00:43:42		873		It's good to be back. 
+		519		00:43:43		081		-->		00:43:46		543		- Are they recovering? - Slowly, but yes. 
+		520		00:43:47		753		-->		00:43:49		045		And the Captain? 
+		521		00:43:49		212		-->		00:43:51		757		The Captain is fine, thank you. 
+		522		00:43:56		553		-->		00:44:01		600		Mr. Data has been briefing me on the away team's comportment, Number One. 
+		523		00:44:02		476		-->		00:44:04		644		We... improvised, sir. 
+		524		00:44:06		396		-->		00:44:08		106		I look forward to your reports. 
+		525		00:44:08		523		-->		00:44:13		945		- Time to pay the Romulans a call? - Set course for the Neutral Zone. 
+		526		00:44:14		529		-->		00:44:15		947		Warp six. 
+		527		00:44:16		156		-->		00:44:20		202		Coordinates set. Warp six. On your mark, sir. 
+		528		00:44:23		914		-->		00:44:25		165		Sir? 
+		529		00:44:28		794		-->		00:44:30		045		Engage. 
